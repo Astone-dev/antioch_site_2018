@@ -1,0 +1,622 @@
+@charset "UTF-8";
+
+/* ----------------------------
+ *  reset css
+ *  http://meyerweb.com/eric/tools/css/reset/
+ *  v2.0 | 20110126
+ *  License: none (public domain)
+ * ---------------------------- */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  /*font: inherit;*/
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* ----------------------------
+ *   base layout
+ * ---------------------------- */
+html,button,input,select,textarea {
+  font-family: "ヒラギノ角ゴ Pro W3",’Hiragino Kaku Gothic Pro’,sans-serif;
+}
+body {
+  font-size: 12px;
+  color: #333
+}
+img {
+  vertical-align: bottom;
+}
+a {
+  display: block;
+  text-decoration: none;
+}
+/* ----------------------------
+ *   helper layout
+ * ---------------------------- */
+/* font-size */
+.fSS {font-size: 10px}
+.fSM {font-size: 12px}
+.fSL {font-size: 14px}
+/* color */
+.fC_Wht    {color: #fff;}
+.fC_LGry   {color: #777;}
+.bGC_Blu   {background-color: #004791;}
+.bGC_DGry  {background-color: #727373;}
+.bGC_LGry  {background-color: #f3f3f2;}
+
+/* margin-top */
+.mT8  {margin-top: 8px;}
+.mT16 {margin-top: 16px;}
+/* margin-top */
+.mR8  {margin-right: 8px;}
+.mR16 {margin-right: 16px;}
+/* margin-top */
+.mB8  {margin-bottom: 8px;}
+.mB16 {margin-bottom: 16px;}
+/* margin-top */
+.mL8  {margin-left: 8px;}
+.mL16 {margin-left: 16px;}
+
+/* padding */
+.p8   {padding: 8px;}
+.p16  {padding: 16px;}
+/* padding-top */
+.pT8  {padding-top: 8px;}
+.pT16 {padding-top: 16px;}
+/* padding-top */
+.pR8  {padding-right: 8px;}
+.pR16 {padding-right: 16px;}
+/* padding-top */
+.pB8  {padding-bottom: 8px;}
+.pB16 {padding-bottom: 16px;}
+/* padding-top */
+.pL8  {padding-left: 8px;}
+.pL16 {padding-left: 16px;}
+
+.is-hidden { display: none; }
+
+/* layout */
+.floatL {float: left;}
+.floatR {float: right;}
+.cf:before,
+.cf:after {
+    content: " ";
+    display: table;
+}
+.cf:after {
+    clear: both;
+}
+.cf {
+    *zoom: 1;
+}
+
+.title_h2 {
+  height: 35px;
+  line-height: 35px;
+  background-color: #363739;
+  color: #fff;
+  font-size: 14px;
+  padding: 0 16px;
+}
+
+.title_h2 span a {
+  height: 35px;
+  line-height: 35px;
+  color: #fff;
+  font-size: 10px;
+  display: inline;
+  float: right;
+}
+
+/* banner new icon style
+-----------------------------------*/
+.icoNewAnimLeft,
+.icoNewAnimRight,
+.icoNewAnimLeftW,
+.icoNewAnimRightW {
+  position: relative;
+}
+.icoNewAnimLeft:before,
+.icoNewAnimRight:before {
+  position: absolute;
+  display: block;
+  content: "";
+  top: 2px;
+  background-image: url("http://tokyo.antioch.jp/images/anim_new_icon.gif");
+  width: 19px;
+  height: 19px;
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: 19px 19px;
+}
+.icoNewAnimLeftW:before,
+.icoNewAnimRightW:before {
+  position: absolute;
+  display: block;
+  content: "";
+  top: 2px;
+  background-image: url("http://tokyo.antioch.jp/images/anim_new_icon_w.gif");
+  width: 19px;
+  height: 19px;
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: 19px 19px;
+}
+.icoNewAnimLeft:before,
+.icoNewAnimLeftW:before { left: 2px; }
+.icoNewAnimRight:before,
+.icoNewAnimRightW:before { right: 2px; }
+
+/* ----------------------------
+ *  common module
+ * ---------------------------- */
+/* blue list */
+.modListBlue {
+  border-top: solid 1px #fff;
+}
+.modListBlue li a{
+  height: 54px;
+  line-height: 54px;
+  background: #004791 url("/sp/images/arrow_w.png") no-repeat 95% center;
+  background-size: 10px 15px;
+  padding: 0 16px;
+  border-bottom: solid 1px #fff;
+  color: #fff;
+  font-weight: bold;
+}
+.modListHalf li a {
+  width: 50%;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  float: left;
+  background-position: 90% center;
+}
+.modListHalf li:nth-child(even) a {
+  border-left: 1px solid #fff;
+}
+.modListBlue + .modListBlue {
+  border-top: none;
+}
+
+/* white list */
+.modListWhite {
+  border-top: solid 1px #cbcbcb;
+}
+.modListWhite li a{
+  height: 54px;
+  line-height: 54px;
+  background: #EDEDED url("/sp/images/arrow_g.png") no-repeat 95% center;
+  background-size: 10px 15px;
+  padding: 0 16px;
+  border-bottom: solid 1px #cbcbcb;
+  color: #333;
+  font-weight: bold;
+}
+
+/* gray list */
+.modListGray {
+  border-top: solid 1px #fff;
+}
+.modListGray li a{
+  height: 54px;
+  line-height: 54px;
+  background: #dfdfdf url("/sp/images/arrow_g.png") no-repeat 95% center;
+  background-size: 10px 15px;
+  padding: 0 16px;
+  border-bottom: solid 1px #fff;
+  color: #fff;
+  font-weight: bold;
+}
+
+/* table no border */
+.table_noborder {
+  width: 100%;
+  margin-bottom: 16px;
+}
+.table_noborder td {
+  padding: 4px 0;
+}
+
+.modSubVisual {
+  widows: 100%;
+  /*margin-top: 2px;*/
+}
+.modSubVisual a:nth-child(1) {
+  float: left;
+  width: 50%;
+  padding-right: 1px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.modSubVisual a:nth-child(2) {
+  float: left;
+  width: 50%;
+  padding-left: 1px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.modSubVisual a img {
+  width: 100%;
+  margin-bottom: 2px;
+}
+
+/* ----------------------------
+ *  tab
+ * ---------------------------- */
+.tab__wrap {
+
+}
+.tab__btn__wrap {
+  display: -webkit-box;
+  display: box;
+  /*border-bottom: solid 2px #ccc;*/
+}
+.tab__btn {
+  width: 100%;
+  -webkit-box-flex: 1;
+  box-flex: 1;
+  background-color: #f3f3f3;
+  text-align: center;
+  height: 33px;
+  line-height: 35px;
+  font-size: 13px;
+  font-weight: bold;
+}
+.tab__btn--on {
+  background-color: #ccc;
+}
+.tab__btn__space {
+  width: 2px;
+}
+.tab__content__wrap {
+  border: solid 2px #ccc;
+  color: #000;
+  line-height: 1.8em;
+}
+/* 催し物・定期集会 */
+.tab__content-pucup h3{
+  font-size: 14px;
+}
+.pickup_area_inner {
+  padding: 8px;
+  border-bottom: solid 2px #ccc;
+}
+.pickup_area_inner:last-child {
+  border-bottom: none;
+}
+/* パウロ秋元牧師の聖会 */
+.tab__content-akimoto_worship {
+  padding: 8px;
+}
+.tab__content-akimoto_worship h2{
+  display: none;
+}
+.tab__content-akimoto_worship .content_menu a{
+  /*color:#fff;
+  text-decoration:none;*/
+}
+.tab__content-akimoto_worship .content_menu dl {
+  width:100%;
+}
+.tab__content-akimoto_worship .content_menu dt {
+  float:left;
+  clear:left;
+  width:30%;
+  font-weight: bold;
+}
+.tab__content-akimoto_worship .content_menu dd {
+  float:left;
+  width:70%;
+  margin-bottom: 4px;
+}
+/* ----------------------------
+ *  btn
+ * ---------------------------- */
+ /* btn base */
+.btn {
+  display: block;
+  border-radius: 3px;
+  text-align: center;
+  padding: 16px 0;
+  width: 100%;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.btn--blue {
+  background-color: #004791;
+  color: #fff;
+}
+.btn--gray {
+  background-color: #EDEDED;
+  color: #333;
+}
+.btn--w40 {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ----------------------------
+ *  language
+ * ---------------------------- */
+#language {
+  margin-top: 6px;
+  margin-right: 8px;
+  float: right;
+}
+
+.eventBanner {
+
+}
+.eventBanner img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 8px;
+}
+
+.eventBanner_2016 {
+  background-color: #dfdfda;
+  /*float: left;
+  width: 100%;*/
+  margin-bottom: 12px;
+}
+.eventBanner_2016 h3 {
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 16px 0;
+  line-height: 150%;
+}
+.eventBanner_2016 .column-inner {
+  width: 100%;
+  float: left;
+  clear: both;
+  padding: 8px 0 12px;
+  border-top: solid 1px #d4d4ce;
+}
+.eventBanner_2016 span {
+  display: none;
+}
+.eventBanner_2016 img {
+  width: 38%;
+  float: left;
+  margin-right: 2%;
+}
+.eventBanner_2016 .block-date {
+  font-size: 70%;
+  color: #333;
+  line-height: 1.3em;
+  margin-bottom: 4px;
+  -webkit-transition: color 0.3s ease-out;
+  transition: color 0.3s ease-out;
+}
+.eventBanner_2016 .block-title {
+  width: 60%;
+  float: right;
+}
+.eventBanner_2016 .block-title a {
+  font-size: 120%;
+  color: #333;
+  line-height: 1.3em;
+  font-weight: bold;
+  -webkit-transition: color 0.3s ease-out;
+  transition: color 0.3s ease-out;
+}
+
+.subBanner_2016 {
+  margin-bottom: 12px;
+  padding-top: 40px;
+}
+
+.subBanner_2016 .column-inner {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  float: left;
+  width: 100%;
+}
+
+.subBanner_2016 .column-inner > a > img {
+  width: 110px;
+  height: auto;
+  margin-right:  20px;
+  float: left;
+}
+
+
+.subBanner_2016 .column-inner .block-title a {
+  font-weight: bold;
+  color: #555;
+  line-height: 1.7em;
+}
+
+
+.footer__upper {
+  line-height: 40px;
+  text-align: center;
+  color: #fff;
+  font-size: 10px;
+}
+.footer__lower {
+  padding: 8px 16px;
+  line-height: 1.4em;
+  background-color: #f3f3f2;
+  color: #777;
+  font-size: 10px;
+  text-align: center;
+}
+
+.subBanner {
+  margin-bottom: 16px;
+}
+.subBanner h3:nth-child(odd) {
+  float: left;
+  width: 50%;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-right: 4px;
+}
+.subBanner h3:nth-child(even) {
+  float: right;
+  width: 50%;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 4px;
+}
+.subBanner h3 img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 8px;
+}
+
+/* ----------------------------
+ *  floatMenu
+ * ---------------------------- */
+#js_floatMenu {
+  width: 100%;
+  height: 53px;
+  text-align:center;
+  background-color:#fff;
+  box-shadow: 0px 2px 2px rgba(0,0,0,0.2);
+}
+.fixed {
+  position: fixed;
+  top: 0px;
+  z-index: 99;
+}
+
+/* ----------------------------
+ *  modal
+ * ---------------------------- */
+ .modal {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+.modal__content {
+  /*position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 101;*/
+}
+.modal__menu {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 16px;
+  padding-right: 16px;
+  /*background-color: rgba(255,255,255,0.8);*/
+  background-color: rgba(0,0,0,0.7);
+}
+
+.modal__menu .modListBlue,
+.modal__menu .modListWhite {
+  border-top: none;
+}
+.modal__menu .modListBlue li:first-child a,
+.modal__menu .modListWhite li:first-child a {
+  border-radius: 4px 4px 0 0;
+}
+.modal__menu .modListBlue li:last-child a,
+.modal__menu .modListWhite li:last-child a {
+  border-radius: 0 0 4px 4px;
+  border-bottom: none;
+}
+
+#simplegallery1 {
+  overflow: visible!important;
+}
+#simplegallery1 img {
+  width: 100%;
+  height: auto;
+}
+.navpanellayer {
+  display: none;
+}
+
+
+/* ----------------------------
+ *  slick hack
+ * ---------------------------- */
+#js_news_mod.slick-slider  {
+  margin-bottom: 45px;
+}
+
+#js_news_mod .slick-dots {
+  bottom: -30px;
+}
+#js_news_mod .slick-dots li button:before {
+  font-size: 14px;
+  opacity: 1;
+  color: #ccc;
+}
+#js_news_mod .slick-dots li.slick-active button:before {
+  color: #004791;
+  opacity: 1;
+}
+#js_news_mod .news__article {
+  padding: 26px 16px 24px;
+  border-bottom: solid 1px #ccc;
+}
+#js_news_mod .news__article-img {
+  float: left;
+  height: 65px;
+  width: 90px;
+  margin-right: 8px;
+  background-size: auto 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#js_news_mod .news__article-day {
+  font-size: 10px;
+  color: #777777;
+  margin-bottom: 4px;
+}
+#js_news_mod .news__article-title {
+  color: #333;
+}
+
+
+.flexbox {
+    display: -webkit-flex;
+    display: flex;
+}

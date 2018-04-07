@@ -1,0 +1,694 @@
+/* tokyo antioch church
+   v0.0 |
+*/
+
+/*-------------------------------------------
+
+Title
+
+-------------------------------------------*/
+
+h1.h1Title01,
+h2.h2Title01,
+h3.h3Title01,
+h4.h4Title01,
+.normalTitle01 {
+	margin-bottom: 20px;
+}
+
+h1.h1Title01 .titleInner {
+	display: inline-block;
+	position: relative;
+	padding: 10px 0 10px 22px;
+	line-height: 1.1;
+	font-size: 2.429em;
+	font-weight: bold;
+}
+
+
+
+h1.h1Title01 .titleInner:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 6px;
+	height: 100%;
+	background: #049849;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+}
+
+
+
+h2.h2Title01 {
+	padding: 1px;
+	border: 1px solid #50b780;
+	background: #fff;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	border-radius: 3px;
+}
+
+h2.h2Title01 .titleInner {
+	display: inline-block;
+	position: relative;
+	padding: 0 0 0 20px;
+	font-size: 1.571em;
+	font-weight: bold;
+}
+
+h2.h2Title01 .titleInner:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 5px;
+	height: 100%;
+	background: #049849;
+	-webkit-border-top-left-radius: 2px;
+	-moz-border-top-left-radius: 2px;
+	-ms-border-top-left-radius: 2px;
+	-o-border-top-left-radius: 2px;
+	border-top-left-radius: 2px;
+	-webkit-border-bottom-left-radius: 2px;
+	-moz-border-bottom-left-radius: 2px;
+	-ms-border-bottom-left-radius: 2px;
+	-o-border-bottom-left-radius: 2px;
+	border-bottom-left-radius: 2px;		
+}
+
+
+
+h2.h2Title02 {
+	font-weight: bold;
+	font-size: 1.571em;
+}
+
+h2.h2Title03 {
+	margin-bottom: 10px;
+}
+
+
+h2.h2Title04 {
+	margin-bottom: 15px;
+	text-align: center;
+	line-height: 1.4;
+	font-size: 1.286em;
+	font-weight: bold;
+	color: #01894d;
+}
+
+
+
+h2.h2Title03 .titleInner{
+	line-height: 1;
+	font-size: 1.429em;
+	font-weight: bold;
+}
+
+
+
+h3.h3Title01 .titleInner,
+h4.h4Title01 .titleInner,
+.normalTitle01 {
+	display: block;
+	padding-left: 10px;
+	font-weight: bold;
+}
+
+
+
+h3.h3Title01 .titleInner {
+	border-bottom: 3px solid #049849;
+	font-size: 1.286em;
+}
+
+
+
+h4.h4Title01 .titleInner,
+.normalTitle01 {
+	border-bottom: 3px solid #ccc;
+	font-size: 1.143em;
+}
+
+
+
+h5.h5Title01 {
+	color: #049849;
+}
+
+
+
+h5.h5Title01 .titleInner {
+	display: inline-block;
+	position: relative;
+	padding: 0 0 0 13px;
+	font-size: 1.286em;
+	font-weight: bold;
+}
+
+
+
+h5.h5Title01 .titleInner:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 2px;
+	left: 0;
+	width: 6px;
+	height: 86%;
+	background: #049849;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+}
+
+
+
+.titleBorderA01 {
+	margin-bottom: 10px;
+	border-bottom: 2px solid #049849;
+	padding: 10px 10px 5px;
+	font-weight: bold;
+	font-size: 1.286em;
+}
+
+.titleImg01 {
+	margin-bottom: 20px;
+}
+
+.titleRead01 {
+	margin-bottom: 20px;
+	line-height: 1.44;
+	font-weight: bold;
+	font-size: 1.286em;
+}
+
+/* btn base*/
+.btnT01,
+
+
+
+.btnT02,
+
+
+
+.btnT03 {
+
+	display: inline-block;
+
+	margin-bottom: 10px;
+
+	padding: 7px 10px;
+
+	font-weight: bold;
+
+	-webkit-border-radius: 5px;
+
+	-moz-border-radius: 5px;
+
+	-ms-border-radius: 5px;
+
+	-o-border-radius: 5px;
+
+	border-radius: 5px;
+
+	box-shadow:rgba(0, 0, 0, 0.0980392) 0px 8px 2px -5px;
+
+	-webkit-box-shadow:rgba(0, 0, 0, 0.0980392) 0px 8px 2px -5px;
+
+	-moz-box-shadow:rgba(0, 0, 0, 0.0980392) 0px 8px 2px -5px;
+
+}
+
+.btnT05 {
+
+	display: inline-block;
+
+	margin-bottom: 10px;
+
+	padding: 7px 10px 7px 0;
+
+	font-weight: bold;
+
+	-webkit-border-radius: 5px;
+
+	-moz-border-radius: 5px;
+
+	-ms-border-radius: 5px;
+
+	-o-border-radius: 5px;
+
+	border-radius: 5px;
+
+	box-shadow:rgba(0, 0, 0, 0.0980392) 0px 8px 2px -5px;
+
+	-webkit-box-shadow:rgba(0, 0, 0, 0.0980392) 0px 8px 2px -5px;
+
+	-moz-box-shadow:rgba(0, 0, 0, 0.0980392) 0px 8px 2px -5px;
+
+}
+
+
+
+
+
+*[class^="btnT"]:hover {
+
+	text-decoration: none !important;
+
+}
+
+
+
+*[class*=" btnT"][class^="glyph"],
+
+
+
+*[class^="btnT"][class*=" glyph"],
+
+
+
+*[class*=" btnT"][class*=" glyph"] {
+
+	padding-right: 28px;
+
+}
+
+
+
+*[class*=" btnT"][class^="icon"],
+
+
+
+*[class^="btnT"][class*=" icon"],
+
+
+
+*[class*=" btnT"][class*=" icon"] {
+
+	padding-right: 77px !important;
+
+}
+
+
+
+*[class*=" btnT"][class^="glyph"].btnWFull,
+
+
+
+*[class^="btnT"][class*=" glyph"].btnWFull,
+
+
+
+*[class*=" btnT"][class*=" glyph"].btnWFull {
+
+	padding-right: 10px !important;
+
+}
+
+.btnT02 > span,
+
+
+
+.btnT03 > span,
+
+
+
+.btnT05 > span {
+
+	color: #fff !important;
+
+}
+
+.btnT01 span {
+
+	color: #333 !important;
+
+}
+
+
+
+a.btnT01:hover {
+
+	border: 1px solid #e9e9e9;
+
+}
+
+
+
+a.btnT01:hover span {
+
+	color: #9b9b9b !important;
+
+}
+
+.btnT01 {
+
+	border: 1px solid #d3d3d3;
+
+}
+
+.btnT01 {
+
+	background: #fff;
+
+}
+
+.btnT02,
+
+
+
+.btnT05 {
+
+	background: #049849;
+
+}
+
+
+
+a.btnT02:hover,
+
+
+
+a.btnT05:hover {
+
+	background: #50b780;	
+
+}
+
+.btnT03 {
+
+	background: #ed6d34;
+
+}
+
+
+
+a.btnT03:hover {
+
+	background: #f29971;	
+
+}
+
+.btnT01 > span,
+
+
+
+.btnT02 > span,
+
+
+
+.btnT03 > span,
+
+
+
+.btnT05 > span {
+
+	position: relative;
+
+	line-height: 1.4;
+
+}
+
+.btnT04 {
+
+	display: table;
+
+	position: relative;
+
+	width: 100%;
+
+	margin-bottom: 10px;
+
+	padding: 7px 10px;
+
+	background: #e4fbef;
+
+	border: 1px solid #50b780;
+
+	font-weight: bold;
+
+	-webkit-border-radius: 5px;
+
+	-moz-border-radius: 5px;
+
+	-ms-border-radius: 5px;
+
+	-o-border-radius: 5px;
+
+	border-radius: 5px;
+
+	box-shadow:rgba(0, 0, 0, 0.0980392) 0px 8px 2px -5px;
+
+	-webkit-box-shadow:rgba(0, 0, 0, 0.0980392) 0px 8px 2px -5px;
+
+	-moz-box-shadow:rgba(0, 0, 0, 0.0980392) 0px 8px 2px -5px;	
+
+	-webkit-box-sizing: border-box;
+
+	-moz-box-sizing: border-box;
+
+	box-sizing: border-box;
+
+}
+
+.btnT04 > * {
+
+	display: table-cell;
+
+	vertical-align: middle;
+
+}
+
+.btnT04 .title {
+
+	font-size: 1.286em;
+
+	color: #333;
+
+}
+
+.btnT04 .detail {
+
+	text-align: right;
+
+	color: #01894d;
+
+}
+
+.btnWFull {
+
+	display: block;
+
+	position: relative;
+
+	text-align: center;
+
+}
+
+.btnSMiddle {
+
+	padding-top: 10px;
+
+	padding-bottom: 10px;
+
+	font-size: 1.143em
+
+}
+
+.btnSLarge {
+
+	display: table;
+
+	min-height: 75px;
+
+	padding-top: 10px;
+
+	padding-bottom: 10px;
+
+	font-size: 1.429em;
+
+	-webkit-box-sizing: border-box;
+
+	-moz-box-sizing: border-box;
+
+	box-sizing: border-box;
+
+}
+
+.btnSLarge.btnWFull {
+
+	width: 100%;
+
+}
+
+.btnSLarge  > span{
+
+	display: table-cell !important;
+
+	vertical-align: middle;
+
+}
+
+.btnSLarge .smallText {
+
+	font-size: 0.65em;
+
+}
+
+.btnSLarge .largeText {
+
+	font-size: 0.8em;
+
+	font-weight: normal;
+
+}
+
+.btnSLarge .strongText {
+
+	line-height: 0;
+
+	font-size: 1.3em;
+
+}
+
+.btnSMiddle .largeText {
+
+	font-size: 1.125em;
+
+}
+
+.btnSMiddle .strongText {
+
+	font-size: 1.5em;
+
+}
+
+.btnSMiddle .smallText {
+
+	font-size: 0.813em;
+
+}
+
+/* btn cof */
+.btnT01, 
+.btnT02, 
+.btnT03, 
+.btnT05 {
+	position: relative;
+}
+.btnT01 > span, 
+.btnT02 > span, 
+.btnT03 > span, 
+.btnT05 > span {
+	position: static;
+}
+*[class*=" btnT"][class^="glyph"] > span,
+*[class^="btnT"][class*=" glyph"] > span,
+*[class*=" btnT"][class*=" glyph"] > span {
+	padding-left: 35px !important;
+}
+*[class*=" btnT"][class^="glyph"].btnWFull > span,
+*[class^="btnT"][class*=" glyph"].btnWFull > span,
+*[class*=" btnT"][class*=" glyph"].btnWFull > span {
+	padding-left: 30px !important;
+	padding-right: 30px;
+}
+*[class*=" btnT05"][class^="glyph"].btnWFull > span,
+*[class^="btnT05"][class*=" glyph"].btnWFull > span,
+*[class*=" btnT05"][class*=" glyph"].btnWFull > span {
+	padding-left: 30px !important;
+	padding-right: 0 !important;
+}
+*[class*=" btnT"][class^="glyph"][class*=" icon"] > span,
+*[class^="btnT"][class*=" glyph"][class*=" icon"] > span,
+*[class*=" btnT"][class*=" glyph"][class*=" icon"] > span {
+	padding-left: 30px !important;
+}
+.btnT01 > span:before, 
+.btnT02 > span:before, 
+.btnT03 > span:before, 
+.btnT05 > span:before {
+	top: 50%;
+	left: 15px;
+	margin-top: -0.5em;
+	line-height: 1;
+}
+.btnT01 > span:after, 
+.btnT02 > span:after, 
+.btnT03 > span:after, 
+.btnT05 > span:after {
+	position: absolute;
+	top: 50%;
+	left: auto;
+	right: 15px;
+	margin-top: -0.5em;
+	padding-left: 0;
+	line-height: 1;
+}
+.btnT02[class*=" icon"] > span:after,
+.btnT03[class*=" icon"] > span:after,
+.btnT05[class*=" icon"] > span:after {
+	color: #fff;
+}
+*[class*=" btnT"][class*=" icon"] > span:after,
+*[class^="btnT"][class*=" icon"] > span:after,
+*[class*=" btnT"][class^="icon"] > span:after,
+*[class^="btnT"][class^="icon"] > span:after {
+	margin-right: 0;
+}
+.btnT01.iconPdf > span:after, 
+.btnT02.iconPdf > span:after, 
+.btnT03.iconPdf > span:after, 
+.btnT05.iconPdf > span:after {
+	margin-top: -10px;
+	font-weight: normal;
+}
+
+#give-btn{
+    float: right;
+    margin-top: 27px;
+    margin-right: 8px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid ##004671;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    padding: 12px 18px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+#language-btn{
+    float: right;
+    margin-top: 27px;
+    width: 58px;
+    background: linear-gradient(#aaaaaa,#777777);
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid ##004671;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    padding: 12px 18px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 0.8em;
+}

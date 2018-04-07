@@ -1,0 +1,373 @@
+<!doctype html>
+<?php /* iPhone, android端末によって振り分け処理 */
+$cookie = "tokyo-antioch-sp"; // Cookieの名前
+$period = time() + 86400; // Cookieの有効期限(24*60*60=1日間)
+/* クライアントからクッキーが送信されているか判断 */
+if (isset($_COOKIE[$cookie])) {
+    $count_from_sp = (int)$_COOKIE[$cookie];
+} else {
+	$count_from_sp =0;
+}
+$ua = $_SERVER['HTTP_USER_AGENT'];
+/* 参照元によって振り分け処理 by obata */
+$referer = isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : null;
+if (preg_match("/^(http|https):\/\/([a-zA-Z0-9\-]+?).antioch.jp/", $referer) && preg_match("/\/sp\//", $referer) ) {
+    /* /sp/ サイト経由での訪問回数のインクリメント */
+    $count_from_sp++;
+}
+else {
+    $url = 'location: /index.html';  //デフォルト値    
+    if ($count_from_sp >0){
+        /* 何もしない */
+    }
+    // UserAgent振分け
+    else if (  (strpos($ua, 'iPhone') !== false) || (strpos($ua, 'Windows Phone') !== false)  ) {
+        $url = 'location: /sp/';  // iPhoneの場合は/sp ディレクトリへ
+        header($url);
+    } else if ( strpos($ua, 'Android') !== false) {
+        if ( strpos($ua, 'Mobile') !== false ){
+            $url = 'location: /sp/';  // Android スマホの場合は/sp ディレクトリへ
+            header($url); 
+        }
+    }
+}
+/* クッキー発行 */
+setcookie($cookie, $count_from_sp, $period);
+?>
+
+
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1360px">
+<title>東京アンテオケ教会｜主の十字架クリスチャンセンター</title>
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="keywords" content="主の十字架,東京アンテオケ,東京アンテオケ教会,教会,杉並区,主の十字架クリスチャンセンター,TLCCC,プロテスタント,キリスト教,聖書,イエス,キリスト,カリスマ,いやし,預言,賜物,ゴスペル,人生相談,悩み,祈り" />
+<meta name="description" content="主の十字架クリスチャンセンター東京アンテオケ教会は、東京都杉並区高円寺にある聖書信仰に立つプロテスタント教会です。教会では皆様のお越しをお待ちしております。">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="SHORTCUT ICON" href="tlcccicon.png" />
+<!--お気に入り用アイコン-->
+<link rel="apple-touch-icon" href="tlcccicon.png" />
+<!--iphone用リンクアイコン-->
+<link rel="stylesheet" type="text/css" href="/2016/css/core/_reset.css" />
+<link rel="stylesheet" type="text/css" href="/2016/css/_core.css" />
+<link rel="stylesheet" type="text/css" href="/2016/css/_top.css" />
+<link rel="stylesheet" type="text/css" href="/2016/css/_modules.css" />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js?ver=1.8.1'></script>
+<script type="text/javascript" src="/2016/lib/jquery.bxslider/jquery.bxslider.min.js"></script>
+<script type='text/javascript' src='/2016/js/tokyoantioch.js'></script>
+<!-- google Feed API -->
+<script type="text/javascript" src="//www.google.com/jsapi?key=ABQIAAAAS64lexrhNcuz0o2WEtrHLhTtHmgbiGbRWSpA7e-vrT2RjOKvsxQcjzTzv9BgRfJOu7cW3SDupaka5Q"></script>
+<!--<script type='text/javascript' src='/2016/js/rssread.js'></script>
+--><!-- bxSlider CSS file -->
+<link href="/2016/lib/jquery.bxslider/jquery.bxslider.css" rel="stylesheet" />
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+    $('.bxslider2').bxSlider({
+		auto: false,
+		pause:	5000,
+		speed: 1000,
+		pager: false,
+		controls: false,
+		});
+  });</script>
+</head>
+<body>
+
+  <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/live_event.php') ?>
+
+<header>
+
+  <h1><img class="header--logo" src="/2016/images/common/header-logo.png" width="220" height="49" alt="東京アンテオケ教会"></h1>
+  <div id="categoryNav" class="header--nav__warp">
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/navigation.php') ?>
+  </div>
+
+</header>
+
+<div id="wrap">
+  <div id="mainarea">
+    <main>
+
+      <section id="main-wrap">
+      <div id="main-narrow">
+        <div id="top-leftarea">
+          <div>
+            <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/top_movie_170414.php') ?>
+          </div>
+
+          <div id="headline">
+            <p> 東京アンテオケ教会は聖書信仰に立つプロテスタント教会です。<br>このサイトにあるすべてのコンテンツは、無料でご覧いただけます。</p>
+          </div>
+        </div>
+
+        <div id="top-rightarea">
+            <div class="column2">
+                <div class="column-inner">
+                  <a href="/online/"><img class="top-rightarea--thumb" src="/2016/images/top/bt_worshipinfo.jpg"></a>
+                    <h3 class="top-rightarea--title">礼拝生中継</h3>
+                    <p class="top-rightarea--detail">日曜日 早朝礼拝 7:00～ / 第1礼拝 9:00～ / 第2礼拝 10:30～ / 第3礼拝 12:10～ / 第7礼拝 19:00～ (月1回 東京カリスマ聖会 )</p>
+                </div>
+            </div>
+
+            <div class="column2">
+              <div class="column-inner">
+                <a href="/antiochtv/"><img class="top-rightarea--thumb" src="/2016/images/top/bt_antiochtv.jpg">
+</a>
+                <h3 class="top-rightarea--title">AntiochTV</h3>
+                  <p class="top-rightarea--detail">礼拝生中継、各集会生中継、動画コンテンツ、インターネットラジオ、毎日配信中！</p>
+              </div>
+            </div>
+
+            <div class="column2">
+              <div class="column-inner">
+              <a href="http://atv.antioch.jp/shortstory" target="_blank"><img class="top-rightarea--thumb" src="/2016/images/top/bt_seishonohanashi.jpg"></a>
+                  <h3 class="top-rightarea--title">世界で一番短い聖書のお話</h3>
+                <p class="top-rightarea--detail">パウロ秋元牧師の短く分かりやすい聖書のお話を毎日配信（毎朝6時更新）します！</p>
+              </div>
+            </div>
+
+
+            <div class="column2 mb00 border-none">
+              <div class="column-inner">
+              <a href="http://movie.antioch.jp/keypoint/">
+              <!-- <a href="http://movie.antioch.jp/keypoint">-->
+              <img class="top-rightarea--thumb" src="/2016/images/top/bt_keypoint.jpg"></a>
+                  <h3 class="top-rightarea--title">1分でわかるクリスチャンのキーポイント</h3>
+                <p class="top-rightarea--detail">これさえおさえておけば間違いなし！</p>
+              </div>
+            </div>
+
+            <!-- <div id="js_news_mod" class="column2 border-none mb00 bxslider"></div>-->
+        </div>
+        </div>
+      </section>
+
+      <section id="online">
+        <div id="online-member">
+
+            <div class="column3">
+              <div class="column-inner">
+					<a href="http://astone-blog.jp/photonews/" target="_blank">
+                <dl>
+                  <dt><img src="/2016/images/top/bt_photonews.png" width="200" class="top-rightarea--thumb"></dt>
+                  <dd>最新写真ニュース<br>教会の最新情報を写真ニュースとして毎日4つ以上アップしています</dd>
+                </dl>
+                </a>
+              </div>
+            </div>
+
+            <div class="column3">
+              <div class="column-inner">
+                <a href="/tlccc/index.html">
+                <dl>
+                  <dt><img src="/2016/images/top/bt_onlineregist.jpg" width="200"></dt>
+                  <dd>オンライン会員</dd>
+                </dl>
+                </a>
+                </div>
+            </div>
+
+            <div class="column3">
+              <div class="column-inner">
+                <a href="/pray24hours/">
+                <dl>
+                  <dt><img src="/2016/images/top/pray24hours.jpg" width="200"></dt>
+                  <dd>24時間連鎖祈祷</dd>
+                </dl>
+                </a>
+                </div>
+            </div>
+
+        </div>
+      </section>
+
+      <section id="information">
+        <div id="information-inner">
+
+          <div class="column-inner information--reihai">
+            <h3>礼拝時間</h3>
+            <dl>
+              <dt>日曜日</dt>
+              <dd>早朝礼拝 7:00～ (生中継あり)<br>
+                第１礼拝 9:00～ (生中継あり)<br>
+                第２礼拝 10:30～ (生中継あり)<br>
+                第３礼拝 12:10～ (生中継あり)<br>
+                ヤング礼拝 14:30～<br>
+                International Service 15:00〜 (生中継あり)<br>
+                第７礼拝 19:00～ (生中継あり)<br>
+                ※月1回 東京カリスマ聖会</dd>
+              <dt>月曜日</dt>
+              <dd>第1礼拝 10:10～<br>
+              第2礼拝 13:00～</dd>
+              <dt>火〜土曜日</dt>
+              <dd>毎日礼拝 10:00～</dd>
+              <dt>土曜日</dt>
+              <dd>土曜礼拝 18:30～ (1、5週)</dd>
+              <dt>水曜日</dt>
+              <dd>祈祷会 19:00～ (生中継あり)</dd>
+              <dt></dt>
+              <dd><a href="/devotion/">今日のデボーション箇所
+              <!-- デボーション表ファイルは "/2016/include/devotion_data.js"を更新する -->
+               <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/devotion_view.php') ?></a></dd>
+              <dt></dt>
+
+              <!--<dd>iPhone、iPad、その他スマホ、PCで視聴できます</dd>-->
+            </dl>
+          </div>
+
+          <div class="column-inner information--event">
+              <h3>アンテオケ教会の催し物・集会</h3>
+              <dl><?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/next_charisma.php'); ?>
+                <!-- 
+                <dt>2017年 4月14日(金)</dt>
+                <dd><a href="http://gospelconcert.jp/" target="_blank">こころごすぺる</a><br>
+                19:00開演 18:30開場<br>
+                亀戸文化センター カメリアホール</dd> -->
+
+               <!-- 東京カリスマ聖会の日時変更時は、/2016/include/next_charisma.phpファイル内の $next_charisma_date の値を書き換えてください。 -->            
+                <dt><?php echo $next_charisma_date;?></dt>
+                <dd><a href="/tcm/">東京カリスマ聖会</a> <br> 時間：18:00〜20:30<br> 場所：ハイアットリージェンシー東京 地下1階<br>講師：パウロ秋元牧師 他</dd>
+                <?php include($_SERVER['DOCUMENT_ROOT'] . '/include/next_sat_day.inc'); ?>
+                
+                <!-- - <dt>2017年 8月11日(金)</dt>
+                <dd>こころごすぺる<br>
+                開場:18:30<br>
+                開演:19:00 <br>
+                会場:なかのZEROホール</dd> -->
+
+                <dt><?php echo next_2_sat_gatu_hi();?>(土)</dt>
+                <dd><a href="/healingministry/">いやしの集い</a><br>
+                時間：18:30〜20:30<br>
+                場所：会堂</dd>
+
+                <dt><?php echo next_3_sat_gatu_hi();?>(土)</dt>
+                <dd><a href="/revivalnight/">REVIVAL NIGHT</a><br>
+                時間：18:30〜20:00<br>
+                場所：会堂</dd>
+
+                <dt><?php echo next_4_sat_gatu_hi();?>(土)</dt>
+                <dd><a href="/gospelgathering/">ゴスペルの集い</a><br>
+                時間：18:30〜20:30<br>
+                場所：会堂</dd>
+
+                <dt>2018年4月30日(月)</dt>
+                <dd><a href="http://gospelconcert.jp/">こころごすぺる</a><br>
+                場所：座高円寺2</dd>
+
+              </dl>
+            </div>
+
+          <div class="column-inner">
+            <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/akimoto_seikai.php') ?>
+          </div>
+
+        </div>
+      </section>
+       
+      <!-- <section class="evt-jgospelfes" style="background-color:#C3D7F1">
+        <div class="evt-jgospelfes--inner"> <img src="/2016/images/evt/1609prayforjerusalem.jpg" class="evt-jgospelfes--thumb" width="120">
+          <h3 class="evt-jgospelfes--title">エルサレムの平和のために祈る集い　Day of Prayer for the Peace of Jerusalem</h3>
+          <p class="evt-jgospelfes--desc" style="font-size:14.4px;">2016年10月2日(日) 18:00〜　ハイアット・リージェンシー東京 B1階 桃山　入場無料</p><br>
+<p class="evt-jgospelfes--desc" style="font-size:14.4px;">第１部　世界からの祈り／ゴスペルやすらぎの歌、風のひびき<br>
+出演ゴスペルグループ: Gifts, Gospel Seed, エルサレム, Come＆Worship, TrueVine, ラ・スポーザ 他<br>
+第２部　賛美／ビデオメッセージ：ロバート・スターン博士、トマス・サンデル氏　メッセージ／パウロ秋元牧師<br>
+エルサレムをはじめ世界各地と同時中継でつなぎます<br>
+主催: 東京カリスマ聖会　お問い合わせ: 03-5327-5612（東京アンテオケ教会）</p>
+        </div>
+      </section> -->
+      
+   <!-- <section class="evt-jgospelfes" style="background-color:#F3FDEF;">
+        <div class="evt-jgospelfes--inner"> <img src="/2016/images/evt/1609nerimafes.jpg" class="evt-jgospelfes--thumb" width="120">
+          <h3 class="evt-jgospelfes--title">練馬 J.GOSPEL FES 2016</h3>
+          <p class="evt-jgospelfes--desc" style="font-size:14.4px;">2016年10月1日(土) 11:00〜16:00　石神井公園 野外ステージ　入場無料</p><br>
+<p class="evt-jgospelfes--desc" style="font-size:14.4px;">By His Spirit (11:00-11:10)｜GRACIOUS DOORS (11:20-11:30) ｜Tree of Life (11:30-11:40) ｜The Gate of Praise (11:40-11:50)｜L'abeille (11:50-12:00)｜Truth (12:00-12:10)｜エウカリスティアス (12:10-12:20)｜Immanual (12:20-12:30)｜ウラノス (12:30-12:40)｜Beracha (12:40-12:50) ｜PATOLIS (12:50-13:00)｜キブツ (13:00-13:10) ｜Tehillim (13:10-13:20)｜ラ・スポーザ (13:20-13:40)｜Come＆Worship (13:40-14:00)｜Israel (14:00-14:10)｜エルサレム (14:10-14:30)｜TrueVine (14:30-14:50)｜JOY (14:50-15:10)｜Gospel Seed (15:10-15:20)｜前田サラ (15:20-15:40)｜Gifts (15:40-16:00)<br>主催・お問合せ：The Vision 　TEL 070-6462-5345　E-mail info@thevision.co.jp</p>
+        </div>
+      </section> -->
+      
+     <section class="bg-gainsboro">
+        <div id="top-pickup">
+          <h2>PICK UP</h2>
+          <div class="column4">
+
+            <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/pickup.php') ?>
+
+          </div>
+        </div>
+      </section>
+
+      <section id="top-movie">
+        <div id="top-movie-inner">
+          <h2>VIDEO</h2>
+          <div class="column5">
+            <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/movie.php') ?>
+          </div>
+        </div>
+      </section>
+
+      <section id="top-banner">
+        <div id="top-banner-inner">
+          <div class="column4">
+            <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/top_banner.php') ?>
+          </div>
+        </div>
+      </section>
+
+      <section id="orphanage">
+        <div id="orphanage--inner">
+          <h3>ファミリーホーム設立支援について</h3>
+          <p>
+<!--皆様のお祈りとご献金をありがとうございます。
+
+ファミリーホームの常駐スタッフとなります養育者に、星名悠葵(ほしなゆうき)さん、養育補助者に真栄城勝彦(まえしろかつひこ)さん、真栄城悦美(まえしろえつみ)さん夫妻が決まりました。<!--現在、設置母体であります社会福祉法人からし種の会より、ホーム内外に必要な設備の準備が進められております。<br>礎の石孤児院に届いておりますファミリーホーム(アーモンドの枝)支援献金残額は2,087,344円(2016年5月6日現在)です。<br>
+5月末に行われる里親審議会という審査を経てファミリーホームとしての認可取得となります。さらに養育者、養育補助者となる方々は里親研修を受けます。<!--さらに認可取得のため、無事に開所がなされますよう引き続き、-->お祈りとご支援をよろしくお願いいたします。<br><br>
+■銀行口座<br>
+口座名/特定非営利活動法人礎の石孤児院　日本での孤児院設立及び支援のため<br>
+みずほ銀行 五反田支店　(普通) 2915961<br>
+■郵便振替口座<br>
+加入者名/特定非営利活動法人礎の石孤児院　日本での孤児院設立及び支援のため<br>
+口座番号　00120-5-417839</p>
+        </div>
+      </section>
+
+
+    </main>
+  </div>
+</div>
+
+<footer>
+  <section>
+  <div id="left-column">
+    <img src="/2016/images/common/footer-logo.png" width="220" height="49">
+    <p>&#12306;166-0002 東京都杉並区高円寺北2丁目15-1 金田ビル3F<br>TEL 03-5327-5612 FAX 03-5373-1970</p>
+    <ul>
+      <li><a href="https://www.facebook.com/tokyoantioch/" target="_blank"><img src="2016/images/common/logo_facebook.png"></a></li>
+      <li><a href="https://twitter.com/TokyoAntioch" target="_blank"><img src="2016/images/common/logo_twitter.png"></a></li>
+      <li><a href="http://tokyo.antioch.jp/podcast/" target="_blank"><img src="2016/images/common/logo_podcast.png"></a></li>
+  </ul>
+  </div>
+  <div id="right-column">
+    <ul>
+      <li>教会事務所 <a href="mailto:tlccc@crocus.ocn.ne.jp">tlccc@crocus.ocn.ne.jp</a></li>
+      <li>インターネット関連 <a href="mailto:tokyo.antioch.itc@chic.ocn.ne.jp">tokyo.antioch.itc@chic.ocn.ne.jp</a></li>
+      <li>聖会案内掲載依頼 <a href="mailto:tlcccseikai@gmail.com">tlcccseikai@gmail.com</a></li>
+      <li>お悩みの方はこちら <a href="mailto:tokyoantioch.help@gmail.com">tokyoantioch.help@gmail.com</a></li>
+      <li>お問い合せ窓口 <a href="mailto:tokyo.antioch.inquiries@gmail.com">tokyo.antioch.inquiries@gmail.com</a></li>
+    </ul>
+    <p>Copyright (C) Tokyo Antioch Church All Rights Reserved.<br>東京アンテオケ教会のウェブサイトはアストン株式会社が製作しております</p>
+    <p>カトリック教会ではありません。</p>
+  </div>
+  </section>
+</footer>
+
+<script>
+$(function() {
+});
+</script>
+<!-- Google アクセス解析 -->
+<?php include($_SERVER['DOCUMENT_ROOT'] . '/include/google_analytics.inc') ?>
+</body>
+</html>

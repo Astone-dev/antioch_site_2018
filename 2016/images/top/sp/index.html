@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="description" content="主の十字架クリスチャンセンター 東京アンテオケ教会">
+<meta name="keywords" content="主の十字架,クリスチャンセンター,キリスト教,教会">
+<meta property="og:title" content="">
+<meta property="og:type" content="">
+<meta property="og:description" content="">
+<meta property="og:url" content="">
+<meta property="og:image" content="">
+<meta property="og:site_name" content="">
+<title>主の十字架クリスチャンセンター 東京アンテオケ教会</title>
+<link rel="canonical" href="">
+<link rel="shortcut icon" href="">
+<link rel="apple-touch-icon" href="">
+<link rel="stylesheet" href="/sp/css/style.css" type="text/css">
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="/sp/js/simplegallery.js" type="text/javascript"></script>
+<!-- google Feed API -->
+<!-- -obata-commentout
+<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAS64lexrhNcuz0o2WEtrHLhTtHmgbiGbRWSpA7e-vrT2RjOKvsxQcjzTzv9BgRfJOu7cW3SDupaka5Q"></script>
+<script src="/sp/js/rssread.js" type="text/javascript"></script>
+- -->
+<!-- slick -->
+<link rel="stylesheet" href="/sp/plugin/slick/slick.css" type="text/css">
+<link rel="stylesheet" href="/sp/plugin/slick/slick-theme.css" type="text/css">
+
+<script src="/sp/plugin/slick/slick.min.js" type="text/javascript"></script>
+<script src="/sp/js/init.js" type="text/javascript"></script>
+</head>
+<body>
+  <div id="content">
+    <div id="js_topNav" class="bGC_LGry cf">
+      <a href="/" class="floatL">
+        <img src="/sp/images/btn_pcsite.png" width="95px" height="37px">
+      </a>
+      <?php include($_SERVER['DOCUMENT_ROOT'] . '/include/language_form.inc') ?>
+    </div>
+
+    <div id="js_floatMenu" class="cf">
+      <h1>
+        <a href="/sp/" class="floatL">
+          <img src="/sp/images/title_logo_sp.png" alt="主の十字架クリスチャンセンター 東京アンテオケ教会" width="180px" height="53px">
+        </a>
+      </h1>
+      <a href="javascript: void(0);" class="floatR" onclick="TokyoAntioch.menuOn()">
+        <img src="/sp/images/btn_menu.png" width="55px" height="53px">
+      </a>
+      <a href="/contact/" class="floatR">
+        <img src="/sp/images/btn_contanct.png" width="55px" height="53px">
+      </a>
+    </div>
+
+    <div>
+      <div id='simplegallery1'></div>
+      
+<!-- ↓20170423 -->
+      <img src="/2016/images/top/slide/1612ad_jerusalem.jpg" alt="主の十字架クリスチャンセンター 東京アンテオケ教会" width="100%" height="auto">
+    </div>
+
+    <div class="">
+      <ul class="modListBlue">
+        <li><a href="/newcomers/">初めて礼拝に参加される方へ</a></li>
+        <li><a href="/features/">教会の特徴</a></li>
+        <li><a href="/position/">神学的立場</a></li>
+        <li><a href="/tlccc/registration.html">オンライン会員登録ページ</a></li>
+        <li><a href="/tlccc/login.php">オンライン会員専用ページ</a></li>
+        <li><a href="/meetings/">集会案内</a></li>
+      </ul>
+    </div>
+
+    <div class="modSubVisual mB8 cf">
+      <a href="/antiochtv/"><img src="/images/main/bangumi.jpg" alt="インターネット番組"></a>
+      <a href="/hakuba-summer/"><img src="/images/main/event.jpg" alt="キャンプ・イベント"></a>
+    </div>
+
+    <h2 class="title_h2">最新写真ニュース<span><a href="http://astone-blog.jp/photonews/" target="_blank">一覧はこちら</a></span></h2>
+<!-------------------- obata-rss (ファイル末尾にもjavascriptあり)--------------------------------------->
+    <div id="js_news_mod" class="news__wrap">
+<?php
+error_reporting(E_ERROR);
+require_once 'lib/magpierss/rss_fetch.inc';
+define('MAGPIE_OUTPUT_ENCODING', 'UTF-8');
+$url = 'http://astone-blog.jp/photonews/feed';
+$rss = fetch_rss($url);
+$i = 0;
+foreach ($rss->items as $item ) {
+  $title = htmlspecialchars($item['title']);
+  $title = mb_substr($title, 0, 36, 'utf-8');
+  $description = htmlspecialchars($item['description']);
+  $description = mb_substr($description, 0, 150, 'utf-8');
+  $link   = htmlspecialchars($item['link']);
+
+  /* obata-test ********************************/
+  //echo "<pre>";
+  //print_r($item);
+  //print($title);
+  //print($item[atom_content]);
+  //echo "</pre>";
+  /* obata-test ********************************/
+
+  // $item[content:encoded] の中からimgタグを抽出
+  $img = "";
+  if(preg_match("/src=[\"|\'](.*?)(jpe?g|png)[\"|\'|\?]/i", $item[content][encoded], $match)){
+	// $img = '<img src="'.$match[1].'.jpg" />';
+	$img = htmlspecialchars($match[1]) .'jpg';
+  } else {
+	// 画像がないときの処理
+  }
+
+  echo '<aside class="news__article">';
+  echo '<a href="'. $link .' " target="_brank">';
+
+  echo '<div class="news__article-img" style="background-image:url(\''. $img . '\');">';
+  echo '</div>';
+  echo '<div>';
+  echo '<p class="news__article-day">'.date("Y/n/j", strtotime( $item['pubdate'] )).'</p>';
+  echo '<p class="news__article-title">'. $title .'</p>';
+  echo '</div>';
+  echo '</a>';
+  echo '</aside>';
+
+  $i++;
+  if ($i > 4){break;}
+} ?> </div>
+<!-------------------- obata-rss (ファイル末尾にもjavascriptあり)--------------------------------------->
+
+    <div id="js_tab" class="tab__wrap pL8 pR8 mB16">
+      <div class="tab__btn__wrap">
+        <div id="js_tab--pucup" class="tab__btn tab__btn--on">催し物・定期集会</div>
+        <div class="tab__btn__space"></div>
+        <div id="js_tab--akimoto_worship" class="tab__btn">パウロ秋元牧師の聖会</div>
+      </div>
+
+      <div class="tab__content__wrap">
+        <div id="js_tab__content--pucup" class="tab__content-pucup">
+        <?php include($_SERVER['DOCUMENT_ROOT'] . '/include/picup_area_v2.inc') ?>
+        </div>
+        <div id="js_tab__content--akimoto_worship" class="tab__content-akimoto_worship" style="display:none;">
+          <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/akimoto_seikai.php') ?>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <h2 class="title_h2">礼拝生中継</h2>
+      <div class="p16">
+        <table width="100%" class="table_noborder">
+          <tr>
+            <td>日曜日</td>
+            <td>早朝礼拝</td>
+            <td>7:00～</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>第1礼拝</td>
+            <td>9:00～</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>第2礼拝</td>
+            <td>10:30～</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>第3礼拝</td>
+            <td>12:10～</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td>第7礼拝</td>
+            <td>19:00～ (月1回 東京カリスマ聖会)</td>
+          </tr>
+          <tr>
+            <td>水曜日</td>
+            <td>祈祷会</td>
+            <td>19:00～</td>
+          </tr>
+        </table>
+
+        <a href="/online/" class="btn btn--blue">礼拝生中継はこちら</a>
+      </div>
+    </div>
+
+    <div>
+      <h2 class="title_h2">礼拝映像・音声保存版</h2>
+      <div class="">
+        <ul class="modListWhite">
+          <li><a href="/onsei/">日曜日 第1礼拝 / 第2礼拝 / 第3礼拝</a></li>
+          <li><a href="/onsei/carisma.html">日曜日 第7礼拝 / カリスマ聖会</a></li>
+          <li><a href="http://gltv.jp/">GOSPEL LIVE TV</a></li>
+          <li><a href="/muti-lang/eng/contents/onsei/">International Service</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="eventBanner_2016 cf" style="margin-bottom:0px; padding:12px 0;">
+      <a href="http://atv.antioch.jp/shortstory/">
+       <img src="/2016/images/top/bt_seishonohanashi.jpg">
+       </a>
+       <p class="block-title" style="padding-top:8px;"><a href="http://atv.antioch.jp/shortstory/">世界で一番短い聖書のお話<br><span style="font-size:0.9em; display:block;">パウロ秋元牧師の短く分かりやすい聖書のお話を毎日配信（毎朝6時更新）します！</span></a></p>
+    </div>
+
+    <div class="eventBanner_2016 cf" style="margin-bottom:0px; padding:12px 0;">
+      <a href="http://movie.antioch.jp/keypoint/">
+       <img src="/2016/images/top/bt_keypoint.jpg">
+       </a>
+       <p class="block-title" style="padding-top:8px;"><a href="http://movie.antioch.jp/keypoint/">1分でわかるクリスチャンのキーポイント<br><span style="font-size:0.9em; display:block;">これさえおさえておけば間違いなし！</span></a></p>
+    </div>
+
+
+    <div class="eventBanner_2016 cf" style="margin-bottom:0px; padding:12px 0;">
+      <a href="/antiochtv/">
+       <img src="/2016/images/top/bt_antiochtv.jpg">
+       </a>
+       <p class="block-title" style="padding-top:8px;"><a href="/antiochtv/">AntiochTV<br><span style="font-size:0.9em; display:block;">礼拝生中継、各集会生中継、動画コンテンツ、インターネットラジオ、毎日配信中！</span></a></p>
+    </div>
+    
+    <a style="text-align: center;" href="/devotion/">今日のデボーション箇所
+    <!-- デボーション表ファイルは "/2016/include/devotion_data.js"を更新する -->
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/devotion_view.php') ?></a>
+
+    <div class="eventBanner_2016 cf">
+      <h3>PICK UP</h3>
+      <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/pickup.php') ?>
+    </div>
+
+    <div class="subBanner_2016 pL16 pR16 cf">
+      <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/top_banner.php') ?>
+    </div>
+
+    <?php include($_SERVER['DOCUMENT_ROOT'] . '/sp/include/footer.inc') ?>
+
+  </div>
+
+  <?php include($_SERVER['DOCUMENT_ROOT'] . '/sp/include/modal_menu.inc') ?>
+
+  <?php include($_SERVER['DOCUMENT_ROOT'] . '/include/google_analytics.inc') ?>
+
+</body>
+
+<!-------------------- obata-rss --------------------------------------->
+<script type="text/javascript">
+  $('#js_news_mod').slick({
+    speed: 700,
+    arrows: false,
+    autoplay: true,
+    autoplaySpeed: 6000,
+    dots: true
+  });
+</script>
+
+</html>
