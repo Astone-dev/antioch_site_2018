@@ -82,7 +82,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/gracejewel2017/180408nerima/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
 <p class="block-date">日程：2018年4月8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180408nerima/" target="_blank">GRACEと宝石<br>練馬のデイサービスゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180408nerima/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
