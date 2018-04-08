@@ -11,11 +11,13 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/yobi1804/" target="_blank"><img src="/2016/images/top/1804semi_a.jpg"></a>
-<p class="block-date">日程：2018年4月2日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1804/" target="_blank">新入生、在学生、卒業生<br>アンテオケ教会の一週間</a></p>
+<a href="http://antiochblog.jp/info/april1804/" target="_blank"><img src="/2016/images/top/1804semi_a.jpg"></a>
+<p class="block-date">日程：2018年4月9日～15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/april1804/" target="_blank">緑の風爽やかに<br>東京アンテオケ教会の一週</a></p>
 </div>
 
+<<<<<<< .merge_file_6ZTZMw
+=======
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -39,6 +41,7 @@
 <p class="block-date">日程：2018年4月2日～8日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/spring1804/" target="_blank">爽やかな春風の季節<br>アンテオケ教会の一週間</a></p>
 </div>
+>>>>>>> .merge_file_99J1r3
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -52,27 +55,18 @@
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
-<p class="block-date">動画ブログ：2018年4月2日～8日</p>
+<p class="block-date">動画ブログ：2018年4月9日～15日</p>
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>春を感じるほのぼのと <br>東京アンテオケ教会</p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank"><img src="/2016/images/top/1804thanks_dstmovie.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank">感謝と賛美とリバイバルキャンプ<br>ダイジェスト映像<br>(再生時間 10:03)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank"><img src="/2016/images/top/1803merlin.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank">マーリンさんを偲ぶ会<br>映像<br>(再生時間 10:35)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<<<<<<< .merge_file_6ZTZMw
+<a href="http://astone.tv/events/april1804z/" target="_blank"><img src="/2016/images/top/1804semi_z.jpg"></a>
+<p class="block-date">日程：2018年4月9日～15日</p>
+<p class="block-title"><a href="http://astone.tv/events/april1804z/" target="_blank">緑の風爽やかに<br>全国各教会の一週</a></p>
+=======
 <a href="http://blog.antioch.jp/1803revival/category/1803dst/" target="_blank"><img src="/2016/images/top/1804thanks_d_b.jpg"></a>
 <p class="block-title"><a href="http://blog.antioch.jp/1803revival/category/1803dst/" target="_blank">感謝と賛美とリバイバルキャンプ<br>ダイジェストブログ</a></p>
 </div>
@@ -107,13 +101,14 @@
 <a href="http://antiochblog.jp/praise/gracejewel2017/180408nerima/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
 <p class="block-date">日程：2018年4月8日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180408nerima/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
+>>>>>>> .merge_file_99J1r3
 </div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
-<p class="block-date">動画ブログ：2018年4月2日～4月8日</p>
+<p class="block-date">動画ブログ：2018年4月9日～4月15日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>春を感じてほのぼのと<br>TLCCC全国各教会</p>
 </div>
 
@@ -175,6 +170,58 @@
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
 
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/yobi1804/" target="_blank"><img src="/2016/images/top/1804semi_a.jpg"></a>
+<p class="block-date">日程：2018年4月2日～8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1804/" target="_blank">新入生、在学生、卒業生<br>アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/spring1804/" target="_blank"><img src="/2016/images/top/1804spring_a.jpg"></a>
+<p class="block-date">日程：2018年4月2日～8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/spring1804/" target="_blank">爽やかな春風の季節<br>アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank"><img src="/2016/images/top/1804thanks_dstmovie.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank">感謝と賛美とリバイバルキャンプ<br>ダイジェスト映像<br>(再生時間 10:03)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank"><img src="/2016/images/top/1803merlin.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank">マーリンさんを偲ぶ会<br>映像<br>(再生時間 10:35)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://blog.antioch.jp/1803revival/category/1803dst/" target="_blank"><img src="/2016/images/top/1804thanks_d_b.jpg"></a>
+<p class="block-title"><a href="http://blog.antioch.jp/1803revival/category/1803dst/" target="_blank">感謝と賛美とリバイバルキャンプ<br>ダイジェストブログ</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/yobi1804z/" target="_blank"><img src="/2016/images/top/1804semi_z.jpg"></a>
+<p class="block-date">日程：2018年4月2日～8日</p>
+<p class="block-title"><a href="http://astone.tv/events/yobi1804z/" target="_blank">新入生、在学生、卒業生<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/spring1804z/" target="_blank"><img src="/2016/images/top/1804spring_z.jpg"></a>
+<p class="block-date">日程：2018年4月2日～8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/spring1804z/" target="_blank">爽やかな春風の季節<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180408nerima/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
+<p class="block-date">日程：2018年4月8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180408nerima/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
+</div>
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/concert1804/" target="_blank"><img src="/2016/images/top/1804okechoir.jpg"></a>
