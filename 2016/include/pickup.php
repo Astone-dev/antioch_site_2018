@@ -16,32 +16,6 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/april1804/" target="_blank">緑の風爽やかに<br>東京アンテオケ教会の一週</a></p>
 </div>
 
-<<<<<<< .merge_file_6ZTZMw
-=======
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/april1804/" target="_blank"><img src="/2016/images/top/1804semi_a.jpg"></a>
-<p class="block-date">日程：2018年4月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/april1804/" target="_blank">緑の風爽やかに<br>アンテオケ教会の一週間</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1804radio" target="_blank"><img src="/2016/images/top/1804semi_a.jpg"></a>
-<p class="block-date">日程：2018年4月9日～15日</p>
-<p class="block-title"><a href="http://astone.tv/events/1804radio" target="_blank">新パーソナリティー加わる<br>ラジオパーソナリティーの一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/spring1804/" target="_blank"><img src="/2016/images/top/1804spring_a.jpg"></a>
-<p class="block-date">日程：2018年4月2日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/spring1804/" target="_blank">爽やかな春風の季節<br>アンテオケ教会の一週間</a></p>
-</div>
->>>>>>> .merge_file_99J1r3
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -62,46 +36,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<<<<<<< .merge_file_6ZTZMw
 <a href="http://astone.tv/events/april1804z/" target="_blank"><img src="/2016/images/top/1804semi_z.jpg"></a>
 <p class="block-date">日程：2018年4月9日～15日</p>
 <p class="block-title"><a href="http://astone.tv/events/april1804z/" target="_blank">緑の風爽やかに<br>全国各教会の一週</a></p>
-=======
-<a href="http://blog.antioch.jp/1803revival/category/1803dst/" target="_blank"><img src="/2016/images/top/1804thanks_d_b.jpg"></a>
-<p class="block-title"><a href="http://blog.antioch.jp/1803revival/category/1803dst/" target="_blank">感謝と賛美とリバイバルキャンプ<br>ダイジェストブログ</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/yobi1804z/" target="_blank"><img src="/2016/images/top/1804semi_z.jpg"></a>
-<p class="block-date">日程：2018年4月2日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/yobi1804z/" target="_blank">新入生、在学生、卒業生<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/spring1804z/" target="_blank"><img src="/2016/images/top/1804spring_z.jpg"></a>
-<p class="block-date">日程：2018年4月2日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/spring1804z/" target="_blank">爽やかな春風の季節<br>全国各教会の一週間</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/april1804z/" target="_blank"><img src="/2016/images/top/1804semi_a.jpg"></a>
-<p class="block-date">日程：2018年4月9日～15日</p>
-<p class="block-title"><a href="http://astone.tv/events/april1804z/" target="_blank">緑の風爽やかに<br>全国各教会の一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180408nerima/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-<p class="block-date">日程：2018年4月8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180408nerima/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
->>>>>>> .merge_file_99J1r3
 </div>
 
 <div class="column-inner">
