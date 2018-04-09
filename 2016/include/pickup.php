@@ -16,13 +16,20 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/april1804/" target="_blank">緑の風爽やかに<br>東京アンテオケ教会の一週</a></p>
 </div>
 
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/gospel1804/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
 <p class="block-date">日程：2018年4月7日〜15日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gospel1804/" target="_blank">こころごすぺるに向かって<br>出演者、スタッフの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1804radio/" target="_blank"><img src="/2016/images/top/1804radioweek.jpg"></a>
+<p class="block-date">日程：2018年4月7日〜15日</p>
+<p class="block-title"><a href="http://astone.tv/events/1804radio/" target="_blank">新パーソナリティー加わる!<br>ラジオパーソナリティーのフレッシュな一週間</a></p>
 </div>
 
 <div class="column-inner">
