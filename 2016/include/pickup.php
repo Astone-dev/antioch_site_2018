@@ -11,7 +11,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/april1804/" target="_blank"><img src="/2016/images/top/1804semi_a.jpg"></a>
+<a href="http://antiochblog.jp/info/april1804/" target="_blank"><img src="/2016/images/top/1804midoriantioch.jpg"></a>
 <p class="block-date">日程：2018年4月9日～15日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/april1804/" target="_blank">緑の風爽やかに<br>東京アンテオケ教会の一週</a></p>
 </div>
@@ -43,7 +43,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/april1804z/" target="_blank"><img src="/2016/images/top/1804semi_z.jpg"></a>
+<a href="http://astone.tv/events/april1804z/" target="_blank"><img src="/2016/images/top/1804midorizenkoku.jpg"></a>
 <p class="block-date">日程：2018年4月9日～15日</p>
 <p class="block-title"><a href="http://astone.tv/events/april1804z/" target="_blank">緑の風爽やかに<br>全国各教会の一週</a></p>
 </div>
@@ -72,13 +72,6 @@
 
 <div class="column-inner">
 <span>NEW</span>
-<span class="label-2">映像</span>
-<a href="http://movie.antioch.jp/2018hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
-<p class="block-title"><a href="http://movie.antioch.jp/2018hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>受賞作品と応募作品</a></p>
-</div>
-
-<div class="column-inner">
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank"><img src="/2016/images/top/1803yorimichi32.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
@@ -95,6 +88,13 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え14組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span>NEW</span>
+<span class="label-2">映像</span>
+<a href="http://movie.antioch.jp/2018hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
+<p class="block-title"><a href="http://movie.antioch.jp/2018hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>受賞作品と応募作品</a></p>
 </div>
 
 <!--<div class="column-inner">
