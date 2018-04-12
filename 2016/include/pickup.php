@@ -16,6 +16,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/april1804/" target="_blank">緑の風爽やかに<br>東京アンテオケ教会の一週</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1804gifts/" target="_blank"><img src="/2016/images/top/1804truevineramura.jpg"></a>
+<p class="block-date">日程：2018年4月13日～14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1804gifts/" target="_blank">Gifts<br>コンサートの2日間 飯田橋、千葉を行く</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
