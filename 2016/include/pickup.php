@@ -13,7 +13,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/april1804/" target="_blank"><img src="/2016/images/top/1804midoriantioch.jpg"></a>
 <p class="block-date">日程：2018年4月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/april1804/" target="_blank">緑の風爽やかに<br>東京アンテオケ教会の一週</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/april1804/" target="_blank">緑の風爽やかに<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -53,7 +53,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/april1804z/" target="_blank"><img src="/2016/images/top/1804midorizenkoku.jpg"></a>
 <p class="block-date">日程：2018年4月9日～15日</p>
-<p class="block-title"><a href="http://astone.tv/events/april1804z/" target="_blank">緑の風爽やかに<br>全国各教会の一週</a></p>
+<p class="block-title"><a href="http://astone.tv/events/april1804z/" target="_blank">緑の風爽やかに<br>全国各教会の一週間</a></p>
 </div>
 
 <!--<div class="column-inner">
