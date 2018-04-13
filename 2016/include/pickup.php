@@ -56,13 +56,13 @@
 <p class="block-title"><a href="http://astone.tv/events/april1804z/" target="_blank">緑の風爽やかに<br>全国各教会の一週</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/20180414/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">日程：2018年4月13日～14日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180414/" target="_blank">エルサレム<br>福島県相馬市復興支援レストランでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">動画</span>
