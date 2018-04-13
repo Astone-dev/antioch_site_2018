@@ -19,7 +19,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/april1804/" target="_blank"><img src="/2016/images/top/1804leon.jpg"></a>
 <p class="block-date">日程：2018年4月15日～16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/april1804/" target="_blank">ロシア系ユダヤ人<br>レオン牧師来日！<br>東京カリスマ聖会<br>(15日：19:00〜)<br>レオン牧師をお迎えしての特別集会<br>(16日：19:00〜)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/april1804/" target="_blank">ロシア系ユダヤ人レオン牧師来日！<br>15日 東京カリスマ聖会<br>(19:00〜 ハイアットリージェンシー東京)<br>16日 レオン牧師をお迎えしての特別集会<br>(19:00〜 会堂)</a></p>
 </div>
 
 <div class="column-inner">
