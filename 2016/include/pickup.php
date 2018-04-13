@@ -217,56 +217,6 @@
 <p class="block-title"><a href="http://astone.tv/events/gifts1804/" target="_blank">Gifts<br>春の船橋を行く<br>路上ライブとミニコンサート</a></p>
 </div>
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1804it/" target="_blank"><img src="/2016/images/top/1804aiitresearch.jpg"></a>
-<p class="block-date">日程：2018年4月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1804it/" target="_blank">最新技術をリサーチ！<br>インターネット委員会メンバー<br>IT・AI展示会へ</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/20180403/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2018年4月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180403/" target="_blank">エルサレム<br>岩槻のデイケアでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/thanks1803/" target="_blank"><img src="/2016/images/top/1803cherry_a.jpg"></a>
-<p class="block-date">日程：2018年3月26日～4月1日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1803/" target="_blank">まだまだ桜楽しめるぞ！<br>アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/happyday2017/2018041/" target="_blank"><img src="/2016/images/top/1804ohhappyday.jpg"></a>
-<p class="block-date">日程：2018年4月1日</p>
-<p class="block-title"><a href="http://astone.tv/events/happyday2017/2018041/" target="_blank">OH HAPPY DAY!<br>進級、進学おめでとう！</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/thanks1803z/" target="_blank"><img src="/2016/images/top/1803cherry_z.jpg"></a>
-<p class="block-date">日程：2018年3月26日～4月1日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1803z/" target="_blank">まだまだ桜楽しめるぞ！<br>全国各教会の一週間</a></p>
-</div>
-
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://blog.antioch.jp/1803revival/" target="_blank"><img src="/2016/images/top/1703kansyatochokuzen.jpg"></a>
-<p class="block-date">日程：2018年3月26日～31日</p>
-<p class="block-title"><a href="http://blog.antioch.jp/1803revival/" target="_blank">いよいよ今日から<br>感謝と賛美とリバイバルキャンプ<br>写真集<br>(じっくり全てを知りたい人のために)<br>(日程：2018年3月26日〜31日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/seminary1803/" target="_blank"><img src="/2016/images/top/1704shingakkousotugyo.jpg"></a>
-<p class="block-date">日程：2018年3月31日</p>
-<p class="block-title"><a href="http://astone.tv/events/seminary1803/" target="_blank">桜咲く<br>神学校の卒業式</a></p>
-</div>
-
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
 <a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank"><img src="/2016/images/top/1710israelcm.jpg"></a>
