@@ -31,13 +31,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1804charisma/" target="_blank">レオン牧師来る！<br>春の東京カリスマ聖会<br>(日程：2018年4月15日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/event1804/" target="_blank"><img src="/2016/images/top/1804leon.jpg"></a>
 <p class="block-date">日程：2018年4月14日～16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/event1804/" target="_blank">ロシア系ユダヤ人レオン牧師来る！</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/event1804/" target="_blank">ロシア系ユダヤ人レオン牧師来る！<br>アンテオケ教会で過ごす３日間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
