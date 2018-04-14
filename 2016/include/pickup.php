@@ -36,7 +36,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/event1804/" target="_blank"><img src="/2016/images/top/1804leon.jpg"></a>
 <p class="block-date">日程：2018年4月14日～16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/event1804/" target="_blank">ロシア系ユダヤ人レオン牧師来る！<br>アンテオケ教会で過ごす３日間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/event1804/" target="_blank">ロシア系ユダヤ人レオン牧師来る！<br>東京アンテオケ教会で過ごす３日間</a></p>
 </div>
 
 <div class="column-inner">
