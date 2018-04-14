@@ -50,14 +50,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1804gifts/" target="_blank"><img src="/2016/images/top/1804giftsjoyu.jpg"></a>
-<p class="block-date">日程：2018年4月13日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1804gifts/" target="_blank">Gifts<br>コンサートの2日間 飯田橋、千葉を行く</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/gospel1804/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
 <p class="block-date">日程：2018年4月7日〜15日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gospel1804/" target="_blank">こころごすぺるに向かって<br>出演者、スタッフの一週間</a></p>
@@ -66,33 +58,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/2017healing/180414healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-<p class="block-date">日程：2018年4月14日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/180414healing/" target="_blank">4月 いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年4月14日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年4月14日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/1804radio/" target="_blank"><img src="/2016/images/top/1804radioweek.jpg"></a>
 <p class="block-date">日程：2018年4月7日〜15日</p>
 <p class="block-title"><a href="http://astone.tv/events/1804radio/" target="_blank">新パーソナリティー加わる!<br>ラジオパーソナリティーのフレッシュな一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2017labeille/180414arakawa/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
-<p class="block-date">日程：2018年4月14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180414arakawa/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -117,14 +85,6 @@
 <a href="http://astone.tv/events/april1804z/" target="_blank"><img src="/2016/images/top/1804midorizenkoku.jpg"></a>
 <p class="block-date">日程：2018年4月9日～15日</p>
 <p class="block-title"><a href="http://astone.tv/events/april1804z/" target="_blank">緑の風爽やかに<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/20180414/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2018年4月13日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180414/" target="_blank">エルサレム<br>福島県相馬市復興支援レストランでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -200,6 +160,34 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1804gifts/" target="_blank"><img src="/2016/images/top/1804giftsjoyu.jpg"></a>
+<p class="block-date">日程：2018年4月13日～14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1804gifts/" target="_blank">Gifts<br>コンサートの2日間 飯田橋、千葉を行く</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017healing/180414healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+<p class="block-date">日程：2018年4月14日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/180414healing/" target="_blank">4月 いやしの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2017labeille/180414arakawa/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
+<p class="block-date">日程：2018年4月14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180414arakawa/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/20180414/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2018年4月13日～14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180414/" target="_blank">エルサレム<br>福島県相馬市復興支援レストランでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
