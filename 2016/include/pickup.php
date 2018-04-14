@@ -95,13 +95,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180414arakawa/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/euqaristias/20180415shinjuku/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
 <p class="block-date">日程：2018年4月15日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20180415shinjuku/" target="_blank">エウカリスティアス<br>新宿デイサービスでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
@@ -127,13 +127,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180414/" target="_blank">エルサレム<br>福島県相馬市復興支援レストランでゴスペルコンサート</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/gracejewel2017/180415day/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
 <p class="block-date">日程：2018年4月15日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180415day/" target="_blank">GRACEと宝石<br>杉並区のデイサービスでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
