@@ -41,7 +41,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1804vision/" target="_blank"><img src="/2016/images/top/1804midoriantioch.jpg"></a>
+<a href="http://astone.tv/events/1804vision/" target="_blank"><img src="/2016/images/top/1610thevision.jpg"></a>
 <p class="block-date">日程：2018年4月16日～22日</p>
 <p class="block-title"><a href="http://astone.tv/events/1804vision/" target="_blank">The Visionの一週間</a></p>
 </div>
