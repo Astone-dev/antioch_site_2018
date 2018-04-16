@@ -69,6 +69,13 @@
 <p class="block-title"><a href="http://tokyo.antioch.jp/onsei/180415-leon.html" target="_blank">レオン牧師<br>東京カリスマ聖会でのメッセージ<br>映像保存版</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank"><img src="/2016/images/top/1804leon_e.jpg"></a>
+<p class="block-title"><a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank">レオン牧師<br>特別礼拝でのメッセージ<br>映像保存版</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
