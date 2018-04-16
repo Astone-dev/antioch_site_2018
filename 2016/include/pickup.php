@@ -69,6 +69,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://tlccc.net/~yokkaichi-zion/2015sub/online/i2015_sub_online.htm" target="_blank" onclick="javascript:pageTracker._trackPageview('レオン牧師四日市で奉仕生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2018年4月17日</p>
+<p class="block-title"><a href="http://tlccc.net/~yokkaichi-zion/2015sub/online/i2015_sub_online.htm" target="_blank" onclick="javascript:pageTracker._trackPageview('レオン牧師四日市で奉仕生中継');">レオン牧師四日市で奉仕生中継<br>(日程：2018年4月17日 13:30〜／19:00〜)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
