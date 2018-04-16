@@ -22,6 +22,14 @@
 <p class="block-title"><a href="" target="_blank">ロシア系ユダヤ人レオン牧師来日！<br>■15日 第2礼拝(10:30〜 会堂)／東京カリスマ聖会(19:00〜 ハイアットリージェンシー東京)<br>■16日 レオン牧師をお迎えしての特別集会(19:00〜 会堂)</p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人レオン牧師来る！'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2018年4月16日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人レオン牧師来る！');">ロシア系ユダヤ人レオン牧師来る！生中継<br>(日程：2018年4月16日 19:00スタート)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -33,33 +41,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/event1804/" target="_blank"><img src="/2016/images/top/1804leon.jpg"></a>
-<p class="block-date">日程：2018年4月14日～16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/event1804/" target="_blank">ロシア系ユダヤ人レオン牧師来る！<br>東京アンテオケ教会で過ごす３日間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人レオン牧師来る！'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2018年4月16日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人レオン牧師来る！');">ロシア系ユダヤ人レオン牧師来る！生中継<br>(日程：2018年4月16日 19:00スタート)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/1804vision/" target="_blank"><img src="/2016/images/top/1610thevision.jpg"></a>
 <p class="block-date">日程：2018年4月16日～22日</p>
 <p class="block-title"><a href="http://astone.tv/events/1804vision/" target="_blank">ゴスペルのプロダクション<br>The Visionスタッフの一週間</a></p>
 </div>
 
 <div class="column-inner">
-<span class="label-2">動画</span>
+<span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
-<p class="block-date">動画ブログ：2018年4月16日～22日</p>
-<p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>春のウキウキ<br>東京アンテオケ教会</p>
+<a href="http://antiochblog.jp/info/event1804/" target="_blank"><img src="/2016/images/top/1804leon.jpg"></a>
+<p class="block-date">日程：2018年4月14日～17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/event1804/" target="_blank">ロシア系ユダヤ人レオン牧師来る！<br>東京から四日市へ</a></p>
 </div>
 
 <div class="column-inner">
@@ -69,12 +61,20 @@
 <p class="block-title"><a href="http://tokyo.antioch.jp/onsei/180415-leon.html" target="_blank">レオン牧師<br>東京カリスマ聖会でのメッセージ<br>映像保存版</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank"><img src="/2016/images/top/1804leon_e.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank">レオン牧師<br>特別礼拝でのメッセージ<br>映像保存版</a></p>
-</div>-->
+<a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank"><img src="/2016/images/top/1804leon_getsu_m.jpg"></a>
+<p class="block-title"><a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank">ロシア系ユダヤ人レオン牧師をお迎えしての<br>特別集会メッセージ<br>映像保存版</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">動画</span>
+<span>NEW</span>
+<a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
+<p class="block-date">動画ブログ：2018年4月16日～22日</p>
+<p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>春のウキウキ<br>東京アンテオケ教会</p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
