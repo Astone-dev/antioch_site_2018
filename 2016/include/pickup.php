@@ -30,6 +30,14 @@
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人レオン牧師来る！');">ロシア系ユダヤ人レオン牧師来る！生中継<br>(日程：2018年4月16日 19:00スタート)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://tlccc.net/~yokkaichi-zion/2015sub/online/i2015_sub_online.htm" target="_blank" onclick="javascript:pageTracker._trackPageview('レオン牧師四日市で奉仕生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2018年4月17日</p>
+<p class="block-title"><a href="http://tlccc.net/~yokkaichi-zion/2015sub/online/i2015_sub_online.htm" target="_blank" onclick="javascript:pageTracker._trackPageview('レオン牧師四日市で奉仕生中継');">レオン牧師四日市で奉仕生中継<br>(日程：2018年4月17日 13:30〜／19:00〜)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -41,7 +49,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1804vision/" target="_blank"><img src="/2016/images/top/1610thevision.jpg"></a>
+<a href="http://astone.tv/events/1804vision/" target="_blank"><img src="/2016/images/top/1804thevision.jpg"></a>
 <p class="block-date">日程：2018年4月16日～22日</p>
 <p class="block-title"><a href="http://astone.tv/events/1804vision/" target="_blank">ゴスペルのプロダクション<br>The Visionスタッフの一週間</a></p>
 </div>
@@ -66,14 +74,6 @@
 <span>NEW</span>
 <a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank"><img src="/2016/images/top/1804leon_getsu_m.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank">ロシア系ユダヤ人レオン牧師をお迎えしての<br>特別集会メッセージ<br>映像保存版</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tlccc.net/~yokkaichi-zion/2015sub/online/i2015_sub_online.htm" target="_blank" onclick="javascript:pageTracker._trackPageview('レオン牧師四日市で奉仕生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2018年4月17日</p>
-<p class="block-title"><a href="http://tlccc.net/~yokkaichi-zion/2015sub/online/i2015_sub_online.htm" target="_blank" onclick="javascript:pageTracker._trackPageview('レオン牧師四日市で奉仕生中継');">レオン牧師四日市で奉仕生中継<br>(日程：2018年4月17日 13:30〜／19:00〜)</a></p>
 </div>
 
 <div class="column-inner">
