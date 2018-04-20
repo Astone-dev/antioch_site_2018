@@ -54,21 +54,21 @@
 <p class="block-title"><a href="http://astone.tv/events/1804vision/" target="_blank">ゴスペルのプロダクション<br>The Visionスタッフの一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/yobi1804z2/" target="_blank"><img src="/2016/images/top/1609revivalnight.jpg"></a>
 <p class="block-date">日程：2018年4月20日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180421night/" target="_blank">4月 リバイバルナイト</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2017年3月17日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年3月17日 18:30スタート)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -92,7 +92,7 @@
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>春のウキウキ<br>東京アンテオケ教会</p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/20180421/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
@@ -106,14 +106,6 @@
 <a href="http://antiochblog.jp/info/1804gate/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
 <p class="block-date">日程：2018年4月21日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1804gate/" target="_blank">The Gate of Praise<br>練馬区の老健でゴスペルコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/uranos2017/180420shinyuri/" target="_blank"><img src="/2016/images/top/1609uranosuconcert.jpg"></a>
-<p class="block-date">日程：2018年4月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180420shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘老人施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -189,6 +181,13 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/uranos2017/180420shinyuri/" target="_blank"><img src="/2016/images/top/1609uranosuconcert.jpg"></a>
+<p class="block-date">日程：2018年4月20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180420shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘老人施設でゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
