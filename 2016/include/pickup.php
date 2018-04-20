@@ -57,7 +57,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/yobi1804z2/" target="_blank"><img src="/2016/images/top/1609revivalnight.jpg"></a>
+<a href="http://antiochblog.jp/info/revival2017/180421night/" target="_blank"><img src="/2016/images/top/1609revivalnight.jpg"></a>
 <p class="block-date">日程：2018年4月20日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180421night/" target="_blank">4月 リバイバルナイト</a></p>
 </div>
