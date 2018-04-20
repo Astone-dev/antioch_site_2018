@@ -63,14 +63,6 @@
 </div>-->
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/uranos2017/180420shinyuri/" target="_blank"><img src="/2016/images/top/1609uranosuconcert.jpg"></a>
-<p class="block-date">日程：2018年4月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180420shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘老人施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tokyo.antioch.jp/onsei/180415-leon.html" target="_blank"><img src="/2016/images/top/1804leon_e.jpg"></a>
@@ -90,6 +82,14 @@
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
 <p class="block-date">動画ブログ：2018年4月16日～22日</p>
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>春のウキウキ<br>東京アンテオケ教会</p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/uranos2017/180420shinyuri/" target="_blank"><img src="/2016/images/top/1609uranosuconcert.jpg"></a>
+<p class="block-date">日程：2018年4月20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180420shinyuri/" target="_blank">ウラノス<br>新百合ヶ丘老人施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
