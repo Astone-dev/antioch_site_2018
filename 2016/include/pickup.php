@@ -65,9 +65,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/yobi1804z2/" target="_blank"><img src="/2016/images/top/1609uranosuconcert.jpg"></a>
+<a href="http://antiochblog.jp/praise/uranos2017/" target="_blank"><img src="/2016/images/top/1609uranosuconcert.jpg"></a>
 <p class="block-date">日程：2018年4月20日</p>
-<p class="block-title"><a href="http://astone.tv/events/yobi1804z2/" target="_blank">ウラノス<br>新百合ヶ丘老人施設でゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/" target="_blank">ウラノス<br>新百合ヶ丘老人施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
