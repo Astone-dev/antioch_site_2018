@@ -257,40 +257,6 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180414arakawa/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
 </div>
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/20180414/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2018年4月13日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180414/" target="_blank">エルサレム<br>福島県相馬市復興支援レストランでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/iidabashi1804/" target="_blank"><img src="/2016/images/top/1804truevineramura.jpg"></a>
-<p class="block-date">日程：2018年4月12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/iidabashi1804/" target="_blank">TrueVine<br>飯田橋のショッピングセンターでコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/20180410/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2018年4月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180410/" target="_blank">エルサレム<br>三郷のグループホームでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/yobi1804/" target="_blank"><img src="/2016/images/top/1804semi_a.jpg"></a>
-<p class="block-date">日程：2018年4月2日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1804/" target="_blank">新入生、在学生、卒業生<br>アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/spring1804/" target="_blank"><img src="/2016/images/top/1804spring_a.jpg"></a>
-<p class="block-date">日程：2018年4月2日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/spring1804/" target="_blank">爽やかな春風の季節<br>アンテオケ教会の一週間</a></p>
-</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -308,47 +274,6 @@
 <span class="label-1">ブログ</span>
 <a href="http://blog.antioch.jp/1803revival/category/1803dst/" target="_blank"><img src="/2016/images/top/1804thanks_d_b.jpg"></a>
 <p class="block-title"><a href="http://blog.antioch.jp/1803revival/category/1803dst/" target="_blank">感謝と賛美とリバイバルキャンプ<br>ダイジェストブログ</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/yobi1804z/" target="_blank"><img src="/2016/images/top/1804semi_z.jpg"></a>
-<p class="block-date">日程：2018年4月2日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/yobi1804z/" target="_blank">新入生、在学生、卒業生<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/spring1804z/" target="_blank"><img src="/2016/images/top/1804spring_z.jpg"></a>
-<p class="block-date">日程：2018年4月2日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/spring1804z/" target="_blank">爽やかな春風の季節<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180408nerima/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-<p class="block-date">日程：2018年4月8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180408nerima/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
-</div>
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/concert1804/" target="_blank"><img src="/2016/images/top/1804okechoir.jpg"></a>
-<p class="block-date">日程：2018年4月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/concert1804/" target="_blank">オーケストラ、クワイア<br>杉並の施設でコンサート<br>(日程：2018年4月7日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/20180407/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2018年4月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180407/" target="_blank">エルサレム<br>岩槻西のグループホームでコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/gifts1804/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
-<p class="block-date">日程：2018年4月6日</p>
-<p class="block-title"><a href="http://astone.tv/events/gifts1804/" target="_blank">Gifts<br>春の船橋を行く<br>路上ライブとミニコンサート</a></p>
 </div>
 
 <!--<div class="column-inner">
