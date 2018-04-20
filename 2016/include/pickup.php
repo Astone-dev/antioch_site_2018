@@ -62,6 +62,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180421night/" target="_blank">4月 リバイバルナイト</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2017年3月17日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年3月17日 18:30スタート)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
@@ -83,6 +91,22 @@
 <p class="block-date">動画ブログ：2018年4月16日～22日</p>
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>春のウキウキ<br>東京アンテオケ教会</p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/20180421/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2018年4月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180421/" target="_blank">エルサレム<br>他教会イベントでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1804gate/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+<p class="block-date">日程：2018年4月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1804gate/" target="_blank">The Gate of Praise<br>練馬区の老健でゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
