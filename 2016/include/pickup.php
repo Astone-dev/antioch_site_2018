@@ -57,9 +57,9 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/faith1804/" target="_blank"><img src="/2016/images/top/1704kokorogospelnimukatte.jpg"></a>
+<a href="http://antiochblog.jp/praise/1804gospel/" target="_blank"><img src="/2016/images/top/1704kokorogospelnimukatte.jpg"></a>
 <p class="block-date">日程：2018年4月22日～26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1804/" target="_blank">こころごすぺるに向かって</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1804gospel/" target="_blank">こころごすぺるに向かって</a></p>
 </div>-->
 
 <div class="column-inner">
