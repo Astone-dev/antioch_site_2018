@@ -38,6 +38,14 @@
 <p class="block-title"><a href="http://tlccc.net/~yokkaichi-zion/2015sub/online/i2015_sub_online.htm" target="_blank" onclick="javascript:pageTracker._trackPageview('レオン牧師四日市で奉仕生中継');">レオン牧師四日市で奉仕生中継<br>(日程：2018年4月17日 13:30〜／19:00〜)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1804kansai" target="_blank"><img src="/2016/images/top/1804haruiroantioch.jpg"></a>
+<p class="block-date">日程：2018年4月22日～26日</p>
+<p class="block-title"><a href="http://astone.tv/events/1804kansai" target="_blank">春の光の中 関西聖会を行く<br>関西宣教の旅</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -45,6 +53,14 @@
 <p class="block-date">日程：2018年4月16日～22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1804/" target="_blank">春色の風の中で<br>東京アンテオケ教会の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/faith1804/" target="_blank"><img src="/2016/images/top/1704kokorogospelnimukatte.jpg"></a>
+<p class="block-date">日程：2018年4月22日～26日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1804/" target="_blank">こころごすぺるに向かって</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -69,6 +85,22 @@
 <p class="block-date">2017年3月17日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年3月17日 18:30スタート)</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2018women/201804/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
+<p class="block-date">日程：2018年4月22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201804/" target="_blank">4月 婦人会<br>餃子を食べる</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2017students/20180422/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
+<p class="block-date">日程：2018年4月22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/20180422/" target="_blank">4月 学生会<br>サムギョプサルを食べる</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -105,6 +137,14 @@
 <p class="block-date">動画ブログ：2018年4月16日～22日</p>
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>春のウキウキ<br>東京アンテオケ教会</p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/20180422/" target="_blank"><img src="/2016/images/top/1705byhisnerima.jpg"></a>
+<p class="block-date">日程：2018年4月22日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20180422/" target="_blank">By His Spirit<br>世田谷の施設と高円寺レストランでゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
