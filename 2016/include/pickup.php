@@ -1,5 +1,5 @@
 <!--　<div class="column-inner">
-<span class="label-2">映像</span>
+<span class="label-2">映像　</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew" target="_blank" onclick="javascript:pageTracker._trackPageview('ハワイチーム聖会生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2018年3月13、14日</p>
