@@ -73,6 +73,20 @@
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
+<a href="http://gospelconcert.jp/cm.html" target="_blank"><img src="/2016/images/top/1804concert.jpg"></a>
+<p class="block-title"><a href="http://gospelconcert.jp/cm.html" target="_blank">こころごすぺる<br>紹介映像<br>(再生時間 10:03)</a></p>
+</div>
+
+<div class="column-inner">
+<span>NEW</span>
+<a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1803kokorogospelinfo.jpg"></a>
+<p class="block-date">日程：2018年4月30日</p>
+<p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 29th<br>座高円寺2　開演19時／開場18時30分<br>大人 前売 1500円  当日2000円<br>中高生 前売1000円 当日1400円</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
 <a href="http://tokyo.antioch.jp/onsei/180415-leon.html" target="_blank"><img src="/2016/images/top/1804leon_e.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/onsei/180415-leon.html" target="_blank">レオン牧師<br>東京カリスマ聖会でのメッセージ<br>映像保存版</a></p>
 </div>
@@ -122,20 +136,6 @@
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
 <p class="block-date">動画ブログ：2018年4月16日～22日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>春のほのぼの<br>TLCCC全国各教会</p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://gospelconcert.jp/cm.html" target="_blank"><img src="/2016/images/top/1804concert.jpg"></a>
-<p class="block-title"><a href="http://gospelconcert.jp/cm.html" target="_blank">こころごすぺる<br>紹介映像<br>(再生時間 10:03)</a></p>
-</div>
-
-<div class="column-inner">
-<span>NEW</span>
-<a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1803kokorogospelinfo.jpg"></a>
-<p class="block-date">日程：2018年4月30日</p>
-<p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 29th<br>座高円寺2　開演19時／開場18時30分<br>大人 前売 1500円  当日2000円<br>中高生 前売1000円 当日1400円</a></p>
 </div>
 
 <div class="column-inner">
