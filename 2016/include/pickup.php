@@ -43,7 +43,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/1804kansai" target="_blank"><img src="/2016/images/top/1801kansai.jpg"></a>
 <p class="block-date">日程：2018年4月22日～26日</p>
-<p class="block-title"><a href="http://astone.tv/events/1804kansai" target="_blank">春の光の中 関西聖会を行く<br>関西宣教の旅</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1804kansai" target="_blank">初夏の暖かな関西を行く<br>関西宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
@@ -59,7 +59,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1804gospel/" target="_blank"><img src="/2016/images/top/1704kokorogospelnimukatte.jpg"></a>
 <p class="block-date">日程：2018年4月22日～26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1804gospel/" target="_blank">こころごすぺるに向かって</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1804gospel/" target="_blank">いよいよ来週！<br>こころごすぺる本番<br>出演者、スタッフ大忙し<br>(日程：2018年4月30日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -75,7 +75,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/2018women/201804/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
 <p class="block-date">日程：2018年4月22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201804/" target="_blank">4月 婦人会<br>餃子を食べる</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201804/" target="_blank">4月婦人会<br>餃子を食べる</a></p>
 </div>
 
 <div class="column-inner">
@@ -83,7 +83,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/2017students/20180422/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
 <p class="block-date">日程：2018年4月22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/20180422/" target="_blank">4月 学生会<br>サムギョプサルを食べる</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/20180422/" target="_blank">4月学生会<br>サムギョプサルを食べる</a></p>
 </div>
 
 <div class="column-inner">
