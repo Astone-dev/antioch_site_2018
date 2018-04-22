@@ -75,7 +75,15 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/week1804/" target="_blank"><img src="/2016/images/top/1804sweetszenkoku.jpg"></a>
 <p class="block-date">日程：2018年4月23日～29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/week1804/" target="_blank">和洋あれこれスイーツな<br>全国各教会の一週間<</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/week1804/" target="_blank">和洋あれこれスイーツな<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">動画</span>
+<span>NEW</span>
+<a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
+<p class="block-date">動画ブログ：2018年4月23日～29日</p>
+<p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>初夏の東京アンテオケ教会</p>
 </div>
 
 <div class="column-inner">
@@ -90,14 +98,6 @@
 <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1803kokorogospelinfo.jpg"></a>
 <p class="block-date">日程：2018年4月30日</p>
 <p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 29th<br>座高円寺2　開演19時／開場18時30分<br>大人 前売 1500円  当日2000円<br>中高生 前売1000円 当日1400円</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">動画</span>
-<span>NEW</span>
-<a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
-<p class="block-date">動画ブログ：2018年4月23日～29日</p>
-<p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>初夏の東京アンテオケ教会</p>
 </div>
 
 <div class="column-inner">
