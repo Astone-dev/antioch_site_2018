@@ -46,6 +46,30 @@
 <p class="block-title"><a href="http://astone.tv/events/1804kansai" target="_blank">初夏の暖かな関西を行く<br>関西宣教の旅</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/week1804/" target="_blank"><img src="/2016/images/top/1804haruiroantioch.jpg"></a>
+<p class="block-date">日程：2018年4月23日～29日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/week1804/" target="_blank"><br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/patolis1804a/" target="_blank"><img src="/2016/images/top/1609patoliskawaguchi.jpg"></a>
+<p class="block-date">日程：2018年4月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/patolis1804a/" target="_blank">PATOLIS<br>川口の病院でボランティアゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/week1804/" target="_blank"><img src="/2016/images/top/1804haruiroantioch.jpg"></a>
+<p class="block-date">日程：2018年4月23日～29日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/week1804/" target="_blank"><br>全国各教会の一週間<</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
