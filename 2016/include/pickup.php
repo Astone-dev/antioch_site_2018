@@ -46,10 +46,18 @@
 <p class="block-title"><a href="http://astone.tv/events/1804kansai" target="_blank">初夏の暖かな関西を行く<br>関西宣教の旅</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/week1804/" target="_blank"><img src="/2016/images/top/1804haruiroantioch.jpg"></a>
+<a href="http://antiochblog.jp/praise/1804gospel/" target="_blank"><img src="/2016/images/top/1708kokorogospeldigest_m.jpg"></a>
+<p class="block-date">日程：2018年4月22日～26日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1804gospel/" target="_blank">いよいよ来週！<br>こころごすぺる本番<br>出演者、スタッフ大忙し<br>(日程：2018年4月30日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/week1804/" target="_blank"><img src="/2016/images/top/1804sweetsantioch.jpg"></a>
 <p class="block-date">日程：2018年4月23日～29日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/week1804/" target="_blank">和洋あれこれスイーツな<br>東京アンテオケ教会の一週間</a></p>
 </div>
@@ -65,49 +73,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/week1804/" target="_blank"><img src="/2016/images/top/1804haruiroantioch.jpg"></a>
+<a href="http://antiochblog.jp/info/week1804/" target="_blank"><img src="/2016/images/top/1804sweetszenkoku.jpg"></a>
 <p class="block-date">日程：2018年4月23日～29日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/week1804/" target="_blank">和洋あれこれスイーツな<br>全国各教会の一週間<</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/faith1804/" target="_blank"><img src="/2016/images/top/1804haruiroantioch.jpg"></a>
-<p class="block-date">日程：2018年4月16日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1804/" target="_blank">春色の風の中で<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1804gospel/" target="_blank"><img src="/2016/images/top/1708kokorogospeldigest_m.jpg"></a>
-<p class="block-date">日程：2018年4月22日～26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1804gospel/" target="_blank">いよいよ来週！<br>こころごすぺる本番<br>出演者、スタッフ大忙し<br>(日程：2018年4月30日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1804vision/" target="_blank"><img src="/2016/images/top/1804thevision.jpg"></a>
-<p class="block-date">日程：2018年4月16日～22日</p>
-<p class="block-title"><a href="http://astone.tv/events/1804vision/" target="_blank">ゴスペルのプロダクション<br>The Visionスタッフの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2018women/201804/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
-<p class="block-date">日程：2018年4月22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201804/" target="_blank">4月婦人会<br>餃子を食べる</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2017students/20180422/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
-<p class="block-date">日程：2018年4月22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/20180422/" target="_blank">4月学生会<br>サムギョプサルを食べる</a></p>
 </div>
 
 <div class="column-inner">
@@ -125,49 +93,19 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tokyo.antioch.jp/onsei/180415-leon.html" target="_blank"><img src="/2016/images/top/1804leon_e.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/onsei/180415-leon.html" target="_blank">レオン牧師<br>東京カリスマ聖会でのメッセージ<br>映像保存版</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank"><img src="/2016/images/top/1804leon_getsu_m.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank">ロシア系ユダヤ人レオン牧師をお迎えしての<br>特別集会メッセージ<br>映像保存版</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
-<p class="block-date">動画ブログ：2018年4月16日～22日</p>
-<p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>春のウキウキ<br>東京アンテオケ教会</p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/20180422/" target="_blank"><img src="/2016/images/top/1705byhisnerima.jpg"></a>
-<p class="block-date">日程：2018年4月22日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20180422/" target="_blank">By His Spirit<br>世田谷の施設と高円寺レストランでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/yobi1804z2/" target="_blank"><img src="/2016/images/top/1804haruirozenkoku.jpg"></a>
-<p class="block-date">日程：2018年4月16日～22日</p>
-<p class="block-title"><a href="http://astone.tv/events/yobi1804z2/" target="_blank">春色の風の中で<br>全国各教会の一週間</a></p>
+<p class="block-date">動画ブログ：2018年4月23日～29日</p>
+<p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>初夏の東京アンテオケ教会</p>
 </div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
-<p class="block-date">動画ブログ：2018年4月16日～22日</p>
-<p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>春のほのぼの<br>TLCCC全国各教会</p>
+<p class="block-date">動画ブログ：2018年4月23日～29日</p>
+<p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>初夏のTLCCC全国各教会</p>
 </div>
 
 <div class="column-inner">
@@ -188,6 +126,20 @@
 <a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
 <p class="block-date">毎日19:00更新</p>
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき <br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://tokyo.antioch.jp/onsei/180415-leon.html" target="_blank"><img src="/2016/images/top/1804leon_e.jpg"></a>
+<p class="block-title"><a href="http://tokyo.antioch.jp/onsei/180415-leon.html" target="_blank">レオン牧師<br>東京カリスマ聖会でのメッセージ<br>映像保存版</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank"><img src="/2016/images/top/1804leon_getsu_m.jpg"></a>
+<p class="block-title"><a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank">ロシア系ユダヤ人レオン牧師をお迎えしての<br>特別集会メッセージ<br>映像保存版</a></p>
 </div>
 
 <div class="column-inner">
@@ -213,6 +165,48 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/faith1804/" target="_blank"><img src="/2016/images/top/1804haruiroantioch.jpg"></a>
+<p class="block-date">日程：2018年4月16日～22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1804/" target="_blank">春色の風の中で<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1804vision/" target="_blank"><img src="/2016/images/top/1804thevision.jpg"></a>
+<p class="block-date">日程：2018年4月16日～22日</p>
+<p class="block-title"><a href="http://astone.tv/events/1804vision/" target="_blank">ゴスペルのプロダクション<br>The Visionスタッフの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2018women/201804/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
+<p class="block-date">日程：2018年4月22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201804/" target="_blank">4月婦人会<br>餃子を食べる</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2017students/20180422/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
+<p class="block-date">日程：2018年4月22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/20180422/" target="_blank">4月学生会<br>サムギョプサルを食べる</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/20180422/" target="_blank"><img src="/2016/images/top/1705byhisnerima.jpg"></a>
+<p class="block-date">日程：2018年4月22日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20180422/" target="_blank">By His Spirit<br>世田谷の施設と高円寺レストランでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/yobi1804z2/" target="_blank"><img src="/2016/images/top/1804haruirozenkoku.jpg"></a>
+<p class="block-date">日程：2018年4月16日～22日</p>
+<p class="block-title"><a href="http://astone.tv/events/yobi1804z2/" target="_blank">春色の風の中で<br>全国各教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
