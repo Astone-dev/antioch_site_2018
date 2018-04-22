@@ -57,7 +57,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1804gospel/" target="_blank"><img src="/2016/images/top/1704kokorogospelnimukatte.jpg"></a>
+<a href="http://antiochblog.jp/praise/1804gospel/" target="_blank"><img src="/2016/images/top/1708kokorogospeldigest_m.jpg"></a>
 <p class="block-date">日程：2018年4月22日～26日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1804gospel/" target="_blank">いよいよ来週！<br>こころごすぺる本番<br>出演者、スタッフ大忙し<br>(日程：2018年4月30日)</a></p>
 </div>
