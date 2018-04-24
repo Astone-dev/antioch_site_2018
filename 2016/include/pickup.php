@@ -71,22 +71,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/week1804z/" target="_blank"><img src="/2016/images/top/1804sweetszenkoku.jpg"></a>
-<p class="block-date">日程：2018年4月23日～29日</p>
-<p class="block-title"><a href="http://astone.tv/events/week1804z/" target="_blank">和洋あれこれスイーツな<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>	
-<a href="http://antiochblog.jp/info/jerusalem2017/180424/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
-<p class="block-date">日程：2018年4月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180424/" target="_blank">エルサレム<br>箱根のホテルでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://gospelconcert.jp/cm.html" target="_blank"><img src="/2016/images/top/1804concert.jpg"></a>
@@ -101,11 +85,27 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/week1804z/" target="_blank"><img src="/2016/images/top/1804sweetszenkoku.jpg"></a>
+<p class="block-date">日程：2018年4月23日～29日</p>
+<p class="block-title"><a href="http://astone.tv/events/week1804z/" target="_blank">和洋あれこれスイーツな<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
 <p class="block-date">動画ブログ：2018年4月23日～29日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>初夏のTLCCC全国各教会</p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>	
+<a href="http://antiochblog.jp/info/jerusalem2017/180424/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
+<p class="block-date">日程：2018年4月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180424/" target="_blank">エルサレム<br>箱根のホテルでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
