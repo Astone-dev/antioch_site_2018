@@ -65,14 +65,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/patolis1804a/" target="_blank"><img src="/2016/images/top/1609patoliskawaguchi.jpg"></a>
-<p class="block-date">日程：2018年4月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/patolis1804a/" target="_blank">PATOLIS<br>川口の病院でボランティアゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/week1804z/" target="_blank"><img src="/2016/images/top/1804sweetszenkoku.jpg"></a>
 <p class="block-date">日程：2018年4月23日～29日</p>
 <p class="block-title"><a href="http://astone.tv/events/week1804z/" target="_blank">和洋あれこれスイーツな<br>全国各教会の一週間</a></p>
@@ -84,6 +76,14 @@
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
 <p class="block-date">動画ブログ：2018年4月23日～29日</p>
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>初夏の東京アンテオケ教会</p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>	
+<a href="http://antiochblog.jp/info/jerusalem2017/180424/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
+<p class="block-date">日程：2018年4月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180424/" target="_blank">エルサレム<br>箱根のホテルでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -165,6 +165,13 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/patolis1804a/" target="_blank"><img src="/2016/images/top/1609patoliskawaguchi.jpg"></a>
+<p class="block-date">日程：2018年4月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/patolis1804a/" target="_blank">PATOLIS<br>川口の病院でボランティアゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -250,12 +257,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/event1804/" target="_blank">ロシア系ユダヤ人レオン牧師来る！</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180416/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2018年4月10日</p>
+<p class="block-date">日程：2018年4月16日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180416/" target="_blank">エルサレム<br>三郷のグループホームでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
