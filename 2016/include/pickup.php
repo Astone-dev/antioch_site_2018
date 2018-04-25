@@ -38,6 +38,14 @@
 <p class="block-title"><a href="http://tlccc.net/~yokkaichi-zion/2015sub/online/i2015_sub_online.htm" target="_blank" onclick="javascript:pageTracker._trackPageview('レオン牧師四日市で奉仕生中継');">レオン牧師四日市で奉仕生中継<br>(日程：2018年4月17日 13:30〜／19:00〜)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1804kashiwa/" target="_blank"><img src="/2016/images/top/1801kansai.jpg"></a>
+<p class="block-date">日程：2018年4月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1804kashiwa/" target="_blank">初夏の暖かな柏を行く<br>柏宣教の旅</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -99,6 +107,14 @@
 <p class="block-date">動画ブログ：2018年4月23日～29日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>初夏のTLCCC全国各教会</p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>	
+<a href="http://antiochblog.jp/info/jerusalem2017/180427/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
+<p class="block-date">日程：2018年4月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180427/" target="_blank">エルサレム<br>さいたま市岩槻リハビリセンターコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
