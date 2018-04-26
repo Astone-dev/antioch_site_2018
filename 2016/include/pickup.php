@@ -43,7 +43,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1804kashiwa/" target="_blank"><img src="/2016/images/top/1804kashiwa.jpg"></a>
 <p class="block-date">日程：2018年4月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1804kashiwa/" target="_blank">穏やかなの季節柏を行く<br>柏聖会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1804kashiwa/" target="_blank">穏やかなの季節柏を行く<br>柏聖会<br>(日程：2018年4月27日)</a></p>
 </div>
 
 <div class="column-inner">
