@@ -49,14 +49,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1804kansai" target="_blank"><img src="/2016/images/top/1801kansai.jpg"></a>
-<p class="block-date">日程：2018年4月22日～26日</p>
-<p class="block-title"><a href="http://astone.tv/events/1804kansai" target="_blank">初夏の暖かな関西を行く<br>関西宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/1804gospel/" target="_blank"><img src="/2016/images/top/1708kokorogospeldigest_m.jpg"></a>
 <p class="block-date">日程：2018年4月22日～26日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1804gospel/" target="_blank">いよいよ来週！<br>こころごすぺる本番<br>出演者、スタッフ大忙し<br>(日程：2018年4月30日)</a></p>
@@ -117,14 +109,6 @@
 </div>-->
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>	
-<a href="http://antiochblog.jp/info/jerusalem2017/180424/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
-<p class="block-date">日程：2018年4月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180424/" target="_blank">エルサレム<br>箱根のホテルでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank"><img src="/2016/images/top/1803yorimichi32.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
@@ -181,6 +165,20 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1804kansai" target="_blank"><img src="/2016/images/top/1801kansai.jpg"></a>
+<p class="block-date">日程：2018年4月22日～26日</p>
+<p class="block-title"><a href="http://astone.tv/events/1804kansai" target="_blank">初夏の暖かな関西を行く<br>関西宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180424/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
+<p class="block-date">日程：2018年4月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180424/" target="_blank">エルサレム<br>箱根のホテルでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
