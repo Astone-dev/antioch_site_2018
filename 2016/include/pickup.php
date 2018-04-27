@@ -108,6 +108,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180427/" target="_blank">エルサレム<br>さいたま市岩槻リハビリセンターコンサート</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>	
+<a href="http://antiochblog.jp/info/jerusalem2017/180428/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2018年4月28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180428/" target="_blank">エルサレム<br>三郷市文化会館にてチャリティーコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank"><img src="/2016/images/top/1803yorimichi32.jpg"></a>
