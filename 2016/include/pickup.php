@@ -62,6 +62,22 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/week1804/" target="_blank">和洋あれこれスイーツな<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gospel2017/180428gospel/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+<p class="block-date">日程：2018年4月28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180428gospel/" target="_blank">4月 ゴスペルの集い</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年4月28日 18:30～</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年12月23日 18:30スタート)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
