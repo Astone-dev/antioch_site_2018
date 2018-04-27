@@ -128,7 +128,7 @@
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき <br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tokyo.antioch.jp/onsei/180415-leon.html" target="_blank"><img src="/2016/images/top/1804leon_e.jpg"></a>
@@ -140,7 +140,7 @@
 <span>NEW</span>
 <a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank"><img src="/2016/images/top/1804leon_getsu_m.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank">ロシア系ユダヤ人レオン牧師をお迎えしての<br>特別集会メッセージ<br>映像保存版</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span>NEW</span>
@@ -263,91 +263,6 @@
 <p class="block-date">日程：2018年4月19日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1804patolis/" target="_blank">PATOLIS<br>練馬区のデイサービス施設でボランティアコンサート</a></p>
 </div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/event1804/" target="_blank"><img src="/2016/images/top/1804leon.jpg"></a>
-<p class="block-date">日程：2018年4月14日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/event1804/" target="_blank">ロシア系ユダヤ人レオン牧師来る！</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180416/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2018年4月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180416/" target="_blank">エルサレム<br>三郷のグループホームでゴスペルコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1804charisma/" target="_blank"><img src="/2016/images/top/1804tochari.jpg"></a>
-<p class="block-date">日程：2018年4月14日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1804charisma/" target="_blank">レオン牧師来る！<br>春の東京カリスマ聖会<br>(日程：2018年4月15日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/april1804/" target="_blank"><img src="/2016/images/top/1804midoriantioch.jpg"></a>
-<p class="block-date">日程：2018年4月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/april1804/" target="_blank">緑の風爽やかに<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gospel1804/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
-<p class="block-date">日程：2018年4月7日〜15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel1804/" target="_blank">こころごすぺるに向かって<br>出演者、スタッフの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1804radio/" target="_blank"><img src="/2016/images/top/1804radioweek.jpg"></a>
-<p class="block-date">日程：2018年4月7日〜15日</p>
-<p class="block-title"><a href="http://astone.tv/events/1804radio/" target="_blank">新パーソナリティー加わる!<br>ラジオパーソナリティーのフレッシュな一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/euqaristias/20180415shinjuku/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
-<p class="block-date">日程：2018年4月15日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180415shinjuku/" target="_blank">エウカリスティアス<br>新宿デイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/april1804z/" target="_blank"><img src="/2016/images/top/1804midorizenkoku.jpg"></a>
-<p class="block-date">日程：2018年4月9日～15日</p>
-<p class="block-title"><a href="http://astone.tv/events/april1804z/" target="_blank">緑の風爽やかに<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180415day/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-<p class="block-date">日程：2018年4月15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180415day/" target="_blank">GRACEと宝石<br>杉並区のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1804gifts/" target="_blank"><img src="/2016/images/top/1804giftsjoyu.jpg"></a>
-<p class="block-date">日程：2018年4月13日～14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1804gifts/" target="_blank">Gifts<br>コンサートの2日間 飯田橋、千葉を行く</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2017healing/180414healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-<p class="block-date">日程：2018年4月14日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/180414healing/" target="_blank">4月 いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/2017labeille/180414arakawa/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
-<p class="block-date">日程：2018年4月14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180414arakawa/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
-</div>
-
 
 <div class="column-inner">
 <span class="label-2">映像</span>
