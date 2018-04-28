@@ -38,6 +38,14 @@
 <p class="block-title"><a href="http://tlccc.net/~yokkaichi-zion/2015sub/online/i2015_sub_online.htm" target="_blank" onclick="javascript:pageTracker._trackPageview('レオン牧師四日市で奉仕生中継');">レオン牧師四日市で奉仕生中継<br>(日程：2018年4月17日 13:30〜／19:00〜)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/kyushu1805/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
+<p class="block-date">日程：2018年4月29日～5月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/kyushu1805/" target="_blank">穏やかなの季節九州を行く<br>九州聖会<br>(日程：2018年4月30日～5月2日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -53,6 +61,14 @@
 <p class="block-date">日程：2018年4月23日～29日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/week1804/" target="_blank">和洋あれこれスイーツな<br>東京アンテオケ教会の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/happyday2017/20180429/" target="_blank"><img src="/2016/images/top/1804ohhappyday.jpg"></a>
+<p class="block-date">日程：2018年4月29日</p>
+<p class="block-title"><a href="http://astone.tv/events/happyday2017/20180429/" target="_blank">4月 OH HAPPY DAY</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
