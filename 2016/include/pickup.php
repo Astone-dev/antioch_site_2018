@@ -71,6 +71,13 @@
 </div>-->
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://youtu.be/78U7zpE8C" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV'); "><img src="/2016/images/top/1804giftstv.jpg"></a>
+<p class="block-title"><a href="https://youtu.be/78U7zpE8C" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV');">Gifts TV</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/gospel2017/180428gospel/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
