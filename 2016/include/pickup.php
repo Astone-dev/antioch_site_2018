@@ -38,13 +38,13 @@
 <p class="block-title"><a href="http://tlccc.net/~yokkaichi-zion/2015sub/online/i2015_sub_online.htm" target="_blank" onclick="javascript:pageTracker._trackPageview('レオン牧師四日市で奉仕生中継');">レオン牧師四日市で奉仕生中継<br>(日程：2018年4月17日 13:30〜／19:00〜)</a></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/kyushu1805/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
 <p class="block-date">日程：2018年4月29日～5月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/kyushu1805/" target="_blank">穏やかなの季節九州を行く<br>九州聖会<br>(日程：2018年4月30日～5月2日)</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/praise/kyushu1805/" target="_blank">5月の爽やかな風の中九州を行く<br>九州宣教の旅<br>(日程：2018年4月30日～5月2日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -62,28 +62,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/week1804/" target="_blank">和洋あれこれスイーツな<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/happyday2017/20180429/" target="_blank"><img src="/2016/images/top/1804ohhappyday.jpg"></a>
 <p class="block-date">日程：2018年4月29日</p>
-<p class="block-title"><a href="http://astone.tv/events/happyday2017/20180429/" target="_blank">4月 OH HAPPY DAY</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gospel2017/180428gospel/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
-<p class="block-date">日程：2018年4月28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180428gospel/" target="_blank">4月 ゴスペルの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年4月28日 18:30～</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年12月23日 18:30スタート)</a></p>
+<p class="block-title"><a href="http://astone.tv/events/happyday2017/20180429/" target="_blank">4月 OH HAPPY DAYの一日</a></p>
 </div>
 
 <div class="column-inner">
@@ -138,14 +122,6 @@
 <p class="block-date">日程：2018年4月27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180427/" target="_blank">エルサレム<br>さいたま市岩槻リハビリセンターコンサート</a></p>
 </div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>	
-<a href="http://antiochblog.jp/info/jerusalem2017/180428/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2018年4月28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180428/" target="_blank">エルサレム<br>三郷市文化会館にてチャリティーコンサート</a></p>
-</div>
 
 <div class="column-inner">
 <span>NEW</span>
@@ -204,6 +180,20 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gospel2017/180428gospel/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+<p class="block-date">日程：2018年4月28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180428gospel/" target="_blank">4月 ゴスペルの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180428/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2018年4月28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180428/" target="_blank">エルサレム<br>三郷市文化会館にてチャリティーコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -391,6 +381,14 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2017年3月17日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年3月17日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年4月28日 18:30～</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年12月23日 18:30スタート)</a></p>
 </div>-->
 
 <!--<div class="column-inner">
