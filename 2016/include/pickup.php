@@ -54,6 +54,23 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1804gospel/" target="_blank">いよいよ来週！<br>こころごすぺる本番<br>出演者、スタッフ大忙し<br>(日程：2018年4月30日)</a></p>
 </div>
 
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/may1805/" target="_blank"><img src="/2016/images/top/1804sweetsantioch.jpg"></a>
+<p class="block-date">日程：2018年4月30日～5月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/may1805/" target="_blank">ゴールデンウイーク<br>東京アンテオケ教会の一週間</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/may1805/" target="_blank"><img src="/2016/images/top/1804sweetsantioch.jpg"></a>
+<p class="block-date">日程：2018年4月30日～5月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/may1805/" target="_blank">吉祥寺J.GOSPEL FESに向かって</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -98,6 +115,14 @@
 <p class="block-date">日程：2018年4月30日</p>
 <p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 29th<br>座高円寺2　開演19時／開場18時30分<br>大人 前売 1500円  当日2000円<br>中高生 前売1000円 当日1400円</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/may1805z/" target="_blank"><img src="/2016/images/top/1804sweetszenkoku.jpg"></a>
+<p class="block-date">日程：2018年4月30日～5月6日</p>
+<p class="block-title"><a href="http://astone.tv/events/may1805z/" target="_blank">ゴールデンウイーク<br>全国各教会の一週間</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
