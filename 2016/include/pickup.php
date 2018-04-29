@@ -66,9 +66,9 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/may1805/" target="_blank"><img src="/2016/images/top/1804sweetsantioch.jpg"></a>
+<a href="http://astone.tv/events/jfes1805/" target="_blank"><img src="/2016/images/top/1804sweetsantioch.jpg"></a>
 <p class="block-date">日程：2018年4月30日～5月6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/may1805/" target="_blank">吉祥寺J.GOSPEL FESに向かって</a></p>
+<p class="block-title"><a href="http://astone.tv/events/jfes1805/" target="_blank">吉祥寺J.GOSPEL FESに向かって</a></p>
 </div>-->
 
 <div class="column-inner">
