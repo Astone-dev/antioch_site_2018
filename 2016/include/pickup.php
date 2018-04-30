@@ -49,42 +49,34 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1804gospel/" target="_blank"><img src="/2016/images/top/1708kokorogospeldigest_m.jpg"></a>
-<p class="block-date">日程：2018年4月22日～26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1804gospel/" target="_blank">いよいよ今日本番！<br>こころごすぺる<br>出演者、スタッフ大忙し<br>(日程：2018年4月30日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/may1805/" target="_blank"><img src="/2016/images/top/1805gwantioch.jpg"></a>
 <p class="block-date">日程：2018年4月30日～5月6日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/may1805/" target="_blank">ゴールデンウイーク<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/jfes1805/" target="_blank"><img src="/2016/images/top/1805kichijyojifes.jpg"></a>
 <p class="block-date">日程：2018年4月30日～5月6日</p>
 <p class="block-title"><a href="http://astone.tv/events/jfes1805/" target="_blank">吉祥寺J.GOSPEL FESに向かって<br>各グループとスタッフの一週間<br>(日程：2018年5月4日)</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/gospel1804/" target="_blank"><img src="/2016/images/top/1805kichijyojifes.jpg"></a>
+<a href="http://antiochblog.jp/info/gospel1804/" target="_blank"><img src="/2016/images/top/1805gwsanbitai.jpg"></a>
 <p class="block-date">日程：2018年5月1日～5月6日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/gospel1804/" target="_blank">ゴールデンウィーク<br>賛美隊大爆発</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/chiba1804/" target="_blank"><img src="/2016/images/top/1805kichijyojifes.jpg"></a>
+<a href="http://astone.tv/events/chiba1804/" target="_blank"><img src="/2016/images/top/1805truejerione.jpg"></a>
 <p class="block-date">日程：2018年5月1日</p>
 <p class="block-title"><a href="http://astone.tv/events/chiba1804/" target="_blank">True Vine、エルサレム<br>千葉のショッピングモールでコンサート<br>(日程：2018年5月4日)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -101,7 +93,7 @@
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>初夏の東京アンテオケ教会</p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://gospelconcert.jp/cm.html" target="_blank"><img src="/2016/images/top/1804concert.jpg"></a>
@@ -113,7 +105,7 @@
 <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1803kokorogospelinfo.jpg"></a>
 <p class="block-date">日程：2018年4月30日</p>
 <p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 29th<br>座高円寺2　開演19時／開場18時30分<br>大人 前売 1500円  当日2000円<br>中高生 前売1000円 当日1400円</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -196,6 +188,14 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1804gospel/" target="_blank"><img src="/2016/images/top/1708kokorogospeldigest_m.jpg"></a>
+<p class="block-date">日程：2018年4月22日～26日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1804gospel/" target="_blank">いよいよ今日本番！<br>こころごすぺる<br>出演者、スタッフ大忙し<br>(日程：2018年4月30日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
