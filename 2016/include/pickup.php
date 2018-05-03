@@ -7,52 +7,12 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内のライブ配信中をタップしてごらんください</i></p>
 </div>-->
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1804charisma/" target="_blank"><img src="/2016/images/top/1703tokyocharisma.jpg"></a>
-<p class="block-date">日程：2018年4月14日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1804charisma/" target="_blank">4月 東京カリスマ聖会</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span>NEW</span>
-<a href="" target="_blank"><img src="/2016/images/top/1804leon.jpg"></a>
-<p class="block-date">日程：2018年4月15日～16日</p>
-<p class="block-title"><a href="" target="_blank">ロシア系ユダヤ人レオン牧師来日！<br>■15日 第2礼拝(10:30〜 会堂)／東京カリスマ聖会(19:00〜 ハイアットリージェンシー東京)<br>■16日 レオン牧師をお迎えしての特別集会(19:00〜 会堂)</p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人レオン牧師来る！'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2018年4月16日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人レオン牧師来る！');">ロシア系ユダヤ人レオン牧師来る！生中継<br>(日程：2018年4月16日 19:00スタート)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tlccc.net/~yokkaichi-zion/2015sub/online/i2015_sub_online.htm" target="_blank" onclick="javascript:pageTracker._trackPageview('レオン牧師四日市で奉仕生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2018年4月17日</p>
-<p class="block-title"><a href="http://tlccc.net/~yokkaichi-zion/2015sub/online/i2015_sub_online.htm" target="_blank" onclick="javascript:pageTracker._trackPageview('レオン牧師四日市で奉仕生中継');">レオン牧師四日市で奉仕生中継<br>(日程：2018年4月17日 13:30〜／19:00〜)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1804meetings/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
-<p class="block-date">日程：2018年5月4日～5日</p>
-<p class="block-title"><a href="http://astone.tv/events/1804meetings/" target="_blank">5月の爽やかな風の中関東を行く<br>川崎・町田宣教の旅<br>(日程：2018年5月4日～5日)</a></p>
-</div>-->
-
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/may1805/" target="_blank"><img src="/2016/images/top/1805gwantioch.jpg"></a>
-<p class="block-date">日程：2018年4月30日～5月6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/may1805/" target="_blank">ゴールデンウイーク<br>東京アンテオケ教会の一週間</a></p>
+<a href="http://astone.tv/events/1804meetings/" target="_blank"><img src="/2016/images/top/1805kawasaki.jpg"></a>
+<p class="block-date">日程：2018年5月4日～5日</p>
+<p class="block-title"><a href="http://astone.tv/events/1804meetings/" target="_blank">新緑まぶしい季節の中関東を行く<br>川崎・町田宣教の旅<br>(日程：2018年5月4日～5日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -61,6 +21,23 @@
 <a href="http://astone.tv/events/jfes1805/" target="_blank"><img src="/2016/images/top/1805kichijyojifes.jpg"></a>
 <p class="block-date">日程：2018年4月30日～5月6日</p>
 <p class="block-title"><a href="http://astone.tv/events/jfes1805/" target="_blank">吉祥寺J.GOSPEL FESに向かって<br>各グループとスタッフの一週間<br>(日程：2018年5月4日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像　</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES聖会生中継');"><img src="/2016/images/top/1805kichijyojifeslive.png"></a>
+<p class="block-date">2018年5月4日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES聖会生中継');">吉祥寺J.GOSPEL FES聖会生中継<br>時間 11:00〜16:00<br></a>
+<i style="color:#ff0000;font-size: 11px;">※ページ内のライブ配信中をタップしてごらんください</i></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/may1805/" target="_blank"><img src="/2016/images/top/1805gwantioch.jpg"></a>
+<p class="block-date">日程：2018年4月30日～5月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/may1805/" target="_blank">ゴールデンウイーク<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -93,19 +70,6 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=78U7zpE8CJ0" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV');">Gifts TV</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://gospelconcert.jp/cm.html" target="_blank"><img src="/2016/images/top/1804concert.jpg"></a>
-<p class="block-title"><a href="http://gospelconcert.jp/cm.html" target="_blank">こころごすぺる<br>紹介映像<br>(再生時間 10:03)</a></p>
-</div>
-
-<div class="column-inner">
-<span>NEW</span>
-<a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1803kokorogospelinfo.jpg"></a>
-<p class="block-date">日程：2018年4月30日</p>
-<p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 29th<br>座高円寺2　開演19時／開場18時30分<br>大人 前売 1500円  当日2000円<br>中高生 前売1000円 当日1400円</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -370,13 +334,6 @@
 
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
-<a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank"><img src="/2016/images/top/1710israelcm.jpg"></a>
-<p class="block-date">日程：2017年10月30日~11月11日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201710-israelcm/" target="_blank">2017年11月イスラエルチーム紹介映像</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
 <a href="http://movie.antioch.jp/2017hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
 <p class="block-title"><a href="http://movie.antioch.jp/2017hcff/" target="_blank">第7回 白馬クリスチャンフィルムフェスティバル<br>受賞作品とその他全作品</a></p>
 </div>-->
@@ -431,20 +388,4 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2017年3月17日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年3月17日 18:30スタート)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年4月28日 18:30～</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年12月23日 18:30スタート)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="/online/" target="_blank" onclick="javascript:pageTracker._trackPageview('エルサレムの平和を祈る集い生中継');"><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2017年10月1日 18:00-20:30</p>
-<p class="block-title"><a href="/online/" target="_blank" onclick="javascript:pageTracker._trackPageview('エルサレムの平和を祈る集い生中継');">エルサレムの平和を祈る集い 生中継<br>(日程：2017年10月1日 18:00スタート)</a></p>
 </div>-->
