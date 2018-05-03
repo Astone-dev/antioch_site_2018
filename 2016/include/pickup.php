@@ -38,6 +38,14 @@
 <p class="block-title"><a href="http://tlccc.net/~yokkaichi-zion/2015sub/online/i2015_sub_online.htm" target="_blank" onclick="javascript:pageTracker._trackPageview('レオン牧師四日市で奉仕生中継');">レオン牧師四日市で奉仕生中継<br>(日程：2018年4月17日 13:30〜／19:00〜)</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1804meetings/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
+<p class="block-date">日程：2018年5月4日～5日</p>
+<p class="block-title"><a href="http://astone.tv/events/1804meetings/" target="_blank">5月の爽やかな風の中関東を行く<br>川崎・町田宣教の旅<br>(日程：2018年5月4日～5日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
