@@ -23,6 +23,7 @@
 <p class="block-title"><a href="http://astone.tv/events/jfes1805/" target="_blank">吉祥寺J.GOSPEL FESに向かって<br>各グループとスタッフの一週間<br>(日程：2018年5月4日)</a></p>
 </div>
 
+<!--　
 <div class="column-inner">
 <span class="label-2">映像　</span>
 <span>NEW</span>
@@ -30,7 +31,7 @@
 <p class="block-date">2018年5月4日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');">吉祥寺J.GOSPEL FES生中継<br>時間 11:00〜16:00<br></a>
 <i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
-</div>
+</div> -->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
