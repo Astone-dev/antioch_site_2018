@@ -15,6 +15,22 @@
 <p class="block-title"><a href="http://astone.tv/events/1804meetings/" target="_blank">新緑まぶしい季節の中関東を行く<br>川崎・町田宣教の旅<br>(日程：2018年5月4日～5日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1805charisma/" target="_blank"><img src="/2016/images/top/1707tokaridigest_p.jpg"></a>
+<p class="block-date">日程：2018年5月5日～6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1805charisma/" target="_blank">5月 東京カリスマ聖会<br>(日程：2018年5月6日)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/gifts1805/" target="_blank"><img src="/2016/images/top/1705giftskashiwa.jpg"></a>
+<p class="block-date">日程：2018年5月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gifts1805/" target="_blank">Gifts <br>柏でコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
