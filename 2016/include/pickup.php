@@ -26,8 +26,8 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/gifts1805/" target="_blank"><img src="/2016/images/top/1805gifts.jpg"></a>
-<p class="block-date">日程：2018年5月5日</p>
+<a href="http://antiochblog.jp/info/gifts1805/" target="_blank"><img src="/2016/images/top/1804gifts.jpg"></a>
+<p class="block-date"> 日程：2018年5月5日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/gifts1805/" target="_blank">Gifts 柏を行く<br>柏でチャリティーコンサート</a></p>
 </div>
 
