@@ -7,6 +7,14 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内のライブ配信中をタップしてごらんください</i></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/hokuriku1805/" target="_blank"><img src="/2016/images/top/1703hokuriku.jpg"></a>
+<p class="block-date">日程：2018年5月6日～11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/hokuriku1805/" target="_blank">新緑まぶしい季節の中北陸を行く<br>北陸宣教の旅<br>(日程：2018年5月7日～11日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -56,6 +64,14 @@
 <p class="block-date">日程：2018年5月1日～5月6日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/gospel1804/" target="_blank">ゴールデンウィーク<br>賛美隊大爆発</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/euqaristias/20180506shinjuku/" target="_blank"><img src="/2016/images/top/1704eukarinerima.jpg"></a>
+<p class="block-date">日程：2018年5月6日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180506shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
