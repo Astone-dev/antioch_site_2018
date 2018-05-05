@@ -58,6 +58,13 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/watch?v=sXCtG-CGsn0&t=18s" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV'); "><img src="/2016/images/top/1804giftstv.jpg"></a>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=sXCtG-CGsn0&t=18s" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV');">GiftsTV ＃002<br>ゴスペルグループGiftsのワイワイ動画<br>(5月5日UP!／毎週土曜更新)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
@@ -71,14 +78,6 @@
 <p class="block-date">日程：2018年4月15日</p>
 <p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">4月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
 </div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/watch?v=sXCtG-CGsn0&t=18s" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV'); "><img src="/2016/images/top/1804giftstv.jpg"></a>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=sXCtG-CGsn0&t=18s" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV');">Gifts TV ＃002<br>(5月5日UP!／毎週土曜更新)</a></p>
-</div>
-
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
