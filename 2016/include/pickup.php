@@ -75,8 +75,8 @@
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="https://www.youtube.com/watch?v=78U7zpE8CJ0" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV'); "><img src="/2016/images/top/1804giftstv.jpg"></a>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=78U7zpE8CJ0" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV');">Gifts TV</a></p>
+<a href="https://www.youtube.com/watch?v=sXCtG-CGsn0&t=18s" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV'); "><img src="/2016/images/top/1804giftstv.jpg"></a>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=sXCtG-CGsn0&t=18s" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV');">Gifts TV ＃002<br>(5月5日UP!／毎週土曜更新)</a></p>
 </div>
 
 
