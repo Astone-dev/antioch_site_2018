@@ -27,25 +27,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1805charisma/" target="_blank"><img src="/2016/images/top/1805chari.jpg"></a>
-<p class="block-date">日程：2018年5月5日～6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1805charisma/" target="_blank">風薫る5月 東京カリスマ聖会<br>スタッフ大忙し<br>(日程：2018年5月6日)</a></p>
+<a href="http://antiochblog.jp/praise/5gatu18/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
+<p class="block-date">日程：2018年5月7日～13日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/5gatu18/" target="_blank">白馬キャンプ申し込みスタートワクワクの1週間<br>アンテオケ教会(思い出を振り返りつつ)<br>キャンプ日程:2018年 7月24日～27日</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/may1805/" target="_blank"><img src="/2016/images/top/1805gwantioch.jpg"></a>
-<p class="block-date">日程：2018年4月30日～5月6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/may1805/" target="_blank">ゴールデンウイーク<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/gospel1804/" target="_blank"><img src="/2016/images/top/1805gwsanbitai.jpg"></a>
-<p class="block-date">日程：2018年5月1日～5月6日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/gospel1804/" target="_blank">ゴールデンウィーク<br>賛美隊大爆発</a></p>
+<a href="http://antiochblog.jp/info/ikebukuro1805/" target="_blank"><img src="/2016/images/top/1710jgospelfesikebukuro.jpg"></a>
+<p class="block-date">日程：2018年5月7日～12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/ikebukuro1805/" target="_blank">池袋J.GOSPEL LIVEに向かって<br>出演者、スタッフの1週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -53,14 +45,6 @@
 <a href="/hakuba/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
 <p class="block-date">日程：2018年7月24日～7月27日</p>
 <p class="block-title"><a href="/hakuba/" target="_blank">白馬キャンプのご案内<br>(日程：プレキャンプ7/24(火)、本キャンプ7/25(水)～7/27(金))</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20180506shinjuku/" target="_blank"><img src="/2016/images/top/1704eukarinerima.jpg"></a>
-<p class="block-date">日程：2018年5月6日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180506shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
@@ -81,9 +65,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/may1805z/" target="_blank"><img src="/2016/images/top/1805gwzenkoku.jpg"></a>
-<p class="block-date">日程：2018年4月30日～5月6日</p>
-<p class="block-title"><a href="http://astone.tv/events/may1805z/" target="_blank">ゴールデンウイーク<br>全国各教会の一週間</a></p>
+<a href="http://astone.tv/events/5gatu18z/" target="_blank"><img src="/2016/images/top/1805hakubaz.jpg"></a>
+<p class="block-date">日程：2018年5月7日～13日</p>
+<p class="block-title"><a href="http://astone.tv/events/5gatu18z/" target="_blank">白馬キャンプ申し込みスタートときめきの1週間<br>全国各教会(思い出を振り返りつつ)<br>キャンプ日程:2018年 7月24日～27日</a></p>
 </div>
 
 <div class="column-inner">
@@ -93,14 +77,6 @@
 <p class="block-date">動画ブログ：2018年4月30日～5月6日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>初夏のTLCCC全国各教会</p>
 </div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>	
-<a href="http://antiochblog.jp/info/jerusalem2017/180427/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2018年4月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180427/" target="_blank">エルサレム<br>さいたま市岩槻リハビリセンターコンサート</a></p>
-</div>-->
 
 <div class="column-inner">
 <span>NEW</span>
@@ -159,6 +135,43 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1805charisma/" target="_blank"><img src="/2016/images/top/1805chari.jpg"></a>
+<p class="block-date">日程：2018年5月5日～6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1805charisma/" target="_blank">風薫る5月 東京カリスマ聖会<br>スタッフ大忙し<br>(日程：2018年5月6日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/may1805/" target="_blank"><img src="/2016/images/top/1805gwantioch.jpg"></a>
+<p class="block-date">日程：2018年4月30日～5月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/may1805/" target="_blank">ゴールデンウイーク<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/gospel1804/" target="_blank"><img src="/2016/images/top/1805gwsanbitai.jpg"></a>
+<p class="block-date">日程：2018年5月1日～5月6日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gospel1804/" target="_blank">ゴールデンウィーク<br>賛美隊大爆発</a></p>
+</div>
+
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20180506shinjuku/" target="_blank"><img src="/2016/images/top/1704eukarinerima.jpg"></a>
+<p class="block-date">日程：2018年5月6日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180506shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/may1805z/" target="_blank"><img src="/2016/images/top/1805gwzenkoku.jpg"></a>
+<p class="block-date">日程：2018年4月30日～5月6日</p>
+<p class="block-title"><a href="http://astone.tv/events/may1805z/" target="_blank">ゴールデンウイーク<br>全国各教会の一週間</a></p>
+</div>
+
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -242,6 +255,16 @@
 <p class="block-date">日程：2018年4月28日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180428/" target="_blank">エルサレム<br>三郷市文化会館にてチャリティーコンサート</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>	
+<a href="http://antiochblog.jp/info/jerusalem2017/180427/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2018年4月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180427/" target="_blank">エルサレム<br>さいたま市岩槻リハビリセンターコンサート</a></p>
+</div>-->
+
+
 
 <div class="column-inner">
 <span class="label-2">映像</span>
