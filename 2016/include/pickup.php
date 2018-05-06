@@ -8,19 +8,20 @@
 </div>-->
 
 <!--<div class="column-inner">
-<span class="label-1">ブログ</span>
+<span class="label-2">映像　</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/hokuriku1805/" target="_blank"><img src="/2016/images/top/1703hokuriku.jpg"></a>
-<p class="block-date">日程：2018年5月6日～11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/hokuriku1805/" target="_blank">新緑まぶしい季節の中北陸を行く<br>北陸宣教の旅<br>(日程：2018年5月7日～11日)</a></p>
+<a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');"><img src="/2016/images/top/1805kichijyojifeslive.png"></a>
+<p class="block-date">2018年5月4日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');">吉祥寺J.GOSPEL FES生中継<br>時間 11:00〜16:00<br></a>
+<i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
 </div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1804meetings/" target="_blank"><img src="/2016/images/top/1805kawasaki.jpg"></a>
-<p class="block-date">日程：2018年5月4日～5日</p>
-<p class="block-title"><a href="http://astone.tv/events/1804meetings/" target="_blank">新緑まぶしい季節の中関東を行く<br>川崎・町田宣教の旅<br>(日程：2018年5月4日～5日)</a></p>
+<a href="http://antiochblog.jp/praise/hokuriku1805/" target="_blank"><img src="/2016/images/top/1703hokuriku.jpg"></a>
+<p class="block-date">日程：2018年5月6日～11日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/hokuriku1805/" target="_blank">5月の明るい光の中北陸を行く<br>北陸宣教の旅<br>(日程：2018年5月7日～11日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -30,24 +31,6 @@
 <p class="block-date">日程：2018年5月5日～6日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1805charisma/" target="_blank">風薫る5月 東京カリスマ聖会<br>スタッフ大忙し<br>(日程：2018年5月6日)</a></p>
 </div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/gifts1805/" target="_blank"><img src="/2016/images/top/1804gifts.jpg"></a>
-<p class="block-date"> 日程：2018年5月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/gifts1805/" target="_blank">Gifts 柏を行く<br>柏でチャリティーコンサート</a></p>
-</div>
-
-<!--　
-<div class="column-inner">
-<span class="label-2">映像　</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');"><img src="/2016/images/top/1805kichijyojifeslive.png"></a>
-<p class="block-date">2018年5月4日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');">吉祥寺J.GOSPEL FES生中継<br>時間 11:00〜16:00<br></a>
-<i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
-</div> -->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -65,13 +48,20 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/gospel1804/" target="_blank">ゴールデンウィーク<br>賛美隊大爆発</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
+<span>NEW</span>
+<a href="/hakuba/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
+<p class="block-date">日程：2018年7月24日～7月27日</p>
+<p class="block-title"><a href="/hakuba/" target="_blank">白馬キャンプのご案内<br>(日程：プレキャンプ7/24(火)、本キャンプ7/25(水)～7/27(金))</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/euqaristias/20180506shinjuku/" target="_blank"><img src="/2016/images/top/1704eukarinerima.jpg"></a>
 <p class="block-date">日程：2018年5月6日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20180506shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -89,13 +79,6 @@
 </div>
 
 <div class="column-inner">
-<span>NEW</span>
-<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1804tcm_digest.jpg"></a>
-<p class="block-date">日程：2018年4月15日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">4月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/may1805z/" target="_blank"><img src="/2016/images/top/1805gwzenkoku.jpg"></a>
@@ -109,14 +92,6 @@
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
 <p class="block-date">動画ブログ：2018年4月30日～5月6日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>初夏のTLCCC全国各教会</p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/jfes1805/" target="_blank"><img src="/2016/images/top/1805kichijyojifes.jpg"></a>
-<p class="block-date">日程：2018年4月30日～5月6日</p>
-<p class="block-title"><a href="http://astone.tv/events/jfes1805/" target="_blank">吉祥寺J.GOSPEL FESに向かって<br>各グループとスタッフの一週間<br>(日程：2018年5月4日)</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -184,6 +159,33 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1804meetings/" target="_blank"><img src="/2016/images/top/1805kawasaki.jpg"></a>
+<p class="block-date">日程：2018年5月4日～5日</p>
+<p class="block-title"><a href="http://astone.tv/events/1804meetings/" target="_blank">新緑まぶしい季節の中関東を行く<br>川崎・町田宣教の旅<br>(日程：2018年5月4日～5日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/gifts1805/" target="_blank"><img src="/2016/images/top/1804gifts.jpg"></a>
+<p class="block-date"> 日程：2018年5月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gifts1805/" target="_blank">Gifts 柏を行く<br>柏でチャリティーコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1804tcm_digest.jpg"></a>
+<p class="block-date">日程：2018年4月15日</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">4月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/jfes1805/" target="_blank"><img src="/2016/images/top/1805kichijyojifes.jpg"></a>
+<p class="block-date">日程：2018年4月30日～5月6日</p>
+<p class="block-title"><a href="http://astone.tv/events/jfes1805/" target="_blank">吉祥寺J.GOSPEL FESに向かって<br>各グループとスタッフの一週間<br>(日程：2018年5月4日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
