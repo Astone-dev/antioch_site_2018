@@ -51,8 +51,8 @@
 <div class="column-inner">
 <span>NEW</span>
 <a href="/hakuba/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
-<p class="block-date">日程 プレキャンプ:7/24(火)、本キャンプ:7/25(水)-7/27(金)</p>
-<p class="block-title"><a href="/hakuba/" target="_blank">白馬キャンプ<br>お申し込み</a></p>
+<p class="block-date">日程 プレキャンプ:7/24(火), 本キャンプ:7/25(水)-7/27(金)</p>
+<p class="block-title"><a href="/hakuba/" target="_blank">白馬キャンプ お申し込み<br></a></p>
 </div>
 
 <div class="column-inner">
