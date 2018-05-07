@@ -54,12 +54,12 @@
 <p class="block-title"><a href="/hakuba/" target="_blank">白馬キャンプのご案内<br>(日程：プレキャンプ7/24(火)、本キャンプ7/25(水)～7/27(金))</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank"><img src="/2016/images/top/1804thanks_dstmovie.jpg"></a>
+<a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank"><img src="/2016/images/top/1805hakubacm.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank">白馬キャンプ<br>CM映像<br>(再生時間 11:56)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
