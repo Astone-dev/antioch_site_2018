@@ -84,13 +84,13 @@
 <p class="block-title"><a href="http://astone.tv/events/5gatu18z/" target="_blank">白馬キャンプ申し込みスタートときめきの1週間<br>全国各教会(思い出を振り返りつつ)<br>キャンプ日程:2018年 7月24日～27日</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180508/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">日程：2018年5月8日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180508/" target="_blank">エルサレム<br>三郷の施設でゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
