@@ -42,6 +42,7 @@
 
 <div class="column-inner">
 <span class="label-2">映像</span>
+<span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201805kokorogospel/" target="_blank"><img src="/2016/images/top/1805kokoro.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201805kokorogospel/" target="_blank">こころごすぺる<br>ダイジェスト映像<br>(再生時間 6:57)</a></p>
 </div>
@@ -55,6 +56,7 @@
 
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
+<span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank"><img src="/2016/images/top/1804thanks_dstmovie.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank">白馬キャンプ<br>CM映像<br>(再生時間 11:56)</a></p>
 </div>-->
