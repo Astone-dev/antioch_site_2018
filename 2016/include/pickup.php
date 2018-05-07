@@ -41,11 +41,23 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tv.antioch.jp/digest/201805kokorogospel/" target="_blank"><img src="/2016/images/top/1805kokoro.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201805kokorogospel/" target="_blank">こころごすぺる<br>ダイジェスト映像<br>(再生時間 6:57)</a></p>
+</div>
+
+<div class="column-inner">
 <span>NEW</span>
 <a href="/hakuba/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
 <p class="block-date">日程：2018年7月24日～7月27日</p>
 <p class="block-title"><a href="/hakuba/" target="_blank">白馬キャンプのご案内<br>(日程：プレキャンプ7/24(火)、本キャンプ7/25(水)～7/27(金))</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank"><img src="/2016/images/top/1804thanks_dstmovie.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank">白馬キャンプ<br>CM映像<br>(再生時間 11:56)</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">映像</span>
