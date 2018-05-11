@@ -16,6 +16,14 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span> NEW</span>
+<a href="http://antiochblog.jp/info/1805meeting/" target="_blank"><img src="/2016/images/top/1801koiwa.jpg"></a>
+<p class="block-date">日程：2018年5月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1805meeting/" target="_blank">5月の明るい光の中北陸を行く<br>亀戸宣教の旅<br>(日程：2018年5月12日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span> NEW</span>
@@ -76,6 +84,22 @@
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>初夏の東京アンテオケ教会</p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017healing/180512healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+<p class="block-date">日程：2018年5月12日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/180512healing/" target="_blank">5月 いやしの集い</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年5月12日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年5月12日 18:30スタート)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -83,6 +107,14 @@
 <p class="block-date">日程：2018年5月7日～13日</p>
 <p class="block-title"><a href="http://astone.tv/events/5gatu18z/" target="_blank">白馬キャンプ申し込みスタートときめきの1週間<br>全国各教会(思い出を振り返りつつ)<br>キャンプ日程:2018年 7月24日～27日</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180512/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2018年5月12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180512/" target="_blank">エルサレム<br></a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">動画</span>
