@@ -209,83 +209,11 @@
 </div>
 
 <div class="column-inner">
-<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1804tcm_digest.jpg"></a>
-<p class="block-date">日程：2018年4月15日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">4月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://astone.tv/events/jfes1805/" target="_blank"><img src="/2016/images/top/1805kichijyojifes.jpg"></a>
 <p class="block-date">日程：2018年4月30日～5月6日</p>
 <p class="block-title"><a href="http://astone.tv/events/jfes1805/" target="_blank">吉祥寺J.GOSPEL FESに向かって<br>各グループとスタッフの一週間<br>(日程：2018年5月4日)</a></p>
 </div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/kyushu1805/" target="_blank"><img src="/2016/images/top/1708kyusyuseika.jpg"></a>
-<p class="block-date">日程：2018年4月29日～5月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/kyushu1805/" target="_blank">5月の爽やかな風の中九州を行く<br>九州宣教の旅<br>(日程：2018年4月30日～5月2日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/chiba1804/" target="_blank"><img src="/2016/images/top/1805truejerione.jpg"></a>
-<p class="block-date">日程：2018年5月1日</p>
-<p class="block-title"><a href="http://astone.tv/events/chiba1804/" target="_blank">TrueVine、エルサレム<br>千葉のショッピングモールでコンサート<br>(日程：2018年5月1日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1804gospel/" target="_blank"><img src="/2016/images/top/1708kokorogospeldigest_m.jpg"></a>
-<p class="block-date">日程：2018年4月22日～26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1804gospel/" target="_blank">いよいよ今日本番！<br>こころごすぺる<br>出演者、スタッフ大忙し<br>(日程：2018年4月30日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/week1804/" target="_blank"><img src="/2016/images/top/1804sweetsantioch.jpg"></a>
-<p class="block-date">日程：2018年4月23日～29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/week1804/" target="_blank">和洋あれこれスイーツな<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/happyday2017/20180429/" target="_blank"><img src="/2016/images/top/1804ohhappyday.jpg"></a>
-<p class="block-date">日程：2018年4月29日</p>
-<p class="block-title"><a href="http://astone.tv/events/happyday2017/20180429/" target="_blank">4月 OH HAPPY DAYの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/week1804z/" target="_blank"><img src="/2016/images/top/1804sweetszenkoku.jpg"></a>
-<p class="block-date">日程：2018年4月23日～29日</p>
-<p class="block-title"><a href="http://astone.tv/events/week1804z/" target="_blank">和洋あれこれスイーツな<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gospel2017/180428gospel/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
-<p class="block-date">日程：2018年4月28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180428gospel/" target="_blank">4月 ゴスペルの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180428/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2018年4月28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180428/" target="_blank">エルサレム<br>三郷市文化会館にてチャリティーコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>	
-<a href="http://antiochblog.jp/info/jerusalem2017/180427/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2018年4月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180427/" target="_blank">エルサレム<br>さいたま市岩槻リハビリセンターコンサート</a></p>
-</div>-->
-
-
 
 <div class="column-inner">
 <span class="label-2">映像</span>
