@@ -33,6 +33,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1805tour/" target="_blank"><img src="/2016/images/top/1702giftskyuushu.jpg"></a>
+<p class="block-date">日程：2018年5月13日～19日</p>
+<p class="block-title"><a href="http://astone.tv/events/1805tour/" target="_blank">Gifts漫遊記<br>関西、四国、中国、中部を行く</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201805kokorogospel/" target="_blank"><img src="/2016/images/top/1805kokoro.jpg"></a>
