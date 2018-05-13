@@ -41,13 +41,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201805kokorogospel/" target="_blank"><img src="/2016/images/top/1805kokoro.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201805kokorogospel/" target="_blank">こころごすぺる<br>ダイジェスト映像<br>(再生時間 6:57)</a></p>
-</div>
-
-<div class="column-inner">
 <span>NEW</span>
 <a href="/hakuba/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
 <p class="block-date">日程：2018年7月24日～7月27日</p>
@@ -64,8 +57,8 @@
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="https://www.youtube.com/watch?v=sXCtG-CGsn0&t=18s" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV'); "><img src="/2016/images/top/1804giftstv.jpg"></a>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=sXCtG-CGsn0&t=18s" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV');">GiftsTV ＃002<br>ゴスペルグループGiftsのワイワイ動画<br>(5月5日UP!／毎週土曜更新)</a></p>
+<a href="https://www.youtube.com/watch?v=21uw_JAp9Ts&feature=youtu.be" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/1804giftstv.jpg"></a>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=21uw_JAp9Ts&feature=youtu.be" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV');">GiftsTV ＃003<br>ゴスペルグループGiftsのワイワイ動画<br>(5月12日UP!／毎週土曜更新)</a></p>
 </div>
 
 <div class="column-inner">
@@ -149,6 +142,12 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://tv.antioch.jp/digest/201805kokorogospel/" target="_blank"><img src="/2016/images/top/1805kokoro.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201805kokorogospel/" target="_blank">こころごすぺる<br>ダイジェスト映像<br>(再生時間 6:57)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
