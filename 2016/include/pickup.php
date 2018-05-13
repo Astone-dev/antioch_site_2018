@@ -24,28 +24,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/chube1805/" target="_blank">初夏の中部を行く<br>中部宣教の旅<br>(日程：2018年5月14日～17日)</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/thanks1805/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
-<p class="block-date">日程：2018年5月14日～20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1805/" target="_blank">東京アンテオケ教会の母の日<br>その後の一週間</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1805ai/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
-<p class="block-date">日程：2018年5月14日～20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1805ai/" target="_blank">AI導入に向かって<br>ワクワクの一週間</a></p>
-</div>-->
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/5gatu18/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
-<p class="block-date">日程：2018年5月7日～13日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/5gatu18/" target="_blank">白馬キャンプ申し込みスタートワクワクの1週間<br>アンテオケ教会(思い出を振り返りつつ)<br>キャンプ日程:2018年 7月24日～27日</a></p>
+<a href="http://antiochblog.jp/info/1805ai/" target="_blank"><img src="/2016/images/top/1805aidounnyu.jpg"></a>
+<p class="block-date">日程：2018年5月14日～20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1805ai/" target="_blank">AI導入に向かって<br>ワクワクの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -54,6 +38,14 @@
 <a href="http://astone.tv/events/1805tour/" target="_blank"><img src="/2016/images/top/1702giftskyuushu.jpg"></a>
 <p class="block-date">日程：2018年5月13日～19日</p>
 <p class="block-title"><a href="http://astone.tv/events/1805tour/" target="_blank">Gifts漫遊記<br>関西、四国、中国、中部を行く</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/thanks1805/" target="_blank"><img src="/2016/images/top/1805mother.jpg"></a>
+<p class="block-date">日程：2018年5月14日～20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1805/" target="_blank">東京アンテオケ教会の母の日<br>その後の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -85,20 +77,12 @@
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>初夏の東京アンテオケ教会</p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/thanks1805z/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
-<p class="block-date">日程：2018年5月14日～20日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1805z/" target="_blank">全国各教会の母の日<br>その後の一週間</a></p>
-</div>-->
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/5gatu18z/" target="_blank"><img src="/2016/images/top/1805hakubaz.jpg"></a>
-<p class="block-date">日程：2018年5月7日～13日</p>
-<p class="block-title"><a href="http://astone.tv/events/5gatu18z/" target="_blank">白馬キャンプ申し込みスタートときめきの1週間<br>全国各教会(思い出を振り返りつつ)<br>キャンプ日程:2018年 7月24日～27日</a></p>
+<a href="http://astone.tv/events/thanks1805z/" target="_blank"><img src="/2016/images/top/1805mother_z.jpg"></a>
+<p class="block-date">日程：2018年5月14日～20日</p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1805z/" target="_blank">全国各教会の母の日<br>その後の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -129,20 +113,6 @@
 <p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき <br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tokyo.antioch.jp/onsei/180415-leon.html" target="_blank"><img src="/2016/images/top/1804leon_e.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/onsei/180415-leon.html" target="_blank">レオン牧師<br>東京カリスマ聖会でのメッセージ<br>映像保存版</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank"><img src="/2016/images/top/1804leon_getsu_m.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/onsei/180416-leon.html" target="_blank">ロシア系ユダヤ人レオン牧師をお迎えしての<br>特別集会メッセージ<br>映像保存版</a></p>
-</div>-->
-
 <div class="column-inner">
 <span>NEW</span>
 <span class="label-2">映像</span>
@@ -171,6 +141,20 @@
 <span class="label-2">映像</span>
 <a href="http://tv.antioch.jp/digest/201805kokorogospel/" target="_blank"><img src="/2016/images/top/1805kokoro.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201805kokorogospel/" target="_blank">こころごすぺる<br>ダイジェスト映像<br>(再生時間 6:57)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/5gatu18/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
+<p class="block-date">日程：2018年5月7日～13日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/5gatu18/" target="_blank">白馬キャンプ申し込みスタートワクワクの1週間<br>アンテオケ教会(思い出を振り返りつつ)<br>キャンプ日程:2018年 7月24日～27日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/5gatu18z/" target="_blank"><img src="/2016/images/top/1805hakubaz.jpg"></a>
+<p class="block-date">日程：2018年5月7日～13日</p>
+<p class="block-title"><a href="http://astone.tv/events/5gatu18z/" target="_blank">白馬キャンプ申し込みスタートときめきの1週間<br>全国各教会(思い出を振り返りつつ)<br>キャンプ日程:2018年 7月24日～27日</a></p>
 </div>
 
 <div class="column-inner">
