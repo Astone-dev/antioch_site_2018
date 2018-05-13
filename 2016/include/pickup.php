@@ -29,7 +29,15 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/thanks1805/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
 <p class="block-date">日程：2018年5月14日～20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1805/" target="_blank"><br>アンテオケ教会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1805/" target="_blank">東京アンテオケ教会の母の日<br>その後の一週間</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/1805ai/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
+<p class="block-date">日程：2018年5月14日～20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1805ai/" target="_blank">AI導入に向かって<br>ワクワクの一週間</a></p>
 </div>-->
 
 <div class="column-inner">
@@ -82,7 +90,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/thanks1805z/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
 <p class="block-date">日程：2018年5月14日～20日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1805z/" target="_blank"><br>全国各教会</a></p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1805z/" target="_blank">全国各教会の母の日<br>その後の一週間</a></p>
 </div>-->
 
 <div class="column-inner">
