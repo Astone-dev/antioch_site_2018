@@ -86,6 +86,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180515/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
+<p class="block-date">日程：2018年5月15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180515/" target="_blank">GRACEと宝石<br>東中野のデイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
