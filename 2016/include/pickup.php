@@ -49,6 +49,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">日程：2018年5月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank">エルサレム<br>箱根のホテルでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
 <span>NEW</span>
 <a href="/hakuba/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
 <p class="block-date">日程：2018年7月24日～7月27日</p>
@@ -199,12 +207,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/hokuriku1805/" target="_blank">5月の明るい光の中北陸を行く<br>北陸宣教の旅<br>(日程：2018年5月7日～11日)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180508/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">日程：2018年5月8日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180508/" target="_blank">エルサレム<br>三郷の施設でゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
