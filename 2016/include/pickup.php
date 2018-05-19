@@ -41,6 +41,13 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/watch?v=SgnPbgiXGdQ&t=22s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/1804giftstv.jpg"></a>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=SgnPbgiXGdQ&t=22s" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV');">GiftsTV ＃004<br>ゴスペルグループGiftsのワイワイ動画<br>(5月19日UP!／毎週土曜更新)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/2018women/201805/" target="_blank"><img src="/2016/images/top/1708fujinkai.jpg"></a>
@@ -83,13 +90,6 @@
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank"><img src="/2016/images/top/1805hakubacm.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank">白馬キャンプ<br>CM映像<br>(再生時間 11:56)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/watch?v=21uw_JAp9Ts&feature=youtu.be" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/1804giftstv.jpg"></a>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=21uw_JAp9Ts&feature=youtu.be" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV');">GiftsTV ＃003<br>ゴスペルグループGiftsのワイワイ動画<br>(5月12日UP!／毎週土曜更新)</a></p>
 </div>
 
 <div class="column-inner">
