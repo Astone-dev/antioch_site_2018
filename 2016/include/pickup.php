@@ -53,7 +53,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/revival2017/180519night/" target="_blank"><img src="/2016/images/top/1610revivalnight.jpg"></a>
 <p class="block-date">日程：2018年5月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180519night/" target="_blank">4月 Revival Nightの一日</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180519night/" target="_blank">5月 Revival Nightの一日</a></p>
 </div>
 
 <div class="column-inner">
@@ -61,7 +61,7 @@
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2018年5月19日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');"> Revival Night生中継<br>(日程：2018年5月19日18:30スタート)</a></p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年5月19日18:30スタート)</a></p>
 </div>
 
 <div class="column-inner">
