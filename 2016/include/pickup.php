@@ -19,9 +19,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/1805toyofuji/" target="_blank"><img src="/2016/images/top/1804okinawa.jpg"></a>
+<a href="http://antiochblog.jp/info/okinawa1805/" target="_blank"><img src="/2016/images/top/1804okinawa.jpg"></a>
 <p class="block-date">ブログ：2018年5月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1805toyofuji/" target="_blank">一足早い夏の陽気<br>沖縄宣教の旅<br>(日程：2018年5月21日～23日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/okinawa1805/" target="_blank">一足早い夏の陽気<br>沖縄宣教の旅<br>(日程：2018年5月21日～23日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -43,17 +43,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/2018women/" target="_blank"><img src="/2016/images/top/1708fujinkai.jpg"></a>
+<a href="http://antiochblog.jp/praise/2018women/201805/" target="_blank"><img src="/2016/images/top/1708fujinkai.jpg"></a>
 <p class="block-date">日程：2018年5月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/" target="_blank">5月の婦人会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201805/" target="_blank">5月の婦人会</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
+<a href="http://astone.tv/events/2017byhisspirit/180520/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
 <p class="block-date">日程：2018年5月19日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/" target="_blank">By His Spirit<br>世田谷の高齢者施設と<br>高円寺のレストランでゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180520/" target="_blank">By His Spirit<br>世田谷の高齢者施設と<br>高円寺のレストランでゴスペルコンサート</a></p>
 </div>
 
 <!--<div class="column-inner">
