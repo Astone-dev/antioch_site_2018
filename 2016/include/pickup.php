@@ -24,10 +24,10 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/okinawa1805/" target="_blank">一足早い夏の陽気<br>沖縄宣教の旅<br>(日程：2018年5月21日～23日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/faith1805/" target="_blank"><img src="/2016/images/top/1805mother.jpg"></a>
+<a href="http://antiochblog.jp/praise/faith1805/" target="_blank"><img src="/2016/images/top/1805shokaantioch.jpg"></a>
 <p class="block-date">日程：2018年5月21日～27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1805/" target="_blank">初夏の風が清々しい<br>東京アンテオケ教会の一週間</a></p>
 </div>
@@ -35,33 +35,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/hibiki1805/" target="_blank"><img src="/2016/images/top/1805mother.jpg"></a>
+<a href="http://antiochblog.jp/praise/hibiki1805/" target="_blank"><img src="/2016/images/top/1805sakushiyorokobi.jpg"></a>
 <p class="block-date">日程：2018年5月21日～27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/hibiki1805/" target="_blank">風のひびき第5集<br>賛美曲賞受賞者喜びの一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1805ai/" target="_blank"><img src="/2016/images/top/1805aidounnyu.jpg"></a>
-<p class="block-date">日程：2018年5月14日～20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1805ai/" target="_blank">AI導入に向かって<br>ワクワクの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/thanks1805/" target="_blank"><img src="/2016/images/top/1805mother.jpg"></a>
-<p class="block-date">日程：2018年5月14日～20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1805/" target="_blank">東京アンテオケ教会の母の日<br>その後の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2018women/201805/" target="_blank"><img src="/2016/images/top/1708fujinkai.jpg"></a>
-<p class="block-date">日程：2018年5月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201805/" target="_blank">5月の婦人会</a></p>
 </div>
 
 <div class="column-inner">
@@ -87,13 +63,6 @@
 </div>
 
 <div class="column-inner">
-<span>NEW</span>
-<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1805chari_d.jpg"></a>
-<p class="block-date">日程：2018年5月6日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">東京カリスマ聖会<br>ダイジェスト写真集</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank"><img src="/2016/images/top/1805hakubacm.jpg"></a>
@@ -101,34 +70,27 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/thanks1805/" target="_blank"><img src="/2016/images/top/1805sakushiyorokobi.jpg"></a>
+<p class="block-date">日程：2018年5月21日～27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1805/" target="_blank">初夏の風が清々しい<br>全国各教会の一週間</a></p>
+</div>
+
+
+<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
-<p class="block-date">動画ブログ：2018年5月14日～5月20日</p>
+<p class="block-date">動画ブログ：2018年5月21日～5月27日</p>
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>初夏の東京アンテオケ教会</p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/thanks1805/" target="_blank"><img src="/2016/images/top/1805mother.jpg"></a>
-<p class="block-date">日程：2018年5月21日～27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1805/" target="_blank">初夏の風が清々しい<br>全国各教会の一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/thanks1805z/" target="_blank"><img src="/2016/images/top/1805mother_z.jpg"></a>
-<p class="block-date">日程：2018年5月14日～20日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1805z/" target="_blank">全国各教会の母の日<br>その後の一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
-<p class="block-date">動画ブログ：2018年5月14日～5月20日</p>
+<p class="block-date">動画ブログ：2018年5月21日～5月27日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>初夏のTLCCC全国各教会</p>
 </div>
 
@@ -175,6 +137,40 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1805ai/" target="_blank"><img src="/2016/images/top/1805aidounnyu.jpg"></a>
+<p class="block-date">日程：2018年5月14日～20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1805ai/" target="_blank">AI導入に向かって<br>ワクワクの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/thanks1805/" target="_blank"><img src="/2016/images/top/1805mother.jpg"></a>
+<p class="block-date">日程：2018年5月14日～20日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1805/" target="_blank">東京アンテオケ教会の母の日<br>その後の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2018women/201805/" target="_blank"><img src="/2016/images/top/1708fujinkai.jpg"></a>
+<p class="block-date">日程：2018年5月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201805/" target="_blank">5月の婦人会</a></p>
+</div>
+
+<div class="column-inner">
+<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1805chari_d.jpg"></a>
+<p class="block-date">日程：2018年5月6日</p>
+<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">東京カリスマ聖会<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/thanks1805z/" target="_blank"><img src="/2016/images/top/1805mother_z.jpg"></a>
+<p class="block-date">日程：2018年5月14日～20日</p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1805z/" target="_blank">全国各教会の母の日<br>その後の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
