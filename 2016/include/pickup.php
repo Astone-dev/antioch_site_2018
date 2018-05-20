@@ -24,6 +24,22 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/okinawa1805/" target="_blank">一足早い夏の陽気<br>沖縄宣教の旅<br>(日程：2018年5月21日～23日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/faith1805/" target="_blank"><img src="/2016/images/top/1805mother.jpg"></a>
+<p class="block-date">日程：2018年5月21日～27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1805/" target="_blank">初夏の風が清々しい<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/hibiki1805/" target="_blank"><img src="/2016/images/top/1805mother.jpg"></a>
+<p class="block-date">日程：2018年5月21日～27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/hibiki1805/" target="_blank">風のひびき第5集<br>賛美曲賞受賞者喜びの一週間</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -63,14 +79,6 @@
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180520/" target="_blank">By His Spirit<br>世田谷の高齢者施設と<br>高円寺のレストランでゴスペルコンサート</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2018年5月19日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年5月19日18:30スタート)</a></p>
-</div>-->
-
 <div class="column-inner">
 <span>NEW</span>
 <a href="/hakuba/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
@@ -99,6 +107,14 @@
 <p class="block-date">動画ブログ：2018年5月14日～5月20日</p>
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>初夏の東京アンテオケ教会</p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/thanks1805/" target="_blank"><img src="/2016/images/top/1805mother.jpg"></a>
+<p class="block-date">日程：2018年5月21日～27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1805/" target="_blank">初夏の風が清々しい<br>全国各教会の一週間</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
