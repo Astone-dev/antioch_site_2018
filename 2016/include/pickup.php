@@ -114,7 +114,6 @@
 </div>
 
 <div class="column-inner">
-<span>NEW</span>
 <span class="label-2">映像</span>
 <a href="http://movie.antioch.jp/2018hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
 <p class="block-title"><a href="http://movie.antioch.jp/2018hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>受賞作品と応募作品</a></p>
