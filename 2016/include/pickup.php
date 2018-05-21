@@ -64,18 +64,15 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<<<<<<< HEAD
 <a href="http://astone.tv/events/faith1805z/" target="_blank"><img src="/2016/images/top/1805mother.jpg"></a>
 <p class="block-date">日程：2018年5月21日～27日</p>
 <p class="block-title"><a href="http://astone.tv/events/faith1805z/" target="_blank">初夏の風が清々しい<br>全国各教会の一週間</a></p>
-</div>-->
-=======
+</div>
+
 <a href="http://antiochblog.jp/praise/thanks1805/" target="_blank"><img src="/2016/images/top/1805shokazenkoku.jpg"></a>
 <p class="block-date">日程：2018年5月21日～27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1805/" target="_blank">初夏の風が清々しい<br>全国各教会の一週間</a></p>
 </div>
-
->>>>>>> fe0dc3c658d3b600c2492d18a640f3d02f0e71b1
 
 <div class="column-inner">
 <span class="label-2">動画</span>
