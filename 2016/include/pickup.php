@@ -69,21 +69,21 @@
 <p class="block-title"><a href="http://astone.tv/events/faith1805z/" target="_blank">初夏の風が清々しい<br>全国各教会の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180522/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date"> 日程：2018年5月22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180521/" target="_blank">エルサレム<br>さいたま市岩槻のリハビリセンターでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180521/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">日程：2018年5月21日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180521/" target="_blank">エルサレム<br>三郷のグループホームでゴスペル教室</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">動画</span>
