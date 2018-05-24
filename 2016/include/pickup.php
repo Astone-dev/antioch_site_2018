@@ -34,30 +34,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1805true/" target="_blank"><img src="/2016/images/top/1804truevineramura.jpg"></a>
-<p class="block-date">日程：2018年5月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1805true/" target="_blank">TrueVine <br>練馬区の施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/suginami1805/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
-<p class="block-date">日程：2018年5月25日</p>
-<p class="block-title"><a href="http://astone.tv/events/suginami1805/" target="_blank">Immanuel、Beracha、CROIX<br>杉並区の特別養護老人施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180524/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-<p class="block-date">日程：2018年5月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180524/" target="_blank">GRACEと宝石<br>埼玉県志木市の施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/watch?v=SgnPbgiXGdQ&t=22s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/1805giftstv.jpg"></a>
@@ -144,6 +120,27 @@
 <a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1805true/" target="_blank"><img src="/2016/images/top/1804truevineramura.jpg"></a>
+<p class="block-date">日程：2018年5月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1805true/" target="_blank">TrueVine <br>練馬区の施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/suginami1805/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
+<p class="block-date">日程：2018年5月25日</p>
+<p class="block-title"><a href="http://astone.tv/events/suginami1805/" target="_blank">Immanuel、Beracha、CROIX<br>杉並区の特別養護老人施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180524/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
+<p class="block-date">日程：2018年5月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180524/" target="_blank">GRACEと宝石<br>埼玉県志木市の施設でゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
