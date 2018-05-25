@@ -33,6 +33,23 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/hibiki1805/" target="_blank">風のひびき第5集<br>賛美曲賞受賞者喜びの一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gospel2017/180526/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+<p class="block-date">日程：2018年5月26日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180526/" target="_blank">5月 ゴスペルの集い</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年5月26日 18:30～</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2018年5月26日 18:30スタート)</a></p>
+</div>-->
+
+
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
