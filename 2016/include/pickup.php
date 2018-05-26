@@ -16,6 +16,12 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1805hokkaido/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
+<p class="block-date">ブログ：2018年5月27日～31日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1805hokkaido/" target="_blank"><br>北海道宣教の旅<br>(日程：2018年5月28日～31日)</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -32,6 +38,14 @@
 <p class="block-date">日程：2018年5月21日～27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/hibiki1805/" target="_blank">風のひびき第5集<br>賛美曲賞受賞者喜びの一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2017students/20180527/" target="_blank"><img src="/2016/images/top/1708gakuseikai.jpg"></a>
+<p class="block-date">日程：2018年5月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/20180527/" target="_blank">5月 学生会</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -142,7 +156,7 @@
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/1805true/" target="_blank"><img src="/2016/images/top/1804truevineramura.jpg"></a>
 <p class="block-date">日程：2018年5月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1805true/" target="_blank">TrueVine <br>練馬区の施設でゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1805true/" target="_blank">TrueVine<br>練馬区の施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
