@@ -16,12 +16,6 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
 </div>-->
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1805hokkaido/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
-<p class="block-date">ブログ：2018年5月27日～31日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1805hokkaido/" target="_blank"><br>北海道宣教の旅<br>(日程：2018年5月28日～31日)</a></p>
-</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -40,35 +34,19 @@
 </div>
 
 <!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2017students/20180527/" target="_blank"><img src="/2016/images/top/1708gakuseikai.jpg"></a>
-<p class="block-date">日程：2018年5月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/20180527/" target="_blank">5月 学生会</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gospel2017/180526/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
-<p class="block-date">日程：2018年5月26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180526/" target="_blank">5月 ゴスペルの集い</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2018年5月26日 18:30～</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2018年5月26日 18:30スタート)</a></p>
-</div>
+</div>-->
 
 
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="https://www.youtube.com/watch?v=SgnPbgiXGdQ&t=22s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/1805giftstv.jpg"></a>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=SgnPbgiXGdQ&t=22s" target="_blank" onclick="javascript:pageTracker._trackPageview('Gifts TV');">GiftsTV ＃004<br>ゴスペルグループGiftsのワイワイ動画<br>(5月19日UP!／毎週土曜更新)</a></p>
+<a href="https://www.youtube.com/watch?v=gtQo3huAl5w&t=261s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180526giftstv.jpg"></a>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=gtQo3huAl5w&t=261s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃005<br>ゴスペルグループGiftsのワイワイ動画<br>(5月26日UP!／毎週土曜更新)</a></p>
 </div>
 
 <div class="column-inner">
@@ -154,9 +132,16 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gospel2017/180526/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+<p class="block-date">日程：2018年5月26日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180526/" target="_blank">5月 ゴスペルの集い</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/1805true/" target="_blank"><img src="/2016/images/top/1804truevineramura.jpg"></a>
 <p class="block-date">日程：2018年5月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1805true/" target="_blank">TrueVine<br>練馬区の施設でゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1805true/" target="_blank">TrueVine <br>練馬区の施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
