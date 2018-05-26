@@ -20,8 +20,16 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/praise/1805hokkaido/" target="_blank"><img src="/2016/images/top/1702hokkaidou.jpg"></a>
+<p class="block-date">ブログ：2018年5月27日～30日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1805hokkaido/" target="_blank">風爽やかな<br>北海道宣教の旅<br>(日程：2018年5月28日〜30日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/faith1805/" target="_blank"><img src="/2016/images/top/1805shokaantioch.jpg"></a>
-<p class="block-date">日程：2018年5月21日～27日</p>
+<p class="block-date">ブログ：2018年5月21日～27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1805/" target="_blank">初夏の風が清々しい<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
@@ -29,7 +37,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/hibiki1805/" target="_blank"><img src="/2016/images/top/1805sakushiyorokobi.jpg"></a>
-<p class="block-date">日程：2018年5月21日～27日</p>
+<p class="block-date">ブログ：2018年5月21日～27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/hibiki1805/" target="_blank">風のひびき第5集<br>賛美曲賞受賞者喜びの一週間</a></p>
 </div>
 
@@ -41,6 +49,14 @@
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2018年5月26日 18:30スタート)</a></p>
 </div>-->
 
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2017students/20180527/" target="_blank"><img src="/2016/images/top/1705gakuseikai.jpg"></a>
+<p class="block-date">ブログ：2018年5月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/20180527/" target="_blank">5月の学生会の一日</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
