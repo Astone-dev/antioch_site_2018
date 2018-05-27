@@ -25,6 +25,30 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1805hokkaido/" target="_blank">風爽やかな<br>北海道宣教の旅<br>(日程：2018年5月28日〜30日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/yobi1805/" target="_blank"><img src="/2016/images/top/1805shokaantioch.jpg"></a>
+<p class="block-date">ブログ：2018年5月28日～6月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1805/" target="_blank">梅雨間近<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/joy1805/" target="_blank"><img src="/2016/images/top/1805shokaantioch.jpg"></a>
+<p class="block-date">ブログ：2018年5月28日～6月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/joy1805/" target="_blank">Pepper導入に向かって</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/patolis1805/" target="_blank"><img src="/2016/images/top/1704patlis.jpg"></a>
+<p class="block-date">日程：2018年5月28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/patolis1805/" target="_blank">PATOLIS<br>練馬区の施設でゴスペルコンサート</a></p>
+</div>
+-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -40,15 +64,6 @@
 <p class="block-date">ブログ：2018年5月21日～27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/hibiki1805/" target="_blank">風のひびき第5集<br>賛美曲賞受賞者喜びの一週間</a></p>
 </div>
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年5月26日 18:30～</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2018年5月26日 18:30スタート)</a></p>
-</div>-->
-
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -86,6 +101,14 @@
 <p class="block-date">日程：2018年5月21日～27日</p>
 <p class="block-title"><a href="http://astone.tv/events/faith1805z/" target="_blank">初夏の風が清々しい<br>全国各教会の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/yobi1805z/" target="_blank"><img src="/2016/images/top/1805shokaantioch.jpg"></a>
+<p class="block-date">ブログ：2018年5月28日～6月3日</p>
+<p class="block-title"><a href="http://astone.tv/events/yobi1805z/" target="_blank">梅雨間近<br>全国各教会の一週間</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">動画</span>
