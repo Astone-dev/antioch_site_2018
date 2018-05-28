@@ -38,7 +38,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/joy1805/" target="_blank"><img src="/2016/images/top/1805peppertyokuzen.jpg"></a>
 <p class="block-date">ブログ：2018年5月28日～6月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/joy1805/" target="_blank">いよいよ間近！<br>Pepper導入に向かって<br>アンテオケ教会のわくわく</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/joy1805/" target="_blank">いよいよPepper導入へ！<br>わくわくなカウントダウン</a></p>
 </div>
 
 <div class="column-inner">
