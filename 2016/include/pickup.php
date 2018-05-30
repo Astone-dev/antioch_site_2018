@@ -41,13 +41,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/joy1805/" target="_blank">いよいよPepper導入へ！<br>わくわくなカウントダウン<br>(6月10日デビュー)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/uranos2017/180531/" target="_blank"><img src="/2016/images/top/1608uranosuconcert.jpg"></a>
 <p class="block-date">ブログ：2018年5月31日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180531/" target="_blank">ウラノス<br>小平の国立病院でゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
