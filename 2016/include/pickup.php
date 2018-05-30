@@ -65,20 +65,6 @@
 </div>
 
 <div class="column-inner">
-<span>NEW</span>
-<a href="/hakuba/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
-<p class="block-date">日程：2018年7月24日～7月27日</p>
-<p class="block-title"><a href="/hakuba/" target="_blank">白馬キャンプのご案内<br>(日程：プレキャンプ7/24(火)、本キャンプ7/25(水)～7/27(金))</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank"><img src="/2016/images/top/1805hakubacm.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank">白馬キャンプ<br>CM映像<br>(再生時間 11:56)</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/yobi1805z/" target="_blank"><img src="/2016/images/top/1805tsuyutyokzenkoku.jpg"></a>
@@ -92,6 +78,20 @@
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
 <p class="block-date">動画ブログ：2018年5月28日～6月3日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>初夏のTLCCC全国各教会</a></p>
+</div>
+
+<div class="column-inner">
+<span>NEW</span>
+<a href="/hakuba/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
+<p class="block-date">日程：2018年7月24日～7月27日</p>
+<p class="block-title"><a href="/hakuba/" target="_blank">白馬キャンプのご案内<br>(日程：プレキャンプ7/24(火)、本キャンプ7/25(水)～7/27(金))</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank"><img src="/2016/images/top/1805hakubacm.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank">白馬キャンプ<br>CM映像<br>(再生時間 11:56)</a></p>
 </div>
 
 <div class="column-inner">
