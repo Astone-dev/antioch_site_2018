@@ -19,6 +19,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/praise/1806charisma/" target="_blank"><img src="/2016/images/top/1806tochari.jpg"></a>
+<p class="block-date">ブログ：2018年6月1日～6月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1806charisma/" target="_blank">初夏の東京カリスマ聖会<br>スタッフてんやわんや<br>(日程：2018年6月3日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/yobi1805/" target="_blank"><img src="/2016/images/top/1805tsuyutyokuantioch.jpg"></a>
 <p class="block-date">ブログ：2018年5月28日～6月3日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/yobi1805/" target="_blank">梅雨間近<br>東京アンテオケ教会の一週間</a></p>
