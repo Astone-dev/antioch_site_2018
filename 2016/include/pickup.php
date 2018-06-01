@@ -33,14 +33,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/uranos2017/180531/" target="_blank"><img src="/2016/images/top/1608uranosuconcert.jpg"></a>
-<p class="block-date">ブログ：2018年5月31日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180531/" target="_blank">ウラノス<br>小平の国立病院でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201805-shortstory-cm/" target="_blank"><img src="/2016/images/top/1805seishonohanashi_m.jpg"></a>
@@ -69,13 +61,6 @@
 <a href="http://astone.tv/events/yobi1805z/" target="_blank"><img src="/2016/images/top/1805tsuyutyokzenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年5月28日～6月3日</p>
 <p class="block-title"><a href="http://astone.tv/events/yobi1805z/" target="_blank">梅雨間近<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180531/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date"> 日程：2018年5月31日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180531/" target="_blank">エルサレム<br>田無のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -151,6 +136,20 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/uranos2017/180531/" target="_blank"><img src="/2016/images/top/1608uranosuconcert.jpg"></a>
+<p class="block-date">ブログ：2018年5月31日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180531/" target="_blank">ウラノス<br>小平の国立病院でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180531/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date"> 日程：2018年5月31日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180531/" target="_blank">エルサレム<br>田無のデイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
 <a href="http://antiochblog.jp/info/patolis1805/" target="_blank"><img src="/2016/images/top/1704patlis.jpg"></a>
 <p class="block-date">日程：2018年5月28日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/patolis1805/" target="_blank">PATOLIS<br>練馬区の施設でゴスペルコンサート</a></p>
@@ -212,116 +211,10 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180524/" target="_blank">GRACEと宝石<br>埼玉県志木市の施設でゴスペルコンサート</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180522/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date"> 日程：2018年5月22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180521/" target="_blank">エルサレム<br>さいたま市岩槻のリハビリセンターでゴスペルコンサート</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180521/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2018年5月21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180521/" target="_blank">エルサレム<br>三郷のグループホームでゴスペル教室</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/okinawa1805/" target="_blank"><img src="/2016/images/top/1804okinawa.jpg"></a>
-<p class="block-date">ブログ：2018年5月20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/okinawa1805/" target="_blank">一足早い夏の陽気<br>沖縄宣教の旅<br>(日程：2018年5月21日～23日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/1805ai/" target="_blank"><img src="/2016/images/top/1805aidounnyu.jpg"></a>
-<p class="block-date">日程：2018年5月14日～20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1805ai/" target="_blank">AI導入に向かって<br>ワクワクの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/thanks1805/" target="_blank"><img src="/2016/images/top/1805mother.jpg"></a>
-<p class="block-date">日程：2018年5月14日～20日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1805/" target="_blank">東京アンテオケ教会の母の日<br>その後の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/2018women/201805/" target="_blank"><img src="/2016/images/top/1708fujinkai.jpg"></a>
-<p class="block-date">日程：2018年5月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201805/" target="_blank">5月の婦人会</a></p>
-</div>
-
 <div class="column-inner">
 <a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1805chari_d.jpg"></a>
 <p class="block-date">日程：2018年5月6日</p>
 <p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">東京カリスマ聖会<br>ダイジェスト写真集</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2017byhisspirit/180520/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
-<p class="block-date">日程：2018年5月19日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180520/" target="_blank">By His Spirit<br>世田谷の高齢者施設と<br>高円寺のレストランでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/thanks1805z/" target="_blank"><img src="/2016/images/top/1805mother_z.jpg"></a>
-<p class="block-date">日程：2018年5月14日～20日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1805z/" target="_blank">全国各教会の母の日<br>その後の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/1805toyofuji/" target="_blank"><img src="/2016/images/top/1608toyohashifuji.jpg"></a>
-<p class="block-date">ブログ：2018年5月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1805toyofuji/" target="_blank">緑の風の中を<br>豊橋、富士宣教の旅<br>(日程：2018年5月14日～17日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1805tour/" target="_blank"><img src="/2016/images/top/1702giftskyuushu.jpg"></a>
-<p class="block-date">日程：2018年5月13日～19日</p>
-<p class="block-title"><a href="http://astone.tv/events/1805tour/" target="_blank">Gifts漫遊記<br>関西、四国、中国、中部を行く</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/revival2017/180519night/" target="_blank"><img src="/2016/images/top/1610revivalnight.jpg"></a>
-<p class="block-date">日程：2018年5月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180519night/" target="_blank">5月 Revival Nightの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/2017labeille/180519/" target="_blank"><img src="/2016/images/top/1703lageiyumusashiurawa.jpg"></a>
-<p class="block-date">日程：2018年5月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180519/" target="_blank">ラベイユ<br>福祉施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180519/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">日程：2018年5月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180519/" target="_blank">エルサレム<br>さいたま市岩槻西グループホームでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1805nerima/" target="_blank"><img src="/2016/images/top/1701gateofnerimarouken.jpg"></a>
-<p class="block-date">日程：2018年5月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1805nerima/" target="_blank">The Gate of Praise<br>練馬区の老健でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/uranos2017/180518/" target="_blank"><img src="/2016/images/top/1610uranosuconcert.jpg"></a>
-<p class="block-date">日程：2018年5月18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180518/" target="_blank">ウラノス<br>新百合ヶ丘の老人施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
