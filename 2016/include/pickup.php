@@ -16,6 +16,14 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/chugoku1806/" target="_blank"><img src="/2016/images/top/1609chugokuseikai.jpg"></a>
+<p class="block-date">ブログ：2018年6月3日～7日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/chugoku1806/" target="_blank">風爽やかな<br>中国宣教の旅<br>(日程：2018年6月4日〜6日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
