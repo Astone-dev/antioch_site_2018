@@ -28,7 +28,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/june2018/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
-<p class="block-date">ブログ：2018年6月4日～10日</p>
+<p class="block-date"> ブログ：2018年6月4日～10日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/june2018/" target="_blank">白馬キャンプに向かって<br>東京アンテオケ教会メンバー<br>ワクワクな一週間（思い出を振り返りつつ）</a></p>
 </div>
 
