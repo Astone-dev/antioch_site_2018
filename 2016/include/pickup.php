@@ -80,14 +80,6 @@
 </div>-->
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180602/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-<p class="block-date">ブログ：2018年6月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180602/" target="_blank">GRACEと宝石<br>埼玉のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
@@ -184,6 +176,13 @@
 <a href="http://astone.tv/events/euqaristias/20180603shinjuku/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
 <p class="block-date">ブログ：2018年6月3日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20180603shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180602/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
+<p class="block-date">ブログ：2018年6月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180602/" target="_blank">GRACEと宝石<br>埼玉のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
