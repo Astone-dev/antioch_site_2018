@@ -83,10 +83,10 @@
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="
-http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank"><img src="/2016/images/top/1802gospel-u.jpg"></a>
+/internet-tv/180218-yosen.html" target="_blank"><img src="/2016/images/top/1802gospel-u.jpg"></a>
 <p class="block-date">日程：2018年2月18日</p>
 <p class="block-title"><a href="
-http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br> U21・KIDS東京アンテオケ予選 <br>映像保存版</a></p>
+/internet-tv/180218-yosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br> U21・KIDS東京アンテオケ予選 <br>映像保存版</a></p>
 </div>
 
 <div class="column-inner">
@@ -169,8 +169,8 @@ http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPEL�
 
 <div class="column-inner">
 <span>NEW</span>
-<a href="http://tokyo.antioch.jp/yorimichi/result-alacarte.html" target="_blank"><img src="/2016/images/top/1801yorimichi30kekka.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-alacarte.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.30<br>「祝福のアラカルト」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+<a href="/yorimichi/result-alacarte.html" target="_blank"><img src="/2016/images/top/1801yorimichi30kekka.jpg"></a>
+<p class="block-title"><a href="/yorimichi/result-alacarte.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.30<br>「祝福のアラカルト」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>
 
 <div class="column-inner">
@@ -187,14 +187,14 @@ http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPEL�
 </div>-->
 
 <!--<div class="column-inner">
-<a href="http://tokyo.antioch.jp/yorimichi/result-important.html" target="_blank"><img src="/2016/images/top/1711yorimichi29kekka.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-important.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.29<br>「大事な事柄が分かった時」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+<a href="/yorimichi/result-important.html" target="_blank"><img src="/2016/images/top/1711yorimichi29kekka.jpg"></a>
+<p class="block-title"><a href="/yorimichi/result-important.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.29<br>「大事な事柄が分かった時」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
 
 <!--<div class="column-inner">
 <span>NEW</span>
-<a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+<a href="/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
+<p class="block-title"><a href="/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
 
 <div class="column-inner">
@@ -325,7 +325,7 @@ http://tokyo.antioch.jp/internet-tv/180218-yosen.html" target="_blank">J.GOSPEL�
 <span>NEW</span>
 <a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
 <p class="block-date">日程：2017年10月1日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>集会のご案内</a></p>
+<p class="block-title"><a href="/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>集会のご案内</a></p>
 </div>-->
 
 <!--<div class="column-inner">

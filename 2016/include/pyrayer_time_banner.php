@@ -18,17 +18,17 @@
   }
   
   function show_prayer_html(){
-  	 echo '<div class="column-inner"><span>NEW</span><a href="http://tokyo.antioch.jp/prayer-time/" target="_blank"><img src="/2016/images/top/1604prayertime.jpg"></a>
+  	 echo '<div class="column-inner"><span>NEW</span><a href="/prayer-time/" target="_blank"><img src="/2016/images/top/1604prayertime.jpg"></a>
   	 <p class="block-date">毎週火曜日22:00〜23:00生中継</p>
-  	 <p class="block-title"><a href="http://tokyo.antioch.jp/prayer-time/" target="_blank">祈りの時間<br>プレイヤータイム 祈りによる恵みを受けるために<br></a></p></div>';
+  	 <p class="block-title"><a href="/prayer-time/" target="_blank">祈りの時間<br>プレイヤータイム 祈りによる恵みを受けるために<br></a></p></div>';
   }
   
   /* 以下を表示させる
    <div class="column-inner">
    <span>NEW</span>
-   <a href="http://tokyo.antioch.jp/prayer-time/" target="_blank"><img src="/2016/images/top/1604prayertime.jpg"></a>
+   <a href="/prayer-time/" target="_blank"><img src="/2016/images/top/1604prayertime.jpg"></a>
    <p class="block-date">毎週火曜日22:00〜23:00生中継</p>
-   <p class="block-title"><a href="http://tokyo.antioch.jp/prayer-time/" target="_blank">祈りの時間<br>プレイヤータイム 祈りによる恵みを受けるために<br>
+   <p class="block-title"><a href="/prayer-time/" target="_blank">祈りの時間<br>プレイヤータイム 祈りによる恵みを受けるために<br>
 </a></p>
    </div>
   */

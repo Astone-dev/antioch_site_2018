@@ -158,8 +158,8 @@
 
 <div class="column-inner">
 <span>NEW</span>
-<a href="http://tokyo.antioch.jp/yorimichi/result-yokatta.html" target="_blank"><img src="/2016/images/top/1804yorimichi31kekka.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-yokatta.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.31<br>「神様がいてよかったと思った瞬間」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+<a href="/yorimichi/result-yokatta.html" target="_blank"><img src="/2016/images/top/1804yorimichi31kekka.jpg"></a>
+<p class="block-title"><a href="/yorimichi/result-yokatta.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.31<br>「神様がいてよかったと思った瞬間」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>
 
 <div class="column-inner">
@@ -182,14 +182,14 @@
 </div>-->
 
 <!--<div class="column-inner">
-<a href="http://tokyo.antioch.jp/yorimichi/result-important.html" target="_blank"><img src="/2016/images/top/1711yorimichi29kekka.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-important.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.29<br>「大事な事柄が分かった時」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+<a href="/yorimichi/result-important.html" target="_blank"><img src="/2016/images/top/1711yorimichi29kekka.jpg"></a>
+<p class="block-title"><a href="/yorimichi/result-important.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.29<br>「大事な事柄が分かった時」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
 
 <!--<div class="column-inner">
 <span>NEW</span>
-<a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
-<p class="block-title"><a href="http://tokyo.antioch.jp/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+<a href="/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
+<p class="block-title"><a href="/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
 
 <div class="column-inner">
@@ -276,9 +276,9 @@
 </div>
 
 <div class="column-inner">
-<a href="http://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1805chari_d.jpg"></a>
+<a href="/tcm/" target="_blank"><img src="/2016/images/top/1805chari_d.jpg"></a>
 <p class="block-date">日程：2018年5月6日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/tcm/" target="_blank">東京カリスマ聖会<br>ダイジェスト写真集</a></p>
+<p class="block-title"><a href="/tcm/" target="_blank">東京カリスマ聖会<br>ダイジェスト写真集</a></p>
 </div>
 
 <div class="column-inner">
@@ -322,7 +322,7 @@
 <span>NEW</span>
 <a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
 <p class="block-date">日程：2017年10月1日</p>
-<p class="block-title"><a href="http://tokyo.antioch.jp/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>集会のご案内</a></p>
+<p class="block-title"><a href="/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>集会のご案内</a></p>
 </div>-->
 
 <!--<div class="column-inner">
