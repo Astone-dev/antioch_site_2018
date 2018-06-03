@@ -49,38 +49,6 @@
 </div>-->
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1806charisma/" target="_blank"><img src="/2016/images/top/1806tochari.jpg"></a>
-<p class="block-date">ブログ：2018年6月1日～6月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1806charisma/" target="_blank">初夏の東京カリスマ聖会<br>スタッフてんやわんや<br>(日程：2018年6月3日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/yobi1805/" target="_blank"><img src="/2016/images/top/1805tsuyutyokuantioch.jpg"></a>
-<p class="block-date">ブログ：2018年5月28日～6月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1805/" target="_blank">梅雨間近<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/joy1805/" target="_blank"><img src="/2016/images/top/1805peppertyokuzen.jpg"></a>
-<p class="block-date">ブログ：2018年5月28日～6月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/joy1805/" target="_blank">いよいよPepper導入へ！<br>わくわくなカウントダウン<br>(6月10日デビュー)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20180603shinjuku/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
-<p class="block-date">ブログ：2018年6月3日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180603shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201805-shortstory-cm/" target="_blank"><img src="/2016/images/top/1805seishonohanashi_m.jpg"></a>
@@ -110,14 +78,6 @@
 <p class="block-date">ブログ：2018年6月4日～10日</p>
 <p class="block-title"><a href="http://astone.tv/events/june2018z/" target="_blank">白馬キャンプに向かって<br>全国各教会<br>ワクワクな一週間（思い出を振り返りつつ）</a></p>
 </div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/yobi1805z/" target="_blank"><img src="/2016/images/top/1805tsuyutyokzenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年5月28日～6月3日</p>
-<p class="block-title"><a href="http://astone.tv/events/yobi1805z/" target="_blank">梅雨間近<br>全国各教会の一週間</a></p>
-</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -197,6 +157,41 @@
 <a href="/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1806charisma/" target="_blank"><img src="/2016/images/top/1806tochari.jpg"></a>
+<p class="block-date">ブログ：2018年6月1日～6月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1806charisma/" target="_blank">初夏の東京カリスマ聖会<br>スタッフてんやわんや<br>(日程：2018年6月3日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/yobi1805/" target="_blank"><img src="/2016/images/top/1805tsuyutyokuantioch.jpg"></a>
+<p class="block-date">ブログ：2018年5月28日～6月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1805/" target="_blank">梅雨間近<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/joy1805/" target="_blank"><img src="/2016/images/top/1805peppertyokuzen.jpg"></a>
+<p class="block-date">ブログ：2018年5月28日～6月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/joy1805/" target="_blank">いよいよPepper導入へ！<br>わくわくなカウントダウン<br>(6月10日デビュー)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20180603shinjuku/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
+<p class="block-date">ブログ：2018年6月3日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180603shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/yobi1805z/" target="_blank"><img src="/2016/images/top/1805tsuyutyokzenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年5月28日～6月3日</p>
+<p class="block-title"><a href="http://astone.tv/events/yobi1805z/" target="_blank">梅雨間近<br>全国各教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
