@@ -151,6 +151,12 @@
 
 <div class="column-inner">
 <span>NEW </span>
+<a href="http://antiochblog.jp/info/mustbehappy/" target="_blank"><img src="/2016/images/top/1805yorimichi33.jpg"></a>
+<p class="block-date">毎日7:00更新</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/mustbehappy/" target="_blank">クリスチャンの寄り道 Vol.33<br>今回は「今までで一番幸せだった時」のお話です</a></p>
+</div>
+
+<div class="column-inner">
 <a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank"><img src="/2016/images/top/1803yorimichi32.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
