@@ -36,7 +36,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/hibiki1806/" target="_blank"><img src="/2016/images/top/1805kasyuoubostert.jpg"></a>
-<p class="block-date">ブログ：2018年6月4日～10日</p>
+<p class="block-date"> ブログ：2018年6月4日～10日</p>
 <p class="block-title"><a href="http://astone.tv/events/hibiki1806/" target="_blank">風のひびき第6週募集開始<br>作詞作曲者たちの驚くべき野心</a></p>
 </div>
 
