@@ -37,7 +37,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/hibiki1806/" target="_blank"><img src="/2016/images/top/1805kasyuoubostert.jpg"></a>
 <p class="block-date"> ブログ：2018年6月4日～10日</p>
-<p class="block-title"><a href="http://astone.tv/events/hibiki1806/" target="_blank">風のひびき第6週募集開始<br>作詞作曲者たちの驚くべき野心</a></p>
+<p class="block-title"><a href="http://astone.tv/events/hibiki1806/" target="_blank">風のひびき第6集募集開始<br>作詞作曲者たちの驚くべき野心</a></p>
 </div>
 
 <div class="column-inner">
@@ -45,8 +45,8 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/pepper1806/" target="_blank"><img src="/2016/images/top/1805peppertyokuzen.jpg"></a>
 <p class="block-date">ブログ：2018年6月4日～10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/pepper1806/" target="_blank">いよいよPepper来る！</a></p>
-</div>-->
+<p class="block-title"><a href="http://antiochblog.jp/info/pepper1806/" target="_blank">いよいよ今週！Pepperが来る！<br>期待ふくらむアンテオケ教会一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
