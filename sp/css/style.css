@@ -159,7 +159,7 @@ a {
   display: block;
   content: "";
   top: 2px;
-  background-image: url("http://tokyo.antioch.jp/images/anim_new_icon.gif");
+  background-image: url("/images/anim_new_icon.gif");
   width: 19px;
   height: 19px;
   background-repeat: no-repeat;
@@ -172,7 +172,7 @@ a {
   display: block;
   content: "";
   top: 2px;
-  background-image: url("http://tokyo.antioch.jp/images/anim_new_icon_w.gif");
+  background-image: url("/images/anim_new_icon_w.gif");
   width: 19px;
   height: 19px;
   background-repeat: no-repeat;
