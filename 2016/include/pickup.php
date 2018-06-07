@@ -19,9 +19,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/chugoku1806/" target="_blank"><img src="/2016/images/top/1609chugokuseikai.jpg"></a>
-<p class="block-date">ブログ：2018年6月3日～7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/chugoku1806/" target="_blank">青葉薫る中国地方を行く<br>中国宣教の旅<br>(日程：2018年6月4日〜6日)</a></p>
+<a href="http://antiochblog.jp/info/pepper1806/" target="_blank"><img src="/2016/images/top/1805peppertyokuzen.jpg"></a>
+<p class="block-date">ブログ：2018年6月4日～10日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/pepper1806/" target="_blank">いよいよ今週！Pepperが来る！<br>期待ふくらむアンテオケ教会一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -38,14 +38,6 @@
 <a href="http://astone.tv/events/hibiki1806/" target="_blank"><img src="/2016/images/top/1805kasyuoubostert.jpg"></a>
 <p class="block-date"> ブログ：2018年6月4日～10日</p>
 <p class="block-title"><a href="http://astone.tv/events/hibiki1806/" target="_blank">風のひびき第6集募集開始<br>作詞作曲者たちの驚くべき野心</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/pepper1806/" target="_blank"><img src="/2016/images/top/1805peppertyokuzen.jpg"></a>
-<p class="block-date">ブログ：2018年6月4日～10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/pepper1806/" target="_blank">いよいよ今週！Pepperが来る！<br>期待ふくらむアンテオケ教会一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -149,6 +141,13 @@
 <a href="/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/chugoku1806/" target="_blank"><img src="/2016/images/top/1609chugokuseikai.jpg"></a>
+<p class="block-date">ブログ：2018年6月3日～7日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/chugoku1806/" target="_blank">青葉薫る中国地方を行く<br>中国宣教の旅<br>(日程：2018年6月4日〜6日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
