@@ -88,6 +88,14 @@
 <p class="block-title"><a href="http://astone.tv/events/june2018z/" target="_blank">白馬キャンプに向かって<br>全国各教会<br>ワクワクな一週間（思い出を振り返りつつ）</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180609/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
+<p class="block-date">ブログ：2018年6月9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180609/" target="_blank">GRACEと宝石<br>埼玉のデイサービスでゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
