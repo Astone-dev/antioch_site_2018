@@ -41,23 +41,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017healing/180609healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-<p class="block-date">日程：2018年6月9日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/180609healing/" target="_blank">6月 いやしの集い</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年6月9日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年6月9日 18:30スタート)</a></p>
-</div>
-
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201805-shortstory-cm/" target="_blank"><img src="/2016/images/top/1805seishonohanashi_m.jpg"></a>
@@ -86,14 +69,6 @@
 <a href="http://astone.tv/events/june2018z/" target="_blank"><img src="/2016/images/top/1706zenkokuhakuba.jpg"></a>
 <p class="block-date">ブログ：2018年6月4日～10日</p>
 <p class="block-title"><a href="http://astone.tv/events/june2018z/" target="_blank">白馬キャンプに向かって<br>全国各教会<br>ワクワクな一週間（思い出を振り返りつつ）</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180609/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-<p class="block-date">ブログ：2018年6月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180609/" target="_blank">GRACEと宝石<br>埼玉のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -166,6 +141,21 @@
 <a href="/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017healing/180609healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+<p class="block-date">日程：2018年6月9日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/180609healing/" target="_blank">6月 いやしの集い</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180609/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
+<p class="block-date">ブログ：2018年6月9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180609/" target="_blank">GRACEと宝石<br>埼玉のデイサービスでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
