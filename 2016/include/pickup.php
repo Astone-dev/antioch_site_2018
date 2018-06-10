@@ -19,9 +19,25 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/joy1806/" target="_blank"><img src="/2016/images/top/1805peppertyokuzen.jpg"></a>
+<p class="block-date">ブログ：2018年6月11日～17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/joy1806/" target="_blank">いよいよPepper来る！<br>期待ふくらむアンテオケ教会一週間</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/faith1806/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
 <p class="block-date"> ブログ：2018年6月11日～17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1806/" target="_blank">ジメジメを吹きとばせ<br>東京アンテオケ教会の一週間</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1806kawaguchi" target="_blank"><img src="/2016/images/top/1804patolisnerima.jpg"></a>
+<p class="block-date"> ブログ：2018年6月11日</p>
+<p class="block-title"><a href="http://astone.tv/events/1806kawaguchi" target="_blank">PATOLIS<br>川口の病院でのボランティアコンサート</a></p>
 </div>-->
 
 <div class="column-inner">
