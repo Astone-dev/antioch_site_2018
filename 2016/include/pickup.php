@@ -16,6 +16,14 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/faith1806/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
+<p class="block-date"> ブログ：2018年6月11日～17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1806/" target="_blank">ジメジメを吹きとばせ<br>東京アンテオケ教会の一週間</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -62,6 +70,15 @@
 <a href="https://www.youtube.com/watch?v=niWA2sIdrGw&t=42s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180609giftstv.jpg"></a>
 <p class="block-title"><a href="https://www.youtube.com/watch?v=niWA2sIdrGw&t=42s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃007<br>ゴスペルグループGiftsのワイワイ動画<br>(6月9日UP!／毎週土曜更新)</a></p>
 </div>
+
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/faith1806z/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
+<p class="block-date"> ブログ：2018年6月11日～17日</p>
+<p class="block-title"><a href="http://astone.tv/events/faith1806z/" target="_blank">ジメジメを吹きとばせ<br>全国各教会の一週間</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
