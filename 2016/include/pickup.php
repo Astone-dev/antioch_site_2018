@@ -49,18 +49,18 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/watch?v=5tIkG8bT1XU&t=3s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180602giftstv.jpg"></a>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=5tIkG8bT1XU&t=3s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃006<br>ゴスペルグループGiftsのワイワイ動画<br>(6月2日UP!／毎週土曜更新)</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
 <p class="block-date">動画ブログ：2018年6月4日～10日</p>
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>初夏の東京アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/watch?v=niWA2sIdrGw&t=42s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180609giftstv.jpg"></a>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=niWA2sIdrGw&t=42s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃007<br>ゴスペルグループGiftsのワイワイ動画<br>(6月9日UP!／毎週土曜更新)</a></p>
 </div>
 
 <div class="column-inner">
