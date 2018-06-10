@@ -154,7 +154,7 @@
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/gracejewel2017/180609/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
 <p class="block-date">ブログ：2018年6月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180609/" target="_blank">GRACEと宝石<br>埼玉のデイサービスでゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180609/" target="_blank">GRACEと宝石<br>栃木県宇都宮市の音楽祭でゴスペルを歌う</a></p>
 </div>
 
 <div class="column-inner">
