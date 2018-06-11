@@ -79,13 +79,13 @@
 <p class="block-title"><a href="http://astone.tv/events/1806kojiin/" target="_blank">礎の石孤児院<br>東京事務局の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180612/" target="_blank"><img src="/2016/images/top/1701jerukawaguchi.jpg"></a>
 <p class="block-date"> ブログ：2018年6月12日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180612/" target="_blank">エルサレム<br>三郷市アカシアの家グループホームでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
@@ -116,16 +116,16 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/mustbehappy/" target="_blank">クリスチャンの寄り道 Vol.33<br>今回は「今までで一番幸せだった時」のお話です</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank"><img src="/2016/images/top/1803yorimichi32.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span>NEW</span>
-<a href="/yorimichi/result-yokatta.html" target="_blank"><img src="/2016/images/top/1804yorimichi31kekka.jpg"></a>
-<p class="block-title"><a href="/yorimichi/result-yokatta.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.31<br>「神様がいてよかったと思った瞬間」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+<a href="https://tokyo.antioch.jp/yorimichi/result-kangekishitakoto.html" target="_blank"><img src="/2016/images/top/1806yorimichi32kekka.jpg"></a>
+<p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-kangekishitakoto.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.32<br>「神さまのことで一番感激したこと」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>
 
 <div class="column-inner">
