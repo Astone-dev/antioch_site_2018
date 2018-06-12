@@ -34,8 +34,6 @@ foreach ($rss->items as $item ) {
         $img = htmlspecialchars($match[1]) .'png';
     }else if(preg_match("/src=[\"|\'](.*?)(gif)[\"|\'|\?]/i", $item[content][encoded], $match)){
         $img = htmlspecialchars($match[1]) .'gif';
-        
-        http://stg.antioch.jp/mnt/disks/data-st/dev_antioch/antioch_site_2017/images/tmp/1101maedafusai_testimony_s.gif
     }else{
         // 画像が無い時の処理
     }
