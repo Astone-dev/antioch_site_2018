@@ -46,6 +46,7 @@ foreach ($rss->items as $item ) {
 
     $wget_flag =TRUE;
     // wget 実行するか判定
+    /* ファイルへ保存させてする処理は、ひとまずなし
     if (file_exists($timestamp_file)) {
         // $tmp_img_file のファイル更新が"45分= 45*60"以内なら、$wget_flagをFALSEにして、wget 実行しない
         $tmp_time = strtotime("now") - filemtime($timestamp_file);
@@ -54,6 +55,7 @@ foreach ($rss->items as $item ) {
             $wget_flag = FALSE;
         }
     }
+    */
     // echo "TEST obata 0";
 
     //php でwget によるデータ取得
@@ -64,7 +66,7 @@ foreach ($rss->items as $item ) {
         // echo $img;
         // passthru("wget -nv -N -O ".$tmp_img_dir." ".$img."  > /dev/null 2>&1", $ret);
         passthru("wget -nv -N -P ".$tmp_img_dir." ".$img."  > /dev/null 2>&1", $ret);
-        //echo $ret; //wget エラー時は $ret に0以外の値が入る
+        // echo $ret; //wget エラー時は $ret に0以外の値が入る
 
         if ($ret == 0){
             // ファイルパスの指定
