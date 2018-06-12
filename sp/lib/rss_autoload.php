@@ -12,7 +12,7 @@ $rss = fetch_rss($url);
 $i = 0;
 foreach ($rss->items as $item ) {
     $title = htmlspecialchars($item['title']);
-    $title = mb_substr($title, 0, 36, 'utf-8');
+    $title = mb_substr($title, 0, 40, 'utf-8');
     $description = htmlspecialchars($item['description']);
     $description = mb_substr($description, 0, 150, 'utf-8');
     $link = htmlspecialchars($item['link']);
