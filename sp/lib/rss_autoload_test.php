@@ -32,6 +32,7 @@ for ($i = 0; $i <= $articles_nums; $i++) {
 if ($rss_do_get == FALSE){
     $rss_contents = file_get_contents($rss_saved_file);
     if ($rss_contents){
+        echo "YOMITORI OK: "
         echo $rss_contents;
         return; # 読み取り成功時は、ここで抜ける
     }
@@ -41,7 +42,7 @@ if ($rss_do_get == FALSE){
 # RSS読み込み処理は、HTML出力と同時にファイル出力を行う
 $out_str ='<div id="js_news_mod" class="news__wrap">';
 echo $out_str;
-file_put_contents($rss_saved_file, "TEST OO ".$out_str);
+file_put_contents($rss_saved_file, "rss_loaded FILE:---- ".$out_str);
 
 error_reporting(E_ERROR);
 require_once 'lib/magpierss/rss_fetch.inc';
