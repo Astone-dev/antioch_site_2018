@@ -12,7 +12,7 @@ $rss = fetch_rss($url);
 $i = 0;
 foreach ($rss->items as $item ) {
     $title = htmlspecialchars($item['title']);
-    $title = mb_substr($title, 0, 40, 'utf-8');
+    $title = mb_substr($title, 0, 44, 'utf-8');
     $description = htmlspecialchars($item['description']);
     $description = mb_substr($description, 0, 150, 'utf-8');
     $link = htmlspecialchars($item['link']);
@@ -39,8 +39,8 @@ foreach ($rss->items as $item ) {
     }
 
     // -----------------------------------------------
-    $tmp_img_dir = "../images/tmp_img_dir";
-    $timestamp_file = "../images/tmp_img_dir/timestamp_file_".$i;
+    $tmp_img_dir = "/tmp_img_dir";
+    $timestamp_file = "/tmp_img_dir/timestamp_file_".$i;
     # ※  "../images/tmp_img_dir"; ディレクトリ以下をアクセス権 775 とし、グループをapacheに変更すること
     // path は、自ファイルの呼び出し元からみた相対パスのため注意
 
