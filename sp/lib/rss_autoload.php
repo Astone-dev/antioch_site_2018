@@ -2,7 +2,47 @@
 
 // path は、自ファイルの呼び出し元からみた相対パスのため注意
 
-echo '<div id="js_news_mod" class="news__wrap">';
+# 過去の取得タイムスタンプを確認して、45分経過している場合は、再取得
+
+$articles_nums = 4; # 読み込む記事の数マイナス 1
+
+$rss_do_get = TRUE; # RSSを読み込むか判定フラグ
+$tmp_img_dir = "/tmp_img_dir";
+
+$rss_saved_file = "../../tmp_img_dir/rss_loaded.inc";
+
+for ($i = 0; $i <= $articles_nums; $i++) {
+    $timestamp_file = "../../tmp_img_dir/timestamp_file_".$i;
+    # ※  "../../images/tmp_img_dir"; ディレクトリ以下をアクセス権 775 とし、グループをapacheに変更すること
+    // path は、自ファイルの呼び出し元からみた相対パスのため注意
+
+    // RSSを読み込むか判定
+    if (file_exists($timestamp_file)) {
+        // $tmp_img_file のファイル更新が"40分= 40*60"以内なら、$rss_do_get をFALSEにして、wget 実行しない
+        $tmp_time = strtotime("now") - filemtime($timestamp_file);
+        if( $tmp_time < 40*60 && $tmp_time >= 0) {
+        // if( $tmp_time < 30 && $tmp_time >= 0) {
+            $rss_do_get = FALSE;
+            break;
+        }
+    }
+}
+
+# RSS ファイルを読み込む必要なければ、incファイルからファイル読み込み
+if ($rss_do_get == FALSE){
+    $rss_contents = file_get_contents($rss_saved_file);
+    if ($rss_contents){
+        # echo "YOMITORI OK: ";
+        echo $rss_contents;
+        return; # 読み取り成功時は、ここで抜ける
+    }
+    # ファイル読み込み失敗した場合は、RSS読み込み処理実施
+}
+
+# RSS読み込み処理は、HTML出力と同時にファイル出力を行う
+$out_str ='<div id="js_news_mod" class="news__wrap">';
+echo $out_str;
+file_put_contents($rss_saved_file, $out_str);
 
 error_reporting(E_ERROR);
 require_once 'lib/magpierss/rss_fetch.inc';
@@ -39,7 +79,7 @@ foreach ($rss->items as $item ) {
     }
 
     // -----------------------------------------------
-    $tmp_img_dir = "/tmp_img_dir";
+    
     $timestamp_file = "../../tmp_img_dir/timestamp_file_".$i;
     # ※  "../images/tmp_img_dir"; ディレクトリ以下をアクセス権 775 とし、グループをapacheに変更すること
     // path は、自ファイルの呼び出し元からみた相対パスのため注意
@@ -60,42 +100,34 @@ foreach ($rss->items as $item ) {
 
     //php でwget によるデータ取得
     // wget の参照 http://itpro.nikkeibp.co.jp/article/COLUMN/20060228/230995/?rt=nocnt
-    if ($wget_flag ===TRUE) {
         
-        // echo "TEST obata";
+    // echo "TEST obata";
+    // echo $img;
+    // passthru("wget -nv -N -O ".$tmp_img_dir." ".$img."  > /dev/null 2>&1", $ret);
+    passthru("wget -nv -N -P ../..".$tmp_img_dir." ".$img."  > /dev/null 2>&1", $ret);
+    // echo $ret; //wget エラー時は $ret に0以外の値が入る
+
+    if ($ret == 0){
+        // ファイルパスの指定
+        //参照: https://mail.google.com/mail/u/0/?tab=wm#sent/163f451258e92c0c
+        $img = strrchr( $img, "/" );// /postname.html
+        $img = substr( $img, 1 );// postname.html
+
+        $img = $tmp_img_dir."/".$img;
         // echo $img;
-        // passthru("wget -nv -N -O ".$tmp_img_dir." ".$img."  > /dev/null 2>&1", $ret);
-        passthru("wget -nv -N -P ../..".$tmp_img_dir." ".$img."  > /dev/null 2>&1", $ret);
-        // echo $ret; //wget エラー時は $ret に0以外の値が入る
 
-        if ($ret == 0){
-            // ファイルパスの指定
-            //参照: https://mail.google.com/mail/u/0/?tab=wm#sent/163f451258e92c0c
-            $img = strrchr( $img, "/" );// /postname.html
-            $img = substr( $img, 1 );// postname.html
-
-            $img = $tmp_img_dir."/".$img;
-            // echo $img;
-
-            touch($timestamp_file);
-        }
+        touch($timestamp_file);
     }
 
-  echo '<aside class="news__article">';
-  echo '<a href="'. $link .' " target="_brank">';
+    $out_str = '<aside class="news__article"><a href="'. $link .' " target="_brank"><div class="news__article-img" style="background-image:url(\''. $img . '\');"></div><div><p class="news__article-day">'.date("Y/n/j", strtotime( $item['pubdate'] )).'</p><p class="news__article-title">'. $title .'</p></div></a></aside>';
 
-  echo '<div class="news__article-img" style="background-image:url(\''. $img . '\');">';
-  echo '</div>';
-  echo '<div>';
-  echo '<p class="news__article-day">'.date("Y/n/j", strtotime( $item['pubdate'] )).'</p>';
-  echo '<p class="news__article-title">'. $title .'</p>';
-  echo '</div>';
-  echo '</a>';
-  echo '</aside>';
+    echo $out_str;
+    file_put_contents($rss_saved_file, $out_str, FILE_APPEND);
 
-  $i++;
-  if ($i > 4){break;}
-} 
+    $i++;
+    if ($i > $articles_nums ){break;}
+}
 echo '</div>';
+file_put_contents($rss_saved_file,'</div>', FILE_APPEND);
 
 ?>
