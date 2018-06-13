@@ -40,7 +40,7 @@ foreach ($rss->items as $item ) {
 
     // -----------------------------------------------
     $tmp_img_dir = "/tmp_img_dir";
-    $timestamp_file = "/tmp_img_dir/timestamp_file_".$i;
+    $timestamp_file = "../../tmp_img_dir/timestamp_file_".$i;
     # ※  "../images/tmp_img_dir"; ディレクトリ以下をアクセス権 775 とし、グループをapacheに変更すること
     // path は、自ファイルの呼び出し元からみた相対パスのため注意
 
@@ -65,7 +65,7 @@ foreach ($rss->items as $item ) {
         // echo "TEST obata";
         // echo $img;
         // passthru("wget -nv -N -O ".$tmp_img_dir." ".$img."  > /dev/null 2>&1", $ret);
-        passthru("wget -nv -N -P ".$tmp_img_dir." ".$img."  > /dev/null 2>&1", $ret);
+        passthru("wget -nv -N -P ../..".$tmp_img_dir." ".$img."  > /dev/null 2>&1", $ret);
         // echo $ret; //wget エラー時は $ret に0以外の値が入る
 
         if ($ret == 0){
