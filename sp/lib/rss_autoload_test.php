@@ -40,8 +40,8 @@ if ($rss_do_get == FALSE){
 
 # RSS読み込み処理は、HTML出力と同時にファイル出力を行う
 $out_str ='<div id="js_news_mod" class="news__wrap">';
-echo "TEST OO ".$out_str;
-file_put_contents($rss_saved_file, $out_str);
+echo $out_str;
+file_put_contents($rss_saved_file, "TEST OO ".$out_str);
 
 error_reporting(E_ERROR);
 require_once 'lib/magpierss/rss_fetch.inc';
