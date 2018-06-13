@@ -32,7 +32,7 @@ for ($i = 0; $i <= $articles_nums; $i++) {
 if ($rss_do_get == FALSE){
     $rss_contents = file_get_contents($rss_saved_file);
     if ($rss_contents){
-        echo "YOMITORI OK: "
+        echo "YOMITORI OK: ";
         echo $rss_contents;
         return; # 読み取り成功時は、ここで抜ける
     }
