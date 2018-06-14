@@ -16,13 +16,13 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/meetings1806/" target="_blank"><img src="/2016/images/top/1806peppergakita.jpg"></a>
+<a href="http://astone.tv/events/meetings1806/" target="_blank"><img src="/2016/images/top/1801funabasi.jpg"></a>
 <p class="block-date">ブログ：2018年6月15日～16日</p>
-<p class="block-title"><a href="http://astone.tv/events/meetings1806/" target="_blank"><br>船橋・柏聖会</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/meetings1806/" target="_blank">紫陽花の季節 船橋、柏聖会<br>関東宣教の旅<br>(Giftsも歌う)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
