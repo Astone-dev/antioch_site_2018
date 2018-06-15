@@ -231,61 +231,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/chugoku1806/" target="_blank"><img src="/2016/images/top/1609chugokuseikai.jpg"></a>
-<p class="block-date">ブログ：2018年6月3日～7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/chugoku1806/" target="_blank">青葉薫る中国地方を行く<br>中国宣教の旅<br>(日程：2018年6月4日〜6日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1806charisma/" target="_blank"><img src="/2016/images/top/1806tochari.jpg"></a>
-<p class="block-date">ブログ：2018年6月1日～6月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1806charisma/" target="_blank">初夏の東京カリスマ聖会<br>スタッフてんやわんや<br>(日程：2018年6月3日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/yobi1805/" target="_blank"><img src="/2016/images/top/1805tsuyutyokuantioch.jpg"></a>
-<p class="block-date">ブログ：2018年5月28日～6月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1805/" target="_blank">梅雨間近<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/joy1805/" target="_blank"><img src="/2016/images/top/1805peppertyokuzen.jpg"></a>
-<p class="block-date">ブログ：2018年5月28日～6月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/joy1805/" target="_blank">いよいよPepper導入へ！<br>わくわくなカウントダウン<br>(6月10日デビュー)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/euqaristias/20180603shinjuku/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
-<p class="block-date">ブログ：2018年6月3日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180603shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180602/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-<p class="block-date">ブログ：2018年6月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180602/" target="_blank">GRACEと宝石<br>埼玉のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/yobi1805z/" target="_blank"><img src="/2016/images/top/1805tsuyutyokzenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年5月28日～6月3日</p>
-<p class="block-title"><a href="http://astone.tv/events/yobi1805z/" target="_blank">梅雨間近<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<a href="/tcm/" target="_blank"><img src="/2016/images/top/1805chari_d.jpg"></a>
-<p class="block-date">日程：2018年5月6日</p>
-<p class="block-title"><a href="/tcm/" target="_blank">東京カリスマ聖会<br>ダイジェスト写真集</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank"><img src="/2016/images/top/1804thanks_dstmovie.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank">感謝と賛美とリバイバルキャンプ<br>ダイジェスト映像<br>(再生時間 10:03)</a></p>
