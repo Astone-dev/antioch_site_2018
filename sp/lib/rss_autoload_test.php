@@ -25,9 +25,9 @@ if( !file_exists($rss_saved_file) ){
 
         // RSSを読み込むか判定
         if (file_exists($timestamp_file)) {
-            // $tmp_img_file のファイル更新が"40分= 40*60"以内なら、$rss_do_get をFALSEにして、wget 実行しない
+            // $tmp_img_file のファイル更新が"45分= 45*60"以内なら、$rss_do_get をFALSEにして、wget 実行しない
             $tmp_time = strtotime("now") - filemtime($timestamp_file);
-            if( $tmp_time < 40*60 && $tmp_time >= 0) {
+            if( $tmp_time < 45*60 && $tmp_time >= 0) {
             // if( $tmp_time < 30 && $tmp_time >= 0) {
                 $rss_do_get = FALSE;
                 break;
