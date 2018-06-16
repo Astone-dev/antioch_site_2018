@@ -16,20 +16,12 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/shikoku1806/" target="_blank"><img src="/2016/images/top/1706shikoku.jpg"></a>
 <p class="block-date">ブログ：2018年6月17日～21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/shikoku1806/" target="_blank"><br>四国宣教の旅<br>(日程;2018年6月18日～20日)</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/meetings1806/" target="_blank"><img src="/2016/images/top/1804kashiwa.jpg"></a>
-<p class="block-date">ブログ：2018年6月15日～16日</p>
-<p class="block-title"><a href="http://astone.tv/events/meetings1806/" target="_blank">紫陽花の季節 船橋、柏聖会<br>関東宣教の旅<br>(Giftsも歌う)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/shikoku1806/" target="_blank">向暑の季節四国を行く<br>四国宣教の旅<br>(日程;2018年6月18日～20日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -48,36 +40,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1806/" target="_blank">ジメジメを吹きとばせ<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/2018women/201806/" target="_blank"><img src="/2016/images/top/1702fujinkai.jpg"></a>
 <p class="block-date"> ブログ：2018年6月17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201806/" target="_blank">バンバンジーを食べる<br>6月 婦人会の一日</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/revival2017/180616night/" target="_blank"><img src="/2016/images/top/1703revivalnight.jpg"></a>
-<p class="block-date"> ブログ：2018年6月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180616night/" target="_blank">6月 Revival Nightの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2018年6月16日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年6月16日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2017labeille/180616/" target="_blank"><img src="/2016/images/top/1608lageiyuarakawa.jpg"></a>
-<p class="block-date"> ブログ：2018年6月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180616/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -127,35 +95,19 @@
 <p class="block-title"><a href="http://astone.tv/events/1806kojiin/" target="_blank">礎の石孤児院<br>東京事務局の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/2017byhisspirit/180617/" target="_blank"><img src="/2016/images/top/1702byhissetagaya.jpg"></a>
 <p class="block-date"> ブログ：2018年6月17日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180617/" target="_blank">By His spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180617/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-<p class="block-date">ブログ：2018年6月17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180617/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180616/" target="_blank"><img src="/2016/images/top/1701jerukawaguchi.jpg"></a>
-<p class="block-date"> ブログ：2018年6月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180616/" target="_blank">エルサレム<br>さいたま市岩槻デイケアでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/gracious/180616/" target="_blank"><img src="/2016/images/top/1701gracious.jpg"></a>
-<p class="block-date"> ブログ：2018年6月16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/gracious/180616/" target="_blank">GRACIOUS DOORS<br>都内デイサービスでゴスペルコンサート</a></p>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180617/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
+<p class="block-date">ブログ：2018年6月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180617/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -228,6 +180,41 @@
 <a href="/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/meetings1806/" target="_blank"><img src="/2016/images/top/1804kashiwa.jpg"></a>
+<p class="block-date">ブログ：2018年6月15日～16日</p>
+<p class="block-title"><a href="http://astone.tv/events/meetings1806/" target="_blank">紫陽花の季節 船橋、柏聖会<br>関東宣教の旅<br>(Giftsも歌う)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/revival2017/180616night/" target="_blank"><img src="/2016/images/top/1703revivalnight.jpg"></a>
+<p class="block-date"> ブログ：2018年6月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180616night/" target="_blank">6月 Revival Nightの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2017labeille/180616/" target="_blank"><img src="/2016/images/top/1608lageiyuarakawa.jpg"></a>
+<p class="block-date"> ブログ：2018年6月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180616/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180616/" target="_blank"><img src="/2016/images/top/1701jerukawaguchi.jpg"></a>
+<p class="block-date"> ブログ：2018年6月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180616/" target="_blank">エルサレム<br>さいたま市岩槻デイケアでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/gracious/180616/" target="_blank"><img src="/2016/images/top/1701gracious.jpg"></a>
+<p class="block-date"> ブログ：2018年6月16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gracious/180616/" target="_blank">GRACIOUS DOORS<br>都内デイサービスでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
