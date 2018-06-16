@@ -142,5 +142,5 @@ echo '</div>';
 file_put_contents($rss_saved_file,'</div>', FILE_APPEND);
 
 // inc ファイルの多重書き込み防止用フラグファイル 削除
-unlink($lockflg_file);
+// unlink($lockflg_file);
 ?>
