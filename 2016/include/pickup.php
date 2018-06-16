@@ -16,6 +16,14 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/shikoku1806/" target="_blank"><img src="/2016/images/top/1706shikoku.jpg"></a>
+<p class="block-date">ブログ：2018年6月17日～21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/shikoku1806/" target="_blank"><br>四国宣教の旅<br>(日程;2018年6月18日～20日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -39,6 +47,14 @@
 <p class="block-date"> ブログ：2018年6月11日～17日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1806/" target="_blank">ジメジメを吹きとばせ<br>東京アンテオケ教会の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2018women/201806/" target="_blank"><img src="/2016/images/top/1702fujinkai.jpg"></a>
+<p class="block-date"> ブログ：2018年6月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201806/" target="_blank">6月 婦人会の一日</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -110,6 +126,14 @@
 <p class="block-date"> ブログ：2018年6月11日～17日</p>
 <p class="block-title"><a href="http://astone.tv/events/1806kojiin/" target="_blank">礎の石孤児院<br>東京事務局の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/180617/" target="_blank"><img src="/2016/images/top/1702byhissetagaya.jpg"></a>
+<p class="block-date"> ブログ：2018年6月17日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180617/" target="_blank">By His spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
