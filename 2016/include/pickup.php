@@ -135,6 +135,13 @@
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180617/" target="_blank">By His spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180617/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
+<p class="block-date">ブログ：2018年6月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180617/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
