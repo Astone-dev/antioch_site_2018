@@ -53,7 +53,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/2018women/201806/" target="_blank"><img src="/2016/images/top/1702fujinkai.jpg"></a>
 <p class="block-date"> ブログ：2018年6月17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201806/" target="_blank">6月 婦人会の一日</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201806/" target="_blank">バンバンジーを食べる<br>6月 婦人会の一日</a></p>
 </div>-->
 
 <div class="column-inner">
