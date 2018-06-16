@@ -6,24 +6,32 @@
 
 $articles_nums = 4; # 読み込む記事の数マイナス 1
 
-$rss_do_get = TRUE; # RSSを読み込むか判定フラグ
+$rss_do_get = TRUE; # RSSを外部から読み込むか判定フラグ
 $tmp_img_dir = "/tmp_img_dir";
 
 $rss_saved_file = "../../tmp_img_dir/rss_loaded.inc";
+# inc ファイルの多重書き込み防止用フラグファイル
+$lockflg_file ="../../tmp_img_dir/lockflg_file";
 
-for ($i = 0; $i <= $articles_nums; $i++) {
-    $timestamp_file = "../../tmp_img_dir/timestamp_file_".$i;
-    # ※  "../../images/tmp_img_dir"; ディレクトリ以下をアクセス権 775 とし、グループをapacheに変更すること
-    // path は、自ファイルの呼び出し元からみた相対パスのため注意
+if( !file_exists($rss_saved_file) ){
+    // $rss_do_get =TRUE; // RSSを外部から読み込む必要あり
+}else if(file_exists($lockflg_file)){
+    $rss_do_get= FALSE; //RSSを外部から読み込む必要なし
+}else{
+    for ($i = 0; $i <= $articles_nums; $i++) {
+        $timestamp_file = "../../tmp_img_dir/timestamp_file_".$i;
+        # ※  "../../images/tmp_img_dir"; ディレクトリ以下をアクセス権 775 とし、グループをapacheに変更すること
+        // path は、自ファイルの呼び出し元からみた相対パスのため注意
 
-    // RSSを読み込むか判定
-    if (file_exists($timestamp_file)) {
-        // $tmp_img_file のファイル更新が"40分= 40*60"以内なら、$rss_do_get をFALSEにして、wget 実行しない
-        $tmp_time = strtotime("now") - filemtime($timestamp_file);
-        if( $tmp_time < 40*60 && $tmp_time >= 0) {
-        // if( $tmp_time < 30 && $tmp_time >= 0) {
-            $rss_do_get = FALSE;
-            break;
+        // RSSを読み込むか判定
+        if (file_exists($timestamp_file)) {
+            // $tmp_img_file のファイル更新が"45分= 45*60"以内なら、$rss_do_get をFALSEにして、wget 実行しない
+            $tmp_time = strtotime("now") - filemtime($timestamp_file);
+            if( $tmp_time < 45*60 && $tmp_time >= 0) {
+            // if( $tmp_time < 30 && $tmp_time >= 0) {
+                $rss_do_get = FALSE;
+                break;
+            }
         }
     }
 }
@@ -38,6 +46,9 @@ if ($rss_do_get == FALSE){
     }
     # ファイル読み込み失敗した場合は、RSS読み込み処理実施
 }
+
+// inc ファイルの多重書き込み防止用フラグファイル 生成
+touch($lockflg_file);
 
 # RSS読み込み処理は、HTML出力と同時にファイル出力を行う
 $out_str ='<div id="js_news_mod" class="news__wrap">';
@@ -79,7 +90,7 @@ foreach ($rss->items as $item ) {
     }
 
     // -----------------------------------------------
-    
+
     $timestamp_file = "../../tmp_img_dir/timestamp_file_".$i;
     # ※  "../images/tmp_img_dir"; ディレクトリ以下をアクセス権 775 とし、グループをapacheに変更すること
     // path は、自ファイルの呼び出し元からみた相対パスのため注意
@@ -130,4 +141,6 @@ foreach ($rss->items as $item ) {
 echo '</div>';
 file_put_contents($rss_saved_file,'</div>', FILE_APPEND);
 
+// inc ファイルの多重書き込み防止用フラグファイル 削除
+unlink($lockflg_file);
 ?>
