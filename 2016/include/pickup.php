@@ -27,42 +27,26 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/joy1806/" target="_blank"><img src="/2016/images/top/1806peppergakita.jpg"></a>
-<p class="block-date">ブログ：2018年6月11日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/joy1806/" target="_blank">東京アンテオケ教会<br>Pepperデビュー！<br>喜びの一週間</a></p>
+<a href="http://antiochblog.jp/praise/first1806/" target="_blank"><img src="/2016/images/top/1806chichinohiantioch.jpg"></a>
+<p class="block-date"> ブログ：2018年6月18日～24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/first1806/" target="_blank">東京アンテオケ教会の父の日<br>その後の一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/faith1806/" target="_blank"><img src="/2016/images/top/1806tsuyumaeantioch.jpg"></a>
-<p class="block-date"> ブログ：2018年6月11日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1806/" target="_blank">ジメジメを吹きとばせ<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/first1806/" target="_blank"><img src="/2016/images/top/1806tsuyumaeantioch.jpg"></a>
-<p class="block-date"> ブログ：2018年6月18日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/first1806/" target="_blank">東京アンテオケ教会の父の日<br>その後の一週間</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/music1806/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
 <p class="block-date"> ブログ：2018年6月18日～24日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/music1806/" target="_blank"><br>風のひびき５集ベスト盤制作真っ只中！<br>荒地に川ミュージック<br>各賛美チームの一週間</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/movie1806/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
+<a href="http://astone.tv/events/movie1806/" target="_blank"><img src="/2016/images/top/1806filmmission.jpg"></a>
 <p class="block-date"> ブログ：2018年6月18日～24日</p>
 <p class="block-title"><a href="http://astone.tv/events/movie1806/" target="_blank"><br>映画ミッションの一週間</a></p>
-</div>-->
+</div>
 
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -72,20 +56,12 @@
 <p class="block-title"><a href="http://astone.tv/events/1806yorimichi/" target="_blank"><br>寄り道の一週間</a></p>
 </div>-->
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/faith1806/" target="_blank"><img src="/2016/images/top/1806tsuyumaeantioch.jpg"></a>
-<p class="block-date"> ブログ：2018年6月11日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1806/" target="_blank">全国各教会の父の日<br>その後の一週間</a></p>
-</div>-->
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/2018women/201806/" target="_blank"><img src="/2016/images/top/1702fujinkai.jpg"></a>
-<p class="block-date"> ブログ：2018年6月17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201806/" target="_blank">バンバンジーを食べる<br>6月 婦人会の一日</a></p>
+<a href="http://antiochblog.jp/praise/faith1806/" target="_blank"><img src="/2016/images/top/1806chichinohizenkoku.jpg"></a>
+<p class="block-date"> ブログ：2018年6月11日～17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1806/" target="_blank">全国各教会の父の日<br>その後の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -101,54 +77,6 @@
 <span>NEW</span>
 <a href="https://www.youtube.com/watch?v=W8Lh1PBqr6o&t=24s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180616giftstv.jpg"></a>
 <p class="block-title"><a href="https://www.youtube.com/watch?v=W8Lh1PBqr6o&t=24s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃008<br>ゴスペルグループGiftsのワイワイ動画<br>(6月16日UP!／毎週土曜更新)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/faith1806z/" target="_blank"><img src="/2016/images/top/1806tsuyumaezenkoku.jpg"></a>
-<p class="block-date"> ブログ：2018年6月11日～17日</p>
-<p class="block-title"><a href="http://astone.tv/events/faith1806z/" target="_blank">ジメジメを吹きとばせ<br>全国各教会の一週間</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/music1806/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
-<p class="block-date"> ブログ：2018年6月16日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/music1806/" target="_blank"><br>荒地に川ミュージックの一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/mission1806/" target="_blank"><img src="/2016/images/top/1806missionweek.jpg"></a>
-<p class="block-date"> ブログ：2018年6月11日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/mission1806/" target="_blank">聖所から流れ出る水ミッション<br>事務所と宣教師たちの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1806kojiin/" target="_blank"><img src="/2016/images/top/1806ishizuenoishiweek.jpg"></a>
-<p class="block-date"> ブログ：2018年6月11日～17日</p>
-<p class="block-title"><a href="http://astone.tv/events/1806kojiin/" target="_blank">礎の石孤児院<br>東京事務局の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/180617/" target="_blank"><img src="/2016/images/top/1702byhissetagaya.jpg"></a>
-<p class="block-date"> ブログ：2018年6月17日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180617/" target="_blank">By His spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180617/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-<p class="block-date">ブログ：2018年6月17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180617/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -221,6 +149,62 @@
 <a href="/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/joy1806/" target="_blank"><img src="/2016/images/top/1806peppergakita.jpg"></a>
+<p class="block-date">ブログ：2018年6月11日～17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/joy1806/" target="_blank">東京アンテオケ教会<br>Pepperデビュー！<br>喜びの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/faith1806/" target="_blank"><img src="/2016/images/top/1806tsuyumaeantioch.jpg"></a>
+<p class="block-date"> ブログ：2018年6月11日～17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1806/" target="_blank">ジメジメを吹きとばせ<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2018women/201806/" target="_blank"><img src="/2016/images/top/1702fujinkai.jpg"></a>
+<p class="block-date"> ブログ：2018年6月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201806/" target="_blank">バンバンジーを食べる<br>6月 婦人会の一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/faith1806z/" target="_blank"><img src="/2016/images/top/1806tsuyumaezenkoku.jpg"></a>
+<p class="block-date"> ブログ：2018年6月11日～17日</p>
+<p class="block-title"><a href="http://astone.tv/events/faith1806z/" target="_blank">ジメジメを吹きとばせ<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/mission1806/" target="_blank"><img src="/2016/images/top/1806missionweek.jpg"></a>
+<p class="block-date"> ブログ：2018年6月11日～17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/mission1806/" target="_blank">聖所から流れ出る水ミッション<br>事務所と宣教師たちの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1806kojiin/" target="_blank"><img src="/2016/images/top/1806ishizuenoishiweek.jpg"></a>
+<p class="block-date"> ブログ：2018年6月11日～17日</p>
+<p class="block-title"><a href="http://astone.tv/events/1806kojiin/" target="_blank">礎の石孤児院<br>東京事務局の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/180617/" target="_blank"><img src="/2016/images/top/1702byhissetagaya.jpg"></a>
+<p class="block-date"> ブログ：2018年6月17日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180617/" target="_blank">By His spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180617/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
+<p class="block-date">ブログ：2018年6月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180617/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
