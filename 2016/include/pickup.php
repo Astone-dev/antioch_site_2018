@@ -57,14 +57,6 @@
 </div>-->
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/faith1806/" target="_blank"><img src="/2016/images/top/1806chichinohizenkoku.jpg"></a>
-<p class="block-date"> ブログ：2018年6月11日～17日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1806/" target="_blank">全国各教会の父の日<br>その後の一週間</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
@@ -80,10 +72,18 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/faith1806/" target="_blank"><img src="/2016/images/top/1806chichinohizenkoku.jpg"></a>
+<p class="block-date"> ブログ：2018年6月18日～24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1806/" target="_blank">全国各教会の父の日<br>その後の一週間</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
-<p class="block-date">動画ブログ：22018年6月11日～17日</p>
+<p class="block-date">動画ブログ：22018年6月18日～24日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>梅雨のTLCCC全国各教会</a></p>
 </div>
 
