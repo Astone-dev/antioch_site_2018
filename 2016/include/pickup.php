@@ -40,6 +40,46 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1806/" target="_blank">ジメジメを吹きとばせ<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/first1806/" target="_blank"><img src="/2016/images/top/1806tsuyumaeantioch.jpg"></a>
+<p class="block-date"> ブログ：2018年6月18日～24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/first1806/" target="_blank">東京アンテオケ教会の父の日<br>その後の一週間</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/music1806/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
+<p class="block-date"> ブログ：2018年6月18日～24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/music1806/" target="_blank"><br>風のひびき５集ベスト盤制作真っ只中！<br>荒地に川ミュージック<br>各賛美チームの一週間</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/movie1806/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
+<p class="block-date"> ブログ：2018年6月18日～24日</p>
+<p class="block-title"><a href="http://astone.tv/events/movie1806/" target="_blank"><br>映画ミッションの一週間</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1806yorimichi/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
+<p class="block-date"> ブログ：2018年6月18日～24日</p>
+<p class="block-title"><a href="http://astone.tv/events/1806yorimichi/" target="_blank"><br>寄り道の一週間</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/faith1806/" target="_blank"><img src="/2016/images/top/1806tsuyumaeantioch.jpg"></a>
+<p class="block-date"> ブログ：2018年6月11日～17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1806/" target="_blank">全国各教会の父の日<br>その後の一週間</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
