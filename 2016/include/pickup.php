@@ -56,6 +56,14 @@
 <p class="block-title"><a href="http://astone.tv/events/1806yorimichi/" target="_blank"><br>寄り道の一週間</a></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1806nerima/" target="_blank"><img src="/2016/images/top/1702patolisshisetsu.jpg"></a>
+<p class="block-date"> ブログ：2018年6月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1806nerima/" target="_blank">PATOLIS<br>練馬区のデイサービスでゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
