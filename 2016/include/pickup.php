@@ -43,26 +43,26 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/movie1806/" target="_blank"><img src="/2016/images/top/1806filmmission.jpg"></a>
+<a href="http://astone.tv/events/1806yorimichi/" target="_blank"><img src="/2016/images/top/1706yorimitiweek.jpg"></a>
 <p class="block-date"> ブログ：2018年6月18日～24日</p>
-<p class="block-title"><a href="http://astone.tv/events/movie1806/" target="_blank">映画ミッションの一週間</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1806yorimichi/" target="_blank">新シリーズが始まった！<br>クリスチャンの寄り道メンバーてんやわんや一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1806yorimichi/" target="_blank"><img src="/2016/images/top/1706yorimitiweek.jpg"></a>
-<p class="block-date"> ブログ：2018年6月18日～24日</p>
-<p class="block-title"><a href="http://astone.tv/events/1806yorimichi/" target="_blank">寄り道の一週間</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/1806nerima/" target="_blank"><img src="/2016/images/top/1702patolisshisetsu.jpg"></a>
 <p class="block-date"> ブログ：2018年6月19日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1806nerima/" target="_blank">PATOLIS<br>練馬区のデイサービスでゴスペルコンサート</a></p>
-</div>-->
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/movie1806/" target="_blank"><img src="/2016/images/top/1806filmmission.jpg"></a>
+<p class="block-date"> ブログ：2018年6月18日～24日</p>
+<p class="block-title"><a href="http://astone.tv/events/movie1806/" target="_blank">日本からハリウッドへ<br>ハリウッドから世界へ<br>映画ミッションの一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
