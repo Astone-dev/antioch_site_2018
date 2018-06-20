@@ -16,6 +16,14 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1806meetings/" target="_blank"><img src="/2016/images/top/1702yokohamaseikai.jpg"></a>
+<p class="block-date">ブログ：2018年6月22日～23日</p>
+<p class="block-title"><a href="http://astone.tv/events/1806meetings/" target="_blank"><br>横浜・厚木宣教の旅<br>(日程;2018年6月22日～23日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -23,6 +31,7 @@
 <p class="block-date">ブログ：2018年6月17日～21日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/shikoku1806/" target="_blank">向暑の季節四国を行く<br>四国宣教の旅<br>(日程;2018年6月18日～20日)</a></p>
 </div>
+
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
