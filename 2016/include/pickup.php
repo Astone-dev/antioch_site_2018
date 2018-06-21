@@ -79,6 +79,14 @@
 <p class="block-title"><a href="http://astone.tv/events/first1806z/" target="_blank">全国各教会の父の日<br>その後の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/gate2018/180622/" target="_blank"><img src="/2016/images/top/1610gateofnerimarouken.jpg"></a>
+<p class="block-date"> ブログ：2018年6月22日</p>
+<p class="block-title"><a href="http://astone.tv/events/gate2018/180622/" target="_blank">The Gate of Praise<br>練馬区の老健でゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
