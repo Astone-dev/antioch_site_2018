@@ -16,13 +16,13 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/1806meetings/" target="_blank"><img src="/2016/images/top/1702yokohamaseikai.jpg"></a>
 <p class="block-date">ブログ：2018年6月22日～23日</p>
-<p class="block-title"><a href="http://astone.tv/events/1806meetings/" target="_blank"><br>横浜・厚木宣教の旅<br>(日程;2018年6月22日～23日)</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/1806meetings/" target="_blank">梅雨晴れの関東を行く<br>横浜・厚木宣教の旅<br>(横浜でGiftsも歌う)<br>(日程 2018年6月22日～23日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -79,13 +79,13 @@
 <p class="block-title"><a href="http://astone.tv/events/first1806z/" target="_blank">全国各教会の父の日<br>その後の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/gate2018/180622/" target="_blank"><img src="/2016/images/top/1610gateofnerimarouken.jpg"></a>
 <p class="block-date"> ブログ：2018年6月22日</p>
 <p class="block-title"><a href="http://astone.tv/events/gate2018/180622/" target="_blank">The Gate of Praise<br>練馬区の老健でゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
