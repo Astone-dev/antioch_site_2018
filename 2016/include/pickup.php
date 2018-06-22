@@ -48,21 +48,21 @@
 <p class="block-title"><a href="http://astone.tv/events/1806yorimichi/" target="_blank">新シリーズが始まった！<br>クリスチャンの寄り道メンバーてんやわんや一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/gospel2017/180623/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
 <p class="block-date"> ブログ：2018年6月23日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180623/" target="_blank">6月 ゴスペルの集い</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2018年6月23日 18:30～</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2018年6月23日 18:30スタート)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -95,13 +95,13 @@
 <p class="block-title"><a href="http://astone.tv/events/first1806z/" target="_blank">全国各教会の父の日<br>その後の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180622/" target="_blank"><img src="/2016/images/top/1701jerukawaguchi.jpg"></a>
 <p class="block-date"> ブログ：2018年6月23日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180622/" target="_blank">エルサレム<br>さいたま市岩槻グループホームでゴスペル</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
