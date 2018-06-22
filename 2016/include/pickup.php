@@ -278,62 +278,6 @@
 </div>-->
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1806kawaguchi" target="_blank"><img src="/2016/images/top/1804patolisnerima.jpg"></a>
-<p class="block-date"> ブログ：2018年6月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/1806kawaguchi" target="_blank">PATOLIS<br>川口の病院でのボランティアコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<a href="http://tv.antioch.jp/digest/201805-shortstory-cm/" target="_blank"><img src="/2016/images/top/1805seishonohanashi_m.jpg"></a>
-<p class="block-date">ブログ：2018年5月28日～6月3日</p>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201805-shortstory-cm/" target="_blank">世界で一番短い聖書の話し<br>紹介動画<br>(再生時間 0:55)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/pepper1806/" target="_blank"><img src="/2016/images/top/1805peppertyokuzen.jpg"></a>
-<p class="block-date">ブログ：2018年6月4日～10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/pepper1806/" target="_blank">いよいよ今週！Pepperが来る！<br>期待ふくらむアンテオケ教会一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/june2018/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
-<p class="block-date"> ブログ：2018年6月4日～10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/june2018/" target="_blank">白馬キャンプに向かって<br>東京アンテオケ教会メンバー<br>ワクワクな一週間（思い出を振り返りつつ）</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/hibiki1806/" target="_blank"><img src="/2016/images/top/1805kasyuoubostert.jpg"></a>
-<p class="block-date"> ブログ：2018年6月4日～10日</p>
-<p class="block-title"><a href="http://astone.tv/events/hibiki1806/" target="_blank">風のひびき第6集募集開始<br>作詞作曲者たちの驚くべき野心</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/june2018z/" target="_blank"><img src="/2016/images/top/1706zenkokuhakuba.jpg"></a>
-<p class="block-date">ブログ：2018年6月4日～10日</p>
-<p class="block-title"><a href="http://astone.tv/events/june2018z/" target="_blank">白馬キャンプに向かって<br>全国各教会<br>ワクワクな一週間（思い出を振り返りつつ）</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2017healing/180609healing/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-<p class="block-date">日程：2018年6月9日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/180609healing/" target="_blank">6月 いやしの集い</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180609/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-<p class="block-date">ブログ：2018年6月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180609/" target="_blank">GRACEと宝石<br>栃木県宇都宮市の音楽祭でゴスペルを歌う</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank"><img src="/2016/images/top/1804thanks_dstmovie.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201803-revivalcamp/" target="_blank">感謝と賛美とリバイバルキャンプ<br>ダイジェスト映像<br>(再生時間 10:03)</a></p>
