@@ -16,20 +16,12 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
 </div>-->
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/kansai1806/" target="_blank"><img src="/2016/images/top/1701kansaiseikai.jpg"></a>
 <p class="block-date">ブログ：2018年6月24日～28日</p>
-<p class="block-title"><a href="http://astone.tv/events/kansai1806/" target="_blank"><br>関西宣教の旅<br>(日程 2018年6月25日～28日)</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1806meetings/" target="_blank"><img src="/2016/images/top/1702yokohamaseikai.jpg"></a>
-<p class="block-date">ブログ：2018年6月22日～23日</p>
-<p class="block-title"><a href="http://astone.tv/events/1806meetings/" target="_blank">梅雨晴れの関東を行く<br>横浜・厚木宣教の旅<br>(横浜でGiftsも歌う)<br>(日程 2018年6月22日～23日)</a></p>
+<p class="block-title"><a href="http://astone.tv/events/kansai1806/" target="_blank">夏近づく関西を行く<br>関西宣教の旅<br>(日程 2018年6月25日～28日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -56,29 +48,21 @@
 <p class="block-title"><a href="http://astone.tv/events/1806yorimichi/" target="_blank">新シリーズが始まった！<br>クリスチャンの寄り道メンバーてんやわんや一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/2017students/180624/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
 <p class="block-date"> ブログ：2018年6月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/180624/" target="_blank">6月 学生会</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gospel2017/180623/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
-<p class="block-date"> ブログ：2018年6月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180623/" target="_blank">6月 ゴスペルの集い</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/180624/" target="_blank">6月学生会の一日</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2018年6月23日 18:30～</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2018年6月23日 18:30スタート)</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -92,7 +76,6 @@
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
-<p class="block-date">動画ブログ：2018年6月11日～17日</p>
 <p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>梅雨の東京アンテオケ教会</a></p>
 </div>
 
@@ -111,35 +94,18 @@
 <p class="block-title"><a href="http://astone.tv/events/first1806z/" target="_blank">全国各教会の父の日<br>その後の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/2017byhisspirit/180624/" target="_blank"><img src="/2016/images/top/1702byhissetagaya.jpg"></a>
 <p class="block-date"> ブログ：2018年6月24日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180624/" target="_blank">By His spirit<br>高円寺のフレンチレストランでゴスペルコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180622/" target="_blank"><img src="/2016/images/top/1701jerukawaguchi.jpg"></a>
-<p class="block-date"> ブログ：2018年6月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180622/" target="_blank">エルサレム<br>さいたま市岩槻グループホームでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/gate2018/180622/" target="_blank"><img src="/2016/images/top/1610gateofnerimarouken.jpg"></a>
-<p class="block-date"> ブログ：2018年6月22日</p>
-<p class="block-title"><a href="http://astone.tv/events/gate2018/180622/" target="_blank">The Gate of Praise<br>練馬区の老健でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
-<p class="block-date">動画ブログ：22018年6月18日～24日</p>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>梅雨のTLCCC全国各教会</a></p>
 </div>
 
@@ -205,6 +171,34 @@
 <a href="/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1806meetings/" target="_blank"><img src="/2016/images/top/1702yokohamaseikai.jpg"></a>
+<p class="block-date">ブログ：2018年6月22日～23日</p>
+<p class="block-title"><a href="http://astone.tv/events/1806meetings/" target="_blank">梅雨晴れの関東を行く<br>横浜・厚木宣教の旅<br>(横浜でGiftsも歌う)<br>(日程 2018年6月22日～23日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gospel2017/180623/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+<p class="block-date"> ブログ：2018年6月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180623/" target="_blank">6月 ゴスペルの集い</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180622/" target="_blank"><img src="/2016/images/top/1701jerukawaguchi.jpg"></a>
+<p class="block-date"> ブログ：2018年6月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180622/" target="_blank">エルサレム<br>さいたま市岩槻グループホームでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/gate2018/180622/" target="_blank"><img src="/2016/images/top/1610gateofnerimarouken.jpg"></a>
+<p class="block-date"> ブログ：2018年6月22日</p>
+<p class="block-title"><a href="http://astone.tv/events/gate2018/180622/" target="_blank">The Gate of Praise<br>練馬区の老健でゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
