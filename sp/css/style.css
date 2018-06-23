@@ -615,22 +615,25 @@ a {
   color: #333;
 }
 
-
 .flexbox {
     display: -webkit-flex;
     display: flex;
 }
-
 .sns_area{
     float: left;
+    font-size: 24px;
+    margin-top: 7px;
 }
 
 .sns_area .instagram{
     float: left;
+    margin-left:10px;
 }
 .sns_area .facebook{
     float: left;
+    margin-left:10px;
 }
 .sns_area .twitter{
     float: left;
+    margin-left:10px;
 }
