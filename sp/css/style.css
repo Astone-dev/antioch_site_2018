@@ -620,3 +620,17 @@ a {
     display: -webkit-flex;
     display: flex;
 }
+
+.sns_area{
+    float: left;
+}
+
+.sns_area .instagram{
+    float: left;
+}
+.sns_area .facebook{
+    float: left;
+}
+.sns_area .twitter{
+    float: left;
+}
