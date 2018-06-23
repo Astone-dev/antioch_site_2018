@@ -16,6 +16,14 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/kansai1806/" target="_blank"><img src="/2016/images/top/1701kansaiseikai.jpg"></a>
+<p class="block-date">ブログ：2018年6月24日～28日</p>
+<p class="block-title"><a href="http://astone.tv/events/kansai1806/" target="_blank"><br>関西宣教の旅<br>(日程 2018年6月25日～28日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -47,6 +55,14 @@
 <p class="block-date"> ブログ：2018年6月18日～24日</p>
 <p class="block-title"><a href="http://astone.tv/events/1806yorimichi/" target="_blank">新シリーズが始まった！<br>クリスチャンの寄り道メンバーてんやわんや一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2017students/180624/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
+<p class="block-date"> ブログ：2018年6月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/180624/" target="_blank">6月 学生会</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -94,6 +110,14 @@
 <p class="block-date"> ブログ：2018年6月18日～24日</p>
 <p class="block-title"><a href="http://astone.tv/events/first1806z/" target="_blank">全国各教会の父の日<br>その後の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/180624/" target="_blank"><img src="/2016/images/top/1702byhissetagaya.jpg"></a>
+<p class="block-date"> ブログ：2018年6月24日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180624/" target="_blank">By His spirit<br>高円寺のフレンチレストランでゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
