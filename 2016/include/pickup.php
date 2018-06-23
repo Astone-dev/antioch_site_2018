@@ -19,7 +19,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/kansai1806/" target="_blank"><img src="/2016/images/top/1701kansaiseikai.jpg"></a>
+<a href="http://astone.tv/events/kansai1806/" target="_blank"><img src="/2016/images/top/1806kansai.jpg"></a>
 <p class="block-date">ブログ：2018年6月24日～28日</p>
 <p class="block-title"><a href="http://astone.tv/events/kansai1806/" target="_blank">夏近づく関西を行く<br>関西宣教の旅<br>(日程 2018年6月25日～28日)</a></p>
 </div>
