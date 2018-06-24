@@ -624,7 +624,9 @@ a {
     font-size: 30px;
     margin-top: 3px;
 }
-
+.sns_area a{
+    color: #000;
+}
 .sns_area .instagram{
     float: left;
     margin-left:10px;
