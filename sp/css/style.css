@@ -619,6 +619,8 @@ a {
     display: -webkit-flex;
     display: flex;
 }
+
+/* 20180624 SNS追加 */
 .sns_area{
     float: left;
     font-size: 30px;
@@ -638,4 +640,13 @@ a {
 .sns_area .twitter{
     float: left;
     margin-left:10px;
+}
+#lang{
+    float: right;
+    color: #444;
+    margin-top: 5px;
+    margin-right: 8px;
+    padding: 6px;
+    border: solid 1px #444;
+    border-radius: 4px;
 }
