@@ -24,76 +24,28 @@
 <p class="block-title"><a href="http://astone.tv/events/kansai1806/" target="_blank">夏近づく関西を行く<br>関西宣教の旅<br>(日程 2018年6月25日～28日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/cup201806/" target="_blank"><img src="/2016/images/top/1806chichinohiantioch.jpg"></a>
+<a href="http://antiochblog.jp/praise/cup201806/" target="_blank"><img src="/2016/images/top/1806tsuyumaeantioch.jpg"></a>
 <p class="block-date"> ブログ：2018年6月25日～7月1日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/cup201806/" target="_blank">熱戦ワールドカップ！<br>夜も眠れず東京アンテオケ教会の一週間</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/gifts1806tokyo/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
+<a href="http://antiochblog.jp/info/gifts1806tokyo/" target="_blank"><img src="/2016/images/top/1706ikebukuro.jpg"></a>
 <p class="block-date"> ブログ：2018年6月25日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/gifts1806tokyo/" target="_blank">Gifts<br>都内の施設でゴスペルコンサート</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/rejoice1806/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
 <p class="block-date"> ブログ：2018年6月25日～7月1日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/rejoice1806/" target="_blank">池袋J.GOSPEL FESに向かって<br>出演グループ、The Visionスタッフの一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/first1806/" target="_blank"><img src="/2016/images/top/1806chichinohiantioch.jpg"></a>
-<p class="block-date"> ブログ：2018年6月18日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/first1806/" target="_blank">東京アンテオケ教会の父の日<br>その後の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/music1806/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
-<p class="block-date"> ブログ：2018年6月18日～24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/music1806/" target="_blank"><br>風のひびき５集ベスト盤制作真っ只中！<br>荒地に川ミュージック<br>各賛美チームの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1806yorimichi/" target="_blank"><img src="/2016/images/top/1706yorimitiweek.jpg"></a>
-<p class="block-date"> ブログ：2018年6月18日～24日</p>
-<p class="block-title"><a href="http://astone.tv/events/1806yorimichi/" target="_blank">新シリーズが始まった！<br>クリスチャンの寄り道メンバーてんやわんや一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/2017students/180624/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
-<p class="block-date"> ブログ：2018年6月24日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/180624/" target="_blank">6月学生会の一日</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年6月23日 18:30～</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2018年6月23日 18:30スタート)</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/movie1806/" target="_blank"><img src="/2016/images/top/1806filmmission.jpg"></a>
-<p class="block-date"> ブログ：2018年6月18日～24日</p>
-<p class="block-title"><a href="http://astone.tv/events/movie1806/" target="_blank">日本からハリウッドへ<br>ハリウッドから世界へ<br>映画ミッションの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -110,28 +62,12 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=6qki4y8DRhw&t=10s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃009<br>ゴスペルグループGiftsのワイワイ動画<br>(6月24日UP!／毎週日曜更新)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/rejoice1806z/" target="_blank"><img src="/2016/images/top/1806chichinohiantioch.jpg"></a>
+<a href="http://astone.tv/events/rejoice1806z/" target="_blank"><img src="/2016/images/top/1806tsuyumaezenkoku.jpg"></a>
 <p class="block-date"> ブログ：2018年6月25日～7月1日</p>
 <p class="block-title"><a href="http://astone.tv/events/rejoice1806z/" target="_blank">熱戦ワールドカップ！<br>夜も眠れず全国各教会の一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/first1806z/" target="_blank"><img src="/2016/images/top/1806chichinohizenkoku.jpg"></a>
-<p class="block-date"> ブログ：2018年6月18日～24日</p>
-<p class="block-title"><a href="http://astone.tv/events/first1806z/" target="_blank">全国各教会の父の日<br>その後の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/180624/" target="_blank"><img src="/2016/images/top/1702byhissetagaya.jpg"></a>
-<p class="block-date"> ブログ：2018年6月24日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180624/" target="_blank">By His spirit<br>高円寺のフレンチレストランでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -203,6 +139,55 @@
 <a href="/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/first1806/" target="_blank"><img src="/2016/images/top/1806chichinohiantioch.jpg"></a>
+<p class="block-date"> ブログ：2018年6月18日～24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/first1806/" target="_blank">東京アンテオケ教会の父の日<br>その後の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/music1806/" target="_blank"><img src="/2016/images/top/1706arechiweek.jpg"></a>
+<p class="block-date"> ブログ：2018年6月18日～24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/music1806/" target="_blank"><br>風のひびき５集ベスト盤制作真っ只中！<br>荒地に川ミュージック<br>各賛美チームの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1806yorimichi/" target="_blank"><img src="/2016/images/top/1706yorimitiweek.jpg"></a>
+<p class="block-date"> ブログ：2018年6月18日～24日</p>
+<p class="block-title"><a href="http://astone.tv/events/1806yorimichi/" target="_blank">新シリーズが始まった！<br>クリスチャンの寄り道メンバーてんやわんや一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2017students/180624/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
+<p class="block-date"> ブログ：2018年6月24日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017students/180624/" target="_blank">6月学生会の一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/movie1806/" target="_blank"><img src="/2016/images/top/1806filmmission.jpg"></a>
+<p class="block-date"> ブログ：2018年6月18日～24日</p>
+<p class="block-title"><a href="http://astone.tv/events/movie1806/" target="_blank">日本からハリウッドへ<br>ハリウッドから世界へ<br>映画ミッションの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/first1806z/" target="_blank"><img src="/2016/images/top/1806chichinohizenkoku.jpg"></a>
+<p class="block-date"> ブログ：2018年6月18日～24日</p>
+<p class="block-title"><a href="http://astone.tv/events/first1806z/" target="_blank">全国各教会の父の日<br>その後の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/180624/" target="_blank"><img src="/2016/images/top/1702byhissetagaya.jpg"></a>
+<p class="block-date"> ブログ：2018年6月24日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180624/" target="_blank">By His spirit<br>高円寺のフレンチレストランでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
