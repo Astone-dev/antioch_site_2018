@@ -35,15 +35,15 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/gifts1806tokyo/" target="_blank"><img src="/2016/images/top/1706ikebukuro.jpg"></a>
+<a href="http://antiochblog.jp/info/gifts1806tokyo/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
 <p class="block-date"> ブログ：2018年6月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/gifts1806tokyo/" target="_blank">Gifts<br>都内の施設でゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gifts1806tokyo/" target="_blank">Gifts<br> 都内の施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/rejoice1806/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
+<a href="http://antiochblog.jp/info/rejoice1806/" target="_blank"><img src="/2016/images/top/1706ikebukuro.jpg"></a>
 <p class="block-date"> ブログ：2018年6月25日～7月1日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/rejoice1806/" target="_blank">池袋J.GOSPEL FESに向かって<br>出演グループ、The Visionスタッフの一週間</a></p>
 </div>
