@@ -334,10 +334,32 @@ header {
   font-size: 0.7em;
 }
 
+/* 20180624 sns追加 */
+.sns_area{
+    float: left;
+    font-size: 20px;
+    margin: 3px 0;
+    padding: 0 0 15px;
+    border-bottom: solid 1px #ccc;
+}
+.sns_area a{
+    color: #000;
+}
+.sns_area .instagram{
+    float: left;
+    margin-left:5px;
+}
+.sns_area .facebook{
+    float: left;
+    margin-left:10px;
+}
+.sns_area .twitter{
+    float: left;
+    margin-left:10px;
+}
 
 
-/* #top-rightarea
-****************************/
+
 h3.block-title {
 	float:left;
 	width: 150px;
