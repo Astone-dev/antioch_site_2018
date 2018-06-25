@@ -32,6 +32,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/cup201806/" target="_blank">熱戦ワールドカップ！<br>夜も眠れず東京アンテオケ教会の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1806korea/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
+<p class="block-date"> ブログ：2018年6月26日～27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1806korea/" target="_blank">韓国からのユースチームと<br>アンテオケヤングの友好の2日間</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -69,6 +77,14 @@
 <p class="block-date"> ブログ：2018年6月25日～7月1日</p>
 <p class="block-title"><a href="http://astone.tv/events/rejoice1806z/" target="_blank">熱戦ワールドカップ！<br>夜も眠れず全国各教会の一週間</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180626/" target="_blank"><img src="/2016/images/top/1701jerukawaguchi.jpg"></a>
+<p class="block-date"> ブログ：2018年6月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180626/" target="_blank">エルサレム<br>箱根のホテルでゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-2">動画</span>
