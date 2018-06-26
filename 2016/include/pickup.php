@@ -48,6 +48,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/rejoice1806/" target="_blank">池袋J.GOSPEL FESに向かって<br>出演グループ、The Visionスタッフの一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1806suginami/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
+<p class="block-date"> ブログ：2018年6月27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1806suginami/" target="_blank">Immanuel、Beracha、CROIX<br>杉並区の特別養護老人施設でゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
