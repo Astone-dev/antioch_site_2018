@@ -48,13 +48,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/rejoice1806/" target="_blank">池袋J.GOSPEL FESに向かって<br>出演グループ、The Visionスタッフの一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1806suginami/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
 <p class="block-date"> ブログ：2018年6月27日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1806suginami/" target="_blank">Immanuel、Beracha、CROIX<br>杉並区の特別養護老人施設でゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
@@ -76,14 +76,6 @@
 <a href="http://astone.tv/events/rejoice1806z/" target="_blank"><img src="/2016/images/top/1806tsuyumaezenkoku.jpg"></a>
 <p class="block-date"> ブログ：2018年6月25日～7月1日</p>
 <p class="block-title"><a href="http://astone.tv/events/rejoice1806z/" target="_blank">熱戦ワールドカップ！<br>夜も眠れず全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180626/" target="_blank"><img src="/2016/images/top/1701jerukawaguchi.jpg"></a>
-<p class="block-date"> ブログ：2018年6月23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180626/" target="_blank">エルサレム<br>箱根のホテルでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -155,6 +147,13 @@
 <a href="/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180626/" target="_blank"><img src="/2016/images/top/1701jerukawaguchi.jpg"></a>
+<p class="block-date"> ブログ：2018年6月23日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180626/" target="_blank">エルサレム<br>箱根のホテルでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
