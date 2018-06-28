@@ -64,9 +64,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/uranos2017/180628/" target="_blank"><img src="/2016/images/top/1608uranosuconcert.jpg"></a>
-<p class="block-date"> ブログ：2018年6月28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180628/" target="_blank">ウラノス<br>小平の国立病院でゴスペルコンサート</a></p>
+<a href="http://antiochblog.jp/praise/2017labeille" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
+<p class="block-date"> ブログ：2018年6月29日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille" target="_blank">ラベイユ<br>東久留米の施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -152,6 +152,13 @@
 <a href="/yorimichi/result-standup.html" target="_blank"><img src="/2016/images/top/1709yorimichi28kekka.jpg"></a>
 <p class="block-title"><a href="/yorimichi/result-standup.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.28<br>「倒れて立ち上がった経験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/uranos2017/180628/" target="_blank"><img src="/2016/images/top/1608uranosuconcert.jpg"></a>
+<p class="block-date"> ブログ：2018年6月28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180628/" target="_blank">ウラノス<br>小平の国立病院でゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
