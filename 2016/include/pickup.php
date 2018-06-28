@@ -19,25 +19,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/kansai1806/" target="_blank"><img src="/2016/images/top/1806kansai.jpg"></a>
-<p class="block-date">ブログ：2018年6月24日～28日</p>
-<p class="block-title"><a href="http://astone.tv/events/kansai1806/" target="_blank">夏近づく関西を行く<br>関西宣教の旅<br>(日程 2018年6月25日～28日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/cup201806/" target="_blank"><img src="/2016/images/top/1806tsuyumaeantioch.jpg"></a>
 <p class="block-date"> ブログ：2018年6月25日～7月1日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/cup201806/" target="_blank">熱戦ワールドカップ！<br>夜も眠れず東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1806korea/" target="_blank"><img src="/2016/images/top/1806koreayouth.jpg"></a>
-<p class="block-date"> ブログ：2018年6月26日～27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1806korea/" target="_blank">韓国からのユースチームと<br>アンテオケヤングの友好の2日間</a></p>
 </div>
 
 <div class="column-inner">
@@ -60,6 +44,13 @@
 <span>NEW</span>
 <a href="https://www.youtube.com/watch?v=6qki4y8DRhw&t=10s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180624giftstv.jpg"></a>
 <p class="block-title"><a href="https://www.youtube.com/watch?v=6qki4y8DRhw&t=10s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃009<br>ゴスペルグループGiftsのワイワイ動画<br>(6月24日UP!／毎週日曜更新)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">動画</span>
+<span>NEW</span>
+<a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1806kyounokiseki.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のきせき</a></p>
 </div>
 
 <div class="column-inner">
@@ -111,6 +102,20 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/kansai1806/" target="_blank"><img src="/2016/images/top/1806kansai.jpg"></a>
+<p class="block-date">ブログ：2018年6月24日～28日</p>
+<p class="block-title"><a href="http://astone.tv/events/kansai1806/" target="_blank">夏近づく関西を行く<br>関西宣教の旅<br>(日程 2018年6月25日～28日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1806korea/" target="_blank"><img src="/2016/images/top/1806koreayouth.jpg"></a>
+<p class="block-date"> ブログ：2018年6月26日～27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1806korea/" target="_blank">韓国からのユースチームと<br>アンテオケヤングの友好の2日間</a></p>
+</div>
 
 <div class="column-inner">
 <span>NEW</span>
