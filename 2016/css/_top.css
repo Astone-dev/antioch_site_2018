@@ -335,30 +335,47 @@ header {
 }
 
 /* 20180624 sns追加 */
+.sns_area_block{
+    margin: 0px 0 15px;
+    padding: 0px 0 0px;
+    border-bottom: solid 1px #999;
+    float: right;
+    width: 100%;
+}
 .sns_area{
-    float: left;
-    font-size: 20px;
-    margin: 3px 0;
-    padding: 0 0 15px;
-    border-bottom: solid 1px #ccc;
+    float: right;
+    font-size: 30px;
 }
 .sns_area a{
-    color: #000;
+    color: #333;
+}
+.sns_area a:hover{
+	filter:alpha(opacity=70);
+	-moz-opacity: 0.7;
+	opacity: 0.7;
+	-webkit-transition: all .3s;
+	transition: all .3s;
 }
 .sns_area .instagram{
     float: left;
-    margin-left:5px;
 }
 .sns_area .facebook{
     float: left;
-    margin-left:10px;
+    margin-left:14px;
 }
 .sns_area .twitter{
     float: left;
-    margin-left:10px;
+    margin-left:14px;
 }
-
-
+.footer_sns_block{
+    margin: 0px 0 15px;
+    padding: 0px 0 0px;
+    float: left;
+    width: 100%;
+}
+.footer_sns_block .sns_area a{
+    color: #eee;
+}
 
 h3.block-title {
 	float:left;
