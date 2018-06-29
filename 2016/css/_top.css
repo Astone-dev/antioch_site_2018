@@ -377,8 +377,8 @@ header {
     float: left;
     font-size: 30px;
 }
-.footer_sns_block .sns_area .sns_area .facebook,
-.footer_sns_block .sns_area .sns_area .twitter{
+.footer_sns_block .sns_area .facebook,
+.footer_sns_block .sns_area .twitter{
     float: left;
     margin-left:10px;
 }
