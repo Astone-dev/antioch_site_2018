@@ -16,6 +16,14 @@
 <i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
 </div>-->
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1806yokosuka/" target="_blank"><img src="/2016/images/top/11704yokosuka.jpg"></a>
+<p class="block-date">ブログ：2018年6月30日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1806yokosuka/" target="_blank">梅雨晴れの横須賀を行く<br>横須賀宣教の旅<br></a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
