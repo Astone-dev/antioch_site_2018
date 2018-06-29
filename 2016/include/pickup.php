@@ -27,7 +27,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1806yokosuka/" target="_blank"><img src="/2016/images/top/11704yokosuka.jpg"></a>
+<a href="http://antiochblog.jp/praise/1806yokosuka/" target="_blank"><img src="/2016/images/top/1704yokosuka.jpg"></a>
 <p class="block-date">ブログ：2018年6月30日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1806yokosuka/" target="_blank">梅雨明けの関東を行く<br>横須賀宣教の旅<br></a></p>
 </div>
