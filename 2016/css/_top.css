@@ -359,10 +359,7 @@ header {
 .sns_area .instagram{
     float: left;
 }
-.sns_area .facebook{
-    float: left;
-    margin-left:14px;
-}
+.sns_area .facebook,
 .sns_area .twitter{
     float: left;
     margin-left:14px;
@@ -375,6 +372,15 @@ header {
 }
 .footer_sns_block .sns_area a{
     color: #eee;
+}
+.footer_sns_block .sns_area{
+    float: left;
+    font-size: 30px;
+}
+.footer_sns_block .sns_area .sns_area .facebook,
+.footer_sns_block .sns_area .sns_area .twitter{
+    float: left;
+    margin-left:10px;
 }
 
 h3.block-title {
