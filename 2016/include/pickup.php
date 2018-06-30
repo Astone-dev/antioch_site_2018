@@ -23,13 +23,20 @@
 <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/tohoku1807/" target="_blank"><img src="/2016/images/top/1706tohokuseikai.jpg"></a>
+<p class="block-date">ブログ:2018年7月1日～5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/tohoku1807/" target="_blank">もうすぐ梅雨明けの東北を行く<br>東北宣教の旅<br>(日程 2018年7月2日～5日)</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1806yokosuka/" target="_blank"><img src="/2016/images/top/1704yokosuka.jpg"></a>
-<p class="block-date">ブログ：2018年6月30日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1806yokosuka/" target="_blank">梅雨明けの関東を行く<br>横須賀宣教の旅<br></a></p>
+<p class="block-date">ブログ：2018年6月30日日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1806yokosuka/" target="_blank">梅雨明けの関東を行く<br>横須賀宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
