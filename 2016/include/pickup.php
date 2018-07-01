@@ -31,20 +31,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/tohoku1807/" target="_blank">もうすぐ梅雨明けの東北を行く<br>東北宣教の旅<br>(日程 2018年7月2日～5日)</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/july2018/" target="_blank"><img src="/2016/images/top/1806tsuyumaeantioch.jpg"></a>
-<p class="block-date"> ブログ：2018年7月2日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/july2018/" target="_blank">もう梅雨明け！<br>暑さにまけるなアンテオケ教会の一週間</a></p>
-</div>-->
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/cup201806/" target="_blank"><img src="/2016/images/top/1806tsuyumaeantioch.jpg"></a>
-<p class="block-date"> ブログ：2018年6月25日～7月1日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/cup201806/" target="_blank">熱戦ワールドカップ！<br>夜も眠れず東京アンテオケ教会の一週間</a></p>
+<a href="http://antiochblog.jp/praise/july2018/" target="_blank"><img src="/2016/images/top/1807summer_a.jpg"></a>
+<p class="block-date"> ブログ：2018年7月2日～8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/july2018/" target="_blank">もう梅雨明け！<br>暑さにまけるなアンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -67,20 +59,12 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=6qki4y8DRhw&t=10s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃009<br>ゴスペルグループGiftsのワイワイ動画<br>(6月24日UP!／毎週日曜更新)</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/july2018z/" target="_blank"><img src="/2016/images/top/1806tsuyumaeantioch.jpg"></a>
-<p class="block-date"> ブログ：2018年7月2日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/july2018z/" target="_blank">もう梅雨明け！<br>暑さにまけるな全国教会の一週間</a></p>
-</div>-->
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/rejoice1806z/" target="_blank"><img src="/2016/images/top/1806tsuyumaezenkoku.jpg"></a>
-<p class="block-date"> ブログ：2018年6月25日～7月1日</p>
-<p class="block-title"><a href="http://astone.tv/events/rejoice1806z/" target="_blank">熱戦ワールドカップ！<br>夜も眠れず全国各教会の一週間</a></p>
+<a href="http://astone.tv/events/july2018z/" target="_blank"><img src="/2016/images/top/1807summer_z.jpg"></a>
+<p class="block-date"> ブログ：2018年7月2日～8日</p>
+<p class="block-title"><a href="http://astone.tv/events/july2018z/" target="_blank">もう梅雨明け！<br>暑さにまけるな全国教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -116,6 +100,22 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/cup201806/" target="_blank"><img src="/2016/images/top/1806tsuyumaeantioch.jpg"></a>
+<p class="block-date"> ブログ：2018年6月25日～7月1日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/cup201806/" target="_blank">熱戦ワールドカップ！<br>夜も眠れず東京アンテオケ教会の一週間</a></p>
+</div>
+
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/rejoice1806z/" target="_blank"><img src="/2016/images/top/1806tsuyumaezenkoku.jpg"></a>
+<p class="block-date"> ブログ：2018年6月25日～7月1日</p>
+<p class="block-title"><a href="http://astone.tv/events/rejoice1806z/" target="_blank">熱戦ワールドカップ！<br>夜も眠れず全国各教会の一週間</a></p>
+</div>
+
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
