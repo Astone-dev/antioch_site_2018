@@ -40,6 +40,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/yobi1807/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
+<p class="block-date">ブログ：2018年7月4日～</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1807/" target="_blank">J.GOSPELコンテスト<br>U21.KIDS出場グループ決定！喜びの一週間</a></p>
+</div>
+
+<div class="column-inner">
 <span>NEW</span>
 <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
 <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
@@ -63,16 +71,8 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/july2018z/" target="_blank"><img src="/2016/images/top/1807summer_z.jpg"></a>
-<p class="block-date"> ブログ：2018年7月2日～8日</p>
+<p class="block-date">ブログ：2018年7月2日～8日</p>
 <p class="block-title"><a href="http://astone.tv/events/july2018z/" target="_blank">もう梅雨明け！<br>暑さにまけるな全国教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/yobi1807/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
-<p class="block-date"> ブログ：2018年7月4日～</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1807/" target="_blank">J.GOSPELコンテスト<br>U21.KIDS出場グループ決定！喜びの一週間</a></p>
 </div>
 
 <div class="column-inner">
