@@ -42,9 +42,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/praise/jitenwaku1807" target="_blank"><img src="/2016/images/top/1707jgosfinalteam.jpg"></a>
+<p class="block-date">ブログ：2018年7月4日～</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/jitenwaku1807" target="_blank">J.GOSPELコンテスト in 白馬<br>時点枠出場グループ決定！喜びの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/yobi1807/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
 <p class="block-date">ブログ：2018年7月4日～</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1807/" target="_blank">J.GOSPELコンテスト<br>U21.KIDS出場グループ決定！喜びの一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1807/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21.KIDS出場グループ決定！喜びの一週間</a></p>
 </div>
 
 <div class="column-inner">
