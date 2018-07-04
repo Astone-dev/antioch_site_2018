@@ -56,6 +56,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1806tocharidigest_p.jpg"></a>
+<p class="block-date">ブログ：2018年7月4日～</p>
+<p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">6月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
+</div>
+
+<div class="column-inner">
 <span>NEW</span>
 <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
 <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
@@ -64,8 +72,8 @@
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
-<a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
-<p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのと東京アンテオケ教会');">短い動画で見る<br>梅雨の東京アンテオケ教会</a></p>
+<a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('東京アンテオケ教会のインスタ動画'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
+<p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('東京アンテオケ教会のインスタ動画');">短い動画で見る<br>夏の東京アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -86,8 +94,8 @@
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
-<a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
-<p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('短い動画で見る春を感じてほのぼのとTLCCC全国各教会');">短い動画で見る<br>梅雨のTLCCC全国各教会</a></p>
+<a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('TLCCC各教会のインスタ動画'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
+<p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('TLCCC各教会のインスタ動画');">短い動画で見る<br>夏のTLCCC全国各教会</a></p>
 </div>
 
 <div class="column-inner">
