@@ -34,14 +34,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/tohoku1807/" target="_blank"><img src="/2016/images/top/1706tohokuseikai.jpg"></a>
-<p class="block-date">ブログ:2018年7月1日～5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/tohoku1807/" target="_blank">もうすぐ梅雨明けの東北を行く<br>東北宣教の旅<br>(日程 2018年7月2日～5日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/july2018/" target="_blank"><img src="/2016/images/top/1807summer_a.jpg"></a>
 <p class="block-date"> ブログ：2018年7月2日～8日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/july2018/" target="_blank">もう梅雨明け！<br>暑さにまけるなアンテオケ教会の一週間</a></p>
@@ -140,6 +132,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/tohoku1807/" target="_blank"><img src="/2016/images/top/1706tohokuseikai.jpg"></a>
+<p class="block-date">ブログ:2018年7月1日～5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/tohoku1807/" target="_blank">もうすぐ梅雨明けの東北を行く<br>東北宣教の旅<br>(日程 2018年7月2日～5日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
