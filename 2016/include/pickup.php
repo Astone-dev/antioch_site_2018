@@ -23,13 +23,13 @@
 <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/1807meetings/" target="_blank"><img src="/2016/images/top/1710kawasaki.jpg"></a>
 <p class="block-date">ブログ:2018年7月6日～7日</p>
-<p class="block-title"><a href="http://astone.tv/events/1807meetings/" target="_blank"><br>川崎、町田宣教の旅<br>(日程 2018年7月6日～7日)</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/1807meetings/" target="_blank">雨模様の週末<br>川崎、町田宣教の旅<br>(日程 2018年7月6日～7日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
