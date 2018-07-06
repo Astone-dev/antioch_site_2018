@@ -127,6 +127,25 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/mustbehappy/" target="_blank">クリスチャンの寄り道 Vol.33<br>今回は「今までで一番幸せだった時」のお話です</a></p>
 </div>
 
+<div class="column-inner">
+<span>NEW</span>
+<a href="https://tokyo.antioch.jp/yorimichi/result-kangekishitakoto.html" target="_blank"><img src="/2016/images/top/1806yorimichi32kekka.jpg"></a>
+<p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-kangekishitakoto.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.32<br>「神さまのことで一番感激したこと」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+</div>
+
+<div class="column-inner">
+<span>NEW</span>
+<a href="http://kazenohibiki.blogspot.jp" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
+<p class="block-date">毎日19:00更新</p>
+<p class="block-title"><a href="http://kazenohibiki.blogspot.jp" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<a href="http://movie.antioch.jp/2018hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
+<p class="block-title"><a href="http://movie.antioch.jp/2018hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>受賞作品と応募作品</a></p>
+</div>
+
 <!--<div class="column-inner">
 <a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank"><img src="/2016/images/top/1803yorimichi32.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
