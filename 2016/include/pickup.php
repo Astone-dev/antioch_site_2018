@@ -17,7 +17,6 @@
 </div>-->
 
 <div class="column-inner">
-<span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.instagram.com/tokyoantiochchurch/" target="_blank"><img src="/2016/images/top/1807antiochinsta.jpg"></a>
 <p class="block-title"><a href="https://www.instagram.com/tokyoantiochchurch/" target="_blank">東京アンテオケ教会のインスタグラム<br>今日のみ言葉をアップ！</a></p>
