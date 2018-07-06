@@ -19,6 +19,13 @@
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
+<a href="https://www.instagram.com/tokyoantiochchurch/" target="_blank"><img src="/2016/images/top/1807antiochinsta.jpg"></a>
+<p class="block-title"><a href="https://www.instagram.com/tokyoantiochchurch/" target="_blank">東京アンテオケ教会のインスタグラム<br>今日のみ言葉をアップ！</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">動画</span>
+<span>NEW</span>
 <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1806kyounokiseki.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ</a></p>
 </div>
@@ -31,13 +38,13 @@
 <p class="block-title"><a href="http://astone.tv/events/1807meetings/" target="_blank">雨模様の週末<br>川崎、町田宣教の旅<br>(日程 2018年7月6日～7日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/charisma1807/" target="_blank"><img src="/2016/images/top/1806tocharidigest_p.jpg"></a>
+<a href="http://astone.tv/events/charisma1807/" target="_blank"><img src="/2016/images/top/1807tokyocharisma.jpg"></a>
 <p class="block-date">ブログ:2018年7月7日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/charisma1807/" target="_blank">7月 東京カリスマ聖会</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/charisma1807/" target="_blank">7月の東京カリスマ聖会<br>アンテオケ大忙し<br>(聖会日程：2018年7月8日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -99,7 +106,7 @@
 <p class="block-title"><a href="http://astone.tv/events/july2018z/" target="_blank">もう梅雨明け！<br>暑さにまけるな全国教会の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180707/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
@@ -113,7 +120,7 @@
 <a href="http://antiochblog.jp/praise/gracejewel2017/180707/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
 <p class="block-date">ブログ：2018年7月7日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180707/" target="_blank">GRACEと宝石<br>宇都宮市のイベントでゴスペルを歌う</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
