@@ -69,6 +69,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/yobi1807/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21.KIDS出場グループ決定！喜びの一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/euqaristias/20180708shinjuku/" target="_blank"><img src="/2016/images/top/1610eukarishinjyuku.jpg"></a>
+<p class="block-date">ブログ：2018年7月8日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180708shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
