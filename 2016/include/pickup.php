@@ -29,6 +29,29 @@
 <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/site1807/" target="_blank"><img src="/2016/images/top/1807summer_a.jpg"></a>
+<p class="block-date"> ブログ：2018年7月9日～15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/site1807/" target="_blank">白馬キャンプに向かって<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/river1807/" target="_blank"><img src="/2016/images/top/1807summer_a.jpg"></a>
+<p class="block-date"> ブログ：2018年7月9日～15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/river1807/" target="_blank">作詞・作曲者の一週間<br>東京アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1807kawaguchi/" target="_blank"><img src="/2016/images/top/1704patolisshisetsu.jpg"></a>
+<p class="block-date">ブログ：2018年7月9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1807kawaguchi/" target="_blank">PATOLIS <br>川口の病院デイケアでゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -96,6 +119,30 @@
 <a href="https://www.youtube.com/watch?v=bfS7QouWte0" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180701giftstv.jpg"></a>
 <p class="block-title"><a href="https://www.youtube.com/watch?v=bfS7QouWte0" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃010<br>ゴスペルグループGiftsのワイワイ動画<br>(7月1日UP!／毎週日曜更新)</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/site1807z/" target="_blank"><img src="/2016/images/top/1807summer_a.jpg"></a>
+<p class="block-date"> ブログ：2018年7月9日～15日</p>
+<p class="block-title"><a href="http://astone.tv/events/site1807z/" target="_blank">白馬キャンプに向かって<br>全国各教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/world1807/" target="_blank"><img src="/2016/images/top/1807summer_a.jpg"></a>
+<p class="block-date"> ブログ：2018年7月9日～15日</p>
+<p class="block-title"><a href="http://astone.tv/events/world1807/" target="_blank">作詞・作曲者の一週間<br>全国各教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180709/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年7月9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180709/" target="_blank">エルサレム<br>さいたま市岩槻の特別養護老人ホームでゴスペルコンサート</a></p>
+</div>
+-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
