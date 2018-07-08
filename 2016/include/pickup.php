@@ -32,72 +32,25 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/site1807/" target="_blank"><img src="/2016/images/top/1807summer_a.jpg"></a>
+<a href="http://antiochblog.jp/praise/site1807/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
 <p class="block-date"> ブログ：2018年7月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/site1807/" target="_blank">白馬キャンプに向かって<br>東京アンテオケ教会の一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/site1807/" target="_blank">あと2週間！<br>白馬キャンプに向かって<br>ウキウキ東京アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/river1807/" target="_blank"><img src="/2016/images/top/1807summer_a.jpg"></a>
+<a href="http://antiochblog.jp/info/river1807/" target="_blank"><img src="/2016/images/top/1608sakushihontono.jpg"></a>
 <p class="block-date"> ブログ：2018年7月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/river1807/" target="_blank">作詞・作曲者の一週間<br>東京アンテオケ教会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/river1807/" target="_blank">さあ出すぞ！<br>風のひびき作詞・作曲者の一週間<br>東京アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/1807kawaguchi/" target="_blank"><img src="/2016/images/top/1704patolisshisetsu.jpg"></a>
 <p class="block-date">ブログ：2018年7月9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1807kawaguchi/" target="_blank">PATOLIS <br>川口の病院デイケアでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/charisma1807/" target="_blank"><img src="/2016/images/top/1807tokyocharisma.jpg"></a>
-<p class="block-date">ブログ:2018年7月7日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/charisma1807/" target="_blank">7月の東京カリスマ聖会<br>アンテオケ大忙し<br>(聖会日程：2018年7月8日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/july2018/" target="_blank"><img src="/2016/images/top/1807summer_a.jpg"></a>
-<p class="block-date"> ブログ：2018年7月2日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/july2018/" target="_blank">もう梅雨明け！<br>暑さにまけるなアンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/jitenwaku1807" target="_blank"><img src="/2016/images/top/1707jgosfinalteam.jpg"></a>
-<p class="block-date">ブログ：2018年7月4日～</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/jitenwaku1807" target="_blank">J.GOSPELコンテスト in 白馬<br>次点枠出場グループ決定！喜びの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/yobi1807/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
-<p class="block-date">ブログ：2018年7月4日～</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1807/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21.KIDS出場グループ決定！喜びの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20180708shinjuku/" target="_blank"><img src="/2016/images/top/1610eukarishinjyuku.jpg"></a>
-<p class="block-date">ブログ：2018年7月8日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180708shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1806tocharidigest_p.jpg"></a>
-<p class="block-date">ブログ：2018年7月4日～</p>
-<p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">6月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
 </div>
 
 <div class="column-inner">
@@ -123,17 +76,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/site1807z/" target="_blank"><img src="/2016/images/top/1807summer_a.jpg"></a>
+<a href="http://astone.tv/events/site1807z/" target="_blank"><img src="/2016/images/top/1805hakubaz.jpg"></a>
 <p class="block-date"> ブログ：2018年7月9日～15日</p>
-<p class="block-title"><a href="http://astone.tv/events/site1807z/" target="_blank">白馬キャンプに向かって<br>全国各教会</a></p>
+<p class="block-title"><a href="http://astone.tv/events/site1807z/" target="_blank">あと2週間！<br>白馬キャンプに向かって<br>ワクワクな全国各教会</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/world1807/" target="_blank"><img src="/2016/images/top/1807summer_a.jpg"></a>
+<a href="http://astone.tv/events/world1807/" target="_blank"><img src="/2016/images/top/1609sakushiyorokobizenkoku.jpg"></a>
 <p class="block-date"> ブログ：2018年7月9日～15日</p>
-<p class="block-title"><a href="http://astone.tv/events/world1807/" target="_blank">作詞・作曲者の一週間<br>全国各教会</a></p>
+<p class="block-title"><a href="http://astone.tv/events/world1807/" target="_blank">さあ出すぞ！<br>風のひびき作詞・作曲者の一週間<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -141,14 +94,6 @@
 <a href="http://antiochblog.jp/info/jerusalem2017/180709/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年7月9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180709/" target="_blank">エルサレム<br>三郷市のグループホームでゴスペル教室</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/july2018z/" target="_blank"><img src="/2016/images/top/1807summer_z.jpg"></a>
-<p class="block-date">ブログ：2018年7月2日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/july2018z/" target="_blank">もう梅雨明け！<br>暑さにまけるな全国教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -203,6 +148,55 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/charisma1807/" target="_blank"><img src="/2016/images/top/1807tokyocharisma.jpg"></a>
+<p class="block-date">ブログ:2018年7月7日～8日</p>
+<p class="block-title"><a href="http://astone.tv/events/charisma1807/" target="_blank">7月の東京カリスマ聖会<br>アンテオケ大忙し<br>(聖会日程：2018年7月8日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/july2018/" target="_blank"><img src="/2016/images/top/1807summer_a.jpg"></a>
+<p class="block-date"> ブログ：2018年7月2日～8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/july2018/" target="_blank">もう梅雨明け！<br>暑さにまけるなアンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/jitenwaku1807" target="_blank"><img src="/2016/images/top/1707jgosfinalteam.jpg"></a>
+<p class="block-date">ブログ：2018年7月4日～</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/jitenwaku1807" target="_blank">J.GOSPELコンテスト in 白馬<br>次点枠出場グループ決定！喜びの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/yobi1807/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
+<p class="block-date">ブログ：2018年7月4日～</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1807/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21.KIDS出場グループ決定！喜びの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/euqaristias/20180708shinjuku/" target="_blank"><img src="/2016/images/top/1610eukarishinjyuku.jpg"></a>
+<p class="block-date">ブログ：2018年7月8日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180708shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1806tocharidigest_p.jpg"></a>
+<p class="block-date">ブログ：2018年7月4日～</p>
+<p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">6月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/july2018z/" target="_blank"><img src="/2016/images/top/1807summer_z.jpg"></a>
+<p class="block-date">ブログ：2018年7月2日～8日</p>
+<p class="block-title"><a href="http://astone.tv/events/july2018z/" target="_blank">もう梅雨明け！<br>暑さにまけるな全国教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
