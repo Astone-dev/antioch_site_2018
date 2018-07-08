@@ -140,7 +140,7 @@
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180709/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年7月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180709/" target="_blank">エルサレム<br>さいたま市岩槻の特別養護老人ホームでゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180709/" target="_blank">エルサレム<br>三郷市のグループホームでゴスペル教室</a></p>
 </div>
 -->
 
