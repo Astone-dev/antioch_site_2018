@@ -69,8 +69,8 @@
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="https://www.youtube.com/watch?v=bfS7QouWte0" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180701giftstv.jpg"></a>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=bfS7QouWte0" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃010<br>ゴスペルグループGiftsのワイワイ動画<br>(7月1日UP!)</a></p>
+<a href="https://www.youtube.com/watch?v=B4NezHxAxZk&t=38s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180709giftstv.jpg"></a>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=B4NezHxAxZk&t=38s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃011<br>ゴスペルグループGiftsのワイワイ動画<br>(7月9日UP!)</a></p>
 </div>
 
 <div class="column-inner">
