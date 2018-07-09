@@ -74,6 +74,12 @@
 </div>
 
 <div class="column-inner">
+<span>NEW</span>
+<a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚'); "><img src="/2016/images/top/1807taniguchigahaku.jpg"></a>
+<p class="block-title"><a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚');">谷口画伯の今日の一枚<br>(Instagram)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/site1807z/" target="_blank"><img src="/2016/images/top/1805hakubaz.jpg"></a>
