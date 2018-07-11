@@ -46,6 +46,13 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">動画</span>
+<span>NEW</span>
+<a href="http://tv.antioch.jp/digest/201807-kokogos/" target="_blank"><img src="/2016/images/top/1807kokorogospel_cm.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201807-kokogos/" target="_blank">こころごすぺる<br>CM動画<br>(日程：2018年8月15日)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/1807tree/" target="_blank"><img src="/2016/images/top/1607treeoflife.jpg"></a>
