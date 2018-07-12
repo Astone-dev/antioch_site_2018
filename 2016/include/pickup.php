@@ -18,8 +18,8 @@
 
 <div class="column-inner">
 <span>NEW</span>
-<a href="https://www.instagram.com/tokyoantiochchurch/" target="_blank"><img src="/2016/images/top/1807antiochinsta.jpg"></a>
-<p class="block-title"><a href="https://www.instagram.com/tokyoantiochchurch/" target="_blank">東京アンテオケ教会のインスタグラム<br>今日のみ言葉をアップ！</a></p>
+<a href="https://www.instagram.com/tokyoantiochchurch/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-Tokyoanntioch_Official'); "><img src="/2016/images/top/1807antiochinsta.jpg"></a>
+<p class="block-title"><a href="https://www.instagram.com/tokyoantiochchurch/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-Tokyoanntioch_Official');">東京アンテオケ教会のインスタグラム<br>今日のみ言葉をアップ！<br>(Instagram)</a></p>
 </div>
 
 <div class="column-inner">
