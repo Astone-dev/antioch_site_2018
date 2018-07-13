@@ -160,11 +160,11 @@
 <p class="block-date">ブログ：2018年7月11日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1807tree/" target="_blank">Tree of Life <br>東久留米の施設でゴスペルコンサート</a></p></div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180710/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年7月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180710/" target="_blank">エルサレム<br>三郷市グループホームでゴスペルコンサート</a></p></div>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180710/" target="_blank">エルサレム<br>三郷市グループホームでゴスペルコンサート</a></p></div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
