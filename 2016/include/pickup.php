@@ -255,50 +255,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/tohoku1807/" target="_blank"><img src="/2016/images/top/1706tohokuseikai.jpg"></a>
-<p class="block-date">ブログ:2018年7月1日～5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/tohoku1807/" target="_blank">もうすぐ梅雨明けの東北を行く<br>東北宣教の旅<br>(日程 2018年7月2日～5日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/cup201806/" target="_blank"><img src="/2016/images/top/1806tsuyumaeantioch.jpg"></a>
-<p class="block-date"> ブログ：2018年6月25日～7月1日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/cup201806/" target="_blank">熱戦ワールドカップ！<br>夜も眠れず東京アンテオケ教会の一週間</a></p>
-</div>
-
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/rejoice1806z/" target="_blank"><img src="/2016/images/top/1806tsuyumaezenkoku.jpg"></a>
-<p class="block-date"> ブログ：2018年6月25日～7月1日</p>
-<p class="block-title"><a href="http://astone.tv/events/rejoice1806z/" target="_blank">熱戦ワールドカップ！<br>夜も眠れず全国各教会の一週間</a></p>
-</div>
-
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1806yokosuka/" target="_blank"><img src="/2016/images/top/1704yokosuka.jpg"></a>
-<p class="block-date">ブログ：2018年6月30日日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1806yokosuka/" target="_blank">梅雨明けの関東を行く<br>横須賀宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/rejoice1806/" target="_blank"><img src="/2016/images/top/1706ikebukuro.jpg"></a>
-<p class="block-date"> ブログ：2018年6月25日～7月1日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/rejoice1806/" target="_blank">池袋J.GOSPEL FESに向かって<br>出演グループ、The Visionスタッフの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/2017labeille" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
-<p class="block-date"> ブログ：2018年6月29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille" target="_blank">ラベイユ<br>東久留米の施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <a href="http://tv.antioch.jp/digest/201805-shortstory-cm/" target="_blank"><img src="/2016/images/top/1805seishonohanashi_m.jpg"></a>
 <p class="block-date">ブログ：2018年5月28日～6月3日</p>
