@@ -45,6 +45,31 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/river1807/" target="_blank">さあ出すぞ！<br>風のひびき作詞・作曲者の一週間<br>東京アンテオケ教会</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017healing/180714/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+<p class="block-date"> ブログ：2018年7月14日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/180714/" target="_blank">7月 いやしの集い</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年7月14日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年7月14日 18:30スタート)</a></p>
+</div>-->
+
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/2017labeille/180714-2/" target="_blank"><img src="/2016/images/top/1703lageiyumusashiurawa.jpg"></a>
+<p class="block-date"> ブログ：2018年7月14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180714-2/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
