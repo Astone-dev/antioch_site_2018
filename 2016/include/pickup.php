@@ -61,7 +61,6 @@
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年7月14日 18:30スタート)</a></p>
 </div>
 
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -118,6 +117,21 @@
 <p class="block-date"> ブログ：2018年7月9日～15日</p>
 <p class="block-title"><a href="http://astone.tv/events/world1807/" target="_blank">さあ出すぞ！<br>風のひびき作詞・作曲者の一週間<br>全国各教会</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/180715/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
+<p class="block-date"> ブログ：2018年7月15日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180715/" target="_blank">By His spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p></div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180715/" target="_blank"><img src="/2016/images/top/1706graceshisetsude.jpg"></a>
+<p class="block-date"> ブログ：2018年7月15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180715/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
