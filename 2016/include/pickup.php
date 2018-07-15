@@ -29,38 +29,6 @@
 <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/faith1807/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
-<p class="block-date"> ブログ：2018年7月16日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1807/" target="_blank">いよいよあと一週間<br>白馬キャンプ アンテオケ教会</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1807wedding/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
-<p class="block-date"> ブログ：2018年7月16日</p>
-<p class="block-title"><a href="http://astone.tv/events/1807wedding/" target="_blank">前田サムエル兄 岡本怜子姉 結婚式</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/site1807/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
-<p class="block-date"> ブログ：2018年7月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/site1807/" target="_blank">あと2週間！<br>白馬キャンプに向かって<br>ウキウキ東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/river1807/" target="_blank"><img src="/2016/images/top/1608sakushihontono.jpg"></a>
-<p class="block-date"> ブログ：2018年7月9日～15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/river1807/" target="_blank">さあ出すぞ！<br>風のひびき作詞・作曲者の一週間<br>東京アンテオケ教会</a></p>
-</div>
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -68,13 +36,35 @@
 <p class="block-date"> ブログ：2018年7月15日～16日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gospel1807/" target="_blank">灼熱の東京！<br>池袋J.GOSPEL LIVEに向かって<br>The Visionスタッフと出演グループの2日間</a></p></div>
 
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/2018women/201807/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
-<p class="block-date"> ブログ：2018年7月15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201807/" target="_blank">7月の婦人会の一日</a></p></div>
+<a href="http://antiochblog.jp/praise/faith1807/" target="_blank"><img src="/2016/images/top/1807hakubaanntioch.jpg"></a>
+<p class="block-date">ブログ：2018年7月16日～22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1807/" target="_blank">いよいよあと一週間！<br>白馬キャンプに向かって大忙し<br>アンテオケ教会</a></p>
+</div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1807wedding/" target="_blank"><img src="/2016/images/top/1807samryokowedding.jpg"></a>
+<p class="block-date"> ブログ：2018年7月16日</p>
+<p class="block-title"><a href="http://astone.tv/events/1807wedding/" target="_blank">前田サムエル兄 岡本怜子姉 結婚式</a></p>
+</div>-->
+
+<div class="column-inner">
+<span>NEW</span>
+<a href="/hakuba/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
+<p class="block-date">日程：2018年7月24日～7月27日</p>
+<p class="block-title"><a href="/hakuba/" target="_blank">白馬キャンプのご案内<br>(日程：プレキャンプ7/24(火)、本キャンプ7/25(水)～7/27(金))</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank"><img src="/2016/images/top/1805hakubacm.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank">白馬キャンプ<br>CM映像<br>(再生時間 11:56)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
@@ -90,10 +80,11 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">動画</span>
+<span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('東京アンテオケ教会のインスタ動画'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
-<p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('東京アンテオケ教会のインスタ動画');">短い動画で見る<br>夏の東京アンテオケ教会</a></p>
+<a href="http://astone.tv/events/faith1807z/" target="_blank"><img src="/2016/images/top/1807hakubazenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年7月16日～22日</p>
+<p class="block-title"><a href="http://astone.tv/events/faith1807z/" target="_blank">いよいよあと一週間！<br>白馬キャンプに向かってワクワク<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -109,43 +100,11 @@
 <p class="block-title"><a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚');">谷口画伯の今日の一枚<br>(Instagram)</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/faith1807z/" target="_blank"><img src="/2016/images/top/1805hakubaz.jpg"></a>
-<p class="block-date"> ブログ：2018年7月16日～22日</p>
-<p class="block-title"><a href="http://astone.tv/events/faith1807z/" target="_blank">いよいよあと一週間<br>白馬キャンプ 全国各教会</a></p>
-</div>-->
-
 <div class="column-inner">
-<span class="label-1">ブログ</span>
+<span class="label-2">動画</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/site1807z/" target="_blank"><img src="/2016/images/top/1805hakubaz.jpg"></a>
-<p class="block-date">ブログ：2018年7月9日～15日</p>
-<p class="block-title"><a href="http://astone.tv/events/site1807z/" target="_blank">あと2週間！<br>白馬キャンプに向かって<br>ワクワクな全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/world1807/" target="_blank"><img src="/2016/images/top/1609sakushiyorokobizenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年7月9日～15日</p>
-<p class="block-title"><a href="http://astone.tv/events/world1807/" target="_blank">さあ出すぞ！<br>風のひびき作詞・作曲者の一週間<br>全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/180715/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
-<p class="block-date">ブログ：2018年7月15日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180715/" target="_blank">By His spirit<br>世田谷の高齢者施設と高円寺のフレンチレストランでゴスペルコンサート</a></p></div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180715/" target="_blank"><img src="/2016/images/top/1706graceshisetsude.jpg"></a>
-<p class="block-date">ブログ：2018年7月15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180715/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
+<a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('東京アンテオケ教会のインスタ動画'); "><img src="/2016/images/top/1803antiochhonobono.jpg"></a>
+<p class="block-title"><a href="https://www.instagram.com/antiochmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('東京アンテオケ教会のインスタ動画');">短い動画で見る<br>夏の東京アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -153,20 +112,6 @@
 <span>NEW</span>
 <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('TLCCC各教会のインスタ動画'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
 <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('TLCCC各教会のインスタ動画');">短い動画で見る<br>夏のTLCCC全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-<span>NEW</span>
-<a href="/hakuba/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
-<p class="block-date">日程：2018年7月24日～7月27日</p>
-<p class="block-title"><a href="/hakuba/" target="_blank">白馬キャンプのご案内<br>(日程：プレキャンプ7/24(火)、本キャンプ7/25(水)～7/27(金))</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank"><img src="/2016/images/top/1805hakubacm.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank">白馬キャンプ<br>CM映像<br>(再生時間 11:56)</a></p>
 </div>
 
 <div class="column-inner">
@@ -204,7 +149,53 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
+<a href="http://antiochblog.jp/praise/site1807/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
+<p class="block-date"> ブログ：2018年7月9日～15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/site1807/" target="_blank">あと2週間！<br>白馬キャンプに向かって<br>ウキウキ東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/river1807/" target="_blank"><img src="/2016/images/top/1608sakushihontono.jpg"></a>
+<p class="block-date"> ブログ：2018年7月9日～15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/river1807/" target="_blank">さあ出すぞ！<br>風のひびき作詞・作曲者の一週間<br>東京アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/2018women/201807/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
+<p class="block-date"> ブログ：2018年7月15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201807/" target="_blank">7月の婦人会の一日</a></p></div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/site1807z/" target="_blank"><img src="/2016/images/top/1805hakubaz.jpg"></a>
+<p class="block-date">ブログ：2018年7月9日～15日</p>
+<p class="block-title"><a href="http://astone.tv/events/site1807z/" target="_blank">あと2週間！<br>白馬キャンプに向かって<br>ワクワクな全国各教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/world1807/" target="_blank"><img src="/2016/images/top/1609sakushiyorokobizenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年7月9日～15日</p>
+<p class="block-title"><a href="http://astone.tv/events/world1807/" target="_blank">さあ出すぞ！<br>風のひびき作詞・作曲者の一週間<br>全国各教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/180715/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
+<p class="block-date">ブログ：2018年7月15日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180715/" target="_blank">By His spirit<br>世田谷の高齢者施設と高円寺のフレンチレストランでゴスペルコンサート</a></p></div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180715/" target="_blank"><img src="/2016/images/top/1706graceshisetsude.jpg"></a>
+<p class="block-date">ブログ：2018年7月15日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180715/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://astone.tv/events/2017healing/180714/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
 <p class="block-date"> ブログ：2018年7月14日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017healing/180714/" target="_blank">7月 いやしの集い</a></p>
@@ -212,7 +203,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/2017labeille/180714-2/" target="_blank"><img src="/2016/images/top/1703lageiyumusashiurawa.jpg"></a>
 <p class="block-date"> ブログ：2018年7月14日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180714-2/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
@@ -220,7 +210,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180713/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年7月13日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180713/" target="_blank">エルサレム<br>福島県相馬市でゴスペルコンサート</a></p></div>
