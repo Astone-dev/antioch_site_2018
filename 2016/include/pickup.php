@@ -29,6 +29,22 @@
 <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/faith1807/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
+<p class="block-date"> ブログ：2018年7月16日～22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1807/" target="_blank">いよいよあと一週間<br>白馬キャンプ アンテオケ教会</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1807wedding/" target="_blank"><img src="/2016/images/top/1805hakuba_a.jpg"></a>
+<p class="block-date"> ブログ：2018年7月16日</p>
+<p class="block-title"><a href="http://astone.tv/events/1807wedding/" target="_blank">前田サムエル兄 岡本怜子姉 結婚式</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -92,6 +108,14 @@
 <a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚'); "><img src="/2016/images/top/1807taniguchigahaku.jpg"></a>
 <p class="block-title"><a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚');">谷口画伯の今日の一枚<br>(Instagram)</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/faith1807z/" target="_blank"><img src="/2016/images/top/1805hakubaz.jpg"></a>
+<p class="block-date"> ブログ：2018年7月16日～22日</p>
+<p class="block-title"><a href="http://astone.tv/events/faith1807z/" target="_blank">いよいよあと一週間<br>白馬キャンプ 全国各教会</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
