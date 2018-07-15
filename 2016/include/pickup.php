@@ -50,7 +50,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/gospel1807/" target="_blank"><img src="/2016/images/top/1710jgospelfesikebukuro.jpg"></a>
 <p class="block-date"> ブログ：2018年7月15日～16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel1807/" target="_blank">J-GOSPEL Fes.に向かって <br>出演者の２日間</a></p></div>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel1807/" target="_blank">灼熱の東京！<br>池袋J.GOSPEL LIVEに向かって<br>The Visionスタッフと出演グループの2日間</a></p></div>
 
 
 <div class="column-inner">
@@ -58,7 +58,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/2018women/201807/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
 <p class="block-date"> ブログ：2018年7月15日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201807/" target="_blank">婦人会</a></p></div>
+<p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201807/" target="_blank">7月の婦人会の一日</a></p></div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
@@ -83,8 +83,8 @@
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="https://www.youtube.com/watch?v=B4NezHxAxZk&t=38s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180709giftstv.jpg"></a>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=B4NezHxAxZk&t=38s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃011<br>ゴスペルグループGiftsのワイワイ動画<br>(7月9日UP!)</a></p>
+<a href="https://www.youtube.com/watch?v=oMvQOeVY5LA&t=1s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180715giftstv.jpg"></a>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=oMvQOeVY5LA&t=1s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃012<br>ゴスペルグループGiftsのワイワイ動画<br>(7月15日UP!)</a></p>
 </div>
 
 <div class="column-inner">
@@ -97,7 +97,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/site1807z/" target="_blank"><img src="/2016/images/top/1805hakubaz.jpg"></a>
-<p class="block-date"> ブログ：2018年7月9日～15日</p>
+<p class="block-date">ブログ：2018年7月9日～15日</p>
 <p class="block-title"><a href="http://astone.tv/events/site1807z/" target="_blank">あと2週間！<br>白馬キャンプに向かって<br>ワクワクな全国各教会</a></p>
 </div>
 
@@ -105,7 +105,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/world1807/" target="_blank"><img src="/2016/images/top/1609sakushiyorokobizenkoku.jpg"></a>
-<p class="block-date"> ブログ：2018年7月9日～15日</p>
+<p class="block-date">ブログ：2018年7月9日～15日</p>
 <p class="block-title"><a href="http://astone.tv/events/world1807/" target="_blank">さあ出すぞ！<br>風のひびき作詞・作曲者の一週間<br>全国各教会</a></p>
 </div>
 
@@ -113,14 +113,14 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/2017byhisspirit/180715/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
-<p class="block-date"> ブログ：2018年7月15日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180715/" target="_blank">By His spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p></div>
+<p class="block-date">ブログ：2018年7月15日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180715/" target="_blank">By His spirit<br>世田谷の高齢者施設と高円寺のフレンチレストランでゴスペルコンサート</a></p></div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/gracejewel2017/180715/" target="_blank"><img src="/2016/images/top/1706graceshisetsude.jpg"></a>
-<p class="block-date"> ブログ：2018年7月15日</p>
+<p class="block-date">ブログ：2018年7月15日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180715/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
 </div>
 
