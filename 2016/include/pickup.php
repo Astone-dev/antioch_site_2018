@@ -32,40 +32,25 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/gospel1807/" target="_blank"><img src="/2016/images/top/1710jgospelfesikebukuro.jpg"></a>
-<p class="block-date"> ブログ：2018年7月15日～16日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel1807/" target="_blank">灼熱の東京！<br>池袋J.GOSPEL LIVEに向かって<br>The Visionスタッフと出演グループの2日間</a></p></div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/faith1807/" target="_blank"><img src="/2016/images/top/1807hakubaanntioch.jpg"></a>
 <p class="block-date">ブログ：2018年7月16日～22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1807/" target="_blank">いよいよあと一週間！<br>白馬キャンプに向かって大忙し<br>アンテオケ教会</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/final1807/" target="_blank"><img src="/2016/images/top/1807samryokowedding.jpg"></a>
-<p class="block-date"> ブログ：2018年7月16日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/final1807/" target="_blank">いざ勝負！<br>J.GOSPELコンテスト ファイナル in 白馬に向かって <br>7.26決戦に向かって </a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/u21-1807/" target="_blank"><img src="/2016/images/top/1807samryokowedding.jpg"></a>
-<p class="block-date"> ブログ：2018年7月16日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/u21-1807/" target="_blank">いざ勝負！<br>J.GOSPELコンテストU21・KIDS ファイナ in 白馬に向かって<br> 7.25決戦に向かって</a></p>
-</div>-->
+<a href="http://antiochblog.jp/info/final1807/" target="_blank"><img src="/2016/images/top/1707jgospelfinal.jpg"></a>
+<p class="block-date">ブログ：2018年7月16日～22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/final1807/" target="_blank">いざ勝負！<br>J.GOSPELコンテスト ファイナル in 白馬に向かって<br>7.26決戦に向かって </a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1807wedding/" target="_blank"><img src="/2016/images/top/1807samryokowedding.jpg"></a>
-<p class="block-date"> ブログ：2018年7月16日</p>
-<p class="block-title"><a href="http://astone.tv/events/1807wedding/" target="_blank">前田サムエル兄 岡本怜子姉 結婚式</a></p>
+<a href="http://antiochblog.jp/praise/u21-1807/" target="_blank"><img src="/2016/images/top/1707jgospelu21kidsfinal.jpg"></a>
+<p class="block-date">ブログ：2018年7月16日～22日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/u21-1807/" target="_blank">いざ勝負！<br>J.GOSPELコンテストU21・KIDS ファイナ in 白馬に向かって<br>7.25決戦に向かって</a></p>
 </div>
 
 <div class="column-inner">
@@ -162,6 +147,18 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
 
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gospel1807/" target="_blank"><img src="/2016/images/top/1710jgospelfesikebukuro.jpg"></a>
+<p class="block-date">ブログ：2018年7月15日～16日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel1807/" target="_blank">灼熱の東京！<br>池袋J.GOSPEL LIVEに向かって<br>The Visionスタッフと出演グループの2日間</a></p></div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1807wedding/" target="_blank"><img src="/2016/images/top/1807samryokowedding.jpg"></a>
+<p class="block-date">ブログ：2018年7月16日</p>
+<p class="block-title"><a href="http://astone.tv/events/1807wedding/" target="_blank">前田サムエル兄 岡本怜子姉 結婚式</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
