@@ -98,9 +98,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
+<a href="http://antiochblog.jp/info/jerusalem2017/180719/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
 <p class="block-date">ブログ：2018年7月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank">エルサレム<br>箱根のホテルでゴスペルコンサート</a></p></div>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180719/" target="_blank">エルサレム<br>箱根のホテルでゴスペルコンサート</a></p></div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
