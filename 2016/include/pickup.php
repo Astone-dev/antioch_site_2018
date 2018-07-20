@@ -29,6 +29,14 @@
 <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/chiba1807/" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
+<p class="block-date">ブログ：2018年7月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/chiba1807/" target="_blank">千葉聖会</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -52,6 +60,29 @@
 <p class="block-date">ブログ：2018年7月16日～22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/u21-1807/" target="_blank">いざ勝負！<br>J.GOSPELコンテストU21・KIDS ファイナ in 白馬に向かって<br>7.25決戦に向かって</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/revival2017/180721/" target="_blank"><img src="/2016/images/top/1704revivalnight.jpg"></a>
+<p class="block-date">ブログ：2018年7月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180721/" target="_blank">7月 Revival Night</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2018年7月21日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年7月21日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/1807concert/" target="_blank"><img src="/2016/images/top/1708uranos.jpg"></a>
+<p class="block-date">ブログ：2018年7月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1807concert/" target="_blank">婦人会、クワイア、オーケストラ <br>病院でコンサート</a></p></div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -240,112 +271,6 @@
 <a href="http://antiochblog.jp/info/jerusalem2017/180713/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年7月13日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180713/" target="_blank">エルサレム<br>福島県相馬市でゴスペルコンサート</a></p></div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1807tree/" target="_blank"><img src="/2016/images/top/1607treeoflife.jpg"></a>
-<p class="block-date">ブログ：2018年7月11日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1807tree/" target="_blank">Tree of Life <br>東久留米の施設でゴスペルコンサート</a></p></div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180710/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年7月10日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180710/" target="_blank">エルサレム<br>三郷市グループホームでゴスペルコンサート</a></p></div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1807kawaguchi/" target="_blank"><img src="/2016/images/top/1704patolisshisetsu.jpg"></a>
-<p class="block-date">ブログ：2018年7月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1807kawaguchi/" target="_blank">PATOLIS <br>川口の病院デイケアでゴスペルコンサート</a></p>
-</div>
-
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180709/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年7月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180709/" target="_blank">エルサレム<br>三郷市のグループホームでゴスペル教室</a></p>
-</div>-->
-
-
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/charisma1807/" target="_blank"><img src="/2016/images/top/1807tokyocharisma.jpg"></a>
-<p class="block-date">ブログ:2018年7月7日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/charisma1807/" target="_blank">7月の東京カリスマ聖会<br>アンテオケ大忙し<br>(聖会日程：2018年7月8日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/july2018/" target="_blank"><img src="/2016/images/top/1807summer_a.jpg"></a>
-<p class="block-date"> ブログ：2018年7月2日～8日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/july2018/" target="_blank">もう梅雨明け！<br>暑さにまけるなアンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/jitenwaku1807" target="_blank"><img src="/2016/images/top/1707jgosfinalteam.jpg"></a>
-<p class="block-date">ブログ：2018年7月4日～</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/jitenwaku1807" target="_blank">J.GOSPELコンテスト in 白馬<br>次点枠出場グループ決定！喜びの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/yobi1807/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
-<p class="block-date">ブログ：2018年7月4日～</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/yobi1807/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21.KIDS出場グループ決定！喜びの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/euqaristias/20180708shinjuku/" target="_blank"><img src="/2016/images/top/1610eukarishinjyuku.jpg"></a>
-<p class="block-date">ブログ：2018年7月8日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180708shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1806tocharidigest_p.jpg"></a>
-<p class="block-date">ブログ：2018年7月4日～</p>
-<p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">6月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/july2018z/" target="_blank"><img src="/2016/images/top/1807summer_z.jpg"></a>
-<p class="block-date">ブログ：2018年7月2日～8日</p>
-<p class="block-title"><a href="http://astone.tv/events/july2018z/" target="_blank">もう梅雨明け！<br>暑さにまけるな全国教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1807meetings/" target="_blank"><img src="/2016/images/top/1710kawasaki.jpg"></a>
-<p class="block-date">ブログ:2018年7月6日～7日</p>
-<p class="block-title"><a href="http://astone.tv/events/1807meetings/" target="_blank">雨模様の週末<br>川崎、町田宣教の旅<br>(日程 2018年7月6日～7日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180707/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年7月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180707/" target="_blank">エルサレム<br>さいたま市岩槻の特別養護老人ホームでゴスペルコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180707/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-<p class="block-date">ブログ：2018年7月7日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180707/" target="_blank">GRACEと宝石<br>宇都宮市のイベントでゴスペルを歌う</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/1807true/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
-<p class="block-date">ブログ：2018年7月5日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1807true/" target="_blank">TrueVine<br>東久留米の施設でゴスペルコンサート</a></p>
-</div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
