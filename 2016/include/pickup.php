@@ -85,13 +85,6 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/1807concert/" target="_blank">婦人会、クワイア、オーケストラ <br>病院でコンサート</a></p></div>-->
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/uranos2017/180719/" target="_blank"><img src="/2016/images/top/1708uranos.jpg"></a>
-<p class="block-date">ブログ：2018年7月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180719/" target="_blank">ウラノス<br>清瀬市の病院でゴスペルコンサート</a></p></div>
-
-<div class="column-inner">
 <span>NEW</span>
 <a href="/hakuba/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
 <p class="block-date">日程：2018年7月24日～7月27日</p>
@@ -125,13 +118,6 @@
 <p class="block-date">ブログ：2018年7月16日～22日</p>
 <p class="block-title"><a href="http://astone.tv/events/faith1807z/" target="_blank">いよいよあと一週間！<br>白馬キャンプに向かってワクワク<br>全国各教会</a></p>
 </div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180719/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
-<p class="block-date">ブログ：2018年7月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180719/" target="_blank">エルサレム<br>箱根のホテルでゴスペルコンサート</a></p></div>
 
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -191,6 +177,18 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/uranos2017/180719/" target="_blank"><img src="/2016/images/top/1708uranos.jpg"></a>
+<p class="block-date">ブログ：2018年7月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/180719/" target="_blank">ウラノス<br>清瀬市の病院でゴスペルコンサート</a></p></div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180719/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
+<p class="block-date">ブログ：2018年7月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180719/" target="_blank">エルサレム<br>箱根のホテルでゴスペルコンサート</a></p></div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
