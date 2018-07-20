@@ -80,7 +80,7 @@
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/1807concert/" target="_blank"><img src="/2016/images/top/1708uranos.jpg"></a>
+<a href="http://antiochblog.jp/praise/1807concert/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
 <p class="block-date">ブログ：2018年7月19日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/1807concert/" target="_blank">婦人会、クワイア、オーケストラ <br>病院でコンサート</a></p></div>-->
 
