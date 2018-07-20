@@ -119,6 +119,13 @@
 <p class="block-title"><a href="http://astone.tv/events/faith1807z/" target="_blank">いよいよあと一週間！<br>白馬キャンプに向かってワクワク<br>全国各教会</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180721/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
+<p class="block-date">ブログ：2018年7月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180719/" target="_blank">エルサレム<br>さいたま市岩槻デイケアでゴスペルコンサート</a></p></div>-->
+
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
