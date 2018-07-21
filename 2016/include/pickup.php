@@ -32,17 +32,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/chiba1807/" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
-<p class="block-date">ブログ：2018年7月21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/chiba1807/" target="_blank">猛暑の千葉を行く<br>関東宣教の旅<br>(聖会日程：2018年8月21日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/faith1807/" target="_blank"><img src="/2016/images/top/1807hakubaanntioch.jpg"></a>
 <p class="block-date">ブログ：2018年7月16日～22日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1807/" target="_blank">いよいよあと3日！<br>白馬キャンプに向かって大忙し<br>アンテオケ教会</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1807/" target="_blank">いよいよあと2日！<br>白馬キャンプに向かって大忙し<br>アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -61,28 +53,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/u21-1807/" target="_blank">いざ勝負！<br>J.GOSPELコンテストU21・KIDS ファイナ in 白馬に向かって<br>7.25決戦に向かって</a></p>
 </div>
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/1807concert/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
-<p class="block-date">ブログ：2018年7月19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/1807concert/" target="_blank">婦人会、クワイア、オーケストラ<br>都内病院でコンサート</a></p></div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/revival2017/180721/" target="_blank"><img src="/2016/images/top/1704revivalnight.jpg"></a>
-<p class="block-date">ブログ：2018年7月21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180721/" target="_blank">7月 Revival Night</a></p>
-</div>
-
-<div class="column-inner">
+<!--<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2018年7月21日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年7月21日 18:30スタート)</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span>NEW</span>
@@ -110,15 +87,8 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/faith1807z/" target="_blank"><img src="/2016/images/top/1807hakubazenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年7月16日～22日</p>
-<p class="block-title"><a href="http://astone.tv/events/faith1807z/" target="_blank">いよいよあと3日！<br>白馬キャンプに向かってワクワク<br>全国各教会</a></p>
+<p class="block-title"><a href="http://astone.tv/events/faith1807z/" target="_blank">いよいよあと2日！<br>白馬キャンプに向かってワクワク<br>全国各教会</a></p>
 </div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180721/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
-<p class="block-date">ブログ：2018年7月21日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180719/" target="_blank">エルサレム<br>さいたま市岩槻デイケアでゴスペルコンサート</a></p></div>
 
 <div class="column-inner">
 <span>NEW</span>
@@ -184,6 +154,34 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/chiba1807/" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
+<p class="block-date">ブログ：2018年7月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/chiba1807/" target="_blank">猛暑の千葉を行く<br>関東宣教の旅<br>(聖会日程：2018年8月21日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/1807concert/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
+<p class="block-date">ブログ：2018年7月19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/1807concert/" target="_blank">婦人会、クワイア、オーケストラ<br>都内病院でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/revival2017/180721/" target="_blank"><img src="/2016/images/top/1704revivalnight.jpg"></a>
+<p class="block-date">ブログ：2018年7月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/revival2017/180721/" target="_blank">7月 Revival Night</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180721/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
+<p class="block-date">ブログ：2018年7月21日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180719/" target="_blank">エルサレム<br>さいたま市岩槻デイケアでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
