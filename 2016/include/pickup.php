@@ -32,6 +32,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://astone.tv/events/1807concert/" target="_blank"><img src="/2016/images/top/1708giftsjoyebisu.jpg"></a>
+<p class="block-date">ブログ：2018年7月22日</p>
+<p class="block-title"><a href="http://astone.tv/events/1807concert/" target="_blank">Gifts、JOY、プレジール<br>チャリティーコンサート<br>(日程：2018年7月22日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/faith1807/" target="_blank"><img src="/2016/images/top/1807hakubaanntioch.jpg"></a>
 <p class="block-date">ブログ：2018年7月16日～22日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/faith1807/" target="_blank">いよいよあと2日！<br>白馬キャンプに向かって大忙し<br>アンテオケ教会</a></p>
