@@ -33,15 +33,15 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/faith1807/" target="_blank"><img src="/2016/images/top/1807hakubaanntioch.jpg"></a>
-<p class="block-date">ブログ：2018年7月16日～23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1807/" target="_blank">いよいよあと1日！<br>白馬キャンプに向かって大忙し<br>アンテオケ教会</a></p>
+<p class="block-date">ブログ：2018年7月24日～27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1807/" target="_blank">いよいよ今日から<br>白馬キャンプスタート！<br>アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/final1807/" target="_blank"><img src="/2016/images/top/1707jgospelfinal.jpg"></a>
-<p class="block-date">ブログ：2018年7月16日～23日</p>
+<p class="block-date">ブログ：2018年7月16日～26日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/final1807/" target="_blank">いざ勝負！<br>J.GOSPELコンテスト ファイナル in 白馬に向かって<br>7.26決戦に向かって </a></p>
 </div>
 
@@ -49,7 +49,7 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/u21-1807/" target="_blank"><img src="/2016/images/top/1707jgospelu21kidsfinal.jpg"></a>
-<p class="block-date">ブログ：2018年7月16日～23日</p>
+<p class="block-date">ブログ：2018年7月16日～25日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/u21-1807/" target="_blank">いざ勝負！<br>J.GOSPELコンテストU21・KIDS ファイナ in 白馬に向かって<br>7.25決戦に向かって</a></p>
 </div>
 
@@ -57,8 +57,8 @@
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/faith1807z/" target="_blank"><img src="/2016/images/top/1807hakubazenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年7月16日～23日</p>
-<p class="block-title"><a href="http://astone.tv/events/faith1807z/" target="_blank">いよいよあと1日！<br>白馬キャンプに向かってワクワク<br>全国各教会</a></p>
+<p class="block-date">ブログ：2018年7月24日～27日</p>
+<p class="block-title"><a href="http://astone.tv/events/faith1807z/" target="_blank">いよいよ今日から<br>白馬キャンプスタート！<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
