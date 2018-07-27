@@ -32,14 +32,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/faith1807/" target="_blank"><img src="/2016/images/top/1807hakubaanntioch.jpg"></a>
-<p class="block-date">ブログ：2018年7月24日～27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1807/" target="_blank">今日、最終日<br>白馬キャンプ<br>アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/rejoice1807/" target="_blank"><img src="/2016/images/top/1807contestyorokobi.jpg"></a>
 <p class="block-date">ブログ：2018年7月27日～8月5日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/rejoice1807/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬<br>喜びと悲しみの一週間</a></p>
@@ -56,9 +48,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/faith1807z/" target="_blank"><img src="/2016/images/top/1807hakubazenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年7月24日～27日</p>
-<p class="block-title"><a href="http://astone.tv/events/faith1807z/" target="_blank">今日、最終日<br>白馬キャンプ<br>全国各教会の一週間</a></p>
+<a href="http://antiochblog.jp/praise/gospel2017" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+<p class="block-date">ブログ：2018年7月28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017" target="_blank">7月ゴスペルの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年7月28日 18:30～</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2018年7月28日 18:30スタート)</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -161,21 +161,19 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/u21-1807/" target="_blank">いざ勝負！<br>J.GOSPELコンテストU21・KIDS ファイナ in 白馬に向かって<br>7.25決戦に向かって</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gospel2017/180728/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
-<p class="block-date">ブログ：2018年7月27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180728/" target="_blank">7月 ゴスペルの集い</a></p>
-</div>-->
+<a href="http://antiochblog.jp/praise/faith1807/" target="_blank"><img src="/2016/images/top/1807hakubaanntioch.jpg"></a>
+<p class="block-date">ブログ：2018年7月24日～27日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/faith1807/" target="_blank">今日、最終日<br>白馬キャンプ<br>アンテオケ教会の一週間</a></p>
+</div>
 
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2017年12月23日 18:30～</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2017年12月23日 18:30スタート)</a></p>
-</div>-->
-
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/faith1807z/" target="_blank"><img src="/2016/images/top/1807hakubazenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年7月24日～27日</p>
+<p class="block-title"><a href="http://astone.tv/events/faith1807z/" target="_blank">今日、最終日<br>白馬キャンプ<br>全国各教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
