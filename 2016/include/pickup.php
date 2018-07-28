@@ -72,34 +72,10 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/gospel2017/180728/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
-<p class="block-date">ブログ：2018年7月28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180728/" target="_blank">7月ゴスペルの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年7月28日 18:30～</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2018年7月28日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180728/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年7月28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180728/" target="_blank">エルサレム<br>さいたま市岩槻グループホームでゴスペルコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/gracejewel2017/180729/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
 <p class="block-date">ブログ：2018年7月29日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180729/" target="_blank">GRACEと宝石<br>府中市のデイサービスでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <!--<div class="column-inner">
 <span>NEW</span>
@@ -186,6 +162,20 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gospel2017/180728/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+<p class="block-date">ブログ：2018年7月28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180728/" target="_blank">7月ゴスペルの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180728/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年7月28日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180728/" target="_blank">エルサレム<br>さいたま市岩槻グループホームでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
