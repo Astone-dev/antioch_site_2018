@@ -66,7 +66,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/jerusalem2017/180728/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
 <p class="block-date">ブログ：2018年7月28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180728/" target="_blank">エルサレム<br>さいたま市岩槻デイケアでゴスペルコンサート</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180728/" target="_blank">エルサレム<br>さいたま市岩槻グループホームでゴスペルコンサート</a></p>
 </div>
 
 <!--<div class="column-inner">
