@@ -48,9 +48,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/gospel2017" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+<a href="http://antiochblog.jp/praise/gospel2017/180728/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
 <p class="block-date">ブログ：2018年7月28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017" target="_blank">7月ゴスペルの集いの一日</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180728/" target="_blank">7月ゴスペルの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
