@@ -29,13 +29,21 @@
 <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/chubu1808/" target="_blank"><img src="/2016/images/top/1611chubuseikai.jpg"></a>
 <p class="block-date">ブログ：2018年7月29日～8月2日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/chubu1808/" target="_blank">中部を行く<br>中部宣教の旅<br>(聖会日程：2018年7月30日～8月1日)</a></p>
-</div>-->
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/gifts1807chiba/" target="_blank"><img src="/2016/images/top/1702giftskyuushu.jpg"></a>
+<p class="block-date">ブログ：2018年7月29日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gifts1807chiba/" target="_blank">Gifts千葉を行く<br>他教会でゴスペルライブ</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -53,21 +61,13 @@
 <p class="block-title"><a href="http://astone.tv/events/rejoice1807z/" target="_blank">J.GOSPELコンテストU21・KIDS ファイナル in 白馬<br>喜びと悲しみの一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/gifts1807chiba/" target="_blank"><img src="/2016/images/top/1702giftskyuushu.jpg"></a>
-<p class="block-date">ブログ：2018年7月29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/gifts1807chiba/" target="_blank">Gifts千葉を行く<br>他教会でゴスペルライブ</a></p>
-</div>-->
-
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/happyday2017/180729/" target="_blank"><img src="/2016/images/top/1804ohhappyday.jpg"></a>
 <p class="block-date">ブログ：2018年7月29日</p>
-<p class="block-title"><a href="http://astone.tv/events/happyday2017/180729/" target="_blank">OH! HAPPY DAY!</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/happyday2017/180729/" target="_blank">OH! HAPPY DAY!<br>流しそうめんを食べる!</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
