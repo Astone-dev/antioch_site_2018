@@ -40,9 +40,17 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/gifts1807chiba/" target="_blank"><img src="/2016/images/top/1702giftskyuushu.jpg"></a>
-<p class="block-date">ブログ：2018年7月29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/gifts1807chiba/" target="_blank">Gifts千葉を行く<br>他教会でゴスペルライブ</a></p>
+<a href="http://antiochblog.jp/info/summer2018/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
+<p class="block-date">ブログ：2018年7月30日～8月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/summer2018/" target="_blank">夏真っ盛り！<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/songwanted1808/" target="_blank"><img src="/2016/images/top/1706sakushiyorokobizenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年7月30日～8月5日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/songwanted1808/" target="_blank">締め切り迫る！最後の追い込み！<br>風のひびき6集<br>作詞・作曲者の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -64,17 +72,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/happyday2017/180729/" target="_blank"><img src="/2016/images/top/1804ohhappyday.jpg"></a>
-<p class="block-date">ブログ：2018年7月29日</p>
-<p class="block-title"><a href="http://astone.tv/events/happyday2017/180729/" target="_blank">OH! HAPPY DAY!<br>流しそうめんを食べる!</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180729/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
-<p class="block-date">ブログ：2018年7月29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180729/" target="_blank">GRACEと宝石<br>府中市のデイサービスでゴスペルコンサート</a></p>
+<a href="http://astone.tv/events/summer2018z/" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年7月30日～8月5日</p>
+<p class="block-title"><a href="http://astone.tv/events/summer2018z/" target="_blank">夏真っ盛り！<br>全国各教会の一週間</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -162,6 +162,27 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/gifts1807chiba/" target="_blank"><img src="/2016/images/top/1702giftskyuushu.jpg"></a>
+<p class="block-date">ブログ：2018年7月29日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gifts1807chiba/" target="_blank">Gifts千葉を行く<br>他教会でゴスペルライブ</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/happyday2017/180729/" target="_blank"><img src="/2016/images/top/1804ohhappyday.jpg"></a>
+<p class="block-date">ブログ：2018年7月29日</p>
+<p class="block-title"><a href="http://astone.tv/events/happyday2017/180729/" target="_blank">OH! HAPPY DAY!<br>流しそうめんを食べる!</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180729/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
+<p class="block-date">ブログ：2018年7月29日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180729/" target="_blank">GRACEと宝石<br>府中市のデイサービスでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
