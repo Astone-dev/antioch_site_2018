@@ -54,6 +54,13 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">動画</span>
+<span>NEW</span>
+<a href="http://tv.antioch.jp/digest/201807-hakubadigest/" target="_blank"><img src="/2016/images/top/1807hakubacampdigest_m.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201807-hakubadigest/" target="_blank">白馬キャンプ2018<br>ダイジェスト映像<br>(再生時間 16:46)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/rejoice1807/" target="_blank"><img src="/2016/images/top/1807contestyorokobi.jpg"></a>
