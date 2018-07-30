@@ -70,6 +70,26 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">動画</span>
+<span>NEW</span>
+<a href="http://tv.antioch.jp/digest/201807-kokogos/" target="_blank"><img src="/2016/images/top/1807kokorogospel_cm.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201807-kokogos/" target="_blank">こころごすぺる<br>CM動画<br>(日程：2018年8月15日)</a></p>
+</div>
+
+<div class="column-inner">
+<span>NEW</span>
+<a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
+<p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/watch?v=4dm8Ju6E7Vo" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180730giftstv.jpg"></a>
+<p class="block-title"><a href="https://www.youtube.com/watch?v=4dm8Ju6E7Vo" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃014<br>ゴスペルグループGiftsのワイワイ動画<br>(7月30日UP!)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/summer2018z/" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
@@ -90,26 +110,6 @@
 <a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank"><img src="/2016/images/top/1805hakubacm.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201805hakubacamp-cm/" target="_blank">白馬キャンプ<br>CM映像<br>(再生時間 11:56)</a></p>
 </div>-->
-
-<div class="column-inner">
-<span class="label-2">動画</span>
-<span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201807-kokogos/" target="_blank"><img src="/2016/images/top/1807kokorogospel_cm.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201807-kokogos/" target="_blank">こころごすぺる<br>CM動画<br>(日程：2018年8月15日)</a></p>
-</div>
-
-<div class="column-inner">
-<span>NEW</span>
-<a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
-<p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/watch?v=4dm8Ju6E7Vo" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180730giftstv.jpg"></a>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=4dm8Ju6E7Vo" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃014<br>ゴスペルグループGiftsのワイワイ動画<br>(7月30日UP!)</a></p>
-</div>
 
 <div class="column-inner">
 <span>NEW</span>
