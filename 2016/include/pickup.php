@@ -77,6 +77,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/suginami1808/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
+<p class="block-date">ブログ：2018年8月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/suginami1808/" target="_blank">Immanuel、Beracha、CROIX<br>で杉並区の特別養護老人施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
 <span>NEW</span>
 <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1807kokorogospel30th.jpg"></a>
 <p class="block-date">2018年8月15日</p>
