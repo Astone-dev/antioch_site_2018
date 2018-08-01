@@ -77,6 +77,13 @@
 </div>
 
 <div class="column-inner">
+<span>NEW</span>
+<a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1807kokorogospel30th.jpg"></a>
+<p class="block-date">2018年8月15日</p>
+<p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 30th<br>インフォメーション</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201807-kokogos/" target="_blank"><img src="/2016/images/top/1807kokorogospel_cm.jpg"></a>
