@@ -32,14 +32,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/chubu1808/" target="_blank"><img src="/2016/images/top/1611chubuseikai.jpg"></a>
-<p class="block-date">ブログ：2018年7月29日～8月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/chubu1808/" target="_blank">輝く光中を、中部を行く<br>中部宣教の旅<br>(聖会日程：2018年7月30日～8月1日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/summer2018/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
 <p class="block-date">ブログ：2018年7月30日～8月5日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/summer2018/" target="_blank">夏真っ盛り！<br>東京アンテオケ教会の一週間</a></p>
@@ -184,6 +176,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/chubu1808/" target="_blank"><img src="/2016/images/top/1611chubuseikai.jpg"></a>
+<p class="block-date">ブログ：2018年7月29日～8月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/chubu1808/" target="_blank">輝く光中を、中部を行く<br>中部宣教の旅<br>(聖会日程：2018年7月30日～8月1日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
