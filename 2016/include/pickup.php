@@ -40,6 +40,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://astone.tv/events/1808live/" target="_blank"><img src="/2016/images/top/1706ikebukuro.jpg"></a>
+<p class="block-date">ブログ：2018年8月3日～8月4日</p>
+<p class="block-title"><a href="http://astone.tv/events/1808live/" target="_blank">池袋J.GOSPELフェスに向かって<br>参加グループとThe Visionスタッフの2日間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/songwanted1808/" target="_blank"><img src="/2016/images/top/1706sakushiyorokobizenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年7月30日～8月5日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/songwanted1808/" target="_blank">締め切り迫る！最後の追い込み！<br>風のひびき6集<br>作詞・作曲者の一週間</a></p>
