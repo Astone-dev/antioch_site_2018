@@ -31,6 +31,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/info/1808meeting/" target="_blank"><img src="/2016/images/top/1708toyohashifuji.jpg"></a>
 <p class="block-date">ブログ：2018年8月4日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/1808meeting/" target="_blank">灼熱の富士、豊橋を行く<br>豊橋、富士宣教の旅<br>(聖会日程：2018年8月4日)</a></p>
@@ -38,6 +39,7 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/1808tokari/" target="_blank"><img src="/2016/images/top/1802tocari.jpg"></a>
 <p class="block-date">ブログ：2018年8月4日～8月5日</p>
 <p class="block-title"><a href="http://astone.tv/events/1808tokari/" target="_blank">真夏の東京カリスマ聖会<br>スタッフ大忙し<br>(聖会日程：2018年8月5日)</a></p>
