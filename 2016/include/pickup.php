@@ -29,28 +29,12 @@
 <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/hokuriku1808/" target="_blank"><img src="/2016/images/top/1708hokuriku.jpg"></a>
 <p class="block-date">ブログ：2018年8月5日～8月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/hokuriku1808/" target="_blank">真夏の光の中を<br>北陸宣教の旅<br>(聖会日程：2018年8月6日～8月8日)</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1808meeting/" target="_blank"><img src="/2016/images/top/1708toyohashifuji.jpg"></a>
-<p class="block-date">ブログ：2018年8月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1808meeting/" target="_blank">灼熱の富士、豊橋を行く<br>豊橋、富士宣教の旅<br>(聖会日程：2018年8月4日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1808live/" target="_blank"><img src="/2016/images/top/1706ikebukuro.jpg"></a>
-<p class="block-date">ブログ：2018年8月3日～8月4日</p>
-<p class="block-title"><a href="http://astone.tv/events/1808live/" target="_blank">池袋J.GOSPEL LIVEに向かって<br>参加グループとThe Visionスタッフの2日間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hokuriku1808/" target="_blank">ギラギラ輝く太陽の中北陸を行く<br>北陸宣教の旅<br>(聖会日程：2018年8月6日～8月8日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -143,14 +127,6 @@
 <p class="block-title"><a href="http://astone.tv/events/summer2018z/" target="_blank">夏真っ盛り！<br>全国各教会の一週間</a></p>
 </div>
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180804/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年8月4日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180804/" target="_blank">エルサレム<br>さいたま市のグループホームでゴスペルコンサート</a></p>
-</div>
-
 <!--<div class="column-inner">
 <span>NEW</span>
 <a href="/hakuba/" target="_blank"><img src="/2016/images/top/1705hakubacampinfo.jpg"></a>
@@ -217,6 +193,26 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
 
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1808meeting/" target="_blank"><img src="/2016/images/top/1708toyohashifuji.jpg"></a>
+<p class="block-date">ブログ：2018年8月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1808meeting/" target="_blank">灼熱の富士、豊橋を行く<br>豊橋、富士宣教の旅<br>(聖会日程：2018年8月4日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/1808live/" target="_blank"><img src="/2016/images/top/1706ikebukuro.jpg"></a>
+<p class="block-date">ブログ：2018年8月3日～8月4日</p>
+<p class="block-title"><a href="http://astone.tv/events/1808live/" target="_blank">池袋J.GOSPEL LIVEに向かって<br>参加グループとThe Visionスタッフの2日間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180804/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年8月4日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180804/" target="_blank">エルサレム<br>さいたま市のグループホームでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
