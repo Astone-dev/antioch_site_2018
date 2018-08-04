@@ -29,6 +29,14 @@
 <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/hokuriku1808/" target="_blank"><img src="/2016/images/top/1708hokuriku.jpg"></a>
+<p class="block-date">ブログ：2018年8月5日～8月9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hokuriku1808/" target="_blank">夏本番の北陸聖会<br>北陸宣教の旅<br>(聖会日程：2018年8月6日～8月8日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
