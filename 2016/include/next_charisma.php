@@ -8,5 +8,5 @@ $next_charisma_date = "2018年9月2日(日)";
 
 // 英語版 のカリスマ聖会の年月日を記載
 // 例: $next_charisma_date_eng = " Aug 21st, Sun.";
-$next_charisma_date_eng = "Sep.2nd, Sun.";
+$next_charisma_date_eng = "Sep.2nd,Sun.";
 ?>
