@@ -41,7 +41,7 @@
 <span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/heaven1808/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
 <p class="block-date">ブログ：2018年8月6日～12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/heaven1808/" target="_blank">今年は暑いぞ夏休みの一週間<br>東京アンテオケ教会の一週間</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/heaven1808/" target="_blank">今年は暑いぞ夏休みの一週間<br>東京アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
