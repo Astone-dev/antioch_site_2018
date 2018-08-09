@@ -31,14 +31,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/hokuriku1808/" target="_blank"><img src="/2016/images/top/1708hokuriku.jpg"></a>
-<p class="block-date">ブログ：2018年8月5日～8月9日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/hokuriku1808/" target="_blank">ギラギラ輝く太陽の中北陸を行く<br>北陸宣教の旅<br>(聖会日程：2018年8月6日～8月8日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
 <a href="http://antiochblog.jp/praise/heaven1808/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
 <p class="block-date">ブログ：2018年8月6日～12日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/heaven1808/" target="_blank">今年は暑いぞ夏休みの一週間<br>東京アンテオケ教会</a></p>
@@ -145,6 +137,12 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
 
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/hokuriku1808/" target="_blank"><img src="/2016/images/top/1708hokuriku.jpg"></a>
+<p class="block-date">ブログ：2018年8月5日～8月9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/hokuriku1808/" target="_blank">ギラギラ輝く太陽の中北陸を行く<br>北陸宣教の旅<br>(聖会日程：2018年8月6日～8月8日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
