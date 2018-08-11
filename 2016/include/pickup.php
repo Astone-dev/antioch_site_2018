@@ -62,6 +62,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1808event/" target="_blank"><img src="/2016/images/top/1704patolisshisetsu.jpg"></a>
+<p class="block-date">ブログ：2018年8月11日</p>
+<p class="block-title"><a href="http://astone.tv/events/1808event/" target="_blank">PATOLIS<br>練馬の施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201807-hakubadigest/" target="_blank"><img src="/2016/images/top/1807hakubacampdigest_m.jpg"></a>
