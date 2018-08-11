@@ -46,14 +46,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1808event/" target="_blank"><img src="/2016/images/top/1704patolisshisetsu.jpg"></a>
-<p class="block-date">ブログ：2018年8月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/1808event/" target="_blank">PATOLIS<br>練馬の施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201807-hakubadigest/" target="_blank"><img src="/2016/images/top/1807hakubacampdigest_m.jpg"></a>
@@ -149,6 +141,13 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/meeting1808/" target="_blank"><img src="/2016/images/top/1808higashitokyoseikai.jpg"></a>
+<p class="block-date">ブログ：2018年8月10日～11日</p>
+<p class="block-title"><a href="http://astone.tv/events/meeting1808/" target="_blank">台風一過の関東を行く<br>船橋、東東京聖会<br>(日程：2018年8月10〜11日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://astone.tv/events/2017healing/180811/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
 <p class="block-date">ブログ：2018年8月11日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017healing/180811/" target="_blank">8月 いやしの集いの一日</a></p>
@@ -156,9 +155,9 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/meeting1808/" target="_blank"><img src="/2016/images/top/1808higashitokyoseikai.jpg"></a>
-<p class="block-date">ブログ：2018年8月10日～11日</p>
-<p class="block-title"><a href="http://astone.tv/events/meeting1808/" target="_blank">台風一過の関東を行く<br>船橋、東東京聖会<br>(日程：2018年8月10〜11日)</a></p>
+<a href="http://astone.tv/events/1808event/" target="_blank"><img src="/2016/images/top/1704patolisshisetsu.jpg"></a>
+<p class="block-date">ブログ：2018年8月11日</p>
+<p class="block-title"><a href="http://astone.tv/events/1808event/" target="_blank">PATOLIS<br>練馬の施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
