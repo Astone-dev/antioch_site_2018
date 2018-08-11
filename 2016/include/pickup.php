@@ -233,69 +233,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/suginami1808/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
-<p class="block-date">ブログ：2018年8月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/suginami1808/" target="_blank">Immanuel、Beracha、CROIX<br>で杉並区の特別養護老人施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/chubu1808/" target="_blank"><img src="/2016/images/top/1611chubuseikai.jpg"></a>
-<p class="block-date">ブログ：2018年7月29日～8月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/chubu1808/" target="_blank">輝く光中を、中部を行く<br>中部宣教の旅<br>(聖会日程：2018年7月30日～8月1日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/gifts1807chiba/" target="_blank"><img src="/2016/images/top/1702giftskyuushu.jpg"></a>
-<p class="block-date">ブログ：2018年7月29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/gifts1807chiba/" target="_blank">Gifts千葉を行く<br>他教会でゴスペルライブ</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/happyday2017/180729/" target="_blank"><img src="/2016/images/top/1804ohhappyday.jpg"></a>
-<p class="block-date">ブログ：2018年7月29日</p>
-<p class="block-title"><a href="http://astone.tv/events/happyday2017/180729/" target="_blank">OH! HAPPY DAY!<br>流しそうめんを食べる!</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180729/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
-<p class="block-date">ブログ：2018年7月29日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180729/" target="_blank">GRACEと宝石<br>府中市のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/gospel2017/180728/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
-<p class="block-date">ブログ：2018年7月28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180728/" target="_blank">7月ゴスペルの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180728/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年7月28日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180728/" target="_blank">エルサレム<br>さいたま市岩槻グループホームでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/faith1807/" target="_blank"><img src="/2016/images/top/1807hakubaanntioch.jpg"></a>
-<p class="block-date">ブログ：2018年7月24日～27日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/faith1807/" target="_blank">今日、最終日<br>白馬キャンプ<br>アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/faith1807z/" target="_blank"><img src="/2016/images/top/1807hakubazenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年7月24日～27日</p>
-<p class="block-title"><a href="http://astone.tv/events/faith1807z/" target="_blank">今日、最終日<br>白馬キャンプ<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <a href="http://tv.antioch.jp/digest/201805-shortstory-cm/" target="_blank"><img src="/2016/images/top/1805seishonohanashi_m.jpg"></a>
 <p class="block-date">ブログ：2018年5月28日～6月3日</p>
