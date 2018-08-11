@@ -32,7 +32,7 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/meeting1808/" target="_blank"><img src="/2016/images/top/1708funabashi.jpg"></a>
+<a href="http://astone.tv/events/meeting1808/" target="_blank"><img src="/2016/images/top/1808higashitokyoseikai.jpg"></a>
 <p class="block-date">ブログ：2018年8月10日～11日</p>
 <p class="block-title"><a href="http://astone.tv/events/meeting1808/" target="_blank">台風一過の関東を行く<br>船橋、東東京聖会<br>(日程：2018年8月10〜11日)</a></p>
 </div>
@@ -58,7 +58,15 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/2017healing/180811/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
 <p class="block-date">ブログ：2018年8月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/180811/" target="_blank">8月 いやしの集い</a></p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/180811/" target="_blank">8月 いやしの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年8月11日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年8月11日 18:30スタート)</a></p>
 </div>
 
 <div class="column-inner">
@@ -307,13 +315,6 @@
 <p class="block-title"><a href="/prayer-time/" target="_blank">祈りの時間<br>祈りによる恵みを受けるために<br></a></p>
 </div>-->
 
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年3月10日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年3月10日 18:30スタート)</a></p>
-</div>-->
 
 <!--<div class="column-inner">
 <span class="label-2">映像</span>
