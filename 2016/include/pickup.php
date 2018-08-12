@@ -29,35 +29,20 @@
 <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/august2018/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
-<p class="block-date">ブログ：2018年8月13日～19日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/august2018/" target="_blank">夏休み本番<br>東京アンテオケの一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/heaven1808/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
-<p class="block-date">ブログ：2018年8月6日～12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/heaven1808/" target="_blank">今年は暑いぞ夏休みの一週間<br>東京アンテオケ教会</a></p>
-</div>
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/kokorogospel1808/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
 <p class="block-date">ブログ：2018年8月6日～12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/kokorogospel1808/" target="_blank">こころごすぺるに向かって<br>出演者、スタッフ大忙し</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/kokorogospel1808/" target="_blank">こころごすぺるまであと2日<br>出演者、スタッフ大忙し</a></p>
 </div>
 
 <div class="column-inner">
-<span class="label-2">動画</span>
+<span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://tv.antioch.jp/digest/201807-hakubadigest/" target="_blank"><img src="/2016/images/top/1807hakubacampdigest_m.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/digest/201807-hakubadigest/" target="_blank">白馬キャンプ2018<br>ダイジェスト映像<br>(再生時間 16:46)</a></p>
+<a href="http://antiochblog.jp/praise/august2018/" target="_blank"><img src="/2016/images/top/1808mouretsunatsuantioch.jpg"></a>
+<p class="block-date">ブログ：2018年8月13日～19日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/august2018/" target="_blank">夏休み本番<br>東京アンテオケの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -87,20 +72,12 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=40rdx61h8OY&t=2s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃015<br>ゴスペルグループGiftsのワイワイ動画<br>(8月5日UP!)</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/august2018z/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
-<p class="block-date">ブログ：2018年8月13日～19日</p>
-<p class="block-title"><a href="http://astone.tv/events/august2018z/" target="_blank">夏休み本番<br>全国各教会</a></p>
-</div>-->
-
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/heaven1808z/" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年8月6日～8月12日</p>
-<p class="block-title"><a href="http://astone.tv/events/heaven1808z/" target="_blank">今年は暑いぞ夏休みの一週間<br>全国各教会</a></p>
+<a href="http://astone.tv/events/august2018z/" target="_blank"><img src="/2016/images/top/1808mouretsunatsuzenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年8月13日～19日</p>
+<p class="block-title"><a href="http://astone.tv/events/august2018z/" target="_blank">夏休み本番<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -124,7 +101,13 @@
 </div>
 
 <div class="column-inner">
-<span>NEW </span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/mustbehappy/" target="_blank"><img src="/2016/images/top/1808yorimichi34.jpg"></a>
+<p class="block-date">毎日7:00更新</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/mustbehappy/" target="_blank">クリスチャンの寄り道 Vol.34<br>今回は「私の一番好きなこと」のお話です</a></p>
+</div>
+
+<div class="column-inner">
 <a href="http://antiochblog.jp/info/mustbehappy/" target="_blank"><img src="/2016/images/top/1805yorimichi33.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/mustbehappy/" target="_blank">クリスチャンの寄り道 Vol.33<br>今回は「今までで一番幸せだった時」のお話です</a></p>
@@ -154,6 +137,26 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-2">動画</span>
+<a href="http://tv.antioch.jp/digest/201807-hakubadigest/" target="_blank"><img src="/2016/images/top/1807hakubacampdigest_m.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/201807-hakubadigest/" target="_blank">白馬キャンプ2018<br>ダイジェスト映像<br>(再生時間 16:46)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/heaven1808/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
+<p class="block-date">ブログ：2018年8月6日～12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/heaven1808/" target="_blank">今年は暑いぞ夏休みの一週間<br>東京アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/heaven1808z/" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年8月6日～8月12日</p>
+<p class="block-title"><a href="http://astone.tv/events/heaven1808z/" target="_blank">今年は暑いぞ夏休みの一週間<br>全国各教会</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
