@@ -102,9 +102,9 @@
 
 <div class="column-inner">
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/mustbehappy/" target="_blank"><img src="/2016/images/top/1808yorimichi34.jpg"></a>
+<a href="http://antiochblog.jp/info/absolutebest/" target="_blank"><img src="/2016/images/top/1808yorimichi34.jpg"></a>
 <p class="block-date">毎日7:00更新</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/mustbehappy/" target="_blank">クリスチャンの寄り道 Vol.34<br>今回は「私の一番好きなこと」のお話です</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/absolutebest/" target="_blank">クリスチャンの寄り道 Vol.34<br>今回は「私の一番好きなこと」のお話です</a></p>
 </div>
 
 <div class="column-inner">
