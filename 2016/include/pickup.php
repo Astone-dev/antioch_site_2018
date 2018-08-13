@@ -83,9 +83,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/20180813/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年8月13日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20180813/" target="_blank">エルサレム<br>三郷の施設でゴスペルコンサート</a></p>
+<a href="http://antiochblog.jp/info/jerusalem2017/180814/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年8月14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180814/" target="_blank">エルサレム<br>三郷のオレンジカフェでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
