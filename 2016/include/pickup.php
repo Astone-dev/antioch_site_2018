@@ -34,7 +34,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/kokorogospel1808/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
 <p class="block-date">ブログ：2018年8月6日～12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/kokorogospel1808/" target="_blank">こころごすぺるまであと2日<br>出演者、スタッフ大忙し</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/kokorogospel1808/" target="_blank">いよいよ今日！<br>こころごすぺる<br>出演者、スタッフ大忙し</a></p>
 </div>
 
 <div class="column-inner">
