@@ -45,7 +45,7 @@
 <p class="block-title"><a href="http://astone.tv/events/1808concert/" target="_blank">Gifts、TrueVine,、キブツ<br>甲府でチャリティーコンサート</a></p>
 </div>-->
 
-<div class="column-inner">
+<!--<div class="column-inner">
 <span>NEW</span>
 <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1807kokorogospel30th.jpg"></a>
 <p class="block-date">2018年8月15日</p>
@@ -57,7 +57,7 @@
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201807-kokogos/" target="_blank"><img src="/2016/images/top/1807kokorogospel_cm.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201807-kokogos/" target="_blank">こころごすぺる<br>CM動画<br>(日程：2018年8月15日)</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
 <span>NEW</span>
