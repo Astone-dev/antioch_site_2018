@@ -32,14 +32,6 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/kokorogospel1808/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
-<p class="block-date">ブログ：2018年8月6日～12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/kokorogospel1808/" target="_blank">いよいよ今日！<br>こころごすぺる<br>出演者、スタッフ大忙し</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/august2018/" target="_blank"><img src="/2016/images/top/1808mouretsunatsuantioch.jpg"></a>
 <p class="block-date">ブログ：2018年8月13日～19日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/august2018/" target="_blank">夏休み本番<br>東京アンテオケの一週間</a></p>
@@ -145,6 +137,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/kokorogospel1808/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
+<p class="block-date">ブログ：2018年8月6日～12日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/kokorogospel1808/" target="_blank">いよいよ今日！<br>こころごすぺる<br>出演者、スタッフ大忙し</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-2">動画</span>
