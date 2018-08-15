@@ -45,6 +45,14 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/august2018/" target="_blank">夏休み本番<br>東京アンテオケの一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1808concert/" target="_blank"><img src="/2016/images/top/1708giftskofu.jpg"></a>
+<p class="block-date">ブログ：2018年8月17日</p>
+<p class="block-title"><a href="http://astone.tv/events/1808concert/" target="_blank">Gifts、TrueVine,、キブツ<br>甲府でチャリティーコンサート</a></p>
+</div>-->
+
 <div class="column-inner">
 <span>NEW</span>
 <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1807kokorogospel30th.jpg"></a>
@@ -78,14 +86,6 @@
 <a href="http://astone.tv/events/august2018z/" target="_blank"><img src="/2016/images/top/1808mouretsunatsuzenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年8月13日～19日</p>
 <p class="block-title"><a href="http://astone.tv/events/august2018z/" target="_blank">夏休み本番<br>全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180814/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年8月14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180814/" target="_blank">エルサレム<br>三郷のオレンジカフェでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
@@ -150,6 +150,13 @@
 <span class="label-2">動画</span>
 <a href="http://tv.antioch.jp/digest/201807-hakubadigest/" target="_blank"><img src="/2016/images/top/1807hakubacampdigest_m.jpg"></a>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201807-hakubadigest/" target="_blank">白馬キャンプ2018<br>ダイジェスト映像<br>(再生時間 16:46)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180814/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年8月14日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180814/" target="_blank">エルサレム<br>三郷のオレンジカフェでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
