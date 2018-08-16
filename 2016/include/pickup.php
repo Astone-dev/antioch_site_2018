@@ -37,13 +37,13 @@
 <p class="block-title"><a href="http://antiochblog.jp/praise/august2018/" target="_blank">夏休み本番<br>東京アンテオケの一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/1808concert/" target="_blank"><img src="/2016/images/top/1708giftskofu.jpg"></a>
 <p class="block-date">ブログ：2018年8月17日</p>
-<p class="block-title"><a href="http://astone.tv/events/1808concert/" target="_blank">Gifts、TrueVine,、キブツ<br>甲府でチャリティーコンサート</a></p>
-</div>-->
+<p class="block-title"><a href="http://astone.tv/events/1808concert/" target="_blank">TrueVine、Gifts、キブツ<br>甲府でチャリティーコンサート</a></p>
+</div>
 
 <!--<div class="column-inner">
 <span>NEW</span>
