@@ -45,6 +45,14 @@
 <p class="block-title"><a href="http://astone.tv/events/1808concert/" target="_blank">TrueVine、Gifts、キブツ<br>甲府でチャリティーコンサート</a></p>
 </div>
 
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/patolis/180817/" target="_blank"><img src="/2016/images/top/1606patolisnerima.jpg"></a>
+<p class="block-date">ブログ：2018年8月17日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/patolis/180817/" target="_blank">PATOLIS <br>高円寺のデイサービス施設でボランティアコンサート</a></p>
+</div>
+
 <!--<div class="column-inner">
 <span>NEW</span>
 <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1807kokorogospel30th.jpg"></a>
