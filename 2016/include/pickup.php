@@ -34,7 +34,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/info/1808atsugi/" target="_blank"><img src="/2016/images/top/1706atsugi.jpg"></a>
 <p class="block-date">ブログ：2018年8月18日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1808atsugi/" target="_blank"><br>厚木聖会<br>(日程：2018年8月18日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1808atsugi/" target="_blank">残暑厳しい関東を行く<br>厚木聖会<br>(日程：2018年8月18日)</a></p>
 </div>-->
 
 <div class="column-inner">
