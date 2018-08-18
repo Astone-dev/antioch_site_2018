@@ -34,7 +34,7 @@
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/kyushu1808/" target="_blank"><img src="/2016/images/top/1705kyusyuseika.jpg"></a>
 <p class="block-date">ブログ：2018年8月19日～23日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/kyushu1808/" target="_blank">残暑厳しい九州を行く<br>九州聖会<br>(日程：2018年8月20日～22日)</a></p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/kyushu1808/" target="_blank">秋の訪れ近づく九州を行く<br>九州聖会<br>(日程：2018年8月20日～22日)</a></p>
 </div>
 
 <div class="column-inner">
