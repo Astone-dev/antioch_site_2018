@@ -54,7 +54,7 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">動画</span>
+<span class="label-2">動画</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201808-kokorogospel/" target="_blank"><img src="/2016/images/top/1808kokorodigest_m.jpg"></a>
 <p class="block-date">開催日程：2018年8月15日</p>
@@ -68,7 +68,7 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
+<span class="label-2">動画</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/watch?v=fK2Mfrb8Ez4" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180819giftstv.jpg"></a>
 <p class="block-title"><a href="https://www.youtube.com/watch?v=fK2Mfrb8Ez4" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃017<br>ゴスペルグループGiftsのワイワイ動画<br>(8月19日UP!)</a></p>
