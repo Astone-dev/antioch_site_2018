@@ -32,9 +32,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/familycamp201808/" target="_blank"><img src="/2016/images/top/1708familyday.jpg"></a>
-<p class="block-date">ブログ：2018年8月22日～23日</p>
-<p class="block-title"><a href="http://astone.tv/events/familycamp201808/" target="_blank">秋川渓谷で大暴れ！<br>ファミリーデイキャンプ<br>(日程：2018年8月23日)</a></p>
+<a href="http://antiochblog.jp/praise/meeting1808/" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
+<p class="block-date">ブログ：2018年8月24日～25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/meeting1808/" target="_blank">まだまだ暑い関東を行く<br>柏・横須賀聖会<br>(日程：2018年8月24日～25日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -133,6 +133,14 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/familycamp201808/" target="_blank"><img src="/2016/images/top/1708familyday.jpg"></a>
+<p class="block-date">ブログ：2018年8月22日～23日</p>
+<p class="block-title"><a href="http://astone.tv/events/familycamp201808/" target="_blank">秋川渓谷で大暴れ！<br>ファミリーデイキャンプ<br>(日程：2018年8月23日)</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
