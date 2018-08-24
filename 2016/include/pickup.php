@@ -236,55 +236,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/kokorogospel1808/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
-<p class="block-date">ブログ：2018年8月6日～12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/kokorogospel1808/" target="_blank">いよいよ今日！<br>こころごすぺる<br>出演者、スタッフ大忙し</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180814/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年8月14日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180814/" target="_blank">エルサレム<br>三郷のオレンジカフェでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/praise/heaven1808/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
-<p class="block-date">ブログ：2018年8月6日～12日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/heaven1808/" target="_blank">今年は暑いぞ夏休みの一週間<br>東京アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/heaven1808z/" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年8月6日～8月12日</p>
-<p class="block-title"><a href="http://astone.tv/events/heaven1808z/" target="_blank">今年は暑いぞ夏休みの一週間<br>全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/meeting1808/" target="_blank"><img src="/2016/images/top/1808higashitokyoseikai.jpg"></a>
-<p class="block-date">ブログ：2018年8月10日～11日</p>
-<p class="block-title"><a href="http://astone.tv/events/meeting1808/" target="_blank">台風一過の関東を行く<br>船橋、東東京聖会<br>(日程：2018年8月10〜11日)</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2017healing/180811/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-<p class="block-date">ブログ：2018年8月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/180811/" target="_blank">8月 いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/1808event/" target="_blank"><img src="/2016/images/top/1704patolisshisetsu.jpg"></a>
-<p class="block-date">ブログ：2018年8月11日</p>
-<p class="block-title"><a href="http://astone.tv/events/1808event/" target="_blank">PATOLIS<br>練馬の施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-2">映像</span>
 <a href="http://tv.antioch.jp/digest/201805-shortstory-cm/" target="_blank"><img src="/2016/images/top/1805seishonohanashi_m.jpg"></a>
 <p class="block-date">ブログ：2018年5月28日～6月3日</p>
