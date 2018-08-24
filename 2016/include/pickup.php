@@ -54,6 +54,22 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gospel2017/180825/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+<p class="block-date">ブログ：2018年8月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180825/" target="_blank">8月 ゴスペルの集い</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年8月25日 18:30～</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2018年8月25日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201808-kokorogospel/" target="_blank"><img src="/2016/images/top/1808kokorodigest_m.jpg"></a>
@@ -80,6 +96,14 @@
 <a href="http://astone.tv/events/thanks1808z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年8月20日～26日</p>
 <p class="block-title"><a href="http://astone.tv/events/thanks1808z/" target="_blank">秋の訪れを感じつつ<br>全国各教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180825/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
+<p class="block-date">ブログ：2018年8月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180825/" target="_blank">GRACEと宝石<br>茨木県古河市の道の駅広場でゴスペルライブ</a></p>
 </div>
 
 <div class="column-inner">
