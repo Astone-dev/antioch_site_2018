@@ -29,20 +29,12 @@
 <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2018年8月20日UP!)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/1808hokkaido/" target="_blank"><img src="/2016/images/top/1708hokkaidou.jpg"></a>
 <p class="block-date">ブログ：2018年8月26日～31日</p>
 <p class="block-title"><a href="http://astone.tv/events/1808hokkaido/" target="_blank">秋暑の北海道を行く<br>北海道宣教の旅<br>(日程：2018年8月27日～31日)</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/meeting1808/" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
-<p class="block-date">ブログ：2018年8月24日～25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/meeting1808/" target="_blank">まだまだ暑い関東を行く<br>柏・横須賀聖会<br>(日程：2018年8月24日～25日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -67,22 +59,6 @@
 <a href="http://antiochblog.jp/praise/song6th201808/" target="_blank"><img src="/2016/images/top/1708sakusisakkyoku.jpg"></a>
 <p class="block-date">ブログ：2018年8月20日～26日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/song6th201808/" target="_blank">いよいよこれが本当に締め切り<br>作詞作曲者の猛烈な追い込み</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gospel2017/180825/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
-<p class="block-date">ブログ：2018年8月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180825/" target="_blank">8月 ゴスペルの集い</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年8月25日 18:30～</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い-生中継');">ゴスペルの集い 生中継<br>(日程：2018年8月25日 18:30スタート)</a></p>
 </div>
 
 <div class="column-inner">
@@ -115,27 +91,12 @@
 </div>
 
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://astone.tv/events/2017byhisspirit/180826/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
 <p class="block-date">ブログ：2018年8月25日</p>
 <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180826/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://antiochblog.jp/info/jerusalem2017/180825/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-<p class="block-date">ブログ：2018年8月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180825/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gracejewel2017/180825/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
-<p class="block-date">ブログ：2018年8月25日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180825/" target="_blank">GRACEと宝石<br>茨木県古河市の道の駅広場でゴスペルライブ</a></p>
 </div>
 
 <div class="column-inner">
@@ -189,6 +150,34 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/meeting1808/" target="_blank"><img src="/2016/images/top/1706kashiwa.jpg"></a>
+<p class="block-date">ブログ：2018年8月24日～25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/meeting1808/" target="_blank">まだまだ暑い関東を行く<br>柏・横須賀聖会<br>(日程：2018年8月24日～25日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gospel2017/180825/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+<p class="block-date">ブログ：2018年8月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/180825/" target="_blank">8月 ゴスペルの集い</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/jerusalem2017/180825/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+<p class="block-date">ブログ：2018年8月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180825/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/gracejewel2017/180825/" target="_blank"><img src="/2016/images/top/1706gracehosekinerima.jpg"></a>
+<p class="block-date">ブログ：2018年8月25日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180825/" target="_blank">GRACEと宝石<br>茨木県古河市の道の駅広場でゴスペルライブ</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
