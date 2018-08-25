@@ -34,7 +34,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/1808hokkaido/" target="_blank"><img src="/2016/images/top/1708hokkaidou.jpg"></a>
 <p class="block-date">ブログ：2018年8月26日～31日</p>
-<p class="block-title"><a href="http://astone.tv/events/1808hokkaido/" target="_blank">秋暑の北海道を行く<br>北海道宣教の旅<br>(日程：2018年8月27日～31日)</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1808hokkaido/" target="_blank">秋の気配<br>北海道宣教の旅<br>(日程：2018年8月27日～31日)</a></p>
 </div>
 
 <div class="column-inner">
