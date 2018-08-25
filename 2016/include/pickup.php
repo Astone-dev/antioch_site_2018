@@ -29,6 +29,14 @@
 <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2018年8月20日UP!)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1808hokkaido/" target="_blank"><img src="/2016/images/top/1708hokkaidou.jpg"></a>
+<p class="block-date">ブログ：2018年8月26日～31日</p>
+<p class="block-title"><a href="http://astone.tv/events/1808hokkaido/" target="_blank">秋暑の北海道を行く<br>北海道宣教の旅<br>(日程：2018年8月27日～31日)</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -105,6 +113,15 @@
 <p class="block-date">ブログ：2018年8月20日～26日</p>
 <p class="block-title"><a href="http://astone.tv/events/thanks1808z/" target="_blank">秋の訪れを感じつつ<br>全国各教会</a></p>
 </div>
+
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017byhisspirit/180826/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
+<p class="block-date">ブログ：2018年8月25日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180826/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
