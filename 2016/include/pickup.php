@@ -32,49 +32,25 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1808hokkaido/" target="_blank"><img src="/2016/images/top/1708hokkaidou.jpg"></a>
+<a href="http://blog.antioch.jp/hokkaido1808/" target="_blank"><img src="/2016/images/top/1708hokkaidou.jpg"></a>
 <p class="block-date">ブログ：2018年8月26日～31日</p>
-<p class="block-title"><a href="http://astone.tv/events/1808hokkaido/" target="_blank">秋の気配<br>北海道宣教の旅<br>(日程：2018年8月27日～31日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/gogo1808/" target="_blank"><img src="/2016/images/top/1709akimikakuantioch.jpg"></a>
-<p class="block-date">ブログ：2018年8月27日～9月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gogo1808/" target="_blank"><br>東京アンテオケの一週間</a></p>
+<p class="block-title"><a href="http://blog.antioch.jp/hokkaido1808/" target="_blank">秋の気配<br>北海道宣教の旅<br>(日程：2018年8月27日～31日)</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://astone.tv/events/1808song/" target="_blank"><img src="/2016/images/top/1709akimikakuantioch.jpg"></a>
+<a href="http://antiochblog.jp/praise/gogo1808/" target="_blank"><img src="/2016/images/top/1708mousugushingakiantioch.jpg"></a>
+<p class="block-date">ブログ：2018年8月27日～9月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gogo1808/" target="_blank">夏休みもこれで終わり<br>東京アンテオケの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1808song/" target="_blank"><img src="/2016/images/top/1708shinsainweek.jpg"></a>
 <p class="block-date">ブログ：2018年8月27日～9月2日</p>
 <p class="block-title"><a href="http://astone.tv/events/1808song/" target="_blank">風のひびき6集 応募曲372曲 <br>審査員激闘の一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/thanks1808/" target="_blank"><img src="/2016/images/top/1709akimikakuantioch.jpg"></a>
-<p class="block-date">ブログ：2018年8月20日～26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/thanks1808/" target="_blank">秋の訪れを感じつつ<br>東京アンテオケの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/1808concert/" target="_blank"><img src="/2016/images/top/1708giftsjoyebisu.jpg"></a>
-<p class="block-date">ブログ：2018年8月25日～26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/1808concert/" target="_blank">Gifts、JOY、プレジール<br>恵比寿でチャリティーコンサートに出演<br>8月25日 JOY<br>8月26日 Gifts、プレジール</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/song6th201808/" target="_blank"><img src="/2016/images/top/1708sakusisakkyoku.jpg"></a>
-<p class="block-date">ブログ：2018年8月20日～26日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/song6th201808/" target="_blank">いよいよこれが本当に締め切り<br>作詞作曲者の猛烈な追い込み</a></p>
 </div>
 
 <div class="column-inner">
@@ -98,30 +74,21 @@
 <p class="block-title"><a href="https://www.youtube.com/watch?v=fK2Mfrb8Ez4" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃017<br>ゴスペルグループGiftsのワイワイ動画<br>(8月19日UP!)</a></p>
 </div>
 
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/gogo1808z/" target="_blank"><img src="/2016/images/top/1708mousugushingakizenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年8月27日～9月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gogo1808z/" target="_blank">夏休みもこれで終わり<br>全国各教会</a></p>
+</div>
+
 <!--<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/gogo1808z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年8月27日～9月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/gogo1808z/" target="_blank"><br>全国各教会</a></p>
+<a href="http://astone.tv/events/freedom1808/" target="_blank"><img src="/2016/images/top/1707freedomshisetsu.jpg"></a>
+<p class="block-date">ブログ：2018年8月28日</p>
+<p class="block-title"><a href="http://astone.tv/events/freedom1808/" target="_blank">Freedom<br>大田区の施設でゴスペルコンサート</a></p>
 </div>-->
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/thanks1808z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年8月20日～26日</p>
-<p class="block-title"><a href="http://astone.tv/events/thanks1808z/" target="_blank">秋の訪れを感じつつ<br>全国各教会</a></p>
-</div>
-
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017byhisspirit/180826/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
-<p class="block-date">ブログ：2018年8月25日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180826/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>
 
 <div class="column-inner">
 <span>NEW</span>
@@ -174,6 +141,21 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/thanks1808z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年8月20日～26日</p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1808z/" target="_blank">秋の訪れを感じつつ<br>全国各教会</a></p>
+</div>
+
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017byhisspirit/180826/" target="_blank"><img src="/2016/images/top/1706byhis.jpg"></a>
+<p class="block-date">ブログ：2018年8月25日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180826/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
