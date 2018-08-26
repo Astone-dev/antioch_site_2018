@@ -37,6 +37,22 @@
 <p class="block-title"><a href="http://astone.tv/events/1808hokkaido/" target="_blank">秋の気配<br>北海道宣教の旅<br>(日程：2018年8月27日～31日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gogo1808/" target="_blank"><img src="/2016/images/top/1709akimikakuantioch.jpg"></a>
+<p class="block-date">ブログ：2018年8月27日～9月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gogo1808/" target="_blank"><br>東京アンテオケの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1808song/" target="_blank"><img src="/2016/images/top/1709akimikakuantioch.jpg"></a>
+<p class="block-date">ブログ：2018年8月27日～9月2日</p>
+<p class="block-title"><a href="http://astone.tv/events/1808song/" target="_blank">風のひびき6集 応募曲372曲 <br>審査員激闘の一週間</a></p>
+</div>-->
+
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
@@ -81,6 +97,14 @@
 <a href="https://www.youtube.com/watch?v=fK2Mfrb8Ez4" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180819giftstv.jpg"></a>
 <p class="block-title"><a href="https://www.youtube.com/watch?v=fK2Mfrb8Ez4" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃017<br>ゴスペルグループGiftsのワイワイ動画<br>(8月19日UP!)</a></p>
 </div>
+
+<!--<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/gogo1808z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年8月27日～9月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gogo1808z/" target="_blank"><br>全国各教会</a></p>
+</div>-->
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
