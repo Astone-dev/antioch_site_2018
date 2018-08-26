@@ -144,6 +144,28 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/thanks1808/" target="_blank"><img src="/2016/images/top/1709akimikakuantioch.jpg"></a>
+<p class="block-date">ブログ：2018年8月20日～26日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/thanks1808/" target="_blank">秋の訪れを感じつつ<br>アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/1808concert/" target="_blank"><img src="/2016/images/top/1708giftsjoyebisu.jpg"></a>
+<p class="block-date">ブログ：2018年8月25日～26日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1808concert/" target="_blank">Gifts、JOY、プレジール <br>恵比寿でチャリティーコンサート</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/thanks1808z/" target="_blank"><img src="/2016/images/top/1708sakusisakkyoku.jpg"></a>
+<p class="block-date">ブログ：2018年8月20日～26日</p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1808z/" target="_blank">いよいよこれが本当に締め切り<br>作詞作曲者の猛烈な追い込み</a></p>
+</div>
+
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
 <a href="http://astone.tv/events/thanks1808z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年8月20日～26日</p>
 <p class="block-title"><a href="http://astone.tv/events/thanks1808z/" target="_blank">秋の訪れを感じつつ<br>全国各教会</a></p>
