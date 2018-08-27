@@ -56,6 +56,14 @@
 <div class="column-inner">
 <span class="label-2">動画</span>
 <span>NEW</span>
+<a href="http://tv.antioch.jp/digest/20180815-kokogos-ura/" target="_blank"><img src="/2016/images/top/1808kokoroura_m.jpg"></a>
+<p class="block-date">開催日程：2018年8月15日</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/20180815-kokogos-ura/" target="_blank">こころごすぺるの裏側<br>見せます映像<br>(開催日程：2018年8月15日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">動画</span>
+<span>NEW</span>
 <a href="http://tv.antioch.jp/digest/201808-kokorogospel/" target="_blank"><img src="/2016/images/top/1808kokorodigest_m.jpg"></a>
 <p class="block-date">開催日程：2018年8月15日</p>
 <p class="block-title"><a href="http://tv.antioch.jp/digest/201808-kokorogospel/" target="_blank">こころごすぺる<br>ダイジェスト映像<br>(開催日程：2018年8月15日)</a></p>
