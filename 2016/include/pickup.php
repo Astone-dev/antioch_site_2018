@@ -50,7 +50,15 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/1808song/" target="_blank"><img src="/2016/images/top/1708shinsainweek.jpg"></a>
 <p class="block-date">ブログ：2018年8月27日～9月2日</p>
-<p class="block-title"><a href="http://astone.tv/events/1808song/" target="_blank">風のひびき6集 応募曲372曲 <br>審査員激闘の一週間</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1808song/" target="_blank">風のひびき6集 応募曲378曲 <br>審査員激闘の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">動画</span>
+<span>NEW</span>
+<a href="http://tv.antioch.jp/digest/20180815-kokogos-ura/" target="_blank"><img src="/2016/images/top/1808kokoroura_m.jpg"></a>
+<p class="block-date">開催日程：2018年8月15日</p>
+<p class="block-title"><a href="http://tv.antioch.jp/digest/20180815-kokogos-ura/" target="_blank">こころごすぺるの裏側<br>見せます映像<br>(開催日程：2018年8月15日)</a></p>
 </div>
 
 <div class="column-inner">
