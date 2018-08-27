@@ -50,7 +50,7 @@
 <span>NEW</span>
 <a href="http://astone.tv/events/1808song/" target="_blank"><img src="/2016/images/top/1708shinsainweek.jpg"></a>
 <p class="block-date">ブログ：2018年8月27日～9月2日</p>
-<p class="block-title"><a href="http://astone.tv/events/1808song/" target="_blank">風のひびき6集 応募曲372曲 <br>審査員激闘の一週間</a></p>
+<p class="block-title"><a href="http://astone.tv/events/1808song/" target="_blank">風のひびき6集 応募曲378曲 <br>審査員激闘の一週間</a></p>
 </div>
 
 <div class="column-inner">
