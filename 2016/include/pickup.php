@@ -56,6 +56,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://astone.tv/events/nagano1809/" target="_blank"><img src="/2016/images/top/1709gifts.jpg"></a>
+<p class="block-date">ブログ：2018年9月2日</p>
+<p class="block-title"><a href="http://astone.tv/events/nagano1809/" target="_blank">Gifts<br>秋の長野を行く 医療フォーラム</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://astone.tv/events/euqaristias/20180902shinjuku/" target="_blank"><img src="/2016/images/top/1612eukarishinjyuku.jpg"></a>
 <p class="block-date">ブログ：2018年9月2日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20180902shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
