@@ -122,7 +122,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/charisma1809/" target="_blank"><img src="/2016/images/top/1809tokyocharisma.jpg"></a>
 <p class="block-date">ブログ：2018年9月1日〜2日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/charisma1809/" target="_blank">大忙し<br>東京アンテオケの裏と表舞台<br>(日程：2018年9月2日)</a></p>
@@ -130,7 +129,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/praise/gogo1808/" target="_blank"><img src="/2016/images/top/1708mousugushingakiantioch.jpg"></a>
 <p class="block-date">ブログ：2018年8月27日～9月2日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/gogo1808/" target="_blank">夏休みもこれで終わり<br>東京アンテオケの一週間</a></p>
@@ -138,7 +136,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/nagano1809/" target="_blank"><img src="/2016/images/top/1709gifts.jpg"></a>
 <p class="block-date">ブログ：2018年9月2日</p>
 <p class="block-title"><a href="http://astone.tv/events/nagano1809/" target="_blank">Gifts<br>秋の長野を行く 医療フォーラム</a></p>
@@ -146,7 +143,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/1808song/" target="_blank"><img src="/2016/images/top/1708shinsainweek.jpg"></a>
 <p class="block-date">ブログ：2018年8月27日～9月2日</p>
 <p class="block-title"><a href="http://astone.tv/events/1808song/" target="_blank">風のひびき6集 応募曲378曲 <br>審査員激闘の一週間</a></p>
@@ -154,7 +150,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://astone.tv/events/euqaristias/20180902shinjuku/" target="_blank"><img src="/2016/images/top/1612eukarishinjyuku.jpg"></a>
 <p class="block-date">ブログ：2018年9月2日</p>
 <p class="block-title"><a href="http://astone.tv/events/euqaristias/20180902shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
@@ -162,7 +157,6 @@
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
-<span>NEW</span>
 <a href="http://antiochblog.jp/info/gogo1808z/" target="_blank"><img src="/2016/images/top/1708mousugushingakizenkoku.jpg"></a>
 <p class="block-date">ブログ：2018年8月27日～9月2日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/gogo1808z/" target="_blank">夏休みもこれで終わり<br>全国各教会</a></p>
