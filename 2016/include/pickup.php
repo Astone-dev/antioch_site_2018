@@ -32,42 +32,19 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/charisma1809/" target="_blank"><img src="/2016/images/top/1809tokyocharisma.jpg"></a>
-<p class="block-date">ブログ：2018年9月1日〜2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/charisma1809/" target="_blank">大忙し<br>東京アンテオケの裏と表舞台<br>(日程：2018年9月2日)</a></p>
+<a href="http://antiochblog.jp/praise/thanks1809/" target="_blank"><img src="/2016/images/top/1709antioch.jpg"></a>
+<p class="block-date">ブログ：2018年9月3日～9日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/thanks1809/" target="_blank">新学期スタート<br>東京アンテオケの一週間</a></p>
 </div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/praise/gogo1808/" target="_blank"><img src="/2016/images/top/1708mousugushingakiantioch.jpg"></a>
-<p class="block-date">ブログ：2018年8月27日～9月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/gogo1808/" target="_blank">夏休みもこれで終わり<br>東京アンテオケの一週間</a></p>
+<a href="http://astone.tv/events/songs1809/" target="_blank"><img src="/2016/images/top/1709sakushiyorokobi.jpg"></a>
+<p class="block-date">ブログ：2018年9月3日～9日</p>
+<p class="block-title"><a href="http://astone.tv/events/songs1809/" target="_blank">風のひびき6集作詞・作曲採用者<br>喜びと悲しみの一週間</a></p>
 </div>
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/nagano1809/" target="_blank"><img src="/2016/images/top/1709gifts.jpg"></a>
-<p class="block-date">ブログ：2018年9月2日</p>
-<p class="block-title"><a href="http://astone.tv/events/nagano1809/" target="_blank">Gifts<br>秋の長野を行く 医療フォーラム</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/1808song/" target="_blank"><img src="/2016/images/top/1708shinsainweek.jpg"></a>
-<p class="block-date">ブログ：2018年8月27日～9月2日</p>
-<p class="block-title"><a href="http://astone.tv/events/1808song/" target="_blank">風のひびき6集 応募曲378曲 <br>審査員激闘の一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/euqaristias/20180902shinjuku/" target="_blank"><img src="/2016/images/top/1612eukarishinjyuku.jpg"></a>
-<p class="block-date">ブログ：2018年9月2日</p>
-<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180902shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
-</div>
 
 <div class="column-inner">
 <span>NEW</span>
@@ -85,9 +62,9 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
-<a href="http://antiochblog.jp/info/gogo1808z/" target="_blank"><img src="/2016/images/top/1708mousugushingakizenkoku.jpg"></a>
-<p class="block-date">ブログ：2018年8月27日～9月2日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/gogo1808z/" target="_blank">夏休みもこれで終わり<br>全国各教会</a></p>
+<a href="http://astone.tv/events/thanks1809z/" target="_blank"><img src="/2016/images/top/1709nation.jpg"></a>
+<p class="block-date">ブログ：2018年9月3日～9日</p>
+<p class="block-title"><a href="http://astone.tv/events/thanks1809z/" target="_blank">新学期スタート<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -141,6 +118,55 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/charisma1809/" target="_blank"><img src="/2016/images/top/1809tokyocharisma.jpg"></a>
+<p class="block-date">ブログ：2018年9月1日〜2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/charisma1809/" target="_blank">大忙し<br>東京アンテオケの裏と表舞台<br>(日程：2018年9月2日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/gogo1808/" target="_blank"><img src="/2016/images/top/1708mousugushingakiantioch.jpg"></a>
+<p class="block-date">ブログ：2018年8月27日～9月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/gogo1808/" target="_blank">夏休みもこれで終わり<br>東京アンテオケの一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/nagano1809/" target="_blank"><img src="/2016/images/top/1709gifts.jpg"></a>
+<p class="block-date">ブログ：2018年9月2日</p>
+<p class="block-title"><a href="http://astone.tv/events/nagano1809/" target="_blank">Gifts<br>秋の長野を行く 医療フォーラム</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/1808song/" target="_blank"><img src="/2016/images/top/1708shinsainweek.jpg"></a>
+<p class="block-date">ブログ：2018年8月27日～9月2日</p>
+<p class="block-title"><a href="http://astone.tv/events/1808song/" target="_blank">風のひびき6集 応募曲378曲 <br>審査員激闘の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/euqaristias/20180902shinjuku/" target="_blank"><img src="/2016/images/top/1612eukarishinjyuku.jpg"></a>
+<p class="block-date">ブログ：2018年9月2日</p>
+<p class="block-title"><a href="http://astone.tv/events/euqaristias/20180902shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/gogo1808z/" target="_blank"><img src="/2016/images/top/1708mousugushingakizenkoku.jpg"></a>
+<p class="block-date">ブログ：2018年8月27日～9月2日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/gogo1808z/" target="_blank">夏休みもこれで終わり<br>全国各教会</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
