@@ -94,8 +94,8 @@
     <span class="label-1">ブログ</span>
 　　<span>NEW</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/180908/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-    <p class="block-date">ブログ：2018年9月1日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180908/" target="_blank">エルサレム<br>栃木県宇都宮市グループホーム全国大会にてゴスペルコンサート</a></p>
+    <p class="block-date">ブログ：2018年9月8日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180908/" target="_blank">エルサレム <br>栃木県宇都宮市グループホーム全国大会にてゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
