@@ -34,7 +34,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/1809yokohama/" target="_blank"><img src="/2016/images/top/1702yokohamaseikai.jpg"></a>
     <p class="block-date">ブログ：2018年9月8日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1809yokohama/" target="_blank">秋風の季節<br>北海道宣教の旅<br>(日程：2018年8月27日～31日)</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1809yokohama/" target="_blank">秋風の季節<br>横浜宣教の旅<br>(日程：2018年8月27日～31日)</a></p>
 </div>
 
 <div class="column-inner">
