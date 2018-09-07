@@ -32,6 +32,14 @@
 <div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
+<a href="http://antiochblog.jp/info/1809yokohama/" target="_blank"><img src="/2016/images/top/1702yokohamaseikai.jpg"></a>
+<p class="block-date">ブログ：2018年9月8日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/1809yokohama/" target="_blank">秋風の季節<br>北海道宣教の旅<br>(日程：2018年8月27日～31日)</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
 <a href="http://antiochblog.jp/praise/thanks1809/" target="_blank"><img src="/2016/images/top/1709antioch.jpg"></a>
 <p class="block-date">ブログ：2018年9月3日～9日</p>
 <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1809/" target="_blank">新学期スタート<br>東京アンテオケの一週間</a></p>
@@ -45,6 +53,21 @@
 <p class="block-title"><a href="http://astone.tv/events/songs1809/" target="_blank">風のひびき6集作詞・作曲採用者<br>喜びと悲しみの一週間</a></p>
 </div>
 
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/2017healing/180908/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
+<p class="block-date">ブログ：2018年9月8日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/180908/" target="_blank">9月 いやしの集い</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年8月11日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年8月11日 18:30スタート)</a></p>
+</div>
 
 <div class="column-inner">
 <span>NEW</span>
