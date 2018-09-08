@@ -32,9 +32,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/1809yokohama/" target="_blank"><img src="/2016/images/top/1702yokohamaseikai.jpg"></a>
-    <p class="block-date">ブログ：2018年9月8日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1809yokohama/" target="_blank">秋の気配を感じながら<br>横浜宣教の旅<br>(日程：2018年9月8日)</a></p>
+    <a href="http://antiochblog.jp/praise/chugoku1809/" target="_blank"><img src="/2016/images/top/1609chugokuseikai.jpg"></a>
+    <p class="block-date">ブログ：2018年9月9日～13日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/chugoku1809/" target="_blank">秋の気配を感じながら<br>中国宣教の旅<br>(日程：2018年9月10日～12日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -91,14 +91,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/180908/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-    <p class="block-date">ブログ：2018年9月8日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180908/" target="_blank">エルサレム <br>栃木県宇都宮市グループホーム全国大会にてゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
     <span>NEW</span>
     <a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚'); "><img src="/2016/images/top/1807taniguchigahaku.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚');">谷口画伯の今日の一枚<br>(Instagram)</a></p>
@@ -150,6 +142,19 @@
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
 
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/1809yokohama/" target="_blank"><img src="/2016/images/top/1702yokohamaseikai.jpg"></a>
+    <p class="block-date">ブログ：2018年9月8日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1809yokohama/" target="_blank">秋の気配を感じながら<br>横浜宣教の旅<br>(日程：2018年9月8日)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/180908/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+    <p class="block-date">ブログ：2018年9月8日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180908/" target="_blank">エルサレム <br>栃木県宇都宮市グループホーム全国大会にてゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
