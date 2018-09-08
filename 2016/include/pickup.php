@@ -34,7 +34,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/chugoku1809/" target="_blank"><img src="/2016/images/top/1609chugokuseikai.jpg"></a>
     <p class="block-date">ブログ：2018年9月9日～13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/chugoku1809/" target="_blank">秋風の季節中国地方を行く<br>中国宣教の旅<br>(日程：2018年9月10日～12日)</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/chugoku1809/" target="_blank">残暑の中国地方を行く<br>中国宣教の旅<br>(日程：2018年9月10日～12日)</a></p>
 </div>
 
 <div class="column-inner">
