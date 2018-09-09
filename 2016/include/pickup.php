@@ -136,7 +136,6 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/thanks1809/" target="_blank"><img src="/2016/images/top/1709antioch.jpg"></a>
     <p class="block-date">ブログ：2018年9月3日～9日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1809/" target="_blank">新学期スタート<br>東京アンテオケの一週間</a></p>
@@ -144,7 +143,6 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://astone.tv/events/songs1809/" target="_blank"><img src="/2016/images/top/1709sakushiyorokobi.jpg"></a>
     <p class="block-date">ブログ：2018年9月3日～9日</p>
     <p class="block-title"><a href="http://astone.tv/events/songs1809/" target="_blank">風のひびき6集作詞・作曲採用者<br>喜びと悲しみの一週間</a></p>
@@ -152,7 +150,6 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://astone.tv/events/thanks1809z/" target="_blank"><img src="/2016/images/top/1709nation.jpg"></a>
     <p class="block-date">ブログ：2018年9月3日～9日</p>
     <p class="block-title"><a href="http://astone.tv/events/thanks1809z/" target="_blank">新学期スタート<br>全国各教会</a></p>
