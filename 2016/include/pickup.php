@@ -50,7 +50,14 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/examination1809/" target="_blank"><img src="/2016/images/top/1707summerz.jpg"></a>
     <p class="block-date">ブログ：2018年9月10日～16日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/examination1809/" target="_blank">神学校試験ブログ</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/examination1809/" target="_blank">主の十字架神学校<br>試験の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="http://tv.antioch.jp/digest/201809pray4jerusalem/" target="_blank"><img src="/2016/images/top/1809jerusalemtudoi_m.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201809pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>紹介映像<br>(日程：2018年10月7日)</a></p>
 </div>
 
 <div class="column-inner">
