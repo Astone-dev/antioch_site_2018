@@ -77,9 +77,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/thanks1809z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
+    <a href="http://astone.tv/events/yobi1809z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
     <p class="block-date">ブログ：2018年9月10日～16日</p>
-    <p class="block-title"><a href="http://astone.tv/events/thanks1809z/" target="_blank">秋近づく<br>全国各教会</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/yobi1809z/" target="_blank">秋近づく<br>全国各教会</a></p>
 </div>
 
 <div class="column-inner">
