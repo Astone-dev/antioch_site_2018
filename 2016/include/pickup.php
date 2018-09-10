@@ -61,14 +61,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/euqaristias/20180910septemberconcert/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
-    <p class="block-date">ブログ：2018年9月10日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20180910septemberconcert/" target="_blank">エウカリスティアス<br>セプテンバーコンサートに出演</a></p>
-</div>
-
-<div class="column-inner">
     <span>NEW</span>
     <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
@@ -87,6 +79,14 @@
     <a href="http://astone.tv/events/yobi1809z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
     <p class="block-date">ブログ：2018年9月10日～16日</p>
     <p class="block-title"><a href="http://astone.tv/events/yobi1809z/" target="_blank">秋近づく<br>全国各教会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/180911/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+    <p class="block-date">ブログ：2018年9月11日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180911/" target="_blank">エルサレム <br>埼玉県三郷市アカシアの家オレンジカフェでコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -143,6 +143,13 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/euqaristias/20180910septemberconcert/" target="_blank"><img src="/2016/images/top/1803euqarinerima.jpg"></a>
+    <p class="block-date">ブログ：2018年9月10日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20180910septemberconcert/" target="_blank">エウカリスティアス<br>セプテンバーコンサートに出演</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/thanks1809/" target="_blank"><img src="/2016/images/top/1709antioch.jpg"></a>
     <p class="block-date">ブログ：2018年9月3日～9日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1809/" target="_blank">新学期スタート<br>東京アンテオケの一週間</a></p>
@@ -176,12 +183,12 @@
     <p class="block-title"><a href="http://astone.tv/events/2017healing/180908/" target="_blank">9月 いやしの集いの一日</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/180908/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
     <p class="block-date">ブログ：2018年9月8日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180908/" target="_blank">エルサレム <br>栃木県宇都宮市グループホーム全国大会にてゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -211,12 +218,12 @@
     <p class="block-title"><a href="http://astone.tv/events/1808song/" target="_blank">風のひびき6集 応募曲378曲 <br>審査員激闘の一週間</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://astone.tv/events/euqaristias/20180902shinjuku/" target="_blank"><img src="/2016/images/top/1612eukarishinjyuku.jpg"></a>
     <p class="block-date">ブログ：2018年9月2日</p>
     <p class="block-title"><a href="http://astone.tv/events/euqaristias/20180902shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -232,12 +239,12 @@
     <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">8月東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/180901/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
     <p class="block-date">ブログ：2018年9月1日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180901/" target="_blank">エルサレム<br>岩槻西のグループホームでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
