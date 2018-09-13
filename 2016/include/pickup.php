@@ -54,22 +54,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/gifts1809/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
-    <p class="block-date">ブログ：2018年9月13日</p>
-    <p class="block-title"><a href="http://astone.tv/events/gifts1809/" target="_blank">Gifts<br>有名ホテルでゴスペルを歌う</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/day1809/" target="_blank"><img src="/2016/images/top/1609youngday.jpg"></a>
-    <p class="block-date">ブログ：2018年9月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/day1809/" target="_blank">ヤング元気いっぱい！<br>デイキャンプ</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/201809pray4jerusalem/" target="_blank"><img src="/2016/images/top/1809jerusalemtudoi_m.jpg"></a>
@@ -148,6 +132,20 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/gifts1809/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
+    <p class="block-date">ブログ：2018年9月13日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gifts1809/" target="_blank">Gifts<br>有名ホテルでゴスペルを歌う</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/day1809/" target="_blank"><img src="/2016/images/top/1609youngday.jpg"></a>
+    <p class="block-date">ブログ：2018年9月13日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/day1809/" target="_blank">ヤング元気いっぱい！<br>デイキャンプ</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
