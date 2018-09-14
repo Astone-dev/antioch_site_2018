@@ -545,7 +545,7 @@ div#content div.column4 .column-inner{
   float:left;
   position:relative;
   z-index:1;
-  width:158px;
+  width:296px;
   height:390px;
   margin:20px 12px 15px 12px;
   padding:0px 0 15px 0;
@@ -566,6 +566,17 @@ div#content div.column7 .column-inner a:hover{
 	opacity: 0.7;
 	-webkit-transition: all .3s;
 	transition: all .3s;
+}
+
+div#content div.column7 .column-inner{
+  float:left;
+  position:relative;
+  z-index:1;
+  width:158px;
+  height:390px;
+  margin:20px 12px 15px 12px;
+  padding:0px 0 15px 0;
+  background-color:#FFF;
 }
 
 div#content .column7 .column-inner .block-title{
