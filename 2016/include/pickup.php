@@ -40,25 +40,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/yobi1809/" target="_blank"><img src="/2016/images/top/1709akimikakuantioch.jpg"></a>
-    <p class="block-date">ブログ：2018年9月10日～16日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/yobi1809/" target="_blank">秋近づく<br>東京アンテオケの一週間</a></p>
+    <a href="http://blog.antioch.jp/1809cambodia/" target="_blank"><img src="/2016/images/top/1609cambodiacountdown.jpg"></a>
+    <p class="block-date">ブログ：2018年9月17日～23日</p>
+    <p class="block-title"><a href="http://blog.antioch.jp/1809cambodia/" target="_blank">カンボジアチーム</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/examination1809/" target="_blank"><img src="/2016/images/top/1707summerz.jpg"></a>
-    <p class="block-date">ブログ：2018年9月10日～16日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/examination1809/" target="_blank">主の十字架神学校<br>試験の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/2018women/201809/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
-    <p class="block-date">ブログ：2018年9月10日～16日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201809/" target="_blank">9月 婦人会の一日</a></p>
+    <a href="http://antiochblog.jp/praise/september2018/" target="_blank"><img src="/2016/images/top/1711yoshokuwashokuantioch.jpg"></a>
+    <p class="block-date">ブログ：2018年9月17日～23日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/september2018/" target="_blank">いよいよ来た来たこの季節<br>東京アンテオケ 食欲の秋の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -91,25 +83,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/yobi1809z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
-    <p class="block-date">ブログ：2018年9月10日～16日</p>
-    <p class="block-title"><a href="http://astone.tv/events/yobi1809z/" target="_blank">秋近づく<br>全国各教会</a></p>
+    <a href="http://astone.tv/events/september2018z/" target="_blank"><img src="/2016/images/top/1711yoshokuwashokuzenkoku.jpg"></a>
+    <p class="block-date">ブログ：2018年9月17日～23日</p>
+    <p class="block-title"><a href="http://astone.tv/events/september2018z/" target="_blank">いよいよ来た来たこの季節<br>全国各教会 食欲の秋の一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/180916other/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-    <p class="block-date">ブログ：2018年9月16日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180916other/" target="_blank">エルサレム<br>他教会の集会で賛美する</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/gracejewel2017/180916dayservice/" target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
-    <p class="block-date">ブログ：2018年9月16日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180916dayservice/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
+    <a href="http://antiochblog.jp/info/gracious/180917/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
+    <p class="block-date">ブログ：2018年9月17日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/180917/" target="_blank">GRACIOUS DOORS<br>都内デイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -163,6 +147,49 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/yobi1809/" target="_blank"><img src="/2016/images/top/1709akimikakuantioch.jpg"></a>
+    <p class="block-date">ブログ：2018年9月10日～16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/yobi1809/" target="_blank">秋近づく<br>東京アンテオケの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/examination1809/" target="_blank"><img src="/2016/images/top/1707summerz.jpg"></a>
+    <p class="block-date">ブログ：2018年9月10日～16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/examination1809/" target="_blank">主の十字架神学校<br>試験の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/2018women/201809/" target="_blank"><img src="/2016/images/top/1705women.jpg"></a>
+    <p class="block-date">ブログ：2018年9月10日～16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201809/" target="_blank">9月 婦人会の一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/yobi1809z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
+    <p class="block-date">ブログ：2018年9月10日～16日</p>
+    <p class="block-title"><a href="http://astone.tv/events/yobi1809z/" target="_blank">秋近づく<br>全国各教会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/180916other/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+    <p class="block-date">ブログ：2018年9月16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180916other/" target="_blank">エルサレム<br>他教会の集会で賛美する</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/gracejewel2017/180916dayservice/" target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
+    <p class="block-date">ブログ：2018年9月16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180916dayservice/" target="_blank">GRACEと宝石<br>高円寺のデイサービスでゴスペルコンサート</a></p>
+</div>
+
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/revival2017/180915/" target="_blank"><img src="/2016/images/top/1608revivalnight.jpg"></a>
