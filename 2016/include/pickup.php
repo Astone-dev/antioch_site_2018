@@ -25,8 +25,8 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1809kiseki_mami.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2018年9月10日UP!)</a></p>
+    <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1809kiseki_makotoyoshino.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2018年9月16日UP!)</a></p>
 </div>
 
 <div class="column-inner">
@@ -77,8 +77,15 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="https://www.youtube.com/watch?v=ejKUkjzbkdE" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180912giftstv.jpg"></a>
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=ejKUkjzbkdE" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃020<br>ゴスペルグループGiftsの<br>ワイワイYouTube動画<br>(9月12日UP!)</a></p>
+    <a href="https://www.youtube.com/watch?v=rBANFTEKKsk&t=155s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/180916giftstv.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=rBANFTEKKsk&t=155s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃021<br>ゴスペルグループGiftsの<br>ワイワイYouTube動画<br>(9月16日UP!)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告'); "><img src="/2016/images/top/1809paulo_m.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告');">映画『パウロ 愛と赦しの物語』<br>予告映像（2018年11月3日公開）</a></p>
 </div>
 
 <div class="column-inner">
