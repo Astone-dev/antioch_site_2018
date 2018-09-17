@@ -91,9 +91,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gracious/180917/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
-    <p class="block-date">ブログ：2018年9月17日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/180917/" target="_blank">GRACIOUS DOORS<br>都内デイサービスでゴスペルコンサート</a></p>
+    <a href="http://antiochblog.jp/info/jerusalem2017/180918/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+    <p class="block-date">ブログ：2018年9月18日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180918/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -147,6 +147,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gracious/180917/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
+    <p class="block-date">ブログ：2018年9月17日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/180917/" target="_blank">GRACIOUS DOORS<br>都内デイサービスでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
