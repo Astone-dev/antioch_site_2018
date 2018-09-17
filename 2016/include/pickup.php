@@ -42,7 +42,7 @@
     <span>NEW</span>
     <a href="http://blog.antioch.jp/1809cambodia/" target="_blank"><img src="/2016/images/top/1609cambodiacountdown.jpg"></a>
     <p class="block-date">ブログ：2018年9月17日～23日</p>
-    <p class="block-title"><a href="http://blog.antioch.jp/1809cambodia/" target="_blank">カンボジアチーム</a></p>
+    <p class="block-title"><a href="http://blog.antioch.jp/1809cambodia/" target="_blank">カンボジアチーム直前情報写真集<br>(チーム日程：2018年9月24日～28日)</a></p>
 </div>
 
 <div class="column-inner">
