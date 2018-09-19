@@ -89,14 +89,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/180918/" target="_blank"><img src="/2016/images/top/1605jeruhakone.jpg"></a>
-    <p class="block-date">ブログ：2018年9月18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180918/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
-</div>
-
-<div class="column-inner">
     <span>NEW</span>
     <a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚'); "><img src="/2016/images/top/1807taniguchigahaku.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚');">谷口画伯の今日の一枚<br>(Instagram)</a></p>
@@ -150,6 +142,13 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/180918/" target="_blank"><img src="/2016/images/top/1605jeruhakone.jpg"></a>
+    <p class="block-date">ブログ：2018年9月18日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180918/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/gracious/180917/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
     <p class="block-date">ブログ：2018年9月17日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/gracious/180917/" target="_blank">GRACIOUS DOORS<br>都内デイサービスでゴスペルコンサート</a></p>
@@ -183,12 +182,12 @@
     <p class="block-title"><a href="http://astone.tv/events/yobi1809z/" target="_blank">秋近づく<br>全国各教会</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/180916other/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
     <p class="block-date">ブログ：2018年9月16日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180916other/" target="_blank">エルサレム<br>他教会の集会で賛美する</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
