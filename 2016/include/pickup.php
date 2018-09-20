@@ -32,14 +32,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/shikoku1809/" target="_blank"><img src="/2016/images/top/1703shikoku.jpg"></a>
-    <p class="block-date">ブログ：2018年9月16日～18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/shikoku1809/" target="_blank">秋の香りの中を<br>四国宣教の旅<br>(日程：2018年9月17日～18日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://blog.antioch.jp/1809cambodia/" target="_blank"><img src="/2016/images/top/1809cambodiateam.jpg"></a>
     <p class="block-date">ブログ：2018年9月17日～23日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1809cambodia/" target="_blank">カンボジアチーム直前情報写真集<br>(チーム日程：2018年9月24日～28日)</a></p>
@@ -51,6 +43,12 @@
     <a href="http://antiochblog.jp/praise/september2018/" target="_blank"><img src="/2016/images/top/1711yoshokuwashokuantioch.jpg"></a>
     <p class="block-date">ブログ：2018年9月17日～23日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/september2018/" target="_blank">いよいよ来た来たこの季節<br>東京アンテオケ 食欲の秋の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span>NEW</span>
+    <a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
+    <p class="block-title"><a href="/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>ご案内<br>(日程：2018年10月7日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -139,6 +137,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/shikoku1809/" target="_blank"><img src="/2016/images/top/1703shikoku.jpg"></a>
+    <p class="block-date">ブログ：2018年9月16日～18日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/shikoku1809/" target="_blank">秋の香りの中を<br>四国宣教の旅<br>(日程：2018年9月17日～18日)</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
