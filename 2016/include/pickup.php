@@ -91,7 +91,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/2017byhisspirit/180923/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
     <p class="block-date">ブログ：2018年9月23日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180921/" target="_blank">By His Spirit<br>福島相馬でゴスペルを歌う世田谷の高齢者施設でゴスペルコンサート</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180923/" target="_blank">By His Spirit<br>福島相馬でゴスペルを歌う世田谷の高齢者施設でゴスペルコンサート</a></p>
 </div>
 
 
