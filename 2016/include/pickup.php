@@ -98,7 +98,7 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/rejoice1809z/" target="_blank"><img src="/2016/images/top1709silverweekzenkoku.jpg"></a>
+    <a href="http://astone.tv/events/rejoice1809z/" target="_blank"><img src="/2016/images/top/1709silverweekzenkoku.jpg"></a>
     <p class="block-date">ブログ：2018年9月24日～30日</p>
     <p class="block-title"><a href="http://astone.tv/events/rejoice1809z/" target="_blank">シルバーウィークももう終わり頑張るぞ
             <br>全国各教会の一週間</a></p>
