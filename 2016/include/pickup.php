@@ -64,13 +64,13 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/rejoice1809/" target="_blank">シルバーウィークももう終わり頑張るぞ<br>アンテオケの一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/1809concert/" target="_blank"><img src="/2016/images/top/1704immberasuginami.jpg"></a>
     <p class="block-date">ブログ：2018年9月27日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/1809concert/" target="_blank">Immanuel、Beracha<br>東久留米のデイサービスでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
     <span>NEW</span>
