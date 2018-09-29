@@ -29,14 +29,6 @@
     <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2018年9月16日UP!)</a></p>
 </div>
 
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://blog.antioch.jp/1809cambodia/" target="_blank"><img src="/2016/images/top/1809cambodiateam.jpg"></a>
-    <p class="block-date">ブログ：2018年9月24日～28日)</p>
-    <p class="block-title"><a href="http://blog.antioch.jp/1809cambodia/" target="_blank">カンボジアチーム最新情報写真集<br>(チーム日程：2018年9月24日～28日)</a></p>
-</div>
-
 <!--
 <div class="column-inner">
 <span class="label-2">映像</span>
@@ -189,6 +181,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://blog.antioch.jp/1809cambodia/" target="_blank"><img src="/2016/images/top/1809cambodiateam.jpg"></a>
+    <p class="block-date">ブログ：2018年9月24日～28日)</p>
+    <p class="block-title"><a href="http://blog.antioch.jp/1809cambodia/" target="_blank">カンボジアチーム最新情報写真集<br>(チーム日程：2018年9月24日～28日)</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
