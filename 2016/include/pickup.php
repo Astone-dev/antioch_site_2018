@@ -69,7 +69,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/yosen1809/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
     <p class="block-date">ブログ：2018年9月30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1809/" target="_blank">【台風の影響のため予選会は10月14日に延期となりました。】いよいよ今日決戦！<br>年末コンサート出場チーム選定予選会ドキドキの一日</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1809/" target="_blank">【台風の影響のため予選会は10月14日に延期となりました。】<br>いよいよ今日決戦！<br>年末コンサート出場チーム選定予選会ドキドキの一日</a></p>
 </div>
 
 <div class="column-inner">
