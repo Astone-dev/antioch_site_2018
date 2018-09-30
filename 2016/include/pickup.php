@@ -59,17 +59,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/yosen1809/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
+    <a href="http://astone.tv/events/happyday2017/180930/" target="_blank"><img src="/2016/images/top/1707ohhappyday.jpg"></a>
     <p class="block-date">ブログ：2018年9月30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1809/" target="_blank">いよいよ今日決戦！<br>年末コンサート出場チーム選定予選会ドキドキの一日</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/happyday2017/180930/" target="_blank">9月 OH HAPPY DAY!の一日</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/happyday2017/180930/" target="_blank"><img src="/2016/images/top/1707ohhappyday.jpg"></a>
+    <a href="http://antiochblog.jp/info/yosen1809/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
     <p class="block-date">ブログ：2018年9月30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/happyday2017/180930/" target="_blank">9月 OH HAPPY DAY!の一日</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1809/" target="_blank">【台風の影響のため予選会は10月14日に延期となりました。】いよいよ今日決戦！<br>年末コンサート出場チーム選定予選会ドキドキの一日</a></p>
 </div>
 
 <div class="column-inner">
