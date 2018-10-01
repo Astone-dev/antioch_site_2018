@@ -53,15 +53,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/october2018/" target="_blank"><img src="/2016/images/top/1709shingakkiantioch.jpg"></a>
     <p class="block-date">ブログ：2018年10月1日～7日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/october2018/" target="_blank">台風一過<br>アンテオケの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/yosen1809/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
-    <p class="block-date">ブログ：2018年9月30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1809/" target="_blank">【台風の影響のため予選会は10月14日に延期となりました。】<br>いよいよ今日決戦！<br>年末コンサート出場チーム選定予選会ドキドキの一日</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/october2018/" target="_blank">台風一過の東京<br>東京アンテオケの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -91,18 +83,11 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告'); "><img src="/2016/images/top/1809paulo_m.jpg"></a>
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告');">映画『パウロ 愛と赦しの物語』<br>予告映像（2018年11月3日公開）</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/cctober2018z/" target="_blank"><img src="/2016/images/top/1709shingakkizenkoku.jpg"></a>
     <p class="block-date">ブログ：2018年10月1日～7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/cctober2018z/" target="_blank">台風一過<br>全国各教会の一週間</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/cctober2018z/" target="_blank">台風一過の日本列島<br>主の十字架全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -146,6 +131,13 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告'); "><img src="/2016/images/top/1809paulo_m.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告');">映画『パウロ 愛と赦しの物語』<br>予告映像（2018年11月3日公開）</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">映像</span>
     <a href="http://movie.antioch.jp/2018hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
     <p class="block-title"><a href="http://movie.antioch.jp/2018hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>受賞作品と応募作品</a></p>
@@ -156,6 +148,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/yosen1809/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
+    <p class="block-date">ブログ：2018年9月30日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1809/" target="_blank">【台風の影響のため予選会は10月14日に延期となりました。】<br>いよいよ今日決戦！<br>年末コンサート出場チーム選定予選会ドキドキの一日</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
