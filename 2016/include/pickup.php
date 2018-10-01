@@ -57,6 +57,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/1810event/" target="_blank"><img src="/2016/images/top/1609mihonichi.jpg"></a>
+    <p class="block-date">ブログ：2018年10月2日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1810event/" target="_blank">クリスマス見本市に向かって <br>各部門スタッフてんてこ舞い</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/201809cambodia/" target="_blank"><img src="/2016/images/top/1809cambodia_d_m.jpg"></a>
