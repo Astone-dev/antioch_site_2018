@@ -61,7 +61,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/1810event/" target="_blank"><img src="/2016/images/top/1609mihonichi.jpg"></a>
     <p class="block-date">ブログ：2018年10月2日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1810event/" target="_blank">クリスマス見本市に向かって <br>各部門スタッフてんてこ舞い</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1810event/" target="_blank">今日、クリスマス見本市<br>各部門スタッフてんてこ舞い</a></p>
 </div>
 
 <div class="column-inner">
