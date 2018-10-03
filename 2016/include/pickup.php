@@ -64,6 +64,13 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://blog.antioch.jp/1809cambodia/category/1809dst/" target="_blank"><img src="/2016/images/top/1809cambodiateam_d_p.jpg"></a>
+    <p class="block-title"><a href="http://blog.antioch.jp/1809cambodia/category/1809dst/" target="_blank">カンボジアチーム<br>ダイジェスト写真集<br>短く全て見たい方へ<br>(日程：2018年10月24日〜28日)<br>(視聴時間 3:22)</a></p>
+</div>
+
+<div class="column-inner">
     <span>NEW</span>
     <a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
     <p class="block-title"><a href="/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>ご案内<br>(日程：2018年10月7日)</a></p>
