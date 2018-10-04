@@ -57,6 +57,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/1809jerusalem/" target="_blank"><img src="/2016/images/top/1709jerusalemheiwanimukatte.jpg"></a>
+    <p class="block-date">ブログ：2018年10月5日～7日</p>
+    <p class="block-title"><a href="http://astone.tv/events/1809jerusalem/" target="_blank">エルサレムの平和を祈る集いに向かって<br>スタッフ大忙し<br>(東京カリスマ聖会)<br>(日程：2018年10月7日)</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/201809cambodia/" target="_blank"><img src="/2016/images/top/1809cambodia_d_m.jpg"></a>
