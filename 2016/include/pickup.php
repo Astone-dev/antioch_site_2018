@@ -180,13 +180,6 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/yosen1809/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
-    <p class="block-date">ブログ：2018年9月30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1809/" target="_blank">【台風の影響のため予選会は10月14日に延期となりました。】<br>いよいよ今日決戦！<br>年末コンサート出場チーム選定予選会ドキドキの一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/rejoice1809/" target="_blank"><img src="/2016/images/top/1709silverweekantioch.jpg"></a>
     <p class="block-date">ブログ：2018年9月24日～30日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/rejoice1809/" target="_blank">シルバーウィークももう終わり頑張るぞ<br>アンテオケの一週間</a></p>
@@ -242,42 +235,6 @@
     <p class="block-date">ブログ：2018年9月24日～28日)</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1809cambodia/" target="_blank">カンボジアチーム最新情報写真集<br>(チーム日程：2018年9月24日～28日)</a></p>
 </div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/1809concert/" target="_blank"><img src="/2016/images/top/1704immberasuginami.jpg"></a>
-    <p class="block-date">ブログ：2018年9月27日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1809concert/" target="_blank">Immanuel、Beracha<br>東久留米のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/september2018/" target="_blank"><img src="/2016/images/top/1711yoshokuwashokuantioch.jpg"></a>
-    <p class="block-date">ブログ：2018年9月17日～23日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/september2018/" target="_blank">いよいよ来た来たこの季節<br>東京アンテオケ 食欲の秋の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017byhisspirit/180923/" target="_blank"><img src="/2016/images/top/1709byhisnerima.jpg"></a>
-    <p class="block-date">ブログ：2018年9月23日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/180923/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/gospel2017/201809/" target="_blank"><img src="/2016/images/top/1710gospeltudoi.jpg"></a>
-    <p class="block-date">ブログ：2018年9月22日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/201809/" target="_blank">9月ゴスペルの集いの一日</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/180921/" target="_blank"><img src="/2016/images/top/1605jeruhakone.jpg"></a>
-    <p class="block-date">ブログ：2018年9月21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180921/" target="_blank">エルサレム<br>福島相馬でゴスペルを歌う</a></p>
-</div>-->
 
 <div class="column-inner">
     <span class="label-2">映像</span>
