@@ -121,6 +121,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gracejewel2017/181006/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
+    <p class="block-date">ブログ：2018年10月6日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/181006/" target="_blank">GRACEと宝石<br>埼玉県志木市にあるデイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span>NEW</span>
     <a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚'); "><img src="/2016/images/top/1807taniguchigahaku.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚');">谷口画伯の今日の一枚<br>(Instagram)</a></p>
@@ -229,12 +237,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180929/" target="_blank">エルサレム<br>さいたま市岩槻 特番養護老人ホームにてゴスペルコンサート</a></p>
 </div>-->
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/gracejewel2017/180928/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
     <p class="block-date">ブログ：2018年9月29日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180928/" target="_blank">GRACEと宝石 <br>練馬のデイサービスでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 
 <div class="column-inner">
