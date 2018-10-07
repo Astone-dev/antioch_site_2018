@@ -104,19 +104,6 @@
 
 <div class="column-inner">
     <span>NEW</span>
-    <a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
-    <p class="block-title"><a href="/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>ご案内<br>(日程：2018年10月7日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://tv.antioch.jp/digest/201809pray4jerusalem/" target="_blank"><img src="/2016/images/top/1809jerusalemtudoi_m.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201809pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>紹介映像<br>(日程：2018年10月7日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span>NEW</span>
     <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
 </div>
@@ -208,6 +195,12 @@
     <a href="http://astone.tv/events/1809jerusalem/" target="_blank"><img src="/2016/images/top/1709jerusalemheiwanimukatte.jpg"></a>
     <p class="block-date">ブログ：2018年10月5日～7日</p>
     <p class="block-title"><a href="http://astone.tv/events/1809jerusalem/" target="_blank">エルサレムの平和を祈る集いに向かって<br>スタッフ大忙し<br>(東京カリスマ聖会)<br>(日程：2018年10月7日)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://tv.antioch.jp/digest/201809pray4jerusalem/" target="_blank"><img src="/2016/images/top/1809jerusalemtudoi_m.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201809pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>紹介映像<br>(日程：2018年10月7日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -357,4 +350,10 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2018年7月21日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年7月21日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+    <span>NEW</span>
+    <a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
+    <p class="block-title"><a href="/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>ご案内<br>(日程：2018年10月7日)</a></p>
 </div>-->
