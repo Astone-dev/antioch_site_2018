@@ -59,25 +59,33 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/october2018/" target="_blank"><img src="/2016/images/top/1709shingakkiantioch.jpg"></a>
-    <p class="block-date">ブログ：2018年10月1日～7日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/october2018/" target="_blank">台風一過の東京<br>東京アンテオケの一週間</a></p>
+    <a href="http://antiochblog.jp/praise/thanks1810/" target="_blank"><img src="/2016/images/top/1710akihonbanantioch.jpg"></a>
+    <p class="block-date">ブログ：2018年10月8日～14日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1810/" target="_blank">秋本番<br>東京アンテオケの一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/1809jerusalem/" target="_blank"><img src="/2016/images/top/1709jerusalemheiwanimukatte.jpg"></a>
-    <p class="block-date">ブログ：2018年10月5日～7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/1809jerusalem/" target="_blank">エルサレムの平和を祈る集いに向かって<br>スタッフ大忙し<br>(東京カリスマ聖会)<br>(日程：2018年10月7日)</a></p>
+    <a href="http://antiochblog.jp/info/akikawa1810/" target="_blank"><img src="/2016/images/top/1609youngday.jpg"></a>
+    <p class="block-date">ブログ：2018年10月8日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/akikawa1810/" target="_blank">秋の秋川渓谷にて大騒ぎ<br>ヤングデイキャンプ</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/euqaristias/20181007gospelconcert/" target="_blank"><img src="/2016/images/top/1707euqarinerima.jpg"></a>
-    <p class="block-date">ブログ：2018年10月7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20181007gospelconcert/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+    <a href="http://antiochblog.jp/info/yosen1809/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
+    <p class="block-date">ブログ：2018年10月8日～14日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1809/" target="_blank">年末コンサート出場をかけて、予選会に向かって<br>ドキドキの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/patolis/181008/" target="_blank"><img src="/2016/images/top/1611patolisnerima.jpg"></a>
+    <p class="block-date">ブログ：2018年10月8日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181008/" target="_blank">PATOLIS<br>川口の病院内デイサービスにてボランティアコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -123,10 +131,11 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/cctober2018z/" target="_blank"><img src="/2016/images/top/1709shingakkizenkoku.jpg"></a>
-    <p class="block-date">ブログ：2018年10月1日～7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/cctober2018z/" target="_blank">台風一過の日本列島<br>主の十字架全国各教会の一週間</a></p>
+    <a href="http://astone.tv/events/thanks1810z/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
+    <p class="block-date">ブログ：2018年10月8日～14日</p>
+    <p class="block-title"><a href="http://astone.tv/events/thanks1810z/" target="_blank">秋本番<br>主の十字架全国各教会の一週間</a></p>
 </div>
+
 
 <div class="column-inner">
     <span>NEW</span>
@@ -186,6 +195,34 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/october2018/" target="_blank"><img src="/2016/images/top/1709shingakkiantioch.jpg"></a>
+    <p class="block-date">ブログ：2018年10月1日～7日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/october2018/" target="_blank">台風一過の東京<br>東京アンテオケの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/1809jerusalem/" target="_blank"><img src="/2016/images/top/1709jerusalemheiwanimukatte.jpg"></a>
+    <p class="block-date">ブログ：2018年10月5日～7日</p>
+    <p class="block-title"><a href="http://astone.tv/events/1809jerusalem/" target="_blank">エルサレムの平和を祈る集いに向かって<br>スタッフ大忙し<br>(東京カリスマ聖会)<br>(日程：2018年10月7日)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/euqaristias/20181007gospelconcert/" target="_blank"><img src="/2016/images/top/1707euqarinerima.jpg"></a>
+    <p class="block-date">ブログ：2018年10月7日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20181007gospelconcert/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/cctober2018z/" target="_blank"><img src="/2016/images/top/1709shingakkizenkoku.jpg"></a>
+    <p class="block-date">ブログ：2018年10月1日～7日</p>
+    <p class="block-title"><a href="http://astone.tv/events/cctober2018z/" target="_blank">台風一過の日本列島<br>主の十字架全国各教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
