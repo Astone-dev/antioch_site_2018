@@ -67,25 +67,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/akikawa1810/" target="_blank"><img src="/2016/images/top/1609youngday.jpg"></a>
-    <p class="block-date">ブログ：2018年10月8日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/akikawa1810/" target="_blank">今日は秋の秋川渓谷にて大騒ぎ<br>ヤングデイキャンプ</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/info/yosen1809/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
     <p class="block-date">ブログ：2018年10月8日～14日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/yosen1809/" target="_blank">年末コンサート出場をかけて<br>予選会に向かってドキドキの一週間<br>(予選:2018年10月14日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/patolis/181008/" target="_blank"><img src="/2016/images/top/1611patolisnerima.jpg"></a>
-    <p class="block-date">ブログ：2018年10月8日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181008/" target="_blank">PATOLIS<br>川口の病院内デイサービスにてボランティアコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -159,7 +143,6 @@
 
 <div class="column-inner">
     <span class="label-2">動画</span>
-    <span>NEW</span>
     <a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告'); "><img src="/2016/images/top/1809paulo_m.jpg"></a>
     <p class="block-title"><a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告');">映画『パウロ 愛と赦しの物語』<br>予告映像（2018年11月3日公開）</a></p>
 </div>
@@ -175,6 +158,20 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/akikawa1810/" target="_blank"><img src="/2016/images/top/1609youngday.jpg"></a>
+    <p class="block-date">ブログ：2018年10月8日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/akikawa1810/" target="_blank">今日は秋の秋川渓谷にて大騒ぎ<br>ヤングデイキャンプ</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/patolis/181008/" target="_blank"><img src="/2016/images/top/1611patolisnerima.jpg"></a>
+    <p class="block-date">ブログ：2018年10月8日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181008/" target="_blank">PATOLIS<br>川口の病院内デイサービスにてボランティアコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-2">動画</span>
