@@ -176,13 +176,13 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201809cambodia/" target="_blank"><img src="/2016/images/top/1809cambodia_d_m.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201809cambodia/" target="_blank">カンボジアチーム<br>ダイジェスト映像<br>(日程：2018年10月24日〜28日)<br>(視聴時間 3:22)</a></p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201809cambodia/" target="_blank">カンボジアチーム<br>ダイジェスト映像<br>(日程：2018年9月24日〜28日)<br>(視聴時間 3:22)</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://blog.antioch.jp/1809cambodia/category/1809dst/" target="_blank"><img src="/2016/images/top/1809cambodiateam_d_p.jpg"></a>
-    <p class="block-title"><a href="http://blog.antioch.jp/1809cambodia/category/1809dst/" target="_blank">カンボジアチーム<br>ダイジェスト写真集<br>短く全て見たい方へ<br>(日程：2018年10月24日〜28日)<br>(視聴時間 3:22)</a></p>
+    <p class="block-title"><a href="http://blog.antioch.jp/1809cambodia/category/1809dst/" target="_blank">カンボジアチーム<br>ダイジェスト写真集<br>短く全て見たい方へ<br>(日程：2018年9月24日〜28日)<br>(視聴時間 3:22)</a></p>
 </div>
 
 <div class="column-inner">
