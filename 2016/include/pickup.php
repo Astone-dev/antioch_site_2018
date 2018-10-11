@@ -108,6 +108,14 @@
     <p class="block-title"><a href="http://astone.tv/events/thanks1810z/" target="_blank">秋本番<br>主の十字架全国各教会の一週間</a></p>
 </div>
 
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/gate2018/181012/" target="_blank"><img src="/2016/images/top/1606gateofnerima.jpg"></a>
+    <p class="block-date">ブログ：2018年10月12日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gate2018/181012/" target="_blank">The Gate of Praise<br>練馬区の老健でゴスペルコンサート</a></p>
+</div>
+
 
 <div class="column-inner">
     <span>NEW</span>
