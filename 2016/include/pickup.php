@@ -67,14 +67,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/201810vigilservice/" target="_blank"><img src="/2016/images/top/1711fuchinotengoku.jpg"></a>
-    <p class="block-date">ブログ：2018年10月10日～11日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/201810vigilservice/" target="_blank">また会う日まで<br>渕野昭子姉<br>前夜式、召天式</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/info/yosen1809/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
     <p class="block-date">ブログ：2018年10月8日～14日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/yosen1809/" target="_blank">年末コンサート出場をかけて<br>予選会に向かってドキドキの一週間<br>(予選:2018年10月14日)</a></p>
@@ -103,19 +95,18 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/thanks1810z/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
-    <p class="block-date">ブログ：2018年10月8日～14日</p>
-    <p class="block-title"><a href="http://astone.tv/events/thanks1810z/" target="_blank">秋本番<br>主の十字架全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://astone.tv/events/gate2018/181012/" target="_blank"><img src="/2016/images/top/1606gateofnerima.jpg"></a>
     <p class="block-date">ブログ：2018年10月12日</p>
     <p class="block-title"><a href="http://astone.tv/events/gate2018/181012/" target="_blank">The Gate of Praise<br>練馬区の老健でゴスペルコンサート</a></p>
 </div>
 
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/thanks1810z/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
+    <p class="block-date">ブログ：2018年10月8日～14日</p>
+    <p class="block-title"><a href="http://astone.tv/events/thanks1810z/" target="_blank">秋本番<br>主の十字架全国各教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
     <span>NEW</span>
@@ -174,6 +165,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/201810vigilservice/" target="_blank"><img src="/2016/images/top/1711fuchinotengoku.jpg"></a>
+    <p class="block-date">ブログ：2018年10月10日～11日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/201810vigilservice/" target="_blank">また会う日まで<br>渕野昭子姉<br>前夜式、召天式</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
