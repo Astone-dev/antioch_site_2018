@@ -177,7 +177,7 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://astone.tv/events/gate2018/181012/" target="_blank"><img src="/2016/images/top/1606gateofnerima.jpg"></a>
-    <p class="block-date">ブログ：2018年10月12日</p>
+    <p class="block-date">ブログ：2018年10月12日 </p>
     <p class="block-title"><a href="http://astone.tv/events/gate2018/181012/" target="_blank">The Gate of Praise<br>練馬区の老健でゴスペルコンサート</a></p>
 </div>
 
