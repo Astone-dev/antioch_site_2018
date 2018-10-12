@@ -51,14 +51,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/1810kansai/" target="_blank"><img src="/2016/images/top/1704kansaiseikai.jpg"></a>
-    <p class="block-date">ブログ：2018年10月7日～</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1810kansai/" target="_blank">秋深まる関西を行く<br>関西宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/thanks1810/" target="_blank"><img src="/2016/images/top/1710akihonbanantioch.jpg"></a>
     <p class="block-date">ブログ：2018年10月8日～14日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1810/" target="_blank">秋本番<br>東京アンテオケの一週間</a></p>
@@ -165,6 +157,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/1810kansai/" target="_blank"><img src="/2016/images/top/1704kansaiseikai.jpg"></a>
+    <p class="block-date">ブログ：2018年10月7日～</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1810kansai/" target="_blank">秋深まる関西を行く<br>関西宣教の旅</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
