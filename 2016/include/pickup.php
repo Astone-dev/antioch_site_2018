@@ -214,12 +214,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/201809pray4jerusalem/" target="_blank"><img src="/2016/images/top/1809jerusalemtudoi_m.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201809pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>紹介映像<br>(日程：2018年10月7日)</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://astone.tv/events/euqaristias/20181007gospelconcert/" target="_blank"><img src="/2016/images/top/1707euqarinerima.jpg"></a>
     <p class="block-date">ブログ：2018年10月7日</p>
@@ -245,71 +239,6 @@
     <a href="http://antiochblog.jp/praise/gracejewel2017/181006/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
     <p class="block-date">ブログ：2018年10月6日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/181006/" target="_blank">GRACEと宝石<br>埼玉県志木市にあるデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/1810event/" target="_blank"><img src="/2016/images/top/1609mihonichi.jpg"></a>
-    <p class="block-date">ブログ：2018年10月2日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1810event/" target="_blank">今日、クリスマス見本市<br>各部門スタッフてんてこ舞い</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/rejoice1809/" target="_blank"><img src="/2016/images/top/1709silverweekantioch.jpg"></a>
-    <p class="block-date">ブログ：2018年9月24日～30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/rejoice1809/" target="_blank">シルバーウィークももう終わり頑張るぞ<br>アンテオケの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/happyday2017/180930/" target="_blank"><img src="/2016/images/top/1707ohhappyday.jpg"></a>
-    <p class="block-date">ブログ：2018年9月30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/happyday2017/180930/" target="_blank">9月 OH HAPPY DAY!の一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/rejoice1809z/" target="_blank"><img src="/2016/images/top/1709silverweekzenkoku.jpg"></a>
-    <p class="block-date">ブログ：2018年9月24日～30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/rejoice1809z/" target="_blank">シルバーウィークももう終わり頑張るぞ
-            <br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/1809conert/" target="_blank"><img src="/2016/images/top/1704giftsmyanmar.jpg"></a>
-    <p class="block-date">ブログ：2018年9月29日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1809conert/" target="_blank">Gifts、TrueVine、JOY <br>The Vision主催のチャリティーコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/2017labeille/180929/" target="_blank"><img src="/2016/images/top/1703lageiyumusashiurawa.jpg"></a>
-    <p class="block-date">ブログ：2018年9月29日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/180929/" target="_blank">ラベイユ <br>鎌取イオンでゴスペルコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/180929/" target="_blank"><img src="/2016/images/top/1605jeruhakone.jpg"></a>
-    <p class="block-date">ブログ：2018年9月29日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/180929/" target="_blank">エルサレム<br>さいたま市岩槻 特番養護老人ホームにてゴスペルコンサート</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/gracejewel2017/180928/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-    <p class="block-date">ブログ：2018年9月29日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/180928/" target="_blank">GRACEと宝石 <br>練馬のデイサービスでゴスペルコンサート</a></p>
-</div>-->
-
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://blog.antioch.jp/1809cambodia/" target="_blank"><img src="/2016/images/top/1809cambodiateam.jpg"></a>
-    <p class="block-date">ブログ：2018年9月24日～28日)</p>
-    <p class="block-title"><a href="http://blog.antioch.jp/1809cambodia/" target="_blank">カンボジアチーム最新情報写真集<br>(チーム日程：2018年9月24日～28日)</a></p>
 </div>
 
 <div class="column-inner">
