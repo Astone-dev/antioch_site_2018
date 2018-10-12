@@ -65,6 +65,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/2017healing/181013/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+    <p class="block-date">ブログ：2018年10月13日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017healing/181013/" target="_blank">10月 いやしの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="https://tokyo.antioch.jp/pray4jerusalem/2018/" target="_blank"><img src="/2016/images/top/1810jeruheiwa_m.jpg"></a>
@@ -98,6 +106,13 @@
     <a href="http://astone.tv/events/thanks1810z/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
     <p class="block-date">ブログ：2018年10月8日～14日</p>
     <p class="block-title"><a href="http://astone.tv/events/thanks1810z/" target="_blank">秋本番<br>主の十字架全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/181013/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+    <p class="block-date">ブログ：2018年10月13日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181013/" target="_blank">エルサレム<br>岩槻の施設でコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -226,12 +241,12 @@
     <p class="block-title"><a href="http://astone.tv/events/cctober2018z/" target="_blank">台風一過の日本列島<br>主の十字架全国各教会の一週間</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/181006/" target="_blank"><img src="/2016/images/top/1605jeruhakone.jpg"></a>
     <p class="block-date">ブログ：2018年10月6日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181006/" target="_blank">エルサレム<br>岩槻西のグループホームでコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
