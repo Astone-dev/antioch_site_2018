@@ -48,13 +48,13 @@
 		(毎日AM5:00UP!)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/1810tohoku/" target="_blank"><img src="/2016/images/top/1605tohokuseikai.jpg"></a>
     <p class="block-date">ブログ：2018年10月14日～</p>
     <p class="block-title"><a href="http://astone.tv/events/1810tohoku/" target="_blank">秋の爽やかな風の中東北聖会 <br>東北宣教の旅</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
