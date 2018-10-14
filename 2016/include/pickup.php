@@ -29,17 +29,6 @@
     <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2018年9月16日UP!)</a></p>
 </div>
 
-<!--
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年9月24、25日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew" target="_blank" onclick="javascript:pageTracker._trackPageview('カンボジアチーム聖会生中継');">カンボジアチーム 聖会生中継<br>9月25日 Giftsミニコンサート 日本時間20:20（現地時間18:20頃）<br>聖会 日本時間21:00頃（現地時間19:00頃）<br></a>
-<i style="color:#ff0000;font-size: 11px;">※ページ内のライブ配信中をタップしてごらんください</i></p>
-</div>
--->
-
 <div class="column-inner">
     <span class="label-2">音楽</span>
     <span>NEW</span>
@@ -71,6 +60,16 @@
     <p class="block-date">ブログ：2018年10月8日～14日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/yosen1809/" target="_blank">年末コンサート出場をかけて<br>予選会に向かってドキドキの一週間<br>(予選:2018年10月14日)</a></p>
 </div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート出場予選中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年9月24、25日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート出場予選中継');">年末コンサート出場予選 生中継<br>10月14日 16:00開始</a>
+<i style="color:#ff0000;font-size: 11px;">※ページ内のライブ配信中をタップしてごらんください</i></p>
+</div>
+
 
 <div class="column-inner">
     <span class="label-2">動画</span>
