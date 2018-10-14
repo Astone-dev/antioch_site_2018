@@ -43,8 +43,8 @@
 <div class="column-inner">
     <span class="label-2">音楽</span>
     <span>NEW</span>
-    <a href="http://atv.antioch.jp/jgospel/l/" target="_blank"><img src="/2016/images/top/1809todaysjgospel.jpg"></a>
-    <p class="block-title"><a href="http://atv.antioch.jp/jgospel/l/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>
+    <a href="http://atv.antioch.jp/jgospel/" target="_blank"><img src="/2016/images/top/1809todaysjgospel.jpg"></a>
+    <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>
 		(毎日AM5:00UP!)</a></p>
 </div>
 
