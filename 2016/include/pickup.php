@@ -92,7 +92,7 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/faith1810z/" target="_blank"><img src="/2016/images/top/1710taoifuzenkoku.jpg"></a>
+    <a href="http://astone.tv/events/faith1810z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
     <p class="block-date">ブログ：2018年10月15日～21日</p>
     <p class="block-title"><a href="http://astone.tv/events/faith1810z/" target="_blank">食欲の秋<br>ウキウキ全国各教会の一週間</a></p>
 </div>
