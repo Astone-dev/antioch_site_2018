@@ -48,28 +48,26 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/thanks1810/" target="_blank"><img src="/2016/images/top/1710akihonbanantioch.jpg"></a>
-    <p class="block-date">ブログ：2018年10月8日～14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1810/" target="_blank">秋本番<br>東京アンテオケの一週間</a></p>
+    <a href="http://antiochblog.jp/praise/faith1810/" target="_blank"><img src="/2016/images/top/1710taifuantioch.jpg"></a>
+    <p class="block-date">ブログ：2018年10月15日～21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1810/" target="_blank">食欲の秋<br>ワクワクアンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/yosen1809/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
-    <p class="block-date">ブログ：2018年10月8日～14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1809/" target="_blank">年末コンサート出場をかけて<br>予選会に向かってドキドキの一週間<br>(予選:2018年10月14日)</a></p>
+    <a href="http://antiochblog.jp/praise/1810concert/" target="_blank"><img src="/2016/images/top/1712gltvspecial.jpg"></a>
+    <p class="block-date">ブログ：2018年10月15日～21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1810concert/" target="_blank">年末コンサート<br>予選通過喜びと悲しみの一週間</a></p>
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート出場予選中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年10月14日</p>
-<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('年末コンサート出場予選中継');">年末コンサート出場予選 生中継<br>10月14日 16:00開始</a><br>
-<i style="color:#ff0000;font-size: 11px;">※ページ内のライブ配信中をタップしてごらんください</i></p>
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/truevine1810/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
+    <p class="block-date">ブログ：2018年10月15日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/truevine1810/" target="_blank">TrueVine <br>国分寺のカフェでコンサート</a></p>
 </div>
-
 
 <div class="column-inner">
     <span class="label-2">動画</span>
@@ -94,9 +92,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/thanks1810z/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
-    <p class="block-date">ブログ：2018年10月8日～14日</p>
-    <p class="block-title"><a href="http://astone.tv/events/thanks1810z/" target="_blank">秋本番<br>主の十字架全国各教会の一週間</a></p>
+    <a href="http://astone.tv/events/faith1810z/" target="_blank"><img src="/2016/images/top/1710taoifuzenkoku.jpg"></a>
+    <p class="block-date">ブログ：2018年10月15日～21日</p>
+    <p class="block-title"><a href="http://astone.tv/events/faith1810z/" target="_blank">食欲の秋<br>ウキウキ全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -156,6 +154,27 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/thanks1810/" target="_blank"><img src="/2016/images/top/1710akihonbanantioch.jpg"></a>
+    <p class="block-date">ブログ：2018年10月8日～14日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1810/" target="_blank">秋本番<br>東京アンテオケの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/yosen1809/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
+    <p class="block-date">ブログ：2018年10月8日～14日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1809/" target="_blank">年末コンサート出場をかけて<br>予選会に向かってドキドキの一週間<br>(予選:2018年10月14日)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/thanks1810z/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
+    <p class="block-date">ブログ：2018年10月8日～14日</p>
+    <p class="block-title"><a href="http://astone.tv/events/thanks1810z/" target="_blank">秋本番<br>主の十字架全国各教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
