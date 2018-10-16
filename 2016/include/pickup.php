@@ -62,11 +62,11 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
+    <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/truevine1810/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
-    <p class="block-date">ブログ：2018年10月15日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/truevine1810/" target="_blank">TrueVine <br>国分寺のカフェでコンサート</a></p>
+    <a href="https://tokyo.antioch.jp/internet-tv/181014-yosen.html" target="_blank"><img src="/2016/images/top/1810nenmatsucon_m.jpg"></a>
+    <p class="block-date">日程：2018年10月14日</p>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/181014-yosen.html" target="_blank">年末コンサート予選<br>映像保存版</a></p>
 </div>
 
 <div class="column-inner">
@@ -154,6 +154,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/truevine1810/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
+    <p class="block-date">ブログ：2018年10月15日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/truevine1810/" target="_blank">TrueVine <br>国分寺のカフェでコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
