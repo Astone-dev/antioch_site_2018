@@ -37,13 +37,13 @@
 		(毎日AM5:00UP!)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/1810tohoku/" target="_blank"><img src="/2016/images/top/1605tohokuseikai.jpg"></a>
     <p class="block-date">ブログ：2018年10月14日～</p>
     <p class="block-title"><a href="http://astone.tv/events/1810tohoku/" target="_blank">秋の爽やかな風の中東北聖会 <br>東北宣教の旅</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -157,6 +157,13 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/1810tohoku/" target="_blank"><img src="/2016/images/top/1605tohokuseikai.jpg"></a>
+    <p class="block-date">ブログ：2018年10月14日～</p>
+    <p class="block-title"><a href="http://astone.tv/events/1810tohoku/" target="_blank">秋の爽やかな風の中東北聖会 <br>東北宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/truevine1810/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
     <p class="block-date">ブログ：2018年10月15日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/truevine1810/" target="_blank">TrueVine <br>国分寺のカフェでコンサート</a></p>
@@ -205,34 +212,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/1810kansai/" target="_blank"><img src="/2016/images/top/1704kansaiseikai.jpg"></a>
-    <p class="block-date">ブログ：2018年10月7日～</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1810kansai/" target="_blank">秋深まる関西を行く<br>関西宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/201810vigilservice/" target="_blank"><img src="/2016/images/top/1711fuchinotengoku.jpg"></a>
-    <p class="block-date">ブログ：2018年10月10日～11日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/201810vigilservice/" target="_blank">また会う日まで<br>渕野昭子姉<br>前夜式、召天式</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/akikawa1810/" target="_blank"><img src="/2016/images/top/1609youngday.jpg"></a>
-    <p class="block-date">ブログ：2018年10月8日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/akikawa1810/" target="_blank">今日は秋の秋川渓谷にて大騒ぎ<br>ヤングデイキャンプ</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/patolis/181008/" target="_blank"><img src="/2016/images/top/1611patolisnerima.jpg"></a>
-    <p class="block-date">ブログ：2018年10月8日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181008/" target="_blank">PATOLIS<br>川口の病院内デイサービスにてボランティアコンサート</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201809cambodia/" target="_blank"><img src="/2016/images/top/1809cambodia_d_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201809cambodia/" target="_blank">カンボジアチーム<br>ダイジェスト映像<br>(日程：2018年9月24日〜28日)<br>(視聴時間 3:22)</a></p>
@@ -242,48 +221,6 @@
     <span class="label-1">ブログ</span>
     <a href="http://blog.antioch.jp/1809cambodia/category/1809dst/" target="_blank"><img src="/2016/images/top/1809cambodiateam_d_p.jpg"></a>
     <p class="block-title"><a href="http://blog.antioch.jp/1809cambodia/category/1809dst/" target="_blank">カンボジアチーム<br>ダイジェスト写真集<br>短く全て見たい方へ<br>(日程：2018年9月24日〜28日)<br>(視聴時間 3:22)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/october2018/" target="_blank"><img src="/2016/images/top/1709shingakkiantioch.jpg"></a>
-    <p class="block-date">ブログ：2018年10月1日～7日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/october2018/" target="_blank">台風一過の東京<br>東京アンテオケの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/1809jerusalem/" target="_blank"><img src="/2016/images/top/1709jerusalemheiwanimukatte.jpg"></a>
-    <p class="block-date">ブログ：2018年10月5日～7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/1809jerusalem/" target="_blank">エルサレムの平和を祈る集いに向かって<br>スタッフ大忙し<br>(東京カリスマ聖会)<br>(日程：2018年10月7日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/euqaristias/20181007gospelconcert/" target="_blank"><img src="/2016/images/top/1707euqarinerima.jpg"></a>
-    <p class="block-date">ブログ：2018年10月7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20181007gospelconcert/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/cctober2018z/" target="_blank"><img src="/2016/images/top/1709shingakkizenkoku.jpg"></a>
-    <p class="block-date">ブログ：2018年10月1日～7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/cctober2018z/" target="_blank">台風一過の日本列島<br>主の十字架全国各教会の一週間</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/181006/" target="_blank"><img src="/2016/images/top/1605jeruhakone.jpg"></a>
-    <p class="block-date">ブログ：2018年10月6日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181006/" target="_blank">エルサレム<br>岩槻西のグループホームでコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/gracejewel2017/181006/" target="_blank"><img src="/2016/images/top/1705gracegospel.jpg"></a>
-    <p class="block-date">ブログ：2018年10月6日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/181006/" target="_blank">GRACEと宝石<br>埼玉県志木市にあるデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
