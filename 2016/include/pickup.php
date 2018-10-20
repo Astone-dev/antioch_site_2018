@@ -64,9 +64,9 @@
 <!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/revival2017/181020/" target="_blank"><img src="/2016/images/top/1704revivalnight.jpg"></a>
+    <a href="http://antiochblog.jp/praise/2018women/201810/" target="_blank"><img src="/2016/images/top/1701fujinkai.jpg"></a>
     <p class="block-date">ブログ：2018年10月21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/181020/" target="_blank">Revival Nightの一日</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201810/" target="_blank">婦人会の一日</a></p>
 </div>-->
 
 <div class="column-inner">
