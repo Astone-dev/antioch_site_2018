@@ -37,13 +37,13 @@
 		(毎日AM5:00UP!)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/1810hokuriku/" target="_blank"><img src="/2016/images/top/1609hokuriku.jpg"></a>
     <p class="block-date">ブログ：2018年10月21日～</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/1810hokuriku/" target="_blank">秋深い信州、北陸路を行く<br>北陸宣教の旅</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -61,28 +61,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/1810concert/" target="_blank">年末コンサート<br>予選通過喜びと悲しみの一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/2018women/201810/" target="_blank"><img src="/2016/images/top/1701fujinkai.jpg"></a>
     <p class="block-date">ブログ：2018年10月21日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201810/" target="_blank">婦人会の一日</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/revival2017/181020/" target="_blank"><img src="/2016/images/top/1704revivalnight.jpg"></a>
-    <p class="block-date">ブログ：2018年10月20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/181020/" target="_blank">Revival Nightの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2018年10月20日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年10月20日 18:30スタート)</a></p>
 </div>
 
 <div class="column-inner">
@@ -119,22 +103,6 @@
     <a href="http://astone.tv/events/faith1810z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
     <p class="block-date">ブログ：2018年10月15日～21日</p>
     <p class="block-title"><a href="http://astone.tv/events/faith1810z/" target="_blank">食欲の秋<br>ウキウキ全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/181020/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-    <p class="block-date">ブログ：2018年10月20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181020/" target="_blank">エルサレム<br>岩槻のショートステイでコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/gracejewel2017/181020/" target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
-    <p class="block-date">ブログ：2018年10月20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/181020/" target="_blank">GRACEと宝石 <br>東中野のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -201,6 +169,27 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/revival2017/181020/" target="_blank"><img src="/2016/images/top/1704revivalnight.jpg"></a>
+    <p class="block-date">ブログ：2018年10月20日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/181020/" target="_blank">Revival Nightの一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/181020/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
+    <p class="block-date">ブログ：2018年10月20日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181020/" target="_blank">エルサレム<br>岩槻のショートステイでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/gracejewel2017/181020/" target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
+    <p class="block-date">ブログ：2018年10月20日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/181020/" target="_blank">GRACEと宝石 <br>東中野のデイサービスでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
