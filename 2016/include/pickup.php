@@ -40,9 +40,9 @@
 <!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/1810tohoku/" target="_blank"><img src="/2016/images/top/1605tohokuseikai.jpg"></a>
-    <p class="block-date">ブログ：2018年10月14日～</p>
-    <p class="block-title"><a href="http://astone.tv/events/1810tohoku/" target="_blank">秋の爽やかな風の中東北聖会 <br>東北宣教の旅</a></p>
+    <a href="http://antiochblog.jp/praise/1810hokuriku/" target="_blank"><img src="/2016/images/top/1609hokuriku.jpg"></a>
+    <p class="block-date">ブログ：2018年10月21日～</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1810hokuriku/" target="_blank">秋深い信州、北陸路を行く<br>北陸宣教の旅</a></p>
 </div>-->
 
 <div class="column-inner">
@@ -59,6 +59,14 @@
     <a href="http://antiochblog.jp/praise/1810concert/" target="_blank"><img src="/2016/images/top/1712gltvspecial.jpg"></a>
     <p class="block-date">ブログ：2018年10月15日～21日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/1810concert/" target="_blank">年末コンサート<br>予選通過喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/revival2017/181020/" target="_blank"><img src="/2016/images/top/1704revivalnight.jpg"></a>
+    <p class="block-date">ブログ：2018年10月21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/181020/" target="_blank">Revival Nightの一日</a></p>
 </div>
 
 <div class="column-inner">
@@ -148,6 +156,13 @@
     <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('TLCCC各教会のインスタ動画'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('TLCCC各教会のインスタ動画');">短い動画で見る<br>夏のTLCCC全国各教会</a></p>
 </div>
+
+<!--<div class="column-inner">
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/healmymind/" target="_blank"><img src="/2016/images/top/1810yorimichi35.jpg"></a>
+    <p class="block-date">毎日7:00更新</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/healmymind/" target="_blank">クリスチャンの寄り道 Vol.35<br>今回は「思わずほっこりしたこと」のお話です</a></p>
+</div>-->
 
 <div class="column-inner">
     <span>NEW</span>
