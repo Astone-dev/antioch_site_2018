@@ -41,8 +41,8 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/1810hokuriku/" target="_blank"><img src="/2016/images/top/1609hokuriku.jpg"></a>
-    <p class="block-date">ブログ：2018年10月21日～</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1810hokuriku/" target="_blank">秋深い信州、北陸路を行く<br>北陸宣教の旅</a></p>
+    <p class="block-date">ブログ：2018年10月21日～24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1810hokuriku/" target="_blank">秋深い信州、北陸路を行く<br>北陸宣教の旅<br>(日程：2018年10月22〜24日)</a></p>
 </div>
 
 <div class="column-inner">
