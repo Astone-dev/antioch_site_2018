@@ -48,25 +48,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/faith1810/" target="_blank"><img src="/2016/images/top/1710taifuantioch.jpg"></a>
-    <p class="block-date">ブログ：2018年10月15日～21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1810/" target="_blank">食欲の秋<br>ワクワクアンテオケ教会の一週間</a></p>
+    <a href="http://antiochblog.jp/info/yobi1810/" target="_blank"><img src="/2016/images/top/1610nendomatsuantioch.jpg"></a>
+    <p class="block-date">ブログ：2018年10月22日～28日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yobi1810/" target="_blank">教会の年度末に向かって<br>アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/1810concert/" target="_blank"><img src="/2016/images/top/1712gltvspecial.jpg"></a>
-    <p class="block-date">ブログ：2018年10月15日～21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1810concert/" target="_blank">年末コンサート<br>予選通過喜びと悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/2018women/201810/" target="_blank"><img src="/2016/images/top/1701fujinkai.jpg"></a>
-    <p class="block-date">ブログ：2018年10月21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201810/" target="_blank">婦人会の一日</a></p>
+    <a href="http://blog.antioch.jp/1811israel/" target="_blank"><img src="/2016/images/top/1610israelchokuzen.jpg"></a>
+    <p class="block-date">ブログ：2018年10月22日～28日</p>
+    <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ間近<br>イスラエルチーム<br>直前情報写真集</a></p>
 </div>
 
 <div class="column-inner">
@@ -100,9 +92,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/faith1810z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
-    <p class="block-date">ブログ：2018年10月15日～21日</p>
-    <p class="block-title"><a href="http://astone.tv/events/faith1810z/" target="_blank">食欲の秋<br>ウキウキ全国各教会の一週間</a></p>
+    <a href="http://astone.tv/events/yobi1810z/" target="_blank"><img src="/2016/images/top/1610nendomatsuzenkoku.jpg"></a>
+    <p class="block-date">ブログ：2018年10月22日～28日</p>
+    <p class="block-title"><a href="http://astone.tv/events/yobi1810z/" target="_blank">教会の年度末に向かって<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -169,6 +161,34 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/faith1810/" target="_blank"><img src="/2016/images/top/1710taifuantioch.jpg"></a>
+    <p class="block-date">ブログ：2018年10月15日～21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1810/" target="_blank">食欲の秋<br>ワクワクアンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/1810concert/" target="_blank"><img src="/2016/images/top/1712gltvspecial.jpg"></a>
+    <p class="block-date">ブログ：2018年10月15日～21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1810concert/" target="_blank">年末コンサート<br>予選通過喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/2018women/201810/" target="_blank"><img src="/2016/images/top/1701fujinkai.jpg"></a>
+    <p class="block-date">ブログ：2018年10月21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201810/" target="_blank">婦人会の一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/faith1810z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
+    <p class="block-date">ブログ：2018年10月15日～21日</p>
+    <p class="block-title"><a href="http://astone.tv/events/faith1810z/" target="_blank">食欲の秋<br>ウキウキ全国各教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
