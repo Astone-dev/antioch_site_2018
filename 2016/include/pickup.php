@@ -56,9 +56,16 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://blog.antioch.jp/1811israel/" target="_blank"><img src="/2016/images/top/1610israelchokuzen.jpg"></a>
-    <p class="block-date">ブログ：2018年10月22日～28日</p>
-    <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ間近<br>イスラエルチーム<br>直前情報写真集</a></p>
+    <a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
+    <p class="block-date">2017年10月30日～11月11日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム紹介映像</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="https://tokyo.antioch.jp/pray4jerusalem/2018/" target="_blank"><img src="/2016/images/top/1810jeruheiwa_m.jpg"></a>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/pray4jerusalem/2018/" target="_blank">エルサレムの平和を祈る集い<br>映像保存版<br>(日程：2018年10月7日)</a></p>
 </div>
 
 <div class="column-inner">
