@@ -49,7 +49,7 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/yobi1810/" target="_blank"><img src="/2016/images/top/1610nendomatsuantioch.jpg"></a>
-    <p class="block-date">ブログ：2018年10月22日～28日</p>
+    <p class="block-date">日付：2018年10月22日～28日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/yobi1810/" target="_blank">教会の年度末に向かって<br>アンテオケ教会の一週間</a></p>
 </div>
 
@@ -58,7 +58,7 @@
     <span>NEW</span>
     <a href="http://blog.antioch.jp/1811israel/" target="_blank"><img src="/2016/images/top/1610israelchokuzen.jpg"></a>
     <p class="block-date">ブログ：2018年10月22日～28日</p>
-    <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ来週<br>　イスラエルチーム<br>直前情報写真集</a></p>
+    <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ来週<br>イスラエルチーム<br>直前情報写真集</a></p>
 </div>
 
 <div class="column-inner">
