@@ -58,7 +58,7 @@
     <span>NEW</span>
     <a href="http://blog.antioch.jp/1811israel/" target="_blank"><img src="/2016/images/top/1610israelchokuzen.jpg"></a>
     <p class="block-date">ブログ：2018年10月22日～28日</p>
-    <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ来週<br>イスラエルチーム<br>直前情報写真集</a></p>
+    <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ来週<br>　イスラエルチーム<br>直前情報写真集</a></p>
 </div>
 
 <div class="column-inner">
