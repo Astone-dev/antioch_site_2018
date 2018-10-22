@@ -49,7 +49,7 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/yobi1810/" target="_blank"><img src="/2016/images/top/1610nendomatsuantioch.jpg"></a>
-    <p class="block-date">日付：2018年10月22日～28日</p>
+    <p class="block-date">日程：2018年10月22日～28日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/yobi1810/" target="_blank">教会の年度末に向かって<br>アンテオケ教会の一週間</a></p>
 </div>
 
@@ -57,7 +57,7 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://blog.antioch.jp/1811israel/" target="_blank"><img src="/2016/images/top/1610israelchokuzen.jpg"></a>
-    <p class="block-date">ブログ：2018年10月22日～28日</p>
+    <p class="block-date">日程：2018年10月22日～28日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ来週<br>イスラエルチーム<br>直前情報写真集</a></p>
 </div>
 
@@ -108,7 +108,7 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/yobi1810z/" target="_blank"><img src="/2016/images/top/1610nendomatsuzenkoku.jpg"></a>
-    <p class="block-date">ブログ：2018年10月22日～28日</p>
+    <p class="block-date">日程：2018年10月22日～28日</p>
     <p class="block-title"><a href="http://astone.tv/events/yobi1810z/" target="_blank">教会の年度末に向かって<br>全国各教会の一週間</a></p>
 </div>
 
@@ -180,91 +180,91 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/faith1810/" target="_blank"><img src="/2016/images/top/1710taifuantioch.jpg"></a>
-    <p class="block-date">ブログ：2018年10月15日～21日</p>
+    <p class="block-date">日程：2018年10月15日～21日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1810/" target="_blank">食欲の秋<br>ワクワクアンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/1810concert/" target="_blank"><img src="/2016/images/top/1712gltvspecial.jpg"></a>
-    <p class="block-date">ブログ：2018年10月15日～21日</p>
+    <p class="block-date">日程：2018年10月15日～21日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/1810concert/" target="_blank">年末コンサート<br>予選通過喜びと悲しみの一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/2018women/201810/" target="_blank"><img src="/2016/images/top/1701fujinkai.jpg"></a>
-    <p class="block-date">ブログ：2018年10月21日</p>
+    <p class="block-date">日程：2018年10月21日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201810/" target="_blank">婦人会の一日</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://astone.tv/events/faith1810z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
-    <p class="block-date">ブログ：2018年10月15日～21日</p>
+    <p class="block-date">日程：2018年10月15日～21日</p>
     <p class="block-title"><a href="http://astone.tv/events/faith1810z/" target="_blank">食欲の秋<br>ウキウキ全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/revival2017/181020/" target="_blank"><img src="/2016/images/top/1704revivalnight.jpg"></a>
-    <p class="block-date">ブログ：2018年10月20日</p>
+    <p class="block-date">日程：2018年10月20日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/181020/" target="_blank">Revival Nightの一日</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/181020/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-    <p class="block-date">ブログ：2018年10月20日</p>
+    <p class="block-date">日程：2018年10月20日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181020/" target="_blank">エルサレム<br>岩槻のショートステイでコンサート</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/gracejewel2017/181020/" target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
-    <p class="block-date">ブログ：2018年10月20日</p>
+    <p class="block-date">日程：2018年10月20日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/181020/" target="_blank">GRACEと宝石 <br>東中野のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://astone.tv/events/1810tohoku/" target="_blank"><img src="/2016/images/top/1605tohokuseikai.jpg"></a>
-    <p class="block-date">ブログ：2018年10月14日～</p>
+    <p class="block-date">日程：2018年10月14日～</p>
     <p class="block-title"><a href="http://astone.tv/events/1810tohoku/" target="_blank">秋の爽やかな風の中東北聖会 <br>東北宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/truevine1810/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
-    <p class="block-date">ブログ：2018年10月15日</p>
+    <p class="block-date">日程：2018年10月15日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/truevine1810/" target="_blank">TrueVine <br>国分寺のカフェでコンサート</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/thanks1810/" target="_blank"><img src="/2016/images/top/1710akihonbanantioch.jpg"></a>
-    <p class="block-date">ブログ：2018年10月8日～14日</p>
+    <p class="block-date">日程：2018年10月8日～14日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1810/" target="_blank">秋本番<br>東京アンテオケの一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/yosen1809/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
-    <p class="block-date">ブログ：2018年10月8日～14日</p>
+    <p class="block-date">日程：2018年10月8日～14日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/yosen1809/" target="_blank">年末コンサート出場をかけて<br>予選会に向かってドキドキの一週間<br>(予選:2018年10月14日)</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://astone.tv/events/thanks1810z/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
-    <p class="block-date">ブログ：2018年10月8日～14日</p>
+    <p class="block-date">日程：2018年10月8日～14日</p>
     <p class="block-title"><a href="http://astone.tv/events/thanks1810z/" target="_blank">秋本番<br>主の十字架全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://astone.tv/events/2017healing/181013/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-    <p class="block-date">ブログ：2018年10月13日</p>
+    <p class="block-date">日程：2018年10月13日</p>
     <p class="block-title"><a href="http://astone.tv/events/2017healing/181013/" target="_blank">10月 いやしの集いの一日</a></p>
 </div>
 
@@ -278,7 +278,7 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://astone.tv/events/gate2018/181012/" target="_blank"><img src="/2016/images/top/1606gateofnerima.jpg"></a>
-    <p class="block-date">ブログ：2018年10月12日 </p>
+    <p class="block-date">日程：2018年10月12日 </p>
     <p class="block-title"><a href="http://astone.tv/events/gate2018/181012/" target="_blank">The Gate of Praise<br>練馬区の老健でゴスペルコンサート</a></p>
 </div>
 
