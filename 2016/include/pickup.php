@@ -48,17 +48,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/yobi1810/" target="_blank"><img src="/2016/images/top/1610nendomatsuantioch.jpg"></a>
+    <a href="http://blog.antioch.jp/1811israel/" target="_blank"><img src="/2016/images/top/1610israelchokuzen.jpg"></a>
     <p class="block-date">日程：2018年10月22日～28日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yobi1810/" target="_blank">教会の年度末に向かって<br>アンテオケ教会の一週間</a></p>
+    <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ来週<br>イスラエルチーム<br>直前情報写真集<br>(チーム日程：2018年10月29日〜11月10日)</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://blog.antioch.jp/1811israel/" target="_blank"><img src="/2016/images/top/1610israelchokuzen.jpg"></a>
+    <a href="http://antiochblog.jp/info/yobi1810/" target="_blank"><img src="/2016/images/top/1610nendomatsuantioch.jpg"></a>
     <p class="block-date">日程：2018年10月22日～28日</p>
-    <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ来週<br>イスラエルチーム<br>直前情報写真集</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yobi1810/" target="_blank">教会の年度末に向かって<br>アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -72,23 +72,9 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="https://tokyo.antioch.jp/pray4jerusalem/2018/" target="_blank"><img src="/2016/images/top/1810jeruheiwa_m.jpg"></a>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/pray4jerusalem/2018/" target="_blank">エルサレムの平和を祈る集い<br>映像保存版<br>(日程：2018年10月7日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
     <a href="https://tokyo.antioch.jp/internet-tv/181014-yosen.html" target="_blank"><img src="/2016/images/top/1810nenmatsucon_m.jpg"></a>
     <p class="block-date">日程：2018年10月14日</p>
     <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/181014-yosen.html" target="_blank">年末コンサート予選<br>映像保存版</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="https://tokyo.antioch.jp/pray4jerusalem/2018/" target="_blank"><img src="/2016/images/top/1810jeruheiwa_m.jpg"></a>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/pray4jerusalem/2018/" target="_blank">エルサレムの平和を祈る集い<br>映像保存版<br>(日程：2018年10月7日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -100,8 +86,8 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="https://www.youtube.com/watch?v=DADbh826Fj8" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/181016giftstv.jpg"></a>
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=DADbh826Fj8" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃025<br>ゴスペルグループGiftsの<br>ワイワイYouTube動画<br>(10月16日UP!)</a></p>
+    <a href="https://www.youtube.com/watch?v=gf7zlnX1plY&t=30s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/181021giftstv.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=gf7zlnX1plY&t=30s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃026<br>ゴスペルグループGiftsの<br>ワイワイYouTube動画<br>(10月21日UP!)</a></p>
 </div>
 
 <div class="column-inner">
@@ -176,6 +162,12 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="https://tokyo.antioch.jp/pray4jerusalem/2018/" target="_blank"><img src="/2016/images/top/1810jeruheiwa_m.jpg"></a>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/pray4jerusalem/2018/" target="_blank">エルサレムの平和を祈る集い<br>映像保存版<br>(日程：2018年10月7日)</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
