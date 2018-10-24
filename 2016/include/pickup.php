@@ -62,22 +62,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/1810concert/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
-    <p class="block-date">日程：2018年10月24日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1810concert/" target="_blank">Immanuel、Beracha、CROIX<br>杉並区の特別養護老人施設でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/patolis/" target="_blank"><img src="/2016/images/top/1610patolisnerima.jpg"></a>
-    <p class="block-date">日程：2018年10月24日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/" target="_blank">PATOLISとThe Seventh Trumpet<br>練馬区のディサービスでボランティアコンサート</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
@@ -178,6 +162,20 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/1810concert/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
+    <p class="block-date">日程：2018年10月24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1810concert/" target="_blank">Immanuel、Beracha、CROIX<br>杉並区の特別養護老人施設でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/patolis/181024/" target="_blank"><img src="/2016/images/top/1610patolisnerima.jpg"></a>
+    <p class="block-date">日程：2018年10月24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181024/" target="_blank">PATOLISとThe Seventh Trumpet<br>練馬区のディサービスでボランティアコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-2">動画</span>
