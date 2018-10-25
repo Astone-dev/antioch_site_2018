@@ -40,14 +40,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/1810hokuriku/" target="_blank"><img src="/2016/images/top/1609hokuriku.jpg"></a>
-    <p class="block-date">日程：2018年10月21日～24日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1810hokuriku/" target="_blank">秋深い信州、北陸路を行く<br>北陸宣教の旅<br>(日程：2018年10月22〜24日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://blog.antioch.jp/1811israel/" target="_blank"><img src="/2016/images/top/1610israelchokuzen.jpg"></a>
     <p class="block-date">日程：2018年10月22日～28日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ来週<br>イスラエルチーム<br>直前情報写真集<br>(チーム日程：2018年10月29日〜11月10日)</a></p>
@@ -162,6 +154,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/1810hokuriku/" target="_blank"><img src="/2016/images/top/1609hokuriku.jpg"></a>
+    <p class="block-date">日程：2018年10月21日～24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1810hokuriku/" target="_blank">秋深い信州、北陸路を行く<br>北陸宣教の旅<br>(日程：2018年10月22〜24日)</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
