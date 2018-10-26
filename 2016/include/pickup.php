@@ -70,6 +70,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/concert1810/" target="_blank"><img src="/2016/images/top/1710sharom.jpg"></a>
+    <p class="block-date">日程：2018年10月27日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/concert1810/" target="_blank">シャローム、Tree of Life、CROIX<br>都内施設でコンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
