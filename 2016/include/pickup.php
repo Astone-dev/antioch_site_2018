@@ -50,15 +50,15 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/yobi1810/" target="_blank"><img src="/2016/images/top/1610nendomatsuantioch.jpg"></a>
     <p class="block-date">日程：2018年10月22日～28日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yobi1810/" target="_blank">教会の年度末に向かって<br>アンテオケ教会の一週間</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yobi1810/" target="_blank">教会の年度末に向かって <br>アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/gospel2017/1028gospel/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+    <a href="http://antiochblog.jp/praise/gospel2017/181027/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
     <p class="block-date">日程：2018年10月27日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/1028gospel/" target="_blank">10月 ゴスペルの集いの一日</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/181027/" target="_blank">10月 ゴスペルの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
