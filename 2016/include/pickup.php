@@ -232,62 +232,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/1810tohoku/" target="_blank"><img src="/2016/images/top/1605tohokuseikai.jpg"></a>
-    <p class="block-date">日程：2018年10月14日～</p>
-    <p class="block-title"><a href="http://astone.tv/events/1810tohoku/" target="_blank">秋の爽やかな風の中東北聖会 <br>東北宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/truevine1810/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
-    <p class="block-date">日程：2018年10月15日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/truevine1810/" target="_blank">TrueVine <br>国分寺のカフェでコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/thanks1810/" target="_blank"><img src="/2016/images/top/1710akihonbanantioch.jpg"></a>
-    <p class="block-date">日程：2018年10月8日～14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1810/" target="_blank">秋本番<br>東京アンテオケの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/yosen1809/" target="_blank"><img src="/2016/images/top/1709nenmatsuyosenmade.jpg"></a>
-    <p class="block-date">日程：2018年10月8日～14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1809/" target="_blank">年末コンサート出場をかけて<br>予選会に向かってドキドキの一週間<br>(予選:2018年10月14日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/thanks1810z/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
-    <p class="block-date">日程：2018年10月8日～14日</p>
-    <p class="block-title"><a href="http://astone.tv/events/thanks1810z/" target="_blank">秋本番<br>主の十字架全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017healing/181013/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-    <p class="block-date">日程：2018年10月13日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/181013/" target="_blank">10月 いやしの集いの一日</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/181013/" target="_blank"><img src="/2016/images/top/1705jerumisato.jpg"></a>
-    <p class="block-date">ブログ：2018年10月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181013/" target="_blank">エルサレム<br>岩槻の施設でコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/gate2018/181012/" target="_blank"><img src="/2016/images/top/1606gateofnerima.jpg"></a>
-    <p class="block-date">日程：2018年10月12日 </p>
-    <p class="block-title"><a href="http://astone.tv/events/gate2018/181012/" target="_blank">The Gate of Praise<br>練馬区の老健でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201809cambodia/" target="_blank"><img src="/2016/images/top/1809cambodia_d_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201809cambodia/" target="_blank">カンボジアチーム<br>ダイジェスト映像<br>(日程：2018年9月24日〜28日)<br>(視聴時間 3:22)</a></p>
