@@ -48,7 +48,7 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/year1811/" target="_blank"><img src="/2016/images/top/1610nendomatsuantioch.jpg"></a>
+    <a href="http://antiochblog.jp/praise/year1811/" target="_blank"><img src="/2016/images/top/1810antioch.jpg"></a>
     <p class="block-date">日程：2018年10月29日～11月4日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/year1811/" target="_blank">年度末・新年度<br>アンテオケ教会の一週間</a></p>
 </div>
@@ -77,7 +77,7 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/year1811z/" target="_blank"><img src="/2016/images/top/1610nendomatsuzenkoku.jpg"></a>
+    <a href="http://astone.tv/events/year1811z/" target="_blank"><img src="/2016/images/top/1810nationwide.jpg"></a>
     <p class="block-date">日程：10月29日～11月4日</p>
     <p class="block-title"><a href="http://astone.tv/events/year1811z/" target="_blank">年度末・新年度<br>全国各教会の一週間</a></p>
 </div>
