@@ -111,15 +111,15 @@
 
 <div class="column-inner">
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/absolutebest/" target="_blank"><img src="/2016/images/top/1808yorimichi34.jpg"></a>
-    <p class="block-date">毎日7:00更新</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/absolutebest/" target="_blank">クリスチャンの寄り道 Vol.34<br>今回は「私の一番好きなこと」のお話です</a></p>
+    <a href="https://tokyo.antioch.jp/yorimichi/result-absolutebest.html" target="_blank"><img src="/2016/images/top/1811yorimichi34kekka.jpg"></a>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-absolutebest.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.34<br>「私の一番好きなこと」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>
 
 <div class="column-inner">
     <span>NEW</span>
-    <a href="https://tokyo.antioch.jp/yorimichi/result-mustbehappy.html" target="_blank"><img src="/2016/images/top/1808yorimichi33kekka.jpg"></a>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-mustbehappy.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.33<br>「今までで一番幸せだった時」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+    <a href="http://antiochblog.jp/info/absolutebest/" target="_blank"><img src="/2016/images/top/1808yorimichi34.jpg"></a>
+    <p class="block-date">毎日7:00更新</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/absolutebest/" target="_blank">クリスチャンの寄り道 Vol.34<br>今回は「私の一番好きなこと」のお話です</a></p>
 </div>
 
 <div class="column-inner">
