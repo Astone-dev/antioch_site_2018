@@ -50,7 +50,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/yobi1810/" target="_blank"><img src="/2016/images/top/1610nendomatsuantioch.jpg"></a>
     <p class="block-date">日程：2018年10月22日～28日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yobi1810/" target="_blank">教会の年度末に向かって <br>アンテオケ教会の一週間</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yobi1810/" target="_blank">教会の年度末に向かって<br>アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -62,11 +62,11 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
+    <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="https://tokyo.antioch.jp/internet-tv/181014-yosen.html" target="_blank"><img src="/2016/images/top/1810nenmatsucon_m.jpg"></a>
-    <p class="block-date">日程：2018年10月14日</p>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/181014-yosen.html" target="_blank">年末コンサート予選<br>映像保存版</a></p>
+    <a href="http://antiochblog.jp/praise/2017students/201810/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
+    <p class="block-date">日程：2018年10月28日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/201810/" target="_blank">10月 学生会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -162,6 +162,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="https://tokyo.antioch.jp/internet-tv/181014-yosen.html" target="_blank"><img src="/2016/images/top/1810nenmatsucon_m.jpg"></a>
+    <p class="block-date">日程：2018年10月14日</p>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/181014-yosen.html" target="_blank">年末コンサート予選<br>映像保存版</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
