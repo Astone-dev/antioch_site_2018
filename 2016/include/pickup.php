@@ -41,16 +41,16 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://blog.antioch.jp/1811israel/" target="_blank"><img src="/2016/images/top/1610israelchokuzen.jpg"></a>
-    <p class="block-date">日程：2018年10月22日～28日</p>
-    <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ来週<br>イスラエルチーム<br>直前情報写真集<br>(チーム日程：2018年10月29日〜11月10日)</a></p>
+    <p class="block-date">日程：2018年10月29日〜11月10日</p>
+    <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ出発<br>イスラエルチーム<br>最新情報写真集<br>(チーム日程：2018年10月29日〜11月10日)</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/yobi1810/" target="_blank"><img src="/2016/images/top/1610nendomatsuantioch.jpg"></a>
-    <p class="block-date">日程：2018年10月22日～28日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yobi1810/" target="_blank">教会の年度末に向かって<br>アンテオケ教会の一週間</a></p>
+    <a href="http://antiochblog.jp/praise/year1811/" target="_blank"><img src="/2016/images/top/1610nendomatsuantioch.jpg"></a>
+    <p class="block-date">日程：2018年10月29日～11月4日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/year1811/" target="_blank">年度末・新年度<br>アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -59,14 +59,6 @@
     <a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
     <p class="block-date">2017年10月30日～11月11日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム紹介映像</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/2017students/201810/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
-    <p class="block-date">日程：2018年10月28日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/201810/" target="_blank">10月 学生会の一日</a></p>
 </div>
 
 <div class="column-inner">
@@ -85,17 +77,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/yobi1810z/" target="_blank"><img src="/2016/images/top/1610nendomatsuzenkoku.jpg"></a>
-    <p class="block-date">日程：2018年10月22日～28日</p>
-    <p class="block-title"><a href="http://astone.tv/events/yobi1810z/" target="_blank">教会の年度末に向かって<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/2017byhisspirit/181028/" target="_blank"><img src="/2016/images/top/1701byhis.jpg"></a>
-    <p class="block-date">日程：2018年10月28日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/181028/" target="_blank"> By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+    <a href="http://astone.tv/events/year1811z/" target="_blank"><img src="/2016/images/top/1610nendomatsuzenkoku.jpg"></a>
+    <p class="block-date">日程：10月29日～11月4日</p>
+    <p class="block-title"><a href="http://astone.tv/events/year1811z/" target="_blank">年度末・新年度<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -162,6 +146,34 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/yobi1810/" target="_blank"><img src="/2016/images/top/1610nendomatsuantioch.jpg"></a>
+    <p class="block-date">日程：2018年10月22日～28日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yobi1810/" target="_blank">教会の年度末に向かって<br>アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/2017students/201810/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
+    <p class="block-date">日程：2018年10月28日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/201810/" target="_blank">10月 学生会の一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/yobi1810z/" target="_blank"><img src="/2016/images/top/1610nendomatsuzenkoku.jpg"></a>
+    <p class="block-date">日程：2018年10月22日～28日</p>
+    <p class="block-title"><a href="http://astone.tv/events/yobi1810z/" target="_blank">教会の年度末に向かって<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/2017byhisspirit/181028/" target="_blank"><img src="/2016/images/top/1701byhis.jpg"></a>
+    <p class="block-date">日程：2018年10月28日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/181028/" target="_blank"> By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-2">動画</span>
