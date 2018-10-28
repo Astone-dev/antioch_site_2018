@@ -52,7 +52,7 @@
           <a href="#" class="t-bold">主の十字架クリスチャンセンターについて</a>
           <div class="header--nav--sub__wrap">
             <ul class="header--nav--sub__ul">
-              <li><a href="/tlcccsougou/">主の十字架総合サイト</a></li>
+              <li><a href="/tlccc/about/">主の十字架総合サイト</a></li>
               <li><a href="http://astone-blog.jp/zenkoku/">地方のカリスマ聖会</a></li>
               <li><a href="/link/">全国の主の十字架各教会リンク</a></li>
               <li><a href="/gospelclub/">全国のゴスペルクラブ紹介</a></li>
