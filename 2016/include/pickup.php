@@ -66,7 +66,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/2017students/201810/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
     <p class="block-date">日程：2018年10月28日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/201810/" target="_blank">10月 学生会の一週間</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/201810/" target="_blank">10月 学生会の一日</a></p>
 </div>
 
 <div class="column-inner">
