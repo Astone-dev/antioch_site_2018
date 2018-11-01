@@ -63,7 +63,7 @@
 
 <div class="column-inner">
     <span>NEW</span>
-    <a href="/tcm/" target="_blank" onclick="javascript:pageTracker._trackPageview('tcm'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
+    <a href="/tcm/" target="_blank" onclick="javascript:pageTracker._trackPageview('tcm'); "><img src="/2016/images/top/1809tokyocharisma.jpg"></a>
     <p class="block-title"><a href="/tcm/" target="_blank" onclick="javascript:pageTracker._trackPageview('tcm');">10月の東京カリスマ聖会<br>ダイジェスト写真<br>きれいな写真版</a></p>
 </div>
 
