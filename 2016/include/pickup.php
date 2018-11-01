@@ -63,6 +63,12 @@
 
 <div class="column-inner">
     <span>NEW</span>
+    <a href="/tcm/" target="_blank" onclick="javascript:pageTracker._trackPageview('tcm'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
+    <p class="block-title"><a href="/tcm/" target="_blank" onclick="javascript:pageTracker._trackPageview('tcm');">10月の東京カリスマ聖会<br>ダイジェスト写真<br>きれいな写真版</a></p>
+</div>
+
+<div class="column-inner">
+    <span>NEW</span>
     <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
 </div>
