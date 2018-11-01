@@ -62,6 +62,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/181103/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
+    <p class="block-date">日程：2018年11月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181103/" target="_blank">エルサレム<br>さいたま市岩槻西 グループホームでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span>NEW</span>
     <a href="/tcm/" target="_blank" onclick="javascript:pageTracker._trackPageview('tcm'); "><img src="/2016/images/top/1809tokyocharisma.jpg"></a>
     <p class="block-title"><a href="/tcm/" target="_blank" onclick="javascript:pageTracker._trackPageview('tcm');">10月の東京カリスマ聖会<br>ダイジェスト写真<br>きれいな写真版</a></p>
