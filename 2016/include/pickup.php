@@ -45,16 +45,14 @@
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ出発<br>イスラエルチーム<br>最新情報写真集<br>(チーム日程：2018年10月29日〜11月10日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="https://www.youtube.com/watch?v=ZebnU1MeJ5w" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人の教会での奉仕生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<a href="https://www.youtube.com/user/ReturntoZion/search?query=%D1%88%D0%B0%D0%B1%D0%B0%D1%82%D0%BD%D0%B5%D0%B5+%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人の教会での奉仕生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2018年11月3日</p>
-<p class="block-title"><a href="https://www.youtube.com/watch?v=ZebnU1MeJ5w" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人の教会での奉仕生中継');">ロシア系ユダヤ人の教会での奉仕 生中継</a></p>
+<p class="block-title"><a href="https://www.youtube.com/user/ReturntoZion/search?query=%D1%88%D0%B0%D0%B1%D0%B0%D1%82%D0%BD%D0%B5%D0%B5+%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5" target="_blank" onclick="javascript:pageTracker._trackPageview('ロシア系ユダヤ人の教会での奉仕生中継');">ロシア系ユダヤ人の教会での奉仕 生中継</a></p>
 </div>
--->
-
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
