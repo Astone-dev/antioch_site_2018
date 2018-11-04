@@ -51,7 +51,7 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2018年11月4日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('イスラエルチーム聖会生中継');">ガリラヤ新年度礼拝 生中継<br>
-8:30配信スタート/9:00(日本時間16:00)礼拝スタート
+現地時間8:30配信スタート/9:00(日本時間16:00)礼拝スタート
 <br>アルベル山礼拝も配信<br></a>
 <i style="color:#ff0000;font-size: 11px;">※ページ内のライブ配信中をタップしてご覧ください</i></p>
 </div>
