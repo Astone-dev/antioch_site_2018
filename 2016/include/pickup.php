@@ -57,8 +57,8 @@
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="/onsei/2019newyearworship.html" target="_blank"><img src="/2016/images/top/181104israelnewyear_m.jpg"></a>
-    <p class="block-date">2017年11月04日</p>
-    <p class="block-title"><a href="/onsei/2019newyearworship.html" target="_blank">イスラエルチーム紹介映像</a></p>
+    <p class="block-date">日程：2017年11月04日</p>
+    <p class="block-title"><a href="/onsei/2019newyearworship.html" target="_blank">イスラエルチーム新年度礼拝 アーカイブ版</a></p>
 </div>
 
 <div class="column-inner">
