@@ -48,9 +48,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/year1811/" target="_blank"><img src="/2016/images/top/1810antioch.jpg"></a>
-    <p class="block-date">日程：2018年10月29日～11月4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/year1811/" target="_blank">年度末・新年度<br>アンテオケ教会の一週間</a></p>
+    <a href="http://antiochblog.jp/praise/start201811/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
+    <p class="block-date">日程：2018年11月5日～11月11日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/start201811/" target="_blank">東京アンテオケ教会<br>新年度スタートの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -91,9 +91,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/year1811z/" target="_blank"><img src="/2016/images/top/1810nationwide.jpg"></a>
-    <p class="block-date">日程：10月29日～11月4日</p>
-    <p class="block-title"><a href="http://astone.tv/events/year1811z/" target="_blank">年度末・新年度<br>全国各教会の一週間</a></p>
+    <a href="http://astone.tv/events/start201811z/" target="_blank"><img src="/2016/images/top/1711shinnendozenkoku.jpg"></a>
+    <p class="block-date">日程：11月5日～11月11日</p>
+    <p class="block-title"><a href="http://astone.tv/events/start201811z/" target="_blank">主の十字架の全国各教会<br>新年度スタート一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -161,6 +161,20 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/year1811/" target="_blank"><img src="/2016/images/top/1810antioch.jpg"></a>
+    <p class="block-date">日程：2018年10月29日～11月4日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/year1811/" target="_blank">年度末・新年度<br>アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/year1811z/" target="_blank"><img src="/2016/images/top/1810nationwide.jpg"></a>
+    <p class="block-date">日程：10月29日～11月4日</p>
+    <p class="block-title"><a href="http://astone.tv/events/year1811z/" target="_blank">年度末・新年度<br>全国各教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
