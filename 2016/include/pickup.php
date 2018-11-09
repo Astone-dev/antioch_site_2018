@@ -48,6 +48,22 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/charisma1811/" target="_blank"><img src="/2016/images/top/1809tokyocharisma.jpg"></a>
+    <p class="block-date">日程：2018年11月10日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/charisma1811/" target="_blank">11月 カリスマ聖会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/2017healing/" target="_blank"><img src="/2016/images/top/1609iyashinotsudoi.jpg"></a>
+    <p class="block-date">日程：2018年11月10日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017healing/" target="_blank">いやしの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/start201811/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
     <p class="block-date">日程：2018年11月5日～11月11日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/start201811/" target="_blank">東京アンテオケ教会<br>新年度スタートの一週間</a></p>
