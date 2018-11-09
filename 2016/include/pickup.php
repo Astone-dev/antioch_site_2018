@@ -186,52 +186,10 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/yobi1810/" target="_blank"><img src="/2016/images/top/1610nendomatsuantioch.jpg"></a>
-    <p class="block-date">日程：2018年10月22日～28日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yobi1810/" target="_blank">教会の年度末に向かって<br>アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/2017students/201810/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
-    <p class="block-date">日程：2018年10月28日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/201810/" target="_blank">10月 学生会の一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/yobi1810z/" target="_blank"><img src="/2016/images/top/1610nendomatsuzenkoku.jpg"></a>
-    <p class="block-date">日程：2018年10月22日～28日</p>
-    <p class="block-title"><a href="http://astone.tv/events/yobi1810z/" target="_blank">教会の年度末に向かって<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/181103/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
     <p class="block-date">日程：2018年11月3日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181103/" target="_blank">エルサレム<br>さいたま市岩槻西 グループホームでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017byhisspirit/181028/" target="_blank"><img src="/2016/images/top/1701byhis.jpg"></a>
-    <p class="block-date">日程：2018年10月28日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/181028/" target="_blank"> By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/gospel2017/181027/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
-    <p class="block-date">日程：2018年10月27日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/181027/" target="_blank">10月 ゴスペルの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/concert1810/" target="_blank"><img src="/2016/images/top/1710sharom.jpg"></a>
-    <p class="block-date">日程：2018年10月27日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/concert1810/" target="_blank">シャローム、Tree of Life、CROIX<br>都内施設でコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -250,13 +208,6 @@
     <span class="label-1">ブログ</span>
     <a href="http://blog.antioch.jp/1809cambodia/category/1809dst/" target="_blank"><img src="/2016/images/top/1809cambodiateam_d_p.jpg"></a>
     <p class="block-title"><a href="http://blog.antioch.jp/1809cambodia/category/1809dst/" target="_blank">カンボジアチーム<br>ダイジェスト写真集<br>短く全て見たい方へ<br>(日程：2018年9月24日〜28日)<br>(視聴時間 3:22)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">映像</span>
-    <a href="http://tv.antioch.jp/digest/201805-shortstory-cm/" target="_blank"><img src="/2016/images/top/1805seishonohanashi_m.jpg"></a>
-    <p class="block-date">ブログ：2018年5月28日～6月3日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201805-shortstory-cm/" target="_blank">世界で一番短い聖書の話し<br>紹介動画<br>(再生時間 0:55)</a></p>
 </div>
 
 <!--<div class="column-inner">
