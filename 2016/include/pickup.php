@@ -53,16 +53,6 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/charisma1811/" target="_blank">11月 カリスマ聖会</a></p>
 </div>
 
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年8月11日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年8月11日 18:30スタート)</a></p>
-</div>
-
-
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
@@ -100,6 +90,17 @@
     <p class="block-date">日程：2018年11月10日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181110/" target="_blank">エルサレム<br>福島県相馬市レストランにてコンサート</a></p>
 </div>
+
+
+<!--
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2018年8月11日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年8月11日 18:30スタート)</a></p>
+</div>-->
+
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
