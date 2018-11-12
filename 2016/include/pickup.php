@@ -42,7 +42,7 @@
     <span>NEW</span>    
     <a href="http://antiochblog.jp/praise/nov2018/" target="_blank"><img src="/2016/images/top/1610gospelantioch.jpg"></a>
     <p class="block-date">日程：2018年11月12日～11月18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/nov2018/" target="_blank">冬近づ<br>東京アンテオケ教会</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/nov2018/" target="_blank">冬近づく<br>東京アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -71,7 +71,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/nov2018z/" target="_blank"><img src="/2016/images/top/1610gospelzenkoku.jpg"></a>
     <p class="block-date">日程：11月12日～11月18日</p>
-    <p class="block-title"><a href="http://astone.tv/events/nov2018z/" target="_blank">冬近づ<br>主の十字架の全国各教会</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/nov2018z/" target="_blank">冬近づく<br>主の十字架の全国各教会</a></p>
 </div>
 
 <div class="column-inner">
