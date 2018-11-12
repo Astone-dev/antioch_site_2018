@@ -42,21 +42,15 @@
     <span>NEW</span>    
     <a href="http://antiochblog.jp/praise/nov2018/" target="_blank"><img src="/2016/images/top/1610gospelantioch.jpg"></a>
     <p class="block-date">日程：2018年11月12日～11月18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/nov2018/" target="_blank">東京アンテオケ教会</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/nov2018/" target="_blank">冬近づ<br>東京アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="/onsei/2019newyearworship.html" target="_blank"><img src="/2016/images/top/181104israelnewyear_m.jpg"></a>
-    <p class="block-date">日程：2017年11月04日</p>
-    <p class="block-title"><a href="/onsei/2019newyearworship.html" target="_blank">イスラエルチーム新年度礼拝 アーカイブ版</a></p>
-</div>
-
-<div class="column-inner">
-    <span>NEW</span>
-    <a href="/tcm/" target="_blank" onclick="javascript:pageTracker._trackPageview('tcm'); "><img src="/2016/images/top/1809tokyocharisma.jpg"></a>
-    <p class="block-title"><a href="/tcm/" target="_blank" onclick="javascript:pageTracker._trackPageview('tcm');">10月の東京カリスマ聖会<br>ダイジェスト写真<br>きれいな写真版</a></p>
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>    
+    <a href="http://antiochblog.jp/praise/1811gifts/" target="_blank"><img src="/2016/images/top/1711giftsnpogospel.jpg"></a>
+    <p class="block-date">日程：2018年11月12日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1811gifts/" target="_blank">Gifts<br>NPOのパーティーでゴスペルを歌う</a></p>
 </div>
 
 <div class="column-inner">
@@ -77,7 +71,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/nov2018z/" target="_blank"><img src="/2016/images/top/1610gospelzenkoku.jpg"></a>
     <p class="block-date">日程：11月12日～11月18日</p>
-    <p class="block-title"><a href="http://astone.tv/events/nov2018z/" target="_blank">主の十字架の全国各教会</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/nov2018z/" target="_blank">冬近づ<br>主の十字架の全国各教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -145,11 +139,24 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="/onsei/2019newyearworship.html" target="_blank"><img src="/2016/images/top/181104israelnewyear_m.jpg"></a>
+    <p class="block-date">日程：2017年11月04日</p>
+    <p class="block-title"><a href="/onsei/2019newyearworship.html" target="_blank">イスラエルチーム新年度礼拝 アーカイブ版</a></p>
+</div>
+
+<div class="column-inner">
+    <a href="/tcm/" target="_blank" onclick="javascript:pageTracker._trackPageview('tcm'); "><img src="/2016/images/top/1809tokyocharisma.jpg"></a>
+    <p class="block-title"><a href="/tcm/" target="_blank" onclick="javascript:pageTracker._trackPageview('tcm');">10月の東京カリスマ聖会<br>ダイジェスト写真<br>きれいな写真版</a></p>
+</div>
+
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://blog.antioch.jp/1811israel/" target="_blank"><img src="/2016/images/top/1610israelchokuzen.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
-    <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ出発<br>イスラエルチーム<br>最新情報写真集<br>(チーム日程：2018年10月29日〜11月10日)</a></p>
+    <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ出発<br>イスラエルチーム<br>写真集<br>(チーム日程：2018年10月29日〜11月10日)</a></p>
 </div>
 
 
