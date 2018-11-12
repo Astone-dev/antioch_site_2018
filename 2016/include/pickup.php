@@ -46,14 +46,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>    
-    <a href="http://antiochblog.jp/praise/1811gifts/" target="_blank"><img src="/2016/images/top/1711giftsnpogospel.jpg"></a>
-    <p class="block-date">日程：2018年11月12日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1811gifts/" target="_blank">Gifts<br>NPOのパーティーでゴスペルを歌う</a></p>
-</div>
-
-<div class="column-inner">
     <span>NEW</span>
     <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
@@ -139,6 +131,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/1811gifts/" target="_blank"><img src="/2016/images/top/1711giftsnpogospel.jpg"></a>
+    <p class="block-date">日程：2018年11月12日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1811gifts/" target="_blank">Gifts<br>NPOのパーティーでゴスペルを歌う</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-2">動画</span>
