@@ -67,6 +67,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
+    <p class="block-date">日程：2018年11月13日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank">エルサレム<br>埼玉県三郷市アカシアの家オレンジカフェでコンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span>NEW</span>
     <a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚'); "><img src="/2016/images/top/1807taniguchigahaku.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚');">谷口画伯の今日の一枚<br>(Instagram)</a></p>
@@ -226,13 +234,13 @@
     <p class="block-title"><a href="http://astone.tv/events/year1811z/" target="_blank">年度末・新年度<br>全国各教会の一週間</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/181103/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
     <p class="block-date">日程：2018年11月3日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181103/" target="_blank">エルサレム<br>さいたま市岩槻西 グループホームでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-2">動画</span>
