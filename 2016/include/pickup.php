@@ -152,9 +152,9 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
+    <a href="http://antiochblog.jp/info/jerusalem2017/181113/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
     <p class="block-date">日程：2018年11月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank">エルサレム<br>埼玉県三郷市アカシアの家オレンジカフェでコンサート</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181113/" target="_blank">エルサレム<br>埼玉県三郷市アカシアの家オレンジカフェでコンサート</a></p>
 </div>
 
 <div class="column-inner">
