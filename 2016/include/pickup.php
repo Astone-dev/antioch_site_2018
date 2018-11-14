@@ -67,14 +67,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
-    <p class="block-date">日程：2018年11月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank">エルサレム<br>埼玉県三郷市アカシアの家オレンジカフェでコンサート</a></p>
-</div>
-
-<div class="column-inner">
     <span>NEW</span>
     <a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚'); "><img src="/2016/images/top/1807taniguchigahaku.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚');">谷口画伯の今日の一枚<br>(Instagram)</a></p>
@@ -158,12 +150,18 @@
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ出発<br>イスラエルチーム<br>写真集<br>(チーム日程：2018年10月29日〜11月10日)</a></p>
 </div>
 
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
+    <p class="block-date">日程：2018年11月13日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank">エルサレム<br>埼玉県三郷市アカシアの家オレンジカフェでコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/charisma1811/" target="_blank"><img src="/2016/images/top/1809tokyocharisma.jpg"></a>
     <p class="block-date">日程：2018年11月10日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/charisma1811/" target="_blank">11月 カリスマ聖会</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/charisma1811/" target="_blank">11月 東京カリスマ聖会</a></p>
 </div>
 
 <div class="column-inner">
@@ -187,12 +185,12 @@
 </div>
 
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/181110/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
     <p class="block-date">日程：2018年11月10日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181110/" target="_blank">エルサレム<br>福島県相馬市レストランにてコンサート</a></p>
-</div>
+</div>-->
 
 
 <!--
