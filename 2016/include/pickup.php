@@ -116,14 +116,6 @@
 
 <div class="column-inner">
     <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://tv.antioch.jp/digest/201711israel/" target="_blank"><img src="/2016/images/top/1711israeldigest_m.jpg"></a>
-    <p class="block-date">2017年10月30日～11月11日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">イスラエルチーム紹介映像</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
     <a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告'); "><img src="/2016/images/top/1809paulo_m.jpg"></a>
     <p class="block-title"><a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告');">映画『パウロ 愛と赦しの物語』<br>予告映像（2018年11月3日公開）</a></p>
 </div>
