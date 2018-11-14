@@ -52,18 +52,18 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="https://www.youtube.com/watch?v=rHeGvBKd3aY&t=205s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/181030giftstv_.jpg"></a>
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=rHeGvBKd3aY&t=205s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃027<br>ゴスペルグループGiftsの<br>ワイワイYouTube動画<br>(10月29日UP!)</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/nov2018z/" target="_blank"><img src="/2016/images/top/1610gospelzenkoku.jpg"></a>
     <p class="block-date">日程：11月12日～11月18日</p>
     <p class="block-title"><a href="http://astone.tv/events/nov2018z/" target="_blank">冬近づく<br>主の十字架の全国各教会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="https://www.youtube.com/watch?v=rHeGvBKd3aY&t=205s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/181030giftstv_.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=rHeGvBKd3aY&t=205s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃027<br>ゴスペルグループGiftsの<br>ワイワイYouTube動画<br>(10月29日UP!)</a></p>
 </div>
 
 <div class="column-inner">
