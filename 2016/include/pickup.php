@@ -85,14 +85,6 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/gate2018/181116/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
-    <p class="block-date">日程：2018年11月16日</p>
-    <p class="block-title"><a href="http://astone.tv/events/gate2018/181116/" target="_blank">The Gate of Praise<br>練馬区の老健でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
     <span>NEW</span>    
     <a href="http://antiochblog.jp/info/jerusalem2017/181117/" target="_blank"><img src="/2016/images/top/1702jerukawaguchi.jpg"></a>
     <p class="block-date">日程：2018年11月17日</p>
@@ -171,6 +163,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/gate2018/181116/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+    <p class="block-date">日程：2018年11月16日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gate2018/181116/" target="_blank">The Gate of Praise<br>練馬区の老健でゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
