@@ -147,11 +147,6 @@
 </div>
 
 <div class="column-inner">
-    <a href="/tcm/" target="_blank" onclick="javascript:pageTracker._trackPageview('tcm'); "><img src="/2016/images/top/1809tokyocharisma.jpg"></a>
-    <p class="block-title"><a href="/tcm/" target="_blank" onclick="javascript:pageTracker._trackPageview('tcm');">10月の東京カリスマ聖会<br>ダイジェスト写真<br>きれいな写真版</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://blog.antioch.jp/1811israel/" target="_blank"><img src="/2016/images/top/1610israelchokuzen.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
@@ -192,70 +187,10 @@
     <p class="block-title"><a href="http://astone.tv/events/2017healing/" target="_blank">いやしの集いの一日</a></p>
 </div>
 
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/181110/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
-    <p class="block-date">日程：2018年11月10日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181110/" target="_blank">エルサレム<br>福島県相馬市レストランにてコンサート</a></p>
-</div>-->
-
-
-<!--
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継'); "><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2018年8月11日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い-生中継');">いやしの集い 生中継<br> (日程：2018年8月11日 18:30スタート)</a></p>
-</div>-->
-
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/gracejewel2017/181108/" target="_blank"><img src="/2016/images/top/1708gracehosekifutyu.jpg"></a>
-    <p class="block-date">日程：2018年11月8日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/181108/" target="_blank">GRACEと宝石 高円寺のデイサービスで奉仕</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/year1811/" target="_blank"><img src="/2016/images/top/1810antioch.jpg"></a>
-    <p class="block-date">日程：2018年10月29日～11月4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/year1811/" target="_blank">年度末・新年度<br>アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/year1811z/" target="_blank"><img src="/2016/images/top/1810nationwide.jpg"></a>
-    <p class="block-date">日程：10月29日～11月4日</p>
-    <p class="block-title"><a href="http://astone.tv/events/year1811z/" target="_blank">年度末・新年度<br>全国各教会の一週間</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/181103/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
-    <p class="block-date">日程：2018年11月3日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181103/" target="_blank">エルサレム<br>さいたま市岩槻西 グループホームでゴスペルコンサート</a></p>
-</div>-->
-
 <div class="column-inner">
     <span class="label-2">動画</span>
     <a href="https://tokyo.antioch.jp/pray4jerusalem/2018/" target="_blank"><img src="/2016/images/top/1810jeruheiwa_m.jpg"></a>
     <p class="block-title"><a href="https://tokyo.antioch.jp/pray4jerusalem/2018/" target="_blank">エルサレムの平和を祈る集い<br>映像保存版<br>(日程：2018年10月7日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/201809cambodia/" target="_blank"><img src="/2016/images/top/1809cambodia_d_m.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201809cambodia/" target="_blank">カンボジアチーム<br>ダイジェスト映像<br>(日程：2018年9月24日〜28日)<br>(視聴時間 3:22)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://blog.antioch.jp/1809cambodia/category/1809dst/" target="_blank"><img src="/2016/images/top/1809cambodiateam_d_p.jpg"></a>
-    <p class="block-title"><a href="http://blog.antioch.jp/1809cambodia/category/1809dst/" target="_blank">カンボジアチーム<br>ダイジェスト写真集<br>短く全て見たい方へ<br>(日程：2018年9月24日〜28日)<br>(視聴時間 3:22)</a></p>
 </div>
 
 <!--<div class="column-inner">
