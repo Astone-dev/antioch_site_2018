@@ -200,12 +200,12 @@
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ出発<br>イスラエルチーム<br>写真集<br>(チーム日程：2018年10月29日〜11月10日)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/181113/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
     <p class="block-date">日程：2018年11月13日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181113/" target="_blank">エルサレム<br>埼玉県三郷市アカシアの家オレンジカフェでコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
