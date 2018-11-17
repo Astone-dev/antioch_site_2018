@@ -48,34 +48,10 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>    
-    <a href="http://antiochblog.jp/info/revival2017/181117/" target="_blank"><img src="/2016/images/top/1610revivalnight.jpg"></a>
-    <p class="block-date">日程：2018年11月17日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/181117/" target="_blank">11月 リバイバルナイトの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2018年11月17日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年11月17日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>    
-    <a href="http://antiochblog.jp/praise/patolis/181117/" target="_blank"><img src="/2016/images/top/1702patolisshisetsu.jpg"></a>
-    <p class="block-date">日程：2018年11月17日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181117/" target="_blank">PATOLIS<br>川口の病院、病棟でのコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>    
     <a href="http://astone.tv/events/euqaristias/20181118gospelconcert/" target="_blank"><img src="/2016/images/top/1610eukarishinjyuku.jpg"></a>
     <p class="block-date">日程：2018年11月18日</p>
     <p class="block-title"><a href="http://astone.tv/events/euqaristias/20181118gospelconcert/" target="_blank">Euqaristias<br>新宿のデイサービスでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
     <span>NEW</span>
@@ -89,22 +65,6 @@
     <a href="http://astone.tv/events/nov2018z/" target="_blank"><img src="/2016/images/top/1610gospelzenkoku.jpg"></a>
     <p class="block-date">日程：11月12日～11月18日</p>
     <p class="block-title"><a href="http://astone.tv/events/nov2018z/" target="_blank">冬近づく<br>主の十字架の全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>    
-    <a href="http://antiochblog.jp/info/jerusalem2017/181117/" target="_blank"><img src="/2016/images/top/1702jerukawaguchi.jpg"></a>
-    <p class="block-date">日程：2018年11月17日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181117/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>    
-    <a href="http://antiochblog.jp/info/gracious/181117/" target="_blank"><img src="/2016/images/top/1611gracioustonai.jpg"></a>
-    <p class="block-date">日程：2018年11月17日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/181117/" target="_blank">GRACIOUS DOORS<br>中野区のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -171,6 +131,34 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span> 
+    <a href="http://antiochblog.jp/info/revival2017/181117/" target="_blank"><img src="/2016/images/top/1610revivalnight.jpg"></a>
+    <p class="block-date">日程：2018年11月17日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/181117/" target="_blank">11月 リバイバルナイトの一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span> 
+    <a href="http://antiochblog.jp/praise/patolis/181117/" target="_blank"><img src="/2016/images/top/1702patolisshisetsu.jpg"></a>
+    <p class="block-date">日程：2018年11月17日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181117/" target="_blank">PATOLIS<br>川口の病院、病棟でのコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>  
+    <a href="http://antiochblog.jp/info/jerusalem2017/181117/" target="_blank"><img src="/2016/images/top/1702jerukawaguchi.jpg"></a>
+    <p class="block-date">日程：2018年11月17日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181117/" target="_blank">エルサレム<br>さいたま市岩槻のデイケアでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>  
+    <a href="http://antiochblog.jp/info/gracious/181117/" target="_blank"><img src="/2016/images/top/1611gracioustonai.jpg"></a>
+    <p class="block-date">日程：2018年11月17日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/181117/" target="_blank">GRACIOUS DOORS<br>中野区のデイサービスでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
