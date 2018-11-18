@@ -37,6 +37,22 @@
 		(毎日AM5:00UP!)</a></p>
 </div>
 
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>    
+    <a href="http://antiochblog.jp/praise/100times1811/" target="_blank"><img src="/2016/images/top/1612ippinantioch.jpg"></a>
+    <p class="block-date">日程：11月19日～25日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/100times1811/" target="_blank">スポーツの秋、読書の秋、食欲の秋<br>東京アンテオケ教会</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>    
+    <a href="http://antiochblog.jp/info/jfes1811/" target="_blank"><img src="/2016/images/top/1611kichijyojifes.jpg"></a>
+    <p class="block-date">日程：11月19日～23日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1811/" target="_blank">吉祥寺J.GOSPEL FESに向かって<br>The Visionスタッフと出演グループの一週間</a></p>
+</div>-->
+
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>    
@@ -66,6 +82,21 @@
     <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
 </div>
+
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/100times1811z/" target="_blank"><img src="/2016/images/top/1612ippinzenkoku.jpg"></a>
+    <p class="block-date">日程：11月19日～25日</p>
+    <p class="block-title"><a href="http://astone.tv/events/100times1811z/" target="_blank">スポーツの秋、読書の秋、食欲の秋<br>主の十字架の全国各教会</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>  
+    <a href="http://antiochblog.jp/info/jerusalem2017/181119/" target="_blank"><img src="/2016/images/top/1702jerukawaguchi.jpg"></a>
+    <p class="block-date">日程：2018年11月19日～20日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181119/" target="_blank">エルサレム<br>笑顔 施設でゴスペル教室 & ホテルグリーンプラザ箱根 ロビーコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
