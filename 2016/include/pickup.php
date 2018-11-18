@@ -37,44 +37,20 @@
 		(毎日AM5:00UP!)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>    
     <a href="http://antiochblog.jp/praise/100times1811/" target="_blank"><img src="/2016/images/top/1612ippinantioch.jpg"></a>
     <p class="block-date">日程：11月19日～25日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/100times1811/" target="_blank">スポーツの秋、読書の秋、食欲の秋<br>東京アンテオケ教会</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>    
     <a href="http://antiochblog.jp/info/jfes1811/" target="_blank"><img src="/2016/images/top/1611kichijyojifes.jpg"></a>
     <p class="block-date">日程：11月19日～23日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jfes1811/" target="_blank">吉祥寺J.GOSPEL FESに向かって<br>The Visionスタッフと出演グループの一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>    
-    <a href="http://antiochblog.jp/praise/nov2018/" target="_blank"><img src="/2016/images/top/1610gospelantioch.jpg"></a>
-    <p class="block-date">日程：2018年11月12日～11月18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/nov2018/" target="_blank">冬近づく<br>東京アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>    
-    <a href="http://antiochblog.jp/praise/2018women/201811/" target="_blank"><img src="/2016/images/top/1611fujinkai.jpg"></a>
-    <p class="block-date">日程：2018年11月18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201811/" target="_blank">11月 婦人会の一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>    
-    <a href="http://astone.tv/events/euqaristias/20181118gospelconcert/" target="_blank"><img src="/2016/images/top/1610eukarishinjyuku.jpg"></a>
-    <p class="block-date">日程：2018年11月18日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20181118gospelconcert/" target="_blank">Euqaristias<br>新宿のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -83,35 +59,19 @@
     <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/100times1811z/" target="_blank"><img src="/2016/images/top/1612ippinzenkoku.jpg"></a>
     <p class="block-date">日程：11月19日～25日</p>
     <p class="block-title"><a href="http://astone.tv/events/100times1811z/" target="_blank">スポーツの秋、読書の秋、食欲の秋<br>主の十字架の全国各教会</a></p>
-</div>-->
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>  
     <a href="http://antiochblog.jp/info/jerusalem2017/181119/" target="_blank"><img src="/2016/images/top/1702jerukawaguchi.jpg"></a>
     <p class="block-date">日程：2018年11月19日～20日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181119/" target="_blank">エルサレム<br>笑顔 施設でゴスペル教室 & ホテルグリーンプラザ箱根 ロビーコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/nov2018z/" target="_blank"><img src="/2016/images/top/1610gospelzenkoku.jpg"></a>
-    <p class="block-date">日程：11月12日～11月18日</p>
-    <p class="block-title"><a href="http://astone.tv/events/nov2018z/" target="_blank">冬近づく<br>主の十字架の全国各教会</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>    
-    <a href="http://astone.tv/events/2017byhisspirit/20181118french/" target="_blank"><img src="/2016/images/top/1606byhisspiritnakanosanbi.jpg"></a>
-    <p class="block-date">日程：2018年11月18日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20181118french/" target="_blank">By His spirit<br>高円寺のフレンチレストランでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -178,6 +138,41 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>    
+    <a href="http://antiochblog.jp/praise/nov2018/" target="_blank"><img src="/2016/images/top/1610gospelantioch.jpg"></a>
+    <p class="block-date">日程：2018年11月12日～11月18日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/nov2018/" target="_blank">冬近づく<br>東京アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>   
+    <a href="http://antiochblog.jp/praise/2018women/201811/" target="_blank"><img src="/2016/images/top/1611fujinkai.jpg"></a>
+    <p class="block-date">日程：2018年11月18日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201811/" target="_blank">11月 婦人会の一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span> 
+    <a href="http://astone.tv/events/euqaristias/20181118gospelconcert/" target="_blank"><img src="/2016/images/top/1610eukarishinjyuku.jpg"></a>
+    <p class="block-date">日程：2018年11月18日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20181118gospelconcert/" target="_blank">Euqaristias<br>新宿のデイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/nov2018z/" target="_blank"><img src="/2016/images/top/1610gospelzenkoku.jpg"></a>
+    <p class="block-date">日程：11月12日～11月18日</p>
+    <p class="block-title"><a href="http://astone.tv/events/nov2018z/" target="_blank">冬近づく<br>主の十字架の全国各教会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>  
+    <a href="http://astone.tv/events/2017byhisspirit/20181118french/" target="_blank"><img src="/2016/images/top/1606byhisspiritnakanosanbi.jpg"></a>
+    <p class="block-date">日程：2018年11月18日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20181118french/" target="_blank">By His spirit<br>高円寺のフレンチレストランでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span> 
