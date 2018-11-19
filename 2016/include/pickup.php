@@ -33,8 +33,7 @@
     <span class="label-2">音楽</span>
     <span>NEW</span>
     <a href="http://atv.antioch.jp/jgospel/" target="_blank"><img src="/2016/images/top/1809todaysjgospel.jpg"></a>
-    <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>
-		(毎日AM5:00UP!)</a></p>
+    <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>(毎日AM5:00UP!)</a></p>
 </div>
 
 <div class="column-inner">
@@ -51,6 +50,22 @@
     <a href="http://antiochblog.jp/info/jfes1811/" target="_blank"><img src="/2016/images/top/1611kichijyojifes.jpg"></a>
     <p class="block-date">日程：11月19日～23日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jfes1811/" target="_blank">吉祥寺J.GOSPEL FESに向かって<br>The Visionスタッフと出演グループの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>    
+    <a href="http://tv.antioch.jp/digest/201811-israel/" target="_blank"><img src="/2016/images/top/1811israeldigest_1.jpg"></a>
+    <p class="block-date">日程：2018年10月29日〜11月10日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201811-israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 10:19)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>    
+    <a href="http://tv.antioch.jp/digest/201812-kokorogoscm/" target="_blank"><img src="/2016/images/top/1811kokorogospel_cm.jpg"></a>
+    <p class="block-date">日程：2018年12月24日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201812-kokorogoscm/" target="_blank">こころごすぺる<br>紹介動画<br>(再生時間 1:15)</a></p>
 </div>
 
 <div class="column-inner">
@@ -71,7 +86,7 @@
     <span class="label-1">ブログ</span>  
     <a href="http://antiochblog.jp/info/jerusalem2017/181119/" target="_blank"><img src="/2016/images/top/1702jerukawaguchi.jpg"></a>
     <p class="block-date">日程：2018年11月19日～20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181119/" target="_blank">エルサレム<br>笑顔 施設でゴスペル教室 & ホテルグリーンプラザ箱根 ロビーコンサート</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181119/" target="_blank">エルサレム<br>笑顔 施設でゴスペル教室、ホテルグリーンプラザ箱根 ロビーコンサート</a></p>
 </div>
 
 <div class="column-inner">
