@@ -69,6 +69,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>    
+    <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1811kokorogospel31th.jpg"></a>
+    <p class="block-date">日程：2018年12月24日</p>
+    <p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 31th<br>インフォメーション<br>(日時 2018年12月24日 19:00〜)</a></p>
+</div>
+
+<div class="column-inner">
     <span>NEW</span>
     <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
