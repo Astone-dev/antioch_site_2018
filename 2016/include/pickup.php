@@ -45,15 +45,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像　</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');"><img src="/2016/images/top/1805kichijyojifeslive.png"></a>
-<p class="block-date">2018年11月23日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCEtTs2-eyqTCF5izdCMWvKA" target="_blank" onclick="javascript:pageTracker._trackPageview('吉祥寺J.GOSPEL FES生中継');">吉祥寺J.GOSPEL FES生中継<br>時間 11:00〜16:00<br></a>
-<i style="color:#ff0000;font-size: 11px;">※ページ内ライブ配信中をタップしてご覧んください</i></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>    
     <a href="http://antiochblog.jp/info/jfes1811/" target="_blank"><img src="/2016/images/top/1611kichijyojifes.jpg"></a>
