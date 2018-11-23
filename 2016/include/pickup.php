@@ -39,17 +39,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>    
-    <a href="http://antiochblog.jp/praise/100times1811/" target="_blank"><img src="/2016/images/top/1612ippinantioch.jpg"></a>
-    <p class="block-date">日程：11月19日～25日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/100times1811/" target="_blank">スポーツの秋、読書の秋、食欲の秋<br>東京アンテオケ教会</a></p>
+    <a href="http://antiochblog.jp/info/jfes1811/" target="_blank"><img src="/2016/images/top/1611kichijyojifes.jpg"></a>
+    <p class="block-date">日程：11月19日～23日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1811/" target="_blank">いよいよ当日！<br>吉祥寺J.GOSPEL FES<br>The Visionスタッフと出演グループの一日</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>    
-    <a href="http://antiochblog.jp/info/jfes1811/" target="_blank"><img src="/2016/images/top/1611kichijyojifes.jpg"></a>
-    <p class="block-date">日程：11月19日～23日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1811/" target="_blank">いよいよ当日！<br>吉祥寺J.GOSPEL FES<br>The Visionスタッフと出演グループの一日</a></p>
+    <a href="http://antiochblog.jp/praise/100times1811/" target="_blank"><img src="/2016/images/top/1612ippinantioch.jpg"></a>
+    <p class="block-date">日程：11月19日～25日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/100times1811/" target="_blank">スポーツの秋、読書の秋、食欲の秋<br>東京アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
