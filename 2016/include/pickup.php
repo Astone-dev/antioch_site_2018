@@ -233,13 +233,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/1811gifts/" target="_blank"><img src="/2016/images/top/1711giftsnpogospel.jpg"></a>
-    <p class="block-date">日程：2018年11月12日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1811gifts/" target="_blank">Gifts<br>NPOのパーティーでゴスペルを歌う</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="/onsei/2019newyearworship.html" target="_blank"><img src="/2016/images/top/181104israelnewyear_m.jpg"></a>
     <p class="block-date">日程：2017年11月04日</p>
@@ -251,46 +244,6 @@
     <a href="http://blog.antioch.jp/1811israel/" target="_blank"><img src="/2016/images/top/1610israelchokuzen.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ出発<br>イスラエルチーム<br>写真集<br>(チーム日程：2018年10月29日〜11月10日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/181113/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
-    <p class="block-date">日程：2018年11月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181113/" target="_blank">エルサレム<br>埼玉県三郷市アカシアの家オレンジカフェでコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/charisma1811/" target="_blank"><img src="/2016/images/top/1809tokyocharisma.jpg"></a>
-    <p class="block-date">日程：2018年11月10日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/charisma1811/" target="_blank">11月 東京カリスマ聖会</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/start201811/" target="_blank"><img src="/2016/images/top/1711shinnendoantioch.jpg"></a>
-    <p class="block-date">日程：2018年11月5日～11月11日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/start201811/" target="_blank">東京アンテオケ教会<br>新年度スタートの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/start201811z/" target="_blank"><img src="/2016/images/top/1711shinnendozenkoku.jpg"></a>
-    <p class="block-date">日程：11月5日～11月11日</p>
-    <p class="block-title"><a href="http://astone.tv/events/start201811z/" target="_blank">主の十字架の全国各教会<br>新年度スタート一週間</a></p>
-</div>
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017healing/" target="_blank"><img src="/2016/images/top/1609iyashinotsudoi.jpg"></a>
-    <p class="block-date">日程：2018年11月10日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/" target="_blank">いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="https://tokyo.antioch.jp/pray4jerusalem/2018/" target="_blank"><img src="/2016/images/top/1810jeruheiwa_m.jpg"></a>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/pray4jerusalem/2018/" target="_blank">エルサレムの平和を祈る集い<br>映像保存版<br>(日程：2018年10月7日)</a></p>
 </div>
 
 <!--<div class="column-inner">
