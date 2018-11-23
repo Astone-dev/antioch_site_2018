@@ -39,9 +39,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>    
-    <a href="http://antiochblog.jp/info/jfes1811/" target="_blank"><img src="/2016/images/top/1611kichijyojifes.jpg"></a>
-    <p class="block-date">日程：11月19日～23日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1811/" target="_blank">いよいよ当日！<br>吉祥寺J.GOSPEL FES<br>The Visionスタッフと出演グループの一日</a></p>
+    <a href="http://antiochblog.jp/praise/1811thanks/" target="_blank"><img src="/2016/images/top/1611kanshakainimukatte.jpg"></a>
+    <p class="block-date">日程：11月24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1811thanks/" target="_blank">教会感謝会の一日</a></p>
 </div>
 
 <div class="column-inner">
@@ -50,6 +50,22 @@
     <a href="http://antiochblog.jp/praise/100times1811/" target="_blank"><img src="/2016/images/top/1612ippinantioch.jpg"></a>
     <p class="block-date">日程：11月19日～25日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/100times1811/" target="_blank">スポーツの秋、読書の秋、食欲の秋<br>東京アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>    
+    <a href="http://antiochblog.jp/praise/gospel2017/181124/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+    <p class="block-date">日程：11月24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/181124/" target="_blank">11月 ゴスペルの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2018年11月24日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継');">ゴスペルの集い生中継<br>(日程：2018年11月24日 18:30スタート)</a></p>
 </div>
 
 <div class="column-inner">
@@ -153,6 +169,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>  
+    <a href="http://antiochblog.jp/info/jfes1811/" target="_blank"><img src="/2016/images/top/1611kichijyojifes.jpg"></a>
+    <p class="block-date">日程：11月19日～23日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1811/" target="_blank">いよいよ当日！<br>吉祥寺J.GOSPEL FES<br>The Visionスタッフと出演グループの一日</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
