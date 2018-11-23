@@ -49,7 +49,7 @@
     <span>NEW</span>    
     <a href="http://antiochblog.jp/info/jfes1811/" target="_blank"><img src="/2016/images/top/1611kichijyojifes.jpg"></a>
     <p class="block-date">日程：11月19日～23日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1811/" target="_blank">吉祥寺J.GOSPEL FESに向かって<br>The Visionスタッフと出演グループの一週間</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1811/" target="_blank">いよいよ当日！<br>吉祥寺J.GOSPEL FES<br>The Visionスタッフと出演グループの一日</a></p>
 </div>
 
 <div class="column-inner">
