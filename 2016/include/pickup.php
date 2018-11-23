@@ -97,14 +97,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/181119/" target="_blank"><img src="/2016/images/top/1702jerukawaguchi.jpg"></a>
-    <p class="block-date">日程：2018年11月19日～20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181119/" target="_blank">エルサレム<br>笑顔 施設でゴスペル教室、ホテルグリーンプラザ箱根 ロビーコンサート</a></p>
-</div>
-
-<div class="column-inner">
     <span>NEW</span>
     <a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚'); "><img src="/2016/images/top/1807taniguchigahaku.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚');">谷口画伯の今日の一枚<br>(Instagram)</a></p>
@@ -161,6 +153,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/181119/" target="_blank"><img src="/2016/images/top/1702jerukawaguchi.jpg"></a>
+    <p class="block-date">日程：2018年11月19日～20日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181119/" target="_blank">エルサレム<br>笑顔 施設でゴスペル教室、ホテルグリーンプラザ箱根 ロビーコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>    
