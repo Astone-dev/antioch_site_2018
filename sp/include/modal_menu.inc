@@ -12,7 +12,7 @@
         <li><a href="/s_akashi.html">神の救いと神に
   助けられた体験談</a></li>
         <li><a href="/s_akashi-movie.html">神の救いと神に助けられた体験談(動画)</a></li>
-        <li><a href="/movie/201505-antioch/">教会紹介映像</a></li>
+        <!-- <li><a href="/movie/201505-antioch/">教会紹介映像</a></li> -->
         <li><a href="/newlife/">新しい人生に一歩踏み出すために</a></li>
         <li><a href="/movie/201301-26seijin/">日本26聖人の足跡</a></li>
         <li><a href="/blog/">ブログコーナー</a></li>
