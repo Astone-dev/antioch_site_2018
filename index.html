@@ -16,7 +16,7 @@ if (preg_match("/^(http|https):\/\/([a-zA-Z0-9\-]+?).antioch.jp/", $referer) && 
     $count_from_sp++;
 }
 else {
-    $url = 'location: /index.html';  //デフォルト値    
+    $url = 'location: /';  //デフォルト値    
     if ($count_from_sp >0){
         /* 何もしない */
     }
@@ -170,7 +170,7 @@ $(document).ready(function(){
 
             <div class="column3">
               <div class="column-inner">
-                <a href="/tlccc/index.html">
+                <a href="/tlccc/">
                 <dl>
                   <dt><img src="/2016/images/top/bt_onlineregist.jpg" width="200"></dt>
                   <dd>オンライン会員</dd>
