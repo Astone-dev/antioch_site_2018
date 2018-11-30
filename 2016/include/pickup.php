@@ -53,6 +53,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>    
+    <a href="http://antiochblog.jp/praise/2017labeille/181201/" target="_blank"><img src="/2016/images/top/1609lageiyuarakawa.jpg"></a>
+    <p class="block-date">日程：12月1日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/181201/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/201811-israel-newyearworship/" target="_blank"><img src="/2016/images/top/1811israeldigest_2.jpg"></a>
@@ -95,6 +103,14 @@
     <a href="http://astone.tv/events/faith1811z/" target="_blank"><img src="/2016/images/top/1711fuyuzenkoku.jpg"></a>
     <p class="block-date">日程：2018年11月26日～12月2日</p>
     <p class="block-title"><a href="http://astone.tv/events/faith1811z/" target="_blank">師走の全国各教会一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>    
+    <a href="http://antiochblog.jp/praise/gracejewel2017/181201/" target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
+    <p class="block-date">日程：12月1日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/181201/" target="_blank">GRACEと宝石<br>埼玉県志木市にあるデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
