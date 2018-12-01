@@ -54,7 +54,7 @@
 
 <div class="column-inner">
     <span>NEW</span>    
-    <a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1612hakubacampinfo"></a>
+    <a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1612hakubacampinfo.jpg"></a>
     <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank">白馬スネルゴイキャンプ<br>インフォメーション<br>(日時 2019年2月27日～3月1日)</a></p>
 </div>
 
