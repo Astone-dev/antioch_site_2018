@@ -47,14 +47,6 @@ http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教�
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>    
-    <a href="http://antiochblog.jp/info/kokorostaff1811/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
-    <p class="block-date">日程：11月26日～12月2日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/kokorostaff1811/" target="_blank">こころごすぺるまであと1ヵ月 <br>各グループ、スタッフの胸の高鳴り</a></p>
-</div>
-
-<div class="column-inner">
     <span>NEW</span>    
     <a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1612hakubacampinfo.jpg"></a>
     <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank">白馬スネルゴイキャンプ<br>インフォメーション<br>(日時 2019年2月27日～3月1日)</a></p>
@@ -175,6 +167,14 @@ http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教�
     <a href="http://antiochblog.jp/praise/faith1811/" target="_blank"><img src="/2016/images/top/1711fuyuantioch.jpg"></a>
     <p class="block-date">日程：2018年11月26日～12月2日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1811/" target="_blank">師走の東京アンテオケ教会一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>    
+    <a href="http://antiochblog.jp/info/kokorostaff1811/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
+    <p class="block-date">日程：11月26日～12月2日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/kokorostaff1811/" target="_blank">こころごすぺるまであと1ヵ月 <br>各グループ、スタッフの胸の高鳴り</a></p>
 </div>
 
 <div class="column-inner">
