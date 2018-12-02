@@ -39,9 +39,11 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/faith1811/" target="_blank"><img src="/2016/images/top/1711fuyuantioch.jpg"></a>
-    <p class="block-date">日程：2018年11月26日～12月2日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1811/" target="_blank">師走の東京アンテオケ教会一週間</a></p>
+    <a href="
+http://antiochblog.jp/praise/dec2018/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月2日～9日</p>
+    <p class="block-title"><a href="
+http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教会 冬の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -98,17 +100,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/faith1811z/" target="_blank"><img src="/2016/images/top/1711fuyuzenkoku.jpg"></a>
-    <p class="block-date">日程：2018年11月26日～12月2日</p>
-    <p class="block-title"><a href="http://astone.tv/events/faith1811z/" target="_blank">師走の全国各教会一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span> 
-    <span>NEW</span>
-    <a href="http://astone.tv/events/gate2018/181202/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
-    <p class="block-date">日程：12月2日</p>
-    <p class="block-title"><a href="http://astone.tv/events/gate2018/181202/" target="_blank">The Gate of Praise <br>芦花公園パークライブでゴスペルを歌う</a></p>
+    <a href="http://astone.tv/events/dec2018z/" target="_blank"><img src="/2016/images/top/1712fuyuasumiantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月2日～9日</p>
+    <p class="block-title"><a href="http://astone.tv/events/dec2018z/" target="_blank">全国各教会 冬の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -174,6 +168,35 @@
     <span class="label-2">動画</span>
     <a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告'); "><img src="/2016/images/top/1809paulo_m.jpg"></a>
     <p class="block-title"><a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告');">映画『パウロ 愛と赦しの物語』<br>予告映像（2018年11月3日公開）</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/faith1811/" target="_blank"><img src="/2016/images/top/1711fuyuantioch.jpg"></a>
+    <p class="block-date">日程：2018年11月26日～12月2日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1811/" target="_blank">師走の東京アンテオケ教会一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/faith1811z/" target="_blank"><img src="/2016/images/top/1711fuyuzenkoku.jpg"></a>
+    <p class="block-date">日程：2018年11月26日～12月2日</p>
+    <p class="block-title"><a href="http://astone.tv/events/faith1811z/" target="_blank">師走の全国各教会一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span> 
+    <a href="http://astone.tv/events/gate2018/181202/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+    <p class="block-date">日程：12月2日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gate2018/181202/" target="_blank">The Gate of Praise <br>芦花公園パークライブでゴスペルを歌う</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>    
+    <a href="http://antiochblog.jp/info/kokorostaff1811/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
+    <p class="block-date">日程：11月26日～12月2日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/kokorostaff1811/" target="_blank">こころごすぺるまであと1ヵ月 <br>各グループ、スタッフの胸の高鳴り</a></p>
 </div>
 
 <div class="column-inner">
