@@ -47,21 +47,6 @@ http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教�
 </div>
 
 <div class="column-inner">
-    <span>NEW</span>    
-    <a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1612hakubacampinfo.jpg"></a>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank">白馬スネルゴイキャンプ<br>インフォメーション<br>(日時 2019年2月27日～3月1日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>    
-    <a href="http://tv.antioch.jp/digest/201811-israel-newyearworship/" target="_blank"><img src="/2016/images/top/1811israeldigest_2.jpg"></a>
-    <p class="block-date">日程：2018年10月29日〜11月10日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201811-israel-newyearworship/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 5:28)</a></p>
-</div>
-
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/201812-kokorogoscm/" target="_blank"><img src="/2016/images/top/1811kokorogospel_cm.jpg"></a>
@@ -74,6 +59,20 @@ http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教�
     <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1811kokorogospel31th.jpg"></a>
     <p class="block-date">日程：2018年12月24日</p>
     <p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 31th<br>インフォメーション<br>(日時 2018年12月24日 19:00〜)</a></p>
+</div>
+
+<div class="column-inner">
+    <span>NEW</span>    
+    <a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1612hakubacampinfo.jpg"></a>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank">白馬スネルゴイキャンプ<br>インフォメーション<br>(日時 2019年2月27日～3月1日)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>    
+    <a href="http://tv.antioch.jp/digest/201811-israel-newyearworship/" target="_blank"><img src="/2016/images/top/1811israeldigest_2.jpg"></a>
+    <p class="block-date">日程：2018年10月29日〜11月10日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201811-israel-newyearworship/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 5:28)</a></p>
 </div>
 
 <div class="column-inner">
