@@ -47,6 +47,20 @@ http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教�
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span> 
+    <a href="http://astone.tv/events/gifts1812/" target="_blank"><img src="/2016/images/top/1605giftskansai.jpg"></a>
+    <p class="block-date">日程：12月5日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gifts1812/" target="_blank">Gifts <br>千葉の病院でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span> 
+    <a href="http://antiochblog.jp/praise/patolis/181205/" target="_blank"><img src="/2016/images/top/1606patolisnerima.jpg"></a>
+    <p class="block-date">日程：12月5日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181205/" target="_blank"> PATOLIS <br>川口の病院でのコンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/201812-kokorogoscm/" target="_blank"><img src="/2016/images/top/1811kokorogospel_cm.jpg"></a>
