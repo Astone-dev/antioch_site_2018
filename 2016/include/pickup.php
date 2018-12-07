@@ -57,6 +57,14 @@ http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教�
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/truevine/181208/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
+    <p class="block-date">日程：2018年12月8日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/truevine/181208/" target="_blank">True Vine<br>山梨県南アルプス市の教会でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/2017healing/181208/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
     <p class="block-date">日程：2018年12月8日</p>
     <p class="block-title"><a href="http://astone.tv/events/2017healing/181208/" target="_blank">12月 いやしの集いの一日</a></p>
