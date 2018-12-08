@@ -46,6 +46,14 @@ http://antiochblog.jp/praise/dec2018/" target="_blank"><img src="/2016/images/to
 http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教会 冬の一週間</a></p>
 </div>
 
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/gifts/181208/" target="_blank"><img src="/2016/images/top/1701giftsnagaoka.jpg"></a>
+    <p class="block-date">日程：2018年12月9日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/181208/" target="_blank">婦人会<br>牛すじカレーと牛すじシチューを食べる</a></p>
+</div>-->
+
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
@@ -199,6 +207,13 @@ http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教�
     <span class="label-2">動画</span>
     <a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告'); "><img src="/2016/images/top/1809paulo_m.jpg"></a>
     <p class="block-title"><a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告');">映画『パウロ 愛と赦しの物語』<br>予告映像（2018年11月3日公開）</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
+    <p class="block-date">日程：2018年10月29日〜11月10日</p>
+    <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
 </div>
 
 <div class="column-inner">
