@@ -46,52 +46,12 @@ http://antiochblog.jp/praise/dec2018/" target="_blank"><img src="/2016/images/to
 http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教会 冬の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gifts/181208/" target="_blank"><img src="/2016/images/top/1701giftsnagaoka.jpg"></a>
+    <a href="http://antiochblog.jp/praise/2018women/201812/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
     <p class="block-date">日程：2018年12月9日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/181208/" target="_blank">婦人会<br>牛すじカレーと牛すじシチューを食べる</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gifts/181208/" target="_blank"><img src="/2016/images/top/1701giftsnagaoka.jpg"></a>
-    <p class="block-date">日程：2018年12月8日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/181208/" target="_blank">Gifts<br>三鷹の施設でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/truevine/181208/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
-    <p class="block-date">日程：2018年12月8日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/truevine/181208/" target="_blank">True Vine<br>山梨県南アルプス市の教会でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/1812concert/" target="_blank"><img src="/2016/images/top/1705joyasagaya.jpg"></a>
-    <p class="block-date">日程：2018年12月8日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1812concert/" target="_blank">JOY,プレジール<br>横浜のイベントでチャリティーでコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/2017healing/181208/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-    <p class="block-date">日程：2018年12月8日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/181208/" target="_blank">12月 いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2018年12月8日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継');">いやしの集い生中継<br>(日程：2018年12月8日 18:30スタート)</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201812/" target="_blank">婦人会<br>牛すじカレーと牛すじシチューを食べる</a></p>
 </div>
 
 <div class="column-inner">
@@ -214,6 +174,34 @@ http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教�
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gifts/181208/" target="_blank"><img src="/2016/images/top/1701giftsnagaoka.jpg"></a>
+    <p class="block-date">日程：2018年12月8日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/181208/" target="_blank">Gifts<br>三鷹の施設でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/truevine/181208/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
+    <p class="block-date">日程：2018年12月8日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/truevine/181208/" target="_blank">True Vine<br>山梨県南アルプス市の教会でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/1812concert/" target="_blank"><img src="/2016/images/top/1705joyasagaya.jpg"></a>
+    <p class="block-date">日程：2018年12月8日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1812concert/" target="_blank">JOY,プレジール<br>横浜のイベントでチャリティーでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/2017healing/181208/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+    <p class="block-date">日程：2018年12月8日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017healing/181208/" target="_blank">12月 いやしの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
@@ -347,6 +335,14 @@ http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教�
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2018年11月24日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継');">ゴスペルの集い生中継<br>(日程：2018年11月24日 18:30スタート)</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2018年12月8日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継');">いやしの集い生中継<br>(日程：2018年12月8日 18:30スタート)</a></p>
 </div>-->
 
 <!--<div class="column-inner">
