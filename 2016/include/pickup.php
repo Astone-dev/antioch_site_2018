@@ -39,19 +39,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="
-http://antiochblog.jp/praise/dec2018/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
-    <p class="block-date">日程：2018年12月2日～9日</p>
-    <p class="block-title"><a href="
-http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教会 冬の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/2018women/201812/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
-    <p class="block-date">日程：2018年12月9日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201812/" target="_blank">婦人会<br>牛すじカレーと牛すじシチューを食べる</a></p>
+    <a href="http://antiochblog.jp/praise/faith1812/" target="_blank"><img src="/2016/images/top/1612sanbixmasantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月10日～16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1812/" target="_blank">いよいよ冬本番<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -99,9 +89,9 @@ http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教�
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/dec2018z/" target="_blank"><img src="/2016/images/top/1712fuyuasumiantioch.jpg"></a>
-    <p class="block-date">日程：2018年12月2日～9日</p>
-    <p class="block-title"><a href="http://astone.tv/events/dec2018z/" target="_blank">全国各教会 冬の一週間</a></p>
+    <a href="http://astone.tv/events/faith1812z/" target="_blank"><img src="/2016/images/top/1612sanbixmaszenkoku.jpg"></a>
+    <p class="block-date">日程：2018年12月10日～16日</p>
+    <p class="block-title"><a href="http://astone.tv/events/faith1812z/" target="_blank">いよいよ冬本番<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -174,6 +164,29 @@ http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教�
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="
+http://antiochblog.jp/praise/dec2018/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月2日～9日</p>
+    <p class="block-title"><a href="
+http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教会 冬の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/2018women/201812/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
+    <p class="block-date">日程：2018年12月9日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201812/" target="_blank">婦人会<br>牛すじカレーと牛すじシチューを食べる</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/dec2018z/" target="_blank"><img src="/2016/images/top/1712fuyuasumiantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月2日～9日</p>
+    <p class="block-title"><a href="http://astone.tv/events/dec2018z/" target="_blank">全国各教会 冬の一週間</a></p>
 </div>
 
 <div class="column-inner">
