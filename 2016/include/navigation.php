@@ -49,7 +49,7 @@
 
         <!-- nav02 -->
         <li class="header--nav__item navn02">
-          <a href="#" class="t-bold">CHRIST Church 永遠の、愛の恵み光について</a>
+          <a href="#" class="t-bold">CHRIST Church 永遠の、愛の恵みの光について</a>
           <div class="header--nav--sub__wrap">
             <ul class="header--nav--sub__ul">
               <li><a href="/tlccc/about/">主の十字架総合サイト</a></li>
