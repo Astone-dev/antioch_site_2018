@@ -45,10 +45,22 @@ section {
   font-size:1.2em;
 }
 
+.event-1 .event-text3 p{
+  /* float:left; */
+  width:777px;
+  font-size:1.2em;
+  margin:0 auto;
+  padding-top:21px;
+  color:#FFF;
+}
+
 .event-1 .event-text2 p.event-span{
   margin-top:8px;
 }
 
+.event-1 .event-text3 p.event-span{
+  margin-top:8px;
+}
 
 .event-btn {
 	-moz-box-shadow:inset 0px 1px 0px 0px #cf866c;
