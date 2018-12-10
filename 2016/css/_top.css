@@ -46,7 +46,7 @@ section {
 }
 
 .event-1 .event-text3 p{
-  /* float:left; */
+  text-align: center;
   width:777px;
   font-size:1.2em;
   margin:0 auto;
@@ -58,9 +58,6 @@ section {
   margin-top:8px;
 }
 
-.event-1 .event-text3 p.event-span{
-  margin-top:8px;
-}
 
 .event-btn {
 	-moz-box-shadow:inset 0px 1px 0px 0px #cf866c;
