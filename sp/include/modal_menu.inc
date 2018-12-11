@@ -7,7 +7,7 @@
         <li><a href="/online/">礼拝生中継</a></li>
 		<li><a href="/meetings/">礼拝案内・礼拝時間</a></li>
 		<li><a href="/s_charisma.html">東京カリスマ聖会・地方のカリスマ聖会</a></li>
-		<li><a href="/tlccc/about/">CHRIST Church 永遠の、愛の恵みの光総合サイト</a></li>
+		<li><a href="/tlccc/about/">CHRIST Church 永遠の、愛の恵みの光 総合サイト</a></li>
 		<li><a href="/s_news.html">各集会案内・牧師紹介・伝道師紹介・週報</a></li>
         <li><a href="/s_akashi.html">神の救いと神に
   助けられた体験談</a></li>

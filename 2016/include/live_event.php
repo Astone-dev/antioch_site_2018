@@ -22,8 +22,8 @@
   			}
   		}
   		break;
-  	default: //日曜, 水曜, 土曜以外は表示させない
-		;
+  	default: //日曜, 水曜, 土曜以外
+			show_banner_broadcast_sp();
   }
   
   
@@ -56,13 +56,13 @@
   	 echo '</div></div>';
   }  
   
-/*  // 特別イベント用
+	// 特別イベント用
   function show_banner_broadcast_sp(){
-  	 echo '<div class="event-1"><div class="event-text">';
-  	 echo '<p class="event-span">吉祥寺J.GOSPEL FES 生中継 5月4日(水)10:40〜16:30</p><a href="http://www.ustream.tv/channel/L3wYA34Eusm" target="_blank" onclick="javascript: pageTracker._trackPageview(\'J.GOSPEL FES 生中継\');"><p class="event-btn">生中継はこちら</p></a>';
+  	 echo '<div class="event-1"><div class="event-text3">';
+  	 echo '<p class="event-span">教会の名前が、主の十字架クリスチャンセンター 東京アンテオケ教会から、<br>CHRIST Church 永遠の、愛の恵みの光 東京アンテオケ教会に変わりました。</p>';
   	 echo '</div></div>';
   }
-
+/*
  以下のテキストが上記で指定した日時に出力される
   <div class="event-1">
     <div class="event-text">

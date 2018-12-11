@@ -45,6 +45,15 @@ section {
   font-size:1.2em;
 }
 
+.event-1 .event-text3 p{
+  text-align: center;
+  width:777px;
+  font-size:1.2em;
+  margin:0 auto;
+  padding-top:21px;
+  color:#FFF;
+}
+
 .event-1 .event-text2 p.event-span{
   margin-top:8px;
 }
