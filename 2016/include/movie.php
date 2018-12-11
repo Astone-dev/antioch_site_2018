@@ -30,7 +30,7 @@
   <i class="icon-video"></i>
   <img src="/2016/images/top/1604merlin_m.jpg">
   </a>
-  <p class="block-title">マーリン・キャロザース師と<br>主の十字架の20年間の映像<br>2016年版</p>
+  <p class="block-title">マーリン・キャロザース師と<br>CHRIST Church 永遠の、愛の恵みの光 の20年間の映像<br>2016年版</p>
   <p class="block-time">視聴時間 15:13</p>
 </div>
 
