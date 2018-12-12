@@ -95,6 +95,13 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/1812yokohama/" target="_blank"><img src="/2016/images/top/1607treeoflife.jpg"></a>
+    <p class="block-date">日程：2018年12月13日</p>
+    <p class="block-title"><a href="http://astone.tv/events/1812yokohama/" target="_blank">Tree of Life  <br>横浜の福祉施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span>NEW</span>
     <a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚'); "><img src="/2016/images/top/1807taniguchigahaku.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚');">谷口画伯の今日の一枚<br>(Instagram)</a></p>
