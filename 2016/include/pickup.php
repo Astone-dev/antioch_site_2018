@@ -96,6 +96,7 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/1812yokohama/" target="_blank"><img src="/2016/images/top/1607treeoflife.jpg"></a>
     <p class="block-date">日程：2018年12月13日</p>
     <p class="block-title"><a href="http://astone.tv/events/1812yokohama/" target="_blank">Tree of Life  <br>横浜の福祉施設でゴスペルコンサート</a></p>
