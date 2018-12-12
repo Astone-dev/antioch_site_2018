@@ -26,7 +26,7 @@
 </div>
 
 <div class="column-inner">
-  <a href="/movie/201603-merline/" target="_blank">
+  <a href="http://tv.antioch.jp/digest/201603-merline/" target="_blank">
   <i class="icon-video"></i>
   <img src="/2016/images/top/1604merlin_m.jpg">
   </a>
@@ -35,7 +35,7 @@
 </div>
 
 <div class="column-inner">
-  <a href="/movie/201503-arai/" target="_blank">
+  <a href="http://tv.antioch.jp/digest/pastor_arai/" target="_blank">
   <i class="icon-video"></i>
   <img src="/2016/images/top/1604araisensei_m.jpg">
   </a>
