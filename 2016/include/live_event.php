@@ -59,7 +59,7 @@
 	// 特別イベント用
   function show_banner_broadcast_sp(){
   	 echo '<div class="event-1"><div class="event-text3">';
-  	 echo '<p class="event-span">教会の名前が、主の十字架クリスチャンセンター 東京アンテオケ教会から、<br>CHRIST Church 永遠の、愛の恵みの光 東京アンテオケ教会に変わりました。</p>';
+  	 echo '<p class="event-span">教会の名前が、主の十字架クリスチャンセンター 東京アンテオケ教会から、<br>The Light of Eternal Agape 東京アンテオケ教会に変わりました。</p>';
   	 echo '</div></div>';
   }
 /*
