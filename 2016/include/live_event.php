@@ -6,10 +6,15 @@
   switch ($youbi){
   	case "Sun":
   		if ( $hour >=6 && $hour <=20 ){show_banner_broadcast();}
+  		else {
+			show_banner_broadcast_sp();
+  		}
   		break;
   	case "Wed":
-//緊急で非表示対応	case "Wed_tmp_20180228":  //緊急で非表示対応
   		if ( $hour >=18 && $hour <= 20 ){show_banner_broadcast_wed();}
+  		else {
+			show_banner_broadcast_sp();
+  		}
   		break;
   	case "Sat": 
   		if ( $hour >=18 && $hour < 20 ){
@@ -20,6 +25,9 @@
   			}else if(intval(date("Ymd")) == intval(date("Ymd", strtotime('fourth sat of this month')))){
   				show_banner_broadcast_gospel();
   			}
+  		}
+  		else {
+			show_banner_broadcast_sp();
   		}
   		break;
   	default: //日曜, 水曜, 土曜以外
