@@ -38,7 +38,7 @@
 </div>
 
 <div class="column-inner"> <a href="/books/publications/"><img src="/2016/images/top/bt_tlcccbook.jpg"></a>
-  <p class="block-title"><span><a href="/books/publications/">CHRIST Church 永遠の、愛の恵みの光の出版物</a></span></p>
+  <p class="block-title"><span><a href="/books/publications/">TLEAの出版物</a></span></p>
 </div>
 
 <div class="column-inner"> <a href="/gospel/bookscd/"><img src="/2016/images/top/bt_kasyuucd.jpg"></a>
@@ -46,7 +46,7 @@
 </div>
 
 <div class="column-inner"> <a href="/books/digitalbooks/"><img src="/2016/images/top/bt_tlcccdigitalbook.jpg"></a>
-  <p class="block-title"><span><a href="/books/digitalbooks/">CHRIST Church 永遠の、愛の恵みの光の電子出版物</a></span></p>
+  <p class="block-title"><span><a href="/books/digitalbooks/">TLEAの電子出版物</a></span></p>
 </div>
 
 <div class="column-inner"> <a href="/testimonies/"><img src="/2016/images/top/bt_sukuitaiken.jpg"></a>
