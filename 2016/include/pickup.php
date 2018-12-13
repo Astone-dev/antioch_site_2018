@@ -46,9 +46,10 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span> 
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/patolis/181214/" target="_blank"><img src="/2016/images/top/1606patolisnerima.jpg"></a>
     <p class="block-date">日程：2018年12月14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181214/" target="_blank">PATOLISとThe Seventh Trumpet<br>練馬区のディサービスでボランティアコンサートディサービスでボランティアコンサート</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181214/" target="_blank">PATOLISとThe Seventh Trumpet<br>練馬区のディサービスでボランティアコンサート</a></p>
 </div>
 
 <div class="column-inner">
