@@ -39,17 +39,33 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/1812tocari" target="_blank"><img src="/2016/images/top/1612sanbixmasantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月15日～16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1812tocari" target="_blank">12月 東京カリスマ聖会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/faith1812/" target="_blank"><img src="/2016/images/top/1612sanbixmasantioch.jpg"></a>
     <p class="block-date">日程：2018年12月10日～16日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1812/" target="_blank">いよいよ冬本番<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span> 
+    <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/patolis/181214/" target="_blank"><img src="/2016/images/top/1606patolisnerima.jpg"></a>
-    <p class="block-date">日程：2018年12月14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181214/" target="_blank">PATOLISとThe Seventh Trumpet<br>練馬区のディサービスでボランティアコンサート</a></p>
+    <a href="http://antiochblog.jp/info/revival2017/181215/" target="_blank"><img src="/2016/images/top/1607revivalnightweek.jpg"></a>
+    <p class="block-date">日程：2018年12月15日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/181215/" target="_blank">12月 Revival Nightの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2018年12月15日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2018年12月15日 18:30スタート)</a></p>
 </div>
 
 <div class="column-inner">
@@ -99,6 +115,22 @@
     <a href="http://astone.tv/events/faith1812z/" target="_blank"><img src="/2016/images/top/1612sanbixmaszenkoku.jpg"></a>
     <p class="block-date">日程：2018年12月10日～16日</p>
     <p class="block-title"><a href="http://astone.tv/events/faith1812z/" target="_blank">いよいよ冬本番<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/181215/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
+    <p class="block-date">日程：2018年12月15日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181215/" target="_blank">エルサレム<br>岩槻西のグループホームでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gracejewel2017/181215/  " target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
+    <p class="block-date">日程：2018年12月15日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/181215/  " target="_blank">GRACEと宝石<br>東中野の特別養護老人ホームでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -195,18 +227,25 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span> 
+    <a href="http://antiochblog.jp/praise/patolis/181214/" target="_blank"><img src="/2016/images/top/1606patolisnerima.jpg"></a>
+    <p class="block-date">日程：2018年12月14日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181214/" target="_blank">PATOLISとThe Seventh Trumpet<br>練馬区のディサービスでボランティアコンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://astone.tv/events/1812yokohama/" target="_blank"><img src="/2016/images/top/1607treeoflife.jpg"></a>
     <p class="block-date">日程：2018年12月13日</p>
     <p class="block-title"><a href="http://astone.tv/events/1812yokohama/" target="_blank">Tree of Life  <br>横浜の福祉施設でゴスペルコンサート</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/181211/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
     <p class="block-date">日程：2018年12月11日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181211/" target="_blank">エルサレム<br>三郷のオレンジカフェでゴスペル</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
