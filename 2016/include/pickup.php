@@ -76,9 +76,8 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
-    <a href="http://tv.antioch.jp/digest/israel-70-aniversary/" target="_blank"><img src="/2016/images/top/1811israeldigest_3.jpg"></a>
-    <p class="block-date">日程：2018年10月29日〜11月10日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/israel-70-aniversary/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>70th Aniversaryバージョン<br>(再生時間 7:24)</a></p>
+    <a href="http://tv.antioch.jp/digest/2019hcff-cm/" target="_blank"><img src="/2016/images/top/1812hcff_cm.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hcff-cm/" target="_blank">白馬クリスチャンフイルムフェスティバル2019<br>CM<br>(日時 2019年2月28日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -100,6 +99,13 @@
     <a href="http://astone.tv/events/faith1812z/" target="_blank"><img src="/2016/images/top/1612sanbixmaszenkoku.jpg"></a>
     <p class="block-date">日程：2018年12月10日～16日</p>
     <p class="block-title"><a href="http://astone.tv/events/faith1812z/" target="_blank">いよいよ冬本番<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span>NEW</span>
+    <a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1812tocharidigest_p.jpg"></a>
+    <p class="block-date">日程：2018年11月11日</p>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">11月 東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
 </div>
 
 <div class="column-inner">
@@ -153,6 +159,13 @@
 <p class="block-date">毎日7:00更新</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://tv.antioch.jp/digest/israel-70-aniversary/" target="_blank"><img src="/2016/images/top/1811israeldigest_3.jpg"></a>
+    <p class="block-date">日程：2018年10月29日〜11月10日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/israel-70-aniversary/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>70th Aniversaryバージョン<br>(再生時間 7:24)</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-2">動画</span>
