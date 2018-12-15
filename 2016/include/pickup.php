@@ -61,18 +61,18 @@
 </div>
 
 <div class="column-inner">
+    <span>NEW</span>    
+    <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1811kokorogospel31th.jpg"></a>
+    <p class="block-date">日程：2018年12月24日</p>
+    <p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 31th<br>インフォメーション<br>(日時 2018年12月24日 19:00〜)</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/201812-kokorogoscm/" target="_blank"><img src="/2016/images/top/1811kokorogospel_cm.jpg"></a>
     <p class="block-date">日程：2018年12月24日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201812-kokorogoscm/" target="_blank">こころごすぺる<br>紹介動画<br>(再生時間 1:15)</a></p>
-</div>
-
-<div class="column-inner">
-    <span>NEW</span>    
-    <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1811kokorogospel31th.jpg"></a>
-    <p class="block-date">日程：2018年12月24日</p>
-    <p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 31th<br>インフォメーション<br>(日時 2018年12月24日 19:00〜)</a></p>
 </div>
 
 <div class="column-inner">
@@ -84,8 +84,15 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
+    <a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank"><img src="/2016/images/top/1812hcff_cm.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>CM映像<br>(再生時間 2:17)<br>(日時 2019年2月28日)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/2019hcff-cm/" target="_blank"><img src="/2016/images/top/1812hcff_cm.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hcff-cm/" target="_blank">白馬クリスチャンフイルムフェスティバル2019<br>CM<br>(日時 2019年2月28日)</a></p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hcff-cm/" target="_blank">白馬クリスチャンフイルムフェスティバル2019<br>CM映像<br>(再生時間 1:51)<br>(日時 2019年2月28日)</a></p>
 </div>
 
 <div class="column-inner">
