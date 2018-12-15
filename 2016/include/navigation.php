@@ -52,7 +52,7 @@
           <a href="#" class="t-bold">TLEAについて</a>
           <div class="header--nav--sub__wrap">
             <ul class="header--nav--sub__ul">
-              <li><a href="/tlccc/about/">TELA総合サイト</a></li>
+              <li><a href="/tlccc/about/">TLEA総合サイト</a></li>
               <li><a href="http://astone-blog.jp/zenkoku/">地方のカリスマ聖会</a></li>
               <li><a href="/link/">全国の各教会リンク</a></li>
               <li><a href="/gospelclub/">全国のゴスペルクラブ紹介</a></li>
@@ -71,7 +71,7 @@
             </ul>
           </div>
         </li>
-
+ 
         <!-- nav03 -->
         <li class="header--nav__item navn03">
           <a href="/antiochtv/" class="t-bold">AntiochTV</a>
