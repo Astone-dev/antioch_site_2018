@@ -84,7 +84,7 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
-    <a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank"><img src="/2016/images/top/1812hcff_cm.jpg"></a>
+    <a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank"><img src="/2016/images/top/1812sunerugoi_cm.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>CM映像<br>(再生時間 2:17)<br>(日時 2019年2月28日)</a></p>
 </div>
 
