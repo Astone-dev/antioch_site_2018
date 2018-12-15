@@ -41,7 +41,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/1812tocari" target="_blank"><img src="/2016/images/top/1704cari.jpg"></a>
     <p class="block-date">日程：2018年12月15日～16日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1812tocari" target="_blank">12月 東京カリスマ聖会</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1812tocari" target="_blank">師走の東京カリスマ聖会<br>スタッフ大忙し<br>(日程：2018年12月16日)</a></p>
 </div>
 
 <div class="column-inner">
