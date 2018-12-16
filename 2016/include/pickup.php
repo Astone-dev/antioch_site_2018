@@ -39,26 +39,26 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/1812tocari" target="_blank"><img src="/2016/images/top/1704cari.jpg"></a>
-    <p class="block-date">日程：2018年12月15日～16日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1812tocari" target="_blank">師走の東京カリスマ聖会<br>スタッフ大忙し<br>(日程：2018年12月16日)</a></p>
+    <a href="http://antiochblog.jp/praise/thanks1812/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月16日～23日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1812/" target="_blank">冬休み直前<br>東京アンテオケ教会の一週間<br>(日程：2018年12月16日)</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/faith1812/" target="_blank"><img src="/2016/images/top/1612sanbixmasantioch.jpg"></a>
-    <p class="block-date">日程：2018年12月10日～16日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1812/" target="_blank">いよいよ冬本番<br>東京アンテオケ教会の一週間</a></p>
+    <a href="http://astone.tv/events/whiteseason1812/" target="_blank"><img src="/2016/images/top/1712sanbitaiantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月16日～23日</p>
+    <p class="block-title"><a href="http://astone.tv/events/whiteseason1812/" target="_blank">ホワイトシーズン<br>賛美隊大爆発</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/euqaristias/20181216shinjuku/" target="_blank"><img src="/2016/images/top/1610eukarishinjyuku.jpg"></a>
-    <p class="block-date">日程：2018年12月16日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20181216shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペルコンサート</a></p>
-</div>
+    <a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
+    <p class="block-date">日程：2018年12月16日～23日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank">いよいよ冬本番こころごすぺるに向かって<br>出演者、スタッフてんやわんやの一週間</a></p>
+</div>      
 
 <div class="column-inner">
     <span>NEW</span>    
@@ -111,9 +111,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/faith1812z/" target="_blank"><img src="/2016/images/top/1612sanbixmaszenkoku.jpg"></a>
+    <a href="http://astone.tv/events/thanks1812z/" target="_blank"><img src="/2016/images/top/1712fuyuasumiantioch.jpg"></a>
     <p class="block-date">日程：2018年12月10日～16日</p>
-    <p class="block-title"><a href="http://astone.tv/events/faith1812z/" target="_blank">いよいよ冬本番<br>全国各教会の一週間</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/thanks1812z/" target="_blank">冬休み直前<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -207,6 +207,34 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/1812tocari" target="_blank"><img src="/2016/images/top/1704cari.jpg"></a>
+    <p class="block-date">日程：2018年12月15日～16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1812tocari" target="_blank">師走の東京カリスマ聖会<br>スタッフ大忙し<br>(日程：2018年12月16日)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/faith1812/" target="_blank"><img src="/2016/images/top/1612sanbixmasantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月10日～16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1812/" target="_blank">いよいよ冬本番<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/euqaristias/20181216shinjuku/" target="_blank"><img src="/2016/images/top/1610eukarishinjyuku.jpg"></a>
+    <p class="block-date">日程：2018年12月16日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20181216shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/faith1812z/" target="_blank"><img src="/2016/images/top/1612sanbixmaszenkoku.jpg"></a>
+    <p class="block-date">日程：2018年12月10日～16日</p>
+    <p class="block-title"><a href="http://astone.tv/events/faith1812z/" target="_blank">いよいよ冬本番<br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
