@@ -58,7 +58,14 @@
     <a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
     <p class="block-date">日程：2018年12月16日～23日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank">いよいよ冬本番こころごすぺるに向かって<br>出演者、スタッフてんやわんやの一週間</a></p>
-</div>  
+</div> 
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>    
+    <a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank"><img src="/2016/images/top/1812reonkakawari_m.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank">30年待ち望み続けた奇跡<br>ーロシア系ユダヤ人との関わりー<br>映像<br>(再生時間 9:52)</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span> 
@@ -112,8 +119,8 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="https://www.youtube.com/watch?v=1hZNSSYjYh0" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/181210giftstv.jpg"></a>
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=1hZNSSYjYh0" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃029<br>ゴスペルグループGiftsの<br>ワイワイYouTube動画<br>(12月10日UP!)</a></p>
+    <a href="https://www.youtube.com/watch?v=0ktAJL1J8xc" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/181217giftstv.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=0ktAJL1J8xc" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃30<br>ゴスペルグループGiftsの<br>ワイワイYouTube動画<br>(12月17日UP!)</a></p>
 </div>
 
 <div class="column-inner">
