@@ -79,7 +79,7 @@
     <span>NEW</span>    
     <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1811kokorogospel31th.jpg"></a>
     <p class="block-date">日程：2018年12月24日</p>
-    <p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 31th<br>インフォメーション<br>(日時 2018年12月24日 19:00〜)</a></p>
+    <p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 31st<br>インフォメーション<br>(日時 2018年12月24日 19:00〜)</a></p>
 </div>
 
 <div class="column-inner">
