@@ -39,6 +39,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
+    <p class="block-date">日程：2018年12月16日～23日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank">いよいよ来週！<br>こころごすぺるに向かって<br>出演者、スタッフてんやわんやの一週間</a></p>
+</div> 
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/thanks1812/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
     <p class="block-date">日程：2018年12月16日～23日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1812/" target="_blank">冬休み直前<br>東京アンテオケ教会の一週間<br>(日程：2018年12月16日)</a></p>
@@ -51,14 +59,6 @@
     <p class="block-date">日程：2018年12月16日～23日</p>
     <p class="block-title"><a href="http://astone.tv/events/whiteseason1812/" target="_blank">ホワイトシーズン<br>賛美隊大爆発</a></p>
 </div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
-    <p class="block-date">日程：2018年12月16日～23日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank">いよいよ冬本番こころごすぺるに向かって<br>出演者、スタッフてんやわんやの一週間</a></p>
-</div> 
 
 <div class="column-inner">
     <span class="label-2">動画</span>
