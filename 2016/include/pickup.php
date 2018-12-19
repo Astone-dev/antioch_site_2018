@@ -68,14 +68,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span> 
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/patolis/181218/" target="_blank"><img src="/2016/images/top/1606patolisnerima.jpg"></a>
-    <p class="block-date">日程：2018年12月18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181218/" target="_blank">PATOLIS<br>西早稲田の老人施設でのコンサート</a></p>
-</div>
-
-<div class="column-inner">
     <span>NEW</span>    
     <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1811kokorogospel31th.jpg"></a>
     <p class="block-date">日程：2018年12月24日</p>
@@ -222,6 +214,13 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span> 
+    <a href="http://antiochblog.jp/praise/patolis/181218/" target="_blank"><img src="/2016/images/top/1606patolisnerima.jpg"></a>
+    <p class="block-date">日程：2018年12月18日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181218/" target="_blank">PATOLIS<br>西早稲田の老人施設でのコンサート</a></p>
 </div>
 
 <div class="column-inner">
