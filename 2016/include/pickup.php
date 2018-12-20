@@ -61,6 +61,22 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/uranos2017/181221/" target="_blank"><img src="/2016/images/top/1605uranosuconcert.jpg"></a>
+    <p class="block-date">日程：2018年12月21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/181221/" target="_blank">ウラノス<br>あきる野市の授産施設のクリスマス会でミニコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/gate2018/181221/" target="_blank"><img src="/2016/images/top/1606gateofnerima.jpg"></a>
+    <p class="block-date">日程：2018年12月21日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gate2018/181221/" target="_blank">The Gate of Praise <br>川崎の老健でコンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank"><img src="/2016/images/top/1812reonkakawari_m.jpg"></a>
