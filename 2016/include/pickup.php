@@ -63,17 +63,25 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/uranos2017/181221/" target="_blank"><img src="/2016/images/top/1605uranosuconcert.jpg"></a>
-    <p class="block-date">日程：2018年12月21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/181221/" target="_blank">ウラノス<br>あきる野市の授産施設のクリスマス会でミニコンサート</a></p>
+    <a href="http://antiochblog.jp/info/gifts/181222/" target="_blank"><img src="/2016/images/top/1612giftschibaion.jpg"></a>
+    <p class="block-date">日程：2018年12月22日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/181222/" target="_blank">Gifts<br>千葉のイオンでコンサート</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/gate2018/181221/" target="_blank"><img src="/2016/images/top/1606gateofnerima.jpg"></a>
-    <p class="block-date">日程：2018年12月21日</p>
-    <p class="block-title"><a href="http://astone.tv/events/gate2018/181221/" target="_blank">The Gate of Praise <br>川崎の老健でコンサート</a></p>
+    <a href="http://antiochblog.jp/praise/truevine/181222/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
+    <p class="block-date">日程：2018年12月22日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/truevine/181222/" target="_blank">True Vine<br>甲府市の公民館でのクリスマスコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/euqaristias/20181222heiwajima/" target="_blank"><img src="/2016/images/top/1610eukarishinjyuku.jpg"></a>
+    <p class="block-date">日程：2018年12月22日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20181222heiwajima/" target="_blank">エウカリスティアス<br>平和島の施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -137,6 +145,30 @@
     <a href="http://astone.tv/events/thanks1812z/" target="_blank"><img src="/2016/images/top/1712fuyuasumiantioch.jpg"></a>
     <p class="block-date">日程：2018年12月10日～16日</p>
     <p class="block-title"><a href="http://astone.tv/events/thanks1812z/" target="_blank">冬休み直前<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/181222/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
+    <p class="block-date">日程：2018年12月22日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181222/" target="_blank">エルサレム<br>さいたま市岩槻 デイケアでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/gate2018/181222/" target="_blank"><img src="/2016/images/top/1606gateofnerima.jpg"></a>
+    <p class="block-date">日程：2018年12月22日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gate2018/181222/" target="_blank">The Gate of Praise <br>練馬区の老健でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/gracious/181222/" target="_blank"><img src="/2016/images/top/1606gracioustonai.jpg"></a>
+    <p class="block-date">日程：2018年12月22日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/181222/" target="_blank">GRACIOUS DOORS<br>都内デイサ━ビスで、ボランティア・コンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -226,18 +258,34 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/uranos2017/181221/" target="_blank"><img src="/2016/images/top/1605uranosuconcert.jpg"></a>
+    <p class="block-date">日程：2018年12月21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/181221/" target="_blank">ウラノス<br>あきる野市の授産施設のクリスマス会でミニコンサート</a></p>
+</div>
+
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/gate2018/181221/" target="_blank"><img src="/2016/images/top/1606gateofnerima.jpg"></a>
+    <p class="block-date">日程：2018年12月21日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gate2018/181221/" target="_blank">The Gate of Praise <br>川崎の老健でコンサート</a></p>
+</div>-->
+
+<div class="column-inner">
     <span class="label-1">ブログ</span> 
     <a href="http://antiochblog.jp/praise/patolis/181218/" target="_blank"><img src="/2016/images/top/1606patolisnerima.jpg"></a>
     <p class="block-date">日程：2018年12月18日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181218/" target="_blank">PATOLIS<br>西早稲田の老人施設でのコンサート</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/181217/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
     <p class="block-date">日程：2018年12月17日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181217/" target="_blank">エルサレム<br>三郷市の施設でゴスペル教室</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -253,12 +301,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1812/" target="_blank">いよいよ冬本番<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://astone.tv/events/euqaristias/20181216shinjuku/" target="_blank"><img src="/2016/images/top/1610eukarishinjyuku.jpg"></a>
     <p class="block-date">日程：2018年12月16日</p>
     <p class="block-title"><a href="http://astone.tv/events/euqaristias/20181216shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -288,19 +336,19 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/181215/  " target="_blank">GRACEと宝石<br>東中野の特別養護老人ホームでゴスペルコンサート</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/gifts/181208/" target="_blank"><img src="/2016/images/top/1701giftsnagaoka.jpg"></a>
     <p class="block-date">日程：2018年12月8日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/gifts/181208/" target="_blank">Gifts<br>三鷹の施設でコンサート</a></p>
-</div>
+</div>-->
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/truevine/181208/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
     <p class="block-date">日程：2018年12月8日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/truevine/181208/" target="_blank">True Vine<br>山梨県南アルプス市の教会でコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-2">動画</span>
