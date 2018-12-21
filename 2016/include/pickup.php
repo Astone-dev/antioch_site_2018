@@ -141,13 +141,6 @@
 
 <div class="column-inner">
     <span>NEW</span>
-    <a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1812tocharidigest_p.jpg"></a>
-    <p class="block-date">日程：2018年11月11日</p>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">11月 東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
-</div>
-
-<div class="column-inner">
-    <span>NEW</span>
     <a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚'); "><img src="/2016/images/top/1807taniguchigahaku.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/yohane_taniguchi/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-谷口画伯の今日の一枚');">谷口画伯の今日の一枚<br>(Instagram)</a></p>
 </div>
@@ -295,50 +288,6 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/181215/  " target="_blank">GRACEと宝石<br>東中野の特別養護老人ホームでゴスペルコンサート</a></p>
 </div>
 
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span> 
-    <a href="http://antiochblog.jp/praise/patolis/181214/" target="_blank"><img src="/2016/images/top/1606patolisnerima.jpg"></a>
-    <p class="block-date">日程：2018年12月14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/181214/" target="_blank">PATOLISとThe Seventh Trumpet<br>練馬区のディサービスでボランティアコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/1812yokohama/" target="_blank"><img src="/2016/images/top/1607treeoflife.jpg"></a>
-    <p class="block-date">日程：2018年12月13日</p>
-    <p class="block-title"><a href="http://astone.tv/events/1812yokohama/" target="_blank">Tree of Life  <br>横浜の福祉施設でゴスペルコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/181211/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
-    <p class="block-date">日程：2018年12月11日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181211/" target="_blank">エルサレム<br>三郷のオレンジカフェでゴスペル</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="
-http://antiochblog.jp/praise/dec2018/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
-    <p class="block-date">日程：2018年12月2日～9日</p>
-    <p class="block-title"><a href="
-http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教会 冬の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/2018women/201812/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
-    <p class="block-date">日程：2018年12月9日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201812/" target="_blank">婦人会<br>牛すじカレーと牛すじシチューを食べる</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/dec2018z/" target="_blank"><img src="/2016/images/top/1712fuyuasumiantioch.jpg"></a>
-    <p class="block-date">日程：2018年12月2日～9日</p>
-    <p class="block-title"><a href="http://astone.tv/events/dec2018z/" target="_blank">全国各教会 冬の一週間</a></p>
-</div>
-
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/gifts/181208/" target="_blank"><img src="/2016/images/top/1701giftsnagaoka.jpg"></a>
@@ -354,38 +303,10 @@ http://antiochblog.jp/praise/dec2018/" target="_blank">東京アンテオケ教�
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/1812concert/" target="_blank"><img src="/2016/images/top/1705joyasagaya.jpg"></a>
-    <p class="block-date">日程：2018年12月8日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1812concert/" target="_blank">JOY,プレジール<br>横浜のイベントでチャリティーでコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017healing/181208/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-    <p class="block-date">日程：2018年12月8日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/181208/" target="_blank">12月 いやしの集いの一日</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/181206/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
-    <p class="block-date">日程：2018年12月6日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/181206/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="/onsei/2019newyearworship.html" target="_blank"><img src="/2016/images/top/181104israelnewyear_m.jpg"></a>
     <p class="block-date">日程：2017年11月04日</p>
     <p class="block-title"><a href="/onsei/2019newyearworship.html" target="_blank">イスラエルチーム新年度礼拝 アーカイブ版</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://blog.antioch.jp/1811israel/" target="_blank"><img src="/2016/images/top/1610israelchokuzen.jpg"></a>
-    <p class="block-date">日程：2018年10月29日〜11月10日</p>
-    <p class="block-title"><a href="http://blog.antioch.jp/1811israel/" target="_blank">いよいよ出発<br>イスラエルチーム<br>写真集<br>(チーム日程：2018年10月29日〜11月10日)</a></p>
 </div>
 
 <!--<div class="column-inner">
