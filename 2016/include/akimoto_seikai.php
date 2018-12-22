@@ -2,5 +2,5 @@
                 <ul>   
                   <li>12/29 千葉 13：30～</li> 
                     
-                  <!--<p><a href="/meetings/akimoto.html">→詳しくはこちらをクリック</a></p>-->
+                  <p><a href="/meetings/akimoto.html">→詳しくはこちらをクリック</a></p>
                 </ul>
