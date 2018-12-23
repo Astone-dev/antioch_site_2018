@@ -40,24 +40,16 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
-    <p class="block-date">日程：2018年12月16日～23日</p>
+    <p class="block-date">日程：2018年12月16日～24日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank">いよいよ来週！<br>こころごすぺるに向かって<br>出演者、スタッフてんやわんやの一週間</a></p>
 </div> 
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/thanks1812/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
-    <p class="block-date">日程：2018年12月16日～23日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1812/" target="_blank">冬休み直前<br>東京アンテオケ教会の一週間<br>(日程：2018年12月16日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/whiteseason1812/" target="_blank"><img src="/2016/images/top/1712sanbitaiantioch.jpg"></a>
-    <p class="block-date">日程：2018年12月16日～23日</p>
-    <p class="block-title"><a href="http://astone.tv/events/whiteseason1812/" target="_blank">ホワイトシーズン<br>賛美隊大爆発</a></p>
+    <a href="http://antiochblog.jp/praise/light1812/" target="_blank"><img src="/2016/images/top/1712nenmatsuantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月24日～30日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/light1812/" target="_blank">アンテオケ教会<br>2018年年末の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -118,17 +110,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/thanks1812z/" target="_blank"><img src="/2016/images/top/1712fuyuasumiantioch.jpg"></a>
-    <p class="block-date">日程：2018年12月10日～16日</p>
-    <p class="block-title"><a href="http://astone.tv/events/thanks1812z/" target="_blank">冬休み直前<br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/2017byhisspirit/181223/" target="_blank"><img src="/2016/images/top/1605byhis.jpg"></a>
-    <p class="block-date">日程：2018年12月23日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/181223/" target="_blank">By His spirit<br>世田谷の高齢者施設と高円寺のレストランでゴスペルコンサート</a></p>
+    <a href="http://astone.tv/events/light1812z/" target="_blank"><img src="/2016/images/top/1712nenmatsuzenkoku.jpg"></a>
+    <p class="block-date">日程：2018年12月24日～30日</p>
+    <p class="block-title"><a href="http://astone.tv/events/thanks1812z/" target="_blank">全国各教会<br>2018年年末の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -215,6 +199,34 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/thanks1812/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月16日～23日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1812/" target="_blank">冬休み直前<br>東京アンテオケ教会の一週間<br>(日程：2018年12月16日)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/whiteseason1812/" target="_blank"><img src="/2016/images/top/1712sanbitaiantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月16日～23日</p>
+    <p class="block-title"><a href="http://astone.tv/events/whiteseason1812/" target="_blank">ホワイトシーズン<br>賛美隊大爆発</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/thanks1812z/" target="_blank"><img src="/2016/images/top/1712fuyuasumiantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月10日～16日</p>
+    <p class="block-title"><a href="http://astone.tv/events/thanks1812z/" target="_blank">冬休み直前<br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/2017byhisspirit/181223/" target="_blank"><img src="/2016/images/top/1605byhis.jpg"></a>
+    <p class="block-date">日程：2018年12月23日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/181223/" target="_blank">By His spirit<br>世田谷の高齢者施設と高円寺のレストランでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
