@@ -112,7 +112,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/light1812z/" target="_blank"><img src="/2016/images/top/1712nenmatsuzenkoku.jpg"></a>
     <p class="block-date">日程：2018年12月24日～30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/thanks1812z/" target="_blank">全国各教会<br>2018年年末の一週間</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/light1812z/" target="_blank">全国各教会<br>2018年年末の一週間</a></p>
 </div>
 
 <div class="column-inner">
