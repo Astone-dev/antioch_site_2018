@@ -39,14 +39,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
-    <p class="block-date">日程：2018年12月16日～24日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank">いよいよ今日！<br>こころごすぺる本番<br>出演者、スタッフてんやわんやの一週間</a></p>
-</div> 
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/light1812/" target="_blank"><img src="/2016/images/top/1712nenmatsuantioch.jpg"></a>
     <p class="block-date">日程：2018年12月24日～30日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/light1812/" target="_blank">アンテオケ教会<br>2018年年末の一週間</a></p>
@@ -57,21 +49,6 @@
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank"><img src="/2016/images/top/1812reonkakawari_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank">30年待ち望み続けた奇跡<br>ーロシア系ユダヤ人との関わりー<br>映像<br>(再生時間 9:52)</a></p>
-</div>
-
-<div class="column-inner">
-    <span>NEW</span>    
-    <a href="http://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1811kokorogospel31th.jpg"></a>
-    <p class="block-date">日程：2018年12月24日</p>
-    <p class="block-title"><a href="http://gospelconcert.jp" target="_blank">こころごすぺる 31st<br>インフォメーション<br>(日時 2018年12月24日 19:00〜)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>    
-    <a href="http://tv.antioch.jp/digest/201812-kokorogoscm/" target="_blank"><img src="/2016/images/top/1811kokorogospel_cm.jpg"></a>
-    <p class="block-date">日程：2018年12月24日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201812-kokorogoscm/" target="_blank">こころごすぺる<br>紹介動画<br>(再生時間 1:15)</a></p>
 </div>
 
 <div class="column-inner">
@@ -200,6 +177,13 @@
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
 </div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
+    <p class="block-date">日程：2018年12月16日～24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank">いよいよ今日！<br>こころごすぺる本番<br>出演者、スタッフてんやわんやの一週間</a></p>
+</div> 
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
