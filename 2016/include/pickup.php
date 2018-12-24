@@ -41,7 +41,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank"><img src="/2016/images/top/1711kokorogospelnimukatte.jpg"></a>
     <p class="block-date">日程：2018年12月16日～24日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank">いよいよ来週！<br>こころごすぺるに向かって<br>出演者、スタッフてんやわんやの一週間</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/kokorogospel1812/" target="_blank">いよいよ今日！<br>こころごすぺる本番<br>出演者、スタッフてんやわんやの一週間</a></p>
 </div> 
 
 <div class="column-inner">
