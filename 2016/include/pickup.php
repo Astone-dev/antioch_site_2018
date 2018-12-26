@@ -96,8 +96,8 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/uranos2017/181227/" target="_blank"><img src="/2016/images/top/1605uranosuconcert.jpg"></a>
-    <p class="block-date">日程：2018年12月21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/181227/" target="_blank">ウラノス<br>小平の国立病院でゴスペルコンサート</a></p>
+    <p class="block-date">日程：2018年12月27日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/181227/" target="_blank">ウラノス <br>小平の国立病院でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
