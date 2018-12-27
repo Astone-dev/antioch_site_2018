@@ -45,6 +45,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/gifts/181228/" target="_blank"><img src="/2016/images/top/1703giftschiba.jpg"></a>
+    <p class="block-date">日程：2018年12月28日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/181228/" target="_blank">Gifts<br>柏でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank"><img src="/2016/images/top/1812reonkakawari_m.jpg"></a>
@@ -90,14 +98,6 @@
     <a href="http://astone.tv/events/light1812z/" target="_blank"><img src="/2016/images/top/1712nenmatsuzenkoku.jpg"></a>
     <p class="block-date">日程：2018年12月24日～30日</p>
     <p class="block-title"><a href="http://astone.tv/events/light1812z/" target="_blank">全国各教会<br>2018年年末の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/uranos2017/181227/" target="_blank"><img src="/2016/images/top/1605uranosuconcert.jpg"></a>
-    <p class="block-date">日程：2018年12月27日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/181227/" target="_blank">ウラノス <br>小平の国立病院でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -195,6 +195,13 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/uranos2017/181227/" target="_blank"><img src="/2016/images/top/1605uranosuconcert.jpg"></a>
+    <p class="block-date">日程：2018年12月27日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/181227/" target="_blank">ウラノス <br>小平の国立病院でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/thanks1812/" target="_blank"><img src="/2016/images/top/1712fuyuantioch.jpg"></a>
     <p class="block-date">日程：2018年12月16日～23日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1812/" target="_blank">冬休み直前<br>東京アンテオケ教会の一週間<br>(日程：2018年12月16日)</a></p>
@@ -221,12 +228,12 @@
     <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/181223/" target="_blank">By His spirit<br>世田谷の高齢者施設と高円寺のレストランでゴスペルコンサート</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/gifts/181222/" target="_blank"><img src="/2016/images/top/1612giftschibaion.jpg"></a>
     <p class="block-date">日程：2018年12月22日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/gifts/181222/" target="_blank">Gifts<br>千葉のイオンでコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
