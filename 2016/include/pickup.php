@@ -39,17 +39,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/light1812/" target="_blank"><img src="/2016/images/top/1712nenmatsuantioch.jpg"></a>
-    <p class="block-date">日程：2018年12月24日～30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/light1812/" target="_blank">アンテオケ教会<br>2018年年末の一週間</a></p>
+    <a href="http://astone.tv/events/chiba1812/" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
+    <p class="block-date">日程：2018年12月29日</p>
+    <p class="block-title"><a href="http://astone.tv/events/chiba1812/" target="_blank">冬晴れの千葉を行く<br>関東宣教の旅 Giftsも歌う</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gifts/181228/" target="_blank"><img src="/2016/images/top/1703giftschiba.jpg"></a>
-    <p class="block-date">日程：2018年12月28日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/181228/" target="_blank">Gifts<br>柏でゴスペルコンサート</a></p>
+    <a href="http://antiochblog.jp/praise/light1812/" target="_blank"><img src="/2016/images/top/1712nenmatsuantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月24日～30日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/light1812/" target="_blank">アンテオケ教会<br>2018年年末の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -120,6 +120,13 @@
     <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('TLEA各教会のインスタ動画');">短い動画で見る<br>TLEA全国各教会</a></p>
 </div>
 
+<!--<div class="column-inner">
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/smilehappy/" target="_blank"><img src="/2016/images/top/1810yorimichi35.jpg"></a>
+    <p class="block-date">毎日7:00更新</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/smilehappy/" target="_blank">クリスチャンの寄り道 Vol.36<br>今回は「今まででハッピーと思って笑顔になったこと」のお話です</a></p>
+</div>-->
+
 <div class="column-inner">
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/healmymind/" target="_blank"><img src="/2016/images/top/1810yorimichi35.jpg"></a>
@@ -184,6 +191,13 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gifts/181228/" target="_blank"><img src="/2016/images/top/1703giftschiba.jpg"></a>
+    <p class="block-date">日程：2018年12月28日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/181228/" target="_blank">Gifts<br>柏でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
