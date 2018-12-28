@@ -41,7 +41,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/chiba1812/" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
     <p class="block-date">日程：2018年12月29日</p>
-    <p class="block-title"><a href="http://astone.tv/events/chiba1812/" target="_blank">冬晴れの千葉を行く<br>関東宣教の旅 Giftsも歌う</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/chiba1812/" target="_blank">師走の関東を行く<br>千葉聖会</a></p>
 </div>
 
 <div class="column-inner">
