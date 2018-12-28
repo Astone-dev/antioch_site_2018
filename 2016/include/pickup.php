@@ -120,12 +120,12 @@
     <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('TLEA各教会のインスタ動画');">短い動画で見る<br>TLEA全国各教会</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/smilehappy/" target="_blank"><img src="/2016/images/top/1810yorimichi35.jpg"></a>
+    <a href="http://antiochblog.jp/info/smilehappy/" target="_blank"><img src="/2016/images/top/1812yorimichi36.jpg"></a>
     <p class="block-date">毎日7:00更新</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/smilehappy/" target="_blank">クリスチャンの寄り道 Vol.36<br>今回は「今まででハッピーと思って笑顔になったこと」のお話です</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
     <span>NEW</span>
