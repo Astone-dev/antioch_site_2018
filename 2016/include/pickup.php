@@ -39,17 +39,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/chiba1812/" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
-    <p class="block-date">日程：2018年12月29日</p>
-    <p class="block-title"><a href="http://astone.tv/events/chiba1812/" target="_blank">師走の関東を行く<br>千葉聖会</a></p>
+    <a href="http://antiochblog.jp/praise/light1812/" target="_blank"><img src="/2016/images/top/1712nenmatsuantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月24日～30日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/light1812/" target="_blank">アンテオケ教会<br>2018年年末の一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/light1812/" target="_blank"><img src="/2016/images/top/1712nenmatsuantioch.jpg"></a>
-    <p class="block-date">日程：2018年12月24日～30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/light1812/" target="_blank">アンテオケ教会<br>2018年年末の一週間</a></p>
+    <a href="http://antiochblog.jp/info/concert1812/" target="_blank"><img src="/2016/images/top/1612nenmatsuconcert.jpg"></a>
+    <p class="block-date">日程：2018年12月30日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/concert1812/" target="_blank">年末コンサート <br>出演グループとスタッフ大忙し</a></p>
 </div>
 
 <div class="column-inner">
@@ -80,6 +80,22 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/light1812z/" target="_blank"><img src="/2016/images/top/1712nenmatsuzenkoku.jpg"></a>
+    <p class="block-date">日程：2018年12月24日～30日</p>
+    <p class="block-title"><a href="http://astone.tv/events/light1812z/" target="_blank">全国各教会<br>2018年年末の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/happyday2017/181230/" target="_blank"><img src="/2016/images/top/1701ohhappyday.jpg"></a>
+    <p class="block-date">日程：2018年12月30日</p>
+    <p class="block-title"><a href="http://astone.tv/events/happyday2017/181230/" target="_blank">OH! HAPPY DAY!の一日</a></p>
+</div>
+
+<div class="column-inner">
     <span>NEW</span>
     <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
@@ -90,14 +106,6 @@
     <span>NEW</span>
     <a href="https://www.youtube.com/watch?v=0ktAJL1J8xc" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/181217giftstv.jpg"></a>
     <p class="block-title"><a href="https://www.youtube.com/watch?v=0ktAJL1J8xc" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃30<br>ゴスペルグループGiftsの<br>ワイワイYouTube動画<br>(12月17日UP!)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/light1812z/" target="_blank"><img src="/2016/images/top/1712nenmatsuzenkoku.jpg"></a>
-    <p class="block-date">日程：2018年12月24日～30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/light1812z/" target="_blank">全国各教会<br>2018年年末の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -191,6 +199,13 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/chiba1812/" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
+    <p class="block-date">日程：2018年12月29日</p>
+    <p class="block-title"><a href="http://astone.tv/events/chiba1812/" target="_blank">師走の関東を行く<br>千葉聖会</a></p>
 </div>
 
 <div class="column-inner">
