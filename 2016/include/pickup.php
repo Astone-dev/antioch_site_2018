@@ -39,17 +39,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/light1812/" target="_blank"><img src="/2016/images/top/1712nenmatsuantioch.jpg"></a>
-    <p class="block-date">日程：2018年12月24日～30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/light1812/" target="_blank">アンテオケ教会<br>2018年年末の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/concert1812/" target="_blank"><img src="/2016/images/top/1612nenmatsuconcert.jpg"></a>
-    <p class="block-date">日程：2018年12月30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/concert1812/" target="_blank">年末コンサート <br>出演グループとスタッフ大忙し</a></p>
+    <a href="http://antiochblog.jp/praise/eternal1812/" target="_blank"><img src="/2016/images/top/1612nenmatsuantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月31日～2019年1月6日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/eternal1812/" target="_blank">東京アンテオケ教会<br>大晦日、お正月の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -82,17 +74,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/light1812z/" target="_blank"><img src="/2016/images/top/1712nenmatsuzenkoku.jpg"></a>
-    <p class="block-date">日程：2018年12月24日～30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/light1812z/" target="_blank">全国各教会<br>2018年年末の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/happyday2017/181230/" target="_blank"><img src="/2016/images/top/1701ohhappyday.jpg"></a>
-    <p class="block-date">日程：2018年12月30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/happyday2017/181230/" target="_blank">OH! HAPPY DAY!の一日</a></p>
+    <a href="http://astone.tv/events/eternal1812z/" target="_blank"><img src="/2016/images/top/1612nenmatsuzenkoku.jpg"></a>
+    <p class="block-date">日程：2018年12月31日～2019年1月6日</p>
+    <p class="block-title"><a href="http://astone.tv/events/eternal1812z/" target="_blank">全国各教会<br>大晦日、お正月の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -199,6 +183,34 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/light1812/" target="_blank"><img src="/2016/images/top/1712nenmatsuantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月24日～30日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/light1812/" target="_blank">アンテオケ教会<br>2018年年末の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/concert1812/" target="_blank"><img src="/2016/images/top/1612nenmatsuconcert.jpg"></a>
+    <p class="block-date">日程：2018年12月30日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/concert1812/" target="_blank">年末コンサート <br>出演グループとスタッフ大忙し</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/light1812z/" target="_blank"><img src="/2016/images/top/1712nenmatsuzenkoku.jpg"></a>
+    <p class="block-date">日程：2018年12月24日～30日</p>
+    <p class="block-title"><a href="http://astone.tv/events/light1812z/" target="_blank">全国各教会<br>2018年年末の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/happyday2017/181230/" target="_blank"><img src="/2016/images/top/1701ohhappyday.jpg"></a>
+    <p class="block-date">日程：2018年12月30日</p>
+    <p class="block-title"><a href="http://astone.tv/events/happyday2017/181230/" target="_blank">OH! HAPPY DAY!の一日</a></p>
 </div>
 
 <div class="column-inner">
