@@ -45,6 +45,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/charitylive1901/" target="_blank"><img src="/2016/images/top/1801charityrojyou.jpg"></a>
+    <p class="block-date">日程：201年1月1日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/charitylive1901/" target="_blank">今年もやります！ <br>お正月、賛美隊チャリティー路上ライブ</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank"><img src="/2016/images/top/1812reonkakawari_m.jpg"></a>
