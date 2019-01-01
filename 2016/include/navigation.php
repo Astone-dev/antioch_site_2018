@@ -60,7 +60,7 @@
             <ul class="header--nav--sub__ul">
               <li><a href="http://wfsmission.info/">聖所から流れ出る水ミッション</a></li>
               <li><a href="https://www.cornerstone.or.jp/">礎の石孤児院</a></li>
-              <li><a href="http://astone.tv/tlcsseminary/">主の十字架神学校</a></li>
+              <li><a href="http://astone.tv/tlcsseminary/">TLEA 神学校</a></li>
               <li><a href="http://arechinikawa.com/">荒地に川ミュージック</a></li>
               <li><a href="http://www.mikoe.co.jp/">み声新聞</a></li>
               <li><a href="http://www.kumoniji.co.jp/">雲の間にある虹出版</a></li>
@@ -83,7 +83,7 @@
               <li><a href="/prayer-time/">祈りの時間</a></li>
               <li>&nbsp;</li>
               <li class="t-bold">インターネットラジオ</li>
-              <li><a href="http://antiochblog.jp/info/healmymind/">クリスチャンの寄り道</a></li>
+              <li><a href="http://antiochblog.jp/info/">クリスチャンの寄り道</a></li>
               <li><a href="http://kazenohibiki.blogspot.jp/">ゴスペル風のひびきラジオ</a></li>
               <li>&nbsp;</li>
               <li class="t-bold">動画コンテンツ</li>
