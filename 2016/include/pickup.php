@@ -45,6 +45,21 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/eternal1812/" target="_blank"><img src="/2016/images/top/1704tokari_digest_p.jpg"></a>
+    <p class="block-date">日程：2019年1月5日～6日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/eternal1812/" target="_blank">冬の東京カリスマ聖会 <br>スタッフ大忙し</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>    
+    <a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank"><img src="/2016/images/top/1812kokorogospel_d_m.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank">こころごすぺる31 Light<br>ダイジェスト映像<br>(再生時間 4:48)</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank"><img src="/2016/images/top/1812reonkakawari_m.jpg"></a>
@@ -79,12 +94,21 @@
     <p class="block-title"><a href="http://astone.tv/events/eternal1812z/" target="_blank">全国各教会<br>大晦日、お正月の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/info/gracious/181222/" target="_blank"><img src="/2016/images/top/1606gracioustonai.jpg"></a>
     <p class="block-date">日程：2019年1月5日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/gracious/181222/" target="_blank">GRACIOUS DOORS<br>都内デイサ━ビスで、ボランティア・コンサート</a></p>
-</div>-->
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gracejewel2017/190105/" target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
+    <p class="block-date">日程：2019年1月5日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190105/" target="_blank">GRACEと宝石 <br>高円寺のデイサービスでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span>NEW</span>
