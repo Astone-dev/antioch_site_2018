@@ -97,9 +97,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gracious/181222/" target="_blank"><img src="/2016/images/top/1606gracioustonai.jpg"></a>
+    <a href="http://antiochblog.jp/praise/gracejewel2017/190105/" target="_blank"><img src="/2016/images/top/1606gracioustonai.jpg"></a>
     <p class="block-date">日程：2019年1月5日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/181222/" target="_blank">GRACIOUS DOORS<br>都内デイサ━ビスで、ボランティア・コンサート</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190105/" target="_blank">GRACIOUS DOORS <br>都内デイサ━ビスで、ボランティア・コンサート</a></p>
 </div>
 
 <div class="column-inner">
