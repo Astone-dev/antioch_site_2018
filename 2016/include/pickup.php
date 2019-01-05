@@ -95,22 +95,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gracious/190105/" target="_blank"><img src="/2016/images/top/1606gracioustonai.jpg"></a>
-    <p class="block-date">日程：2019年1月5日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190105/" target="_blank">GRACIOUS DOORS <br>都内デイサ━ビスで、ボランティア・コンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/gracejewel2017/190105/" target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
-    <p class="block-date">日程：2019年1月5日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190105/" target="_blank">GRACEと宝石 <br>高円寺のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
     <span>NEW</span>
     <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
@@ -152,15 +136,8 @@
 
 <div class="column-inner">
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/healmymind/" target="_blank"><img src="/2016/images/top/1810yorimichi35.jpg"></a>
-    <p class="block-date">毎日7:00更新</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/healmymind/" target="_blank">クリスチャンの寄り道 Vol.35<br>今回は「思わずほっこりしたこと」のお話です</a></p>
-</div>
-
-<div class="column-inner">
-    <span>NEW</span>
-    <a href="https://tokyo.antioch.jp/yorimichi/result-absolutebest.html" target="_blank"><img src="/2016/images/top/1811yorimichi34kekka.jpg"></a>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-absolutebest.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.34<br>「私の一番好きなこと」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+    <a href="https://tokyo.antioch.jp/yorimichi/result-hokkori.html" target="_blank"><img src="/2016/images/top/1901yorimichi35kekka.jpg"></a>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-hokkori.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.35<br>「思わずほっこりしたこと」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>
 
 <div class="column-inner">
@@ -175,12 +152,6 @@
     <a href="http://movie.antioch.jp/2018hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
     <p class="block-title"><a href="http://movie.antioch.jp/2018hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>受賞作品と応募作品</a></p>
 </div>
-
-<!--<div class="column-inner">
-<a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank"><img src="/2016/images/top/1803yorimichi32.jpg"></a>
-<p class="block-date">毎日7:00更新</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/kangekishitakoto/" target="_blank">クリスチャンの寄り道 Vol.32<br>今回は「神さまのことで一番感激したこと」のお話です</a></p>
-</div>-->
 
 <div class="column-inner">
     <span class="label-2">動画</span>
@@ -214,6 +185,20 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gracious/190105/" target="_blank"><img src="/2016/images/top/1606gracioustonai.jpg"></a>
+    <p class="block-date">日程：2019年1月5日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190105/" target="_blank">GRACIOUS DOORS <br>都内デイサ━ビスで、ボランティア・コンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/gracejewel2017/190105/" target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
+    <p class="block-date">日程：2019年1月5日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190105/" target="_blank">GRACEと宝石 <br>高円寺のデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
