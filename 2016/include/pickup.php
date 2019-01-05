@@ -26,7 +26,7 @@
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1901kiseki_satop.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2018年10月27日UP!)</a></p>
+    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年1月4日UP!)</a></p>
 </div>
 
 <div class="column-inner">
