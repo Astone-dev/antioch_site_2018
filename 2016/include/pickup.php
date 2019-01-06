@@ -39,17 +39,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/eternal1812/" target="_blank"><img src="/2016/images/top/1612nenmatsuantioch.jpg"></a>
-    <p class="block-date">日程：2018年12月31日～2019年1月6日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/eternal1812/" target="_blank">東京アンテオケ教会<br>大晦日、お正月の一週間</a></p>
+    <a href="http://antiochblog.jp/praise/thanks1901/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
+    <p class="block-date">日程：2019年1月7日～13日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1901/" target="_blank">冬休み明け さあ頑張るぞ<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/1901tokyo/" target="_blank"><img src="/2016/images/top/1704tokari_digest_p.jpg"></a>
-    <p class="block-date">日程：2019年1月5日～6日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1901tokyo/" target="_blank">冬の東京カリスマ聖会<br>スタッフ大忙し</a></p>
+    <a href="http://antiochblog.jp/info/jfes1901/" target="_blank"><img src="/2016/images/top/1801shibuyafes.jpg"></a>
+    <p class="block-date">日程：2019年1月7日～14日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1901/" target="_blank">渋谷J.GOSPEL FESに向かって<br>出演グループとThe Visionスタッフの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -89,9 +89,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/eternal1812z/" target="_blank"><img src="/2016/images/top/1612nenmatsuzenkoku.jpg"></a>
-    <p class="block-date">日程：2018年12月31日～2019年1月6日</p>
-    <p class="block-title"><a href="http://astone.tv/events/eternal1812z/" target="_blank">全国各教会<br>大晦日、お正月の一週間</a></p>
+    <a href="http://astone.tv/events/thanks1901z/" target="_blank"><img src="/2016/images/top/1801orinpikuzenkoku.jpg"></a>
+    <p class="block-date">日程：2019年1月7日～13日</p>
+    <p class="block-title"><a href="http://astone.tv/events/thanks1901z/" target="_blank">冬休み明け さあ頑張るぞ <br>全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -185,6 +185,28 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/eternal1812/" target="_blank"><img src="/2016/images/top/1612nenmatsuantioch.jpg"></a>
+    <p class="block-date">日程：2018年12月31日～2019年1月6日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/eternal1812/" target="_blank">東京アンテオケ教会<br>大晦日、お正月の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/1901tokyo/" target="_blank"><img src="/2016/images/top/1704tokari_digest_p.jpg"></a>
+    <p class="block-date">日程：2019年1月5日～6日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1901tokyo/" target="_blank">冬の東京カリスマ聖会<br>スタッフ大忙し</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/eternal1812z/" target="_blank"><img src="/2016/images/top/1612nenmatsuzenkoku.jpg"></a>
+    <p class="block-date">日程：2018年12月31日～2019年1月6日</p>
+    <p class="block-title"><a href="http://astone.tv/events/eternal1812z/" target="_blank">全国各教会<br>大晦日、お正月の一週間</a></p>
 </div>
 
 <div class="column-inner">
