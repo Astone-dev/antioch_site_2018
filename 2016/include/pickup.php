@@ -36,13 +36,13 @@
     <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>(毎日AM5:00UP!)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/kashiwa1901/" target="_blank"><img src="/2016/images/top/1605kashiwamachida.jpg"></a>
     <p class="block-date">日程：2019年1月9日</p>
     <p class="block-title"><a href="http://astone.tv/events/kashiwa1901/" target="_blank">冬晴れの柏を行く<br>柏聖会</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -193,6 +193,13 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/kashiwa1901/" target="_blank"><img src="/2016/images/top/1605kashiwamachida.jpg"></a>
+    <p class="block-date">日程：2019年1月9日</p>
+    <p class="block-title"><a href="http://astone.tv/events/kashiwa1901/" target="_blank">冬晴れの柏を行く<br>柏聖会</a></p>
 </div>
 
 <div class="column-inner">
