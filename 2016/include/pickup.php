@@ -39,14 +39,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/1901funabashi" target="_blank"><img src="/2016/images/top/1702funabashi.jpg"></a>
-    <p class="block-date">日程：2019年1月11日</p>
-    <p class="block-title"><a href="http://astone.tv/events/1901funabashi" target="_blank">真冬の関東を行く<br>船橋聖会<br>Giftsも歌う</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/thanks1901/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
     <p class="block-date">日程：2019年1月7日～13日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1901/" target="_blank">冬休み明け さあ頑張るぞ<br>東京アンテオケ教会の一週間</a></p>
@@ -55,17 +47,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gifts/190111/" target="_blank"><img src="/2016/images/top/1703giftschiba.jpg"></a>
-    <p class="block-date">日程：2019年1月9日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190111/" target="_blank">Gifts<br>柏のイベントでゴスペルを歌う</a></p>
+    <a href="http://antiochblog.jp/info/jfes1901/" target="_blank"><img src="/2016/images/top/1801shibuyafes.jpg"></a>
+    <p class="block-date">日程：2019年1月7日～14日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1901/" target="_blank">渋谷J.GOSPEL FESに向かって<br>出演グループとThe Visionスタッフの一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jfes1901/" target="_blank"><img src="/2016/images/top/1801shibuyafes.jpg"></a>
-    <p class="block-date">日程：2019年1月7日～14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1901/" target="_blank">渋谷J.GOSPEL FESに向かって<br>出演グループとThe Visionスタッフの一週間</a></p>
+    <a href="http://astone.tv/events/2017healing/190112/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+    <p class="block-date">日程：2019年1月12日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017healing/190112/" target="_blank">1月 いやしの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
@@ -201,6 +193,20 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/1901funabashi" target="_blank"><img src="/2016/images/top/1702funabashi.jpg"></a>
+    <p class="block-date">日程：2019年1月11日</p>
+    <p class="block-title"><a href="http://astone.tv/events/1901funabashi" target="_blank">真冬の関東を行く<br>船橋聖会<br>Giftsも歌う</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gifts/190111/" target="_blank"><img src="/2016/images/top/1703giftschiba.jpg"></a>
+    <p class="block-date">日程：2019年1月9日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190111/" target="_blank">Gifts<br>柏のイベントでゴスペルを歌う</a></p>
 </div>
 
 <div class="column-inner">
