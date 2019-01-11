@@ -25,7 +25,7 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1901kiseki_satop.jpg"></a>
+    <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1901kiseki_kasahara.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年1月4日UP!)</a></p>
 </div>
 
@@ -36,13 +36,13 @@
     <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>(毎日AM5:00UP!)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/kashiwa1901/" target="_blank"><img src="/2016/images/top/1605kashiwamachida.jpg"></a>
-    <p class="block-date">日程：2019年1月9日</p>
-    <p class="block-title"><a href="http://astone.tv/events/kashiwa1901/" target="_blank">冬晴れの柏を行く<br>柏聖会</a></p>
-</div>-->
+    <a href="http://astone.tv/events/1901funabashi" target="_blank"><img src="/2016/images/top/1702funabashi.jpg"></a>
+    <p class="block-date">日程：2019年1月11日</p>
+    <p class="block-title"><a href="http://astone.tv/events/1901funabashi" target="_blank">真冬の関東を行く<br>船橋聖会<br>Giftsも歌う</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -50,6 +50,14 @@
     <a href="http://antiochblog.jp/praise/thanks1901/" target="_blank"><img src="/2016/images/top/1801orinpikuantioch.jpg"></a>
     <p class="block-date">日程：2019年1月7日～13日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1901/" target="_blank">冬休み明け さあ頑張るぞ<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/gifts/181228/" target="_blank"><img src="/2016/images/top/1703giftschiba.jpg"></a>
+    <p class="block-date">日程：2019年1月9日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/181228/" target="_blank">Gifts<br>柏のイベントでゴスペルを歌う</a></p>
 </div>
 
 <div class="column-inner">
@@ -243,55 +251,6 @@
     <a href="http://antiochblog.jp/praise/gracejewel2017/190105/" target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
     <p class="block-date">日程：2019年1月5日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190105/" target="_blank">GRACEと宝石 <br>高円寺のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/charitylive1901/" target="_blank"><img src="/2016/images/top/1801charityrojyou.jpg"></a>
-    <p class="block-date">日程：201年1月1日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/charitylive1901/" target="_blank">今年もやります！ <br>お正月、賛美隊チャリティー路上ライブ</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/light1812/" target="_blank"><img src="/2016/images/top/1712nenmatsuantioch.jpg"></a>
-    <p class="block-date">日程：2018年12月24日～30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/light1812/" target="_blank">アンテオケ教会<br>2018年年末の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/concert1812/" target="_blank"><img src="/2016/images/top/1612nenmatsuconcert.jpg"></a>
-    <p class="block-date">日程：2018年12月30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/concert1812/" target="_blank">年末コンサート <br>出演グループとスタッフ大忙し</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/light1812z/" target="_blank"><img src="/2016/images/top/1712nenmatsuzenkoku.jpg"></a>
-    <p class="block-date">日程：2018年12月24日～30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/light1812z/" target="_blank">全国各教会<br>2018年年末の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/happyday2017/181230/" target="_blank"><img src="/2016/images/top/1701ohhappyday.jpg"></a>
-    <p class="block-date">日程：2018年12月30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/happyday2017/181230/" target="_blank">OH! HAPPY DAY!の一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/chiba1812/" target="_blank"><img src="/2016/images/top/1706chiba.jpg"></a>
-    <p class="block-date">日程：2018年12月29日</p>
-    <p class="block-title"><a href="http://astone.tv/events/chiba1812/" target="_blank">師走の関東を行く<br>千葉聖会</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/gifts/181228/" target="_blank"><img src="/2016/images/top/1703giftschiba.jpg"></a>
-    <p class="block-date">日程：2018年12月28日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/181228/" target="_blank">Gifts<br>柏でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
