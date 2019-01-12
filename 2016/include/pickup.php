@@ -52,13 +52,13 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/jfes1901/" target="_blank">渋谷J.GOSPEL FESに向かって<br>出演グループとThe Visionスタッフの一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/2018women/201901/" target="_blank"><img src="/2016/images/top/1609fujinkai.jpg"></a>
     <p class="block-date">日程：2019年1月13日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201901/" target="_blank">1月 婦人会の一日</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -110,12 +110,12 @@
     <p class="block-title"><a href="http://astone.tv/events/thanks1901z/" target="_blank">冬休み明け さあ頑張るぞ <br>全国各教会の一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190113/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
     <p class="block-date">日程：2019年1月13日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190113/" target="_blank">エルサレム <br>岩槻西のグループホームでコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
     <span>NEW</span>
