@@ -104,13 +104,7 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017healing/190112/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-    <p class="block-date">日程：2019年1月12日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/190112/" target="_blank">1月 いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190113/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
     <p class="block-date">日程：2019年1月13日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190113/" target="_blank">エルサレム <br>岩槻西のグループホームでコンサート</a></p>
@@ -207,6 +201,13 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/2017healing/190112/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+    <p class="block-date">日程：2019年1月12日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017healing/190112/" target="_blank">1月 いやしの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
