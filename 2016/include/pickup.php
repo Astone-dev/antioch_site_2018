@@ -40,7 +40,7 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/faith1901/" target="_blank"><img src="/2016/images/top/1701syougatuantioch.jpg"></a>
-    <p class="block-date">日程：2019年1月1月14日～20日</p>
+    <p class="block-date">日程：2019年1月14日～20日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1901/" target="_blank">寒さに負けるな！<br>東京アンテオケ教会の一週間</a></p>
 </div>
 
@@ -212,23 +212,9 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jfes1901/" target="_blank"><img src="/2016/images/top/1801shibuyafes.jpg"></a>
-    <p class="block-date">日程：2019年1月7日～14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1901/" target="_blank">渋谷J.GOSPEL FESに向かって<br>出演グループとThe Visionスタッフの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/2018women/201901/" target="_blank"><img src="/2016/images/top/1609fujinkai.jpg"></a>
     <p class="block-date">日程：2019年1月13日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201901/" target="_blank">1月 婦人会の一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017healing/190112/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-    <p class="block-date">日程：2019年1月12日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/190112/" target="_blank">1月 いやしの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
@@ -243,6 +229,13 @@
     <a href="http://antiochblog.jp/info/jerusalem2017/190113/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
     <p class="block-date">日程：2019年1月13日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190113/" target="_blank">エルサレム <br>岩槻西のグループホームでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/2017healing/190112/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+    <p class="block-date">日程：2019年1月12日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017healing/190112/" target="_blank">1月 いやしの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
