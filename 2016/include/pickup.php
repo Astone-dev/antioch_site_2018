@@ -47,33 +47,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jfes1901/" target="_blank"><img src="/2016/images/top/1801shibuyafes.jpg"></a>
-    <p class="block-date">日程：2019年1月7日～14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1901/" target="_blank">渋谷J.GOSPEL FESに向かって<br>出演グループとThe Visionスタッフの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/info/yosen1901/" target="_blank"><img src="/2016/images/top/1801antiochyosen.jpg"></a>
     <p class="block-date">日程：2019年1月14日～20日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/yosen1901/" target="_blank">J.GOSPELコンテスト東京アンテオケ教会予選に向かって<br>出場グループドキドキの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ </span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/1901event/" target="_blank"><img src="/2016/images/top/1607syakaijinkai.jpg"></a>
-    <p class="block-date">日程：2019年1月14日</p>
-    <p class="block-title"><a href="http://astone.tv/events/1901event/" target="_blank">社会人会 鍋を食べる</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/euqaristias/20190114shinjuku/" target="_blank"><img src="/2016/images/top/1609eukarishinjyuku.jpg"></a>
-    <p class="block-date">日程：2019年1月14日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190114shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
@@ -209,6 +185,27 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jfes1901/" target="_blank"><img src="/2016/images/top/1801shibuyafes.jpg"></a>
+    <p class="block-date">日程：2019年1月7日～14日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1901/" target="_blank">渋谷J.GOSPEL FESに向かって<br>出演グループとThe Visionスタッフの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ </span>
+    <a href="http://astone.tv/events/1901event/" target="_blank"><img src="/2016/images/top/1607syakaijinkai.jpg"></a>
+    <p class="block-date">日程：2019年1月14日</p>
+    <p class="block-title"><a href="http://astone.tv/events/1901event/" target="_blank">社会人会 鍋を食べる</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/euqaristias/20190114shinjuku/" target="_blank"><img src="/2016/images/top/1609eukarishinjyuku.jpg"></a>
+    <p class="block-date">日程：2019年1月14日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190114shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
