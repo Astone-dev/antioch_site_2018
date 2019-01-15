@@ -53,6 +53,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/patolis/190116/" target="_blank"><img src="/2016/images/top/1609patoliskawaguchi.jpg"></a>
+    <p class="block-date">日程：2019年1月16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190116/" target="_blank">PATOLIS<br>川口の病院内デイサービスにてボランティアコンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank"><img src="/2016/images/top/1812kokorogospel_d_m.jpg"></a>
