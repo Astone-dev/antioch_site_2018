@@ -53,14 +53,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/patolis/190116/" target="_blank"><img src="/2016/images/top/1609patoliskawaguchi.jpg"></a>
-    <p class="block-date">日程：2019年1月16日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190116/" target="_blank">PATOLIS<br>川口の病院内デイサービスにてボランティアコンサート</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank"><img src="/2016/images/top/1812kokorogospel_d_m.jpg"></a>
@@ -100,6 +92,14 @@
     <a href="http://astone.tv/events/faith1901z/" target="_blank"><img src="/2016/images/top/1701syougatuzenkoku.jpg"></a>
     <p class="block-date">日程：2019年1月14日～20日</p>
     <p class="block-title"><a href="http://astone.tv/events/faith1901z/" target="_blank">寒さに負けるな！ <br>全国各教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190119/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
+    <p class="block-date">日程：2019年1月19日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190119/" target="_blank">エルサレム <br>相馬の復興支援レストラン報徳庵でライブ</a></p>
 </div>
 
 <div class="column-inner">
@@ -197,6 +197,13 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/patolis/190116/" target="_blank"><img src="/2016/images/top/1609patoliskawaguchi.jpg"></a>
+    <p class="block-date">日程：2019年1月16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190116/" target="_blank">PATOLIS<br>川口の病院内デイサービスにてボランティアコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jfes1901/" target="_blank"><img src="/2016/images/top/1801shibuyafes.jpg"></a>
     <p class="block-date">日程：2019年1月7日～14日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jfes1901/" target="_blank">渋谷J.GOSPEL FESに向かって<br>出演グループとThe Visionスタッフの一週間</a></p>
@@ -237,12 +244,12 @@
     <p class="block-title"><a href="http://astone.tv/events/thanks1901z/" target="_blank">冬休み明け さあ頑張るぞ <br>全国各教会の一週間</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190113/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
     <p class="block-date">日程：2019年1月13日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190113/" target="_blank">エルサレム <br>岩槻西のグループホームでコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -258,7 +265,7 @@
     <p class="block-title"><a href="http://astone.tv/events/1901funabashi" target="_blank">真冬の関東を行く<br>船橋聖会<br>Giftsも歌う</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/gifts/190111/" target="_blank"><img src="/2016/images/top/1703giftschiba.jpg"></a>
     <p class="block-date">日程：2019年1月9日</p>
@@ -313,7 +320,7 @@
     <a href="http://antiochblog.jp/praise/gracejewel2017/190105/" target="_blank"><img src="/2016/images/top/1704gracegospel.jpg"></a>
     <p class="block-date">日程：2019年1月5日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190105/" target="_blank">GRACEと宝石 <br>高円寺のデイサービスでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-2">動画</span>
