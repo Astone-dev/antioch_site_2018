@@ -53,6 +53,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/movie1901/" target="_blank"><img src="/2016/images/top/1901teamfeizousai.jpg"></a>
+    <p class="block-date">日程：2019年1月18日～19日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/movie1901/" target="_blank">白馬クリスチャンフイルムフェスティバル2019に向かって<br>チームF必死の頑張り</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank"><img src="/2016/images/top/1812kokorogospel_d_m.jpg"></a>
