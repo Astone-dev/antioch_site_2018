@@ -39,6 +39,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/yokosuka1901/" target="_blank"><img src="/2016/images/top/1704yokosuka.jpg"></a>
+    <p class="block-date">日程：2019年1月19日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/yokosuka1901/" target="_blank">横須賀聖会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/faith1901/" target="_blank"><img src="/2016/images/top/1701syougatuantioch.jpg"></a>
     <p class="block-date">日程：2019年1月14日～20日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1901/" target="_blank">寒さに負けるな！<br>東京アンテオケ教会の一週間</a></p>
