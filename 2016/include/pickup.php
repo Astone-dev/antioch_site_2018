@@ -69,22 +69,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/revival2017/190119/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
-    <p class="block-date">日程：2019年1月19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190119/" target="_blank">1月 リバイバルナイトの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">日程：2019年1月19日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2019年1月19日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank"><img src="/2016/images/top/1812kokorogospel_d_m.jpg"></a>
@@ -124,38 +108,6 @@
     <a href="http://astone.tv/events/faith1901z/" target="_blank"><img src="/2016/images/top/1701syougatuzenkoku.jpg"></a>
     <p class="block-date">日程：2019年1月14日～20日</p>
     <p class="block-title"><a href="http://astone.tv/events/faith1901z/" target="_blank">寒さに負けるな！ <br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190119/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
-    <p class="block-date">日程：2019年1月19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190119/" target="_blank">エルサレム <br>相馬の復興支援レストラン報徳庵でライブ</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/gate2018/190119/" target="_blank"><img src="/2016/images/top/1609gateofnerimarouken.jpg"></a>
-    <p class="block-date">日程：2019年1月19日</p>
-    <p class="block-title"><a href="http://astone.tv/events/gate2018/190119/" target="_blank">The Gate of Praise <br>練馬区の老健でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gracious/190119/" target="_blank"><img src="/2016/images/top/1701gracious.jpg"></a>
-    <p class="block-date">日程：2019年1月19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190119/" target="_blank"> GRACIOUS DOORS  <br>中野区のデイサ━ビスで、ボランティア・コンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/gracejewel2017/190119/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
-    <p class="block-date">日程：2019年1月19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190119/" target="_blank">GRACEと宝石 <br>府中市の特別養護老人ホームでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -249,6 +201,41 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/revival2017/190119/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
+    <p class="block-date">日程：2019年1月19日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190119/" target="_blank">1月 リバイバルナイトの一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190119/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
+    <p class="block-date">日程：2019年1月19日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190119/" target="_blank">エルサレム <br>相馬の復興支援レストラン報徳庵でライブ</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/gate2018/190119/" target="_blank"><img src="/2016/images/top/1609gateofnerimarouken.jpg"></a>
+    <p class="block-date">日程：2019年1月19日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gate2018/190119/" target="_blank">The Gate of Praise <br>練馬区の老健でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gracious/190119/" target="_blank"><img src="/2016/images/top/1701gracious.jpg"></a>
+    <p class="block-date">日程：2019年1月19日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190119/" target="_blank"> GRACIOUS DOORS  <br>中野区のデイサ━ビスで、ボランティア・コンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/gracejewel2017/190119/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
+    <p class="block-date">日程：2019年1月19日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190119/" target="_blank">GRACEと宝石 <br>府中市の特別養護老人ホームでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
