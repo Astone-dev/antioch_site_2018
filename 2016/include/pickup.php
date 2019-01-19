@@ -40,7 +40,7 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/yokosuka1901/" target="_blank"><img src="/2016/images/top/1704yokosuka.jpg"></a>
-    <p class="block-date">日程：2019年1月19日</p>
+    <p class="block-date">日程：2019年1月19日 18:00～</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/yokosuka1901/" target="_blank">横須賀聖会</a></p>
 </div>
 
