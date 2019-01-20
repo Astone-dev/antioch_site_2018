@@ -39,17 +39,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/faith1901/" target="_blank"><img src="/2016/images/top/1701syougatuantioch.jpg"></a>
-    <p class="block-date">日程：2019年1月14日～20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1901/" target="_blank">寒さに負けるな！<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/yosen1901/" target="_blank"><img src="/2016/images/top/1801antiochyosen.jpg"></a>
-    <p class="block-date">日程：2019年1月14日～20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1901/" target="_blank">いよいよ今日決戦！<br>J.GOSPELコンテスト東京アンテオケ教会予選に向かって<br>出場グループドキドキの一週間</a></p>
+    <a href="http://antiochblog.jp/praise/synerugoi1901/" target="_blank"><img src="/2016/images/top/1701sunerugoiomoideantioch.jpg"></a>
+    <p class="block-date">日程：2019年1月21日～27日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/synerugoi1901/" target="_blank">白馬スネルゴイキャンプに向かって<br>東京アンテオケ教会ワクワクの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -83,9 +75,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/faith1901z/" target="_blank"><img src="/2016/images/top/1701syougatuzenkoku.jpg"></a>
-    <p class="block-date">日程：2019年1月14日～20日</p>
-    <p class="block-title"><a href="http://astone.tv/events/faith1901z/" target="_blank">寒さに負けるな！ <br>全国各教会の一週間</a></p>
+    <a href="http://astone.tv/events/synerugoi1901z/" target="_blank"><img src="/2016/images/top/1701sunerugoiomoidezenkoku.jpg"></a>
+    <p class="block-date">日程：2019年1月21日～27日</p>
+    <p class="block-title"><a href="http://astone.tv/events/synerugoi1901z/" target="_blank">白馬スネルゴイキャンプに向かって<br>全国各教会ウキウキの一週間 ー思い出とともにー</a></p>
 </div>
 
 <div class="column-inner">
@@ -200,6 +192,29 @@
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
 </div>
 
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/faith1901/" target="_blank"><img src="/2016/images/top/1701syougatuantioch.jpg"></a>
+    <p class="block-date">日程：2019年1月14日～20日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1901/" target="_blank">寒さに負けるな！<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/yosen1901/" target="_blank"><img src="/2016/images/top/1801antiochyosen.jpg"></a>
+    <p class="block-date">日程：2019年1月14日～20日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1901/" target="_blank">いよいよ今日決戦！<br>J.GOSPELコンテスト東京アンテオケ教会予選に向かって<br>出場グループドキドキの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/faith1901z/" target="_blank"><img src="/2016/images/top/1701syougatuzenkoku.jpg"></a>
+    <p class="block-date">日程：2019年1月14日～20日</p>
+    <p class="block-title"><a href="http://astone.tv/events/faith1901z/" target="_blank">寒さに負けるな！ <br>全国各教会の一週間</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
