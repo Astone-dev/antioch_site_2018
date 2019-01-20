@@ -26,7 +26,7 @@
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1901kiseki_kasahara.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年1月4日UP!)</a></p>
+    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年1月10日UP!)</a></p>
 </div>
 
 <div class="column-inner">
@@ -56,7 +56,7 @@
 <span class="label-2">映像　</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト東京アンテオケ教会予選-生中継');"><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年1月20日</p>
+<p class="block-date">2019年1月20日 16:00～</p>
 <p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト東京アンテオケ教会予選-生中継');">J.GOSPELコンテスト 東京アンテオケ教会予選 生中継<br>時間 16:00〜</a></p>
 </div>
 
