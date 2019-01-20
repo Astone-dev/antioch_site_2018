@@ -49,7 +49,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/yosen1901/" target="_blank"><img src="/2016/images/top/1801antiochyosen.jpg"></a>
     <p class="block-date">日程：2019年1月14日～20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1901/" target="_blank">J.GOSPELコンテスト東京アンテオケ教会予選に向かって<br>出場グループドキドキの一週間</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1901/" target="_blank">いよいよ今日決戦！<br>J.GOSPELコンテスト東京アンテオケ教会予選に向かって<br>出場グループドキドキの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -58,28 +58,6 @@
 <a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト東京アンテオケ教会予選-生中継');"><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2019年1月20日 16:00～</p>
 <p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト東京アンテオケ教会予選-生中継');">J.GOSPELコンテスト 東京アンテオケ教会予選 生中継<br>時間 16:00〜</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/movie1901/" target="_blank"><img src="/2016/images/top/1901teamfeizousai.jpg"></a>
-    <p class="block-date">日程：2019年1月18日～19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/movie1901/" target="_blank">白馬クリスチャンフイルムフェスティバル2019に向かって<br>チームF必死の頑張り</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>    
-    <a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank"><img src="/2016/images/top/1812kokorogospel_d_m.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank">こころごすぺる31 Light<br>ダイジェスト映像<br>(再生時間 4:48)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>    
-    <a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank"><img src="/2016/images/top/1812reonkakawari_m.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank">30年待ち望み続けた奇跡<br>ーロシア系ユダヤ人との関わりー<br>映像<br>(再生時間 9:52)</a></p>
 </div>
 
 <div class="column-inner">
@@ -167,6 +145,25 @@
     <span class="label-2">映像</span>
     <a href="http://movie.antioch.jp/2018hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
     <p class="block-title"><a href="http://movie.antioch.jp/2018hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>受賞作品と応募作品</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/movie1901/" target="_blank"><img src="/2016/images/top/1901teamfeizousai.jpg"></a>
+    <p class="block-date">日程：2019年1月18日～19日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/movie1901/" target="_blank">白馬クリスチャンフイルムフェスティバル2019に向かって<br>チームF必死の頑張り</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank"><img src="/2016/images/top/1812kokorogospel_d_m.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank">こころごすぺる31 Light<br>ダイジェスト映像<br>(再生時間 4:48)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank"><img src="/2016/images/top/1812reonkakawari_m.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank">30年待ち望み続けた奇跡<br>ーロシア系ユダヤ人との関わりー<br>映像<br>(再生時間 9:52)</a></p>
 </div>
 
 <div class="column-inner">
