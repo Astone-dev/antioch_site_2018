@@ -39,17 +39,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/yokosuka1901/" target="_blank"><img src="/2016/images/top/1704yokosuka.jpg"></a>
-    <p class="block-date">日程：2019年1月19日 18:00～</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/yokosuka1901/" target="_blank">冬晴れの関東を行く 横須賀聖会</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/faith1901/" target="_blank"><img src="/2016/images/top/1701syougatuantioch.jpg"></a>
     <p class="block-date">日程：2019年1月14日～20日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1901/" target="_blank">寒さに負けるな！<br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像　</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト東京アンテオケ教会予選-生中継');"><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年1月20日</p>
+<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト東京アンテオケ教会予選-生中継');">J.GOSPELコンテスト 東京アンテオケ教会予選 生中継<br>時間 16:00〜</a></p>
 </div>
 
 <div class="column-inner">
@@ -201,6 +201,14 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/yokosuka1901/" target="_blank"><img src="/2016/images/top/1704yokosuka.jpg"></a>
+    <p class="block-date">日程：2019年1月19日 18:00～</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/yokosuka1901/" target="_blank">冬晴れの関東を行く 横須賀聖会</a></p>
 </div>
 
 <div class="column-inner">
