@@ -40,7 +40,7 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/synerugoi1901/" target="_blank"><img src="/2016/images/top/1701sunerugoiomoideantioch.jpg"></a>
-    <p class="block-date">日程：2019年1月21日～27日</p>
+    <p class="block-date">ブログ：2019年1月21日～27日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/synerugoi1901/" target="_blank">白馬スネルゴイキャンプに向かって<br>東京アンテオケ教会ワクワクの一週間</a></p>
 </div>
 
@@ -48,47 +48,53 @@
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank"><img src="/2016/images/top/1901hakubantiochyosen_m.jpg"></a>
+    <p class="block-date">開催日：2019年1月20日</p>	
     <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank">J.GOSPELコンテスト<br>東京アンテオケ教会予選<br>映像保存版</a></p>
 </div>
 
 <div class="column-inner">
     <span>NEW</span>    
     <a href="https://www.cornerstone.or.jp/event/190126zambiaevent/index.html" target="_blank"><img src="/2016/images/top/1901zambiaevent.jpg"></a>
-    <p class="block-title"><a href="https://www.cornerstone.or.jp/event/190126zambiaevent/index.html" target="_blank">ザンビア孤児院<br>〜家を失った子ども達〜<br>インフォメーション<br>(日時 2019年1月26日)</a></p>
+	<p class="block-date">開催日：2019年1月26日</p>
+    <p class="block-title"><a href="https://www.cornerstone.or.jp/event/190126zambiaevent/index.html" target="_blank">ザンビア孤児院<br>〜家を失った子ども達〜<br>(報告会&Alpha;ミニコンサート)<br>インフォメーション</a></p>
 </div>
 
 <div class="column-inner">
     <span>NEW</span>    
     <a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1612hakubacampinfo.jpg"></a>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank">白馬スネルゴイキャンプ<br>インフォメーション<br>(日時 2019年2月27日～3月1日)</a></p>
+	<p class="block-date">キャンプ：2019年2月27日〜3月1日</p>	
+    <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank">白馬スネルゴイキャンプ<br>インフォメーション</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank"><img src="/2016/images/top/1812sunerugoi_cm.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>CM映像<br>(再生時間 2:17)<br>(日時 2019年2月28日)</a></p>
+	<p class="block-date">キャンプ：2019年2月27日〜3月1日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>CM映像<br>(再生時間 2:17)</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="https://www.youtube.com/watch?v=aaUPvz7vUl0&feature=youtu.be" target="_blank"><img src="/2016/images/top/1901jyunkyouseikai_cm_m.jpg"></a>
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=aaUPvz7vUl0&feature=youtu.be" target="_blank">長崎殉教記念聖会<br>紹介映像<br>(再生時間 2:23)<br>(聖会日時 2019年2月5日)<br>14:00〜西坂／19:00〜平和会館</a></p>
+	<p class="block-date">開催日：2019年2月5日</p>		
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=aaUPvz7vUl0&feature=youtu.be" target="_blank">長崎殉教記念聖会<br>紹介映像<br>(再生時間 2:23)<br>14:00〜西坂／19:00〜平和会館</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://tv.antioch.jp/digest/2019hcff-cm/" target="_blank"><img src="/2016/images/top/1812hcff_cm.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hcff-cm/" target="_blank">白馬クリスチャンフイルムフェスティバル2019<br>CM映像<br>(再生時間 1:51)<br>(日時 2019年2月28日)</a></p>
+	<p class="block-date">開催日：2019年2月28日</p>	
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hcff-cm/" target="_blank">白馬クリスチャンフイルムフェスティバル2019<br>CM映像<br>(再生時間 1:51)</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/synerugoi1901z/" target="_blank"><img src="/2016/images/top/1701sunerugoiomoidezenkoku.jpg"></a>
-    <p class="block-date">日程：2019年1月21日～27日</p>
+    <p class="block-date">ブログ：2019年1月21日～27日</p>
     <p class="block-title"><a href="http://astone.tv/events/synerugoi1901z/" target="_blank">白馬スネルゴイキャンプに向かって<br>全国各教会ウキウキの一週間 ー思い出とともにー</a></p>
 </div>
 
