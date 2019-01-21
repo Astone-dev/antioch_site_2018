@@ -84,7 +84,7 @@
               <li>&nbsp;</li>
               <li class="t-bold">インターネットラジオ</li>
               <li><a href="http://antiochblog.jp/info/">クリスチャンの寄り道</a></li>
-              <li><a href="http://kazenohibiki.blogspot.jp/">ゴスペル風のひびきラジオ</a></li>
+              <li><a href="http://atv.antioch.jp/kazenohibiki">ゴスペル風のひびきラジオ</a></li>
               <li>&nbsp;</li>
               <li class="t-bold">動画コンテンツ</li>
               <li><a href="http://movie.antioch.jp/keypoint/">クリスチャンのキーポイント</a></li>
