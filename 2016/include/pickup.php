@@ -60,6 +60,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>    
+    <a href="https://www.youtube.com/watch?v=aaUPvz7vUl0&feature=youtu.be" target="_blank"><img src="/2016/images/top/1901jyunkyouseikai_cm_m.jpg"></a>
+	<p class="block-date">開催日：2019年2月5日</p>		
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=aaUPvz7vUl0&feature=youtu.be" target="_blank">長崎殉教記念聖会<br>紹介映像<br>(再生時間 2:23)<br>14:00〜西坂／19:00〜平和会館</a></p>
+</div>
+
+<div class="column-inner">
     <span>NEW</span>    
     <a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1612hakubacampinfo.jpg"></a>
 	<p class="block-date">キャンプ：2019年2月27日〜3月1日</p>	
@@ -72,14 +80,6 @@
     <a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank"><img src="/2016/images/top/1812sunerugoi_cm.jpg"></a>
 	<p class="block-date">キャンプ：2019年2月27日〜3月1日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>CM映像<br>(再生時間 2:17)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>    
-    <a href="https://www.youtube.com/watch?v=aaUPvz7vUl0&feature=youtu.be" target="_blank"><img src="/2016/images/top/1901jyunkyouseikai_cm_m.jpg"></a>
-	<p class="block-date">開催日：2019年2月5日</p>		
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=aaUPvz7vUl0&feature=youtu.be" target="_blank">長崎殉教記念聖会<br>紹介映像<br>(再生時間 2:23)<br>14:00〜西坂／19:00〜平和会館</a></p>
 </div>
 
 <div class="column-inner">
