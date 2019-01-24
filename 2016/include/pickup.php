@@ -127,8 +127,8 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('TLEA各教会のインスタ動画'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
-    <p class="block-title"><a href="https://www.instagram.com/tlcccmovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('TLEA各教会のインスタ動画');">短いInstagram動画で見る<br>TLEA全国各教会</a></p>
+    <a href="https://www.instagram.com/tleamovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('TLEA各教会のインスタ動画'); "><img src="/2016/images/top/1803zenkokuhonobono.jpg"></a>
+    <p class="block-title"><a href="https://www.instagram.com/tleamovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('TLEA各教会のインスタ動画');">短いInstagram動画で見る<br>TLEA全国各教会</a></p>
 </div>
 
 <div class="column-inner">
