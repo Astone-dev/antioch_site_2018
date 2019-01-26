@@ -39,41 +39,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/meeting1901/" target="_blank"><img src="/2016/images/top/1702yokotoyofuji.jpg"></a>
-    <p class="block-date">ブログ：2019年1月26日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/meeting1901/" target="_blank">冬の輝く光の中を <br>豊橋・富士宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/synerugoi1901/" target="_blank"><img src="/2016/images/top/1701sunerugoiomoideantioch.jpg"></a>
     <p class="block-date">ブログ：2019年1月21日～27日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/synerugoi1901/" target="_blank">白馬スネルゴイキャンプに向かって<br>東京アンテオケ教会ワクワクの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gifts/190126/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
-    <p class="block-date">ブログ：2019年1月26日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190126/" target="_blank">Gifts <br>ザンビア孤児院〜家を失った子ども達〜に出演</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/gospel2017/190126/" target="_blank"><img src="/2016/images/top/1710gospeltudoi.jpg"></a>
-    <p class="block-date">ブログ：2019年1月26日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190126/" target="_blank">1月 ゴスペルの集い</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年1月26日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継');">ゴスペルの集い生中継<br>(日程：2019年1月26日 18:30スタート)</a></p>
 </div>
 
 <div class="column-inner">
@@ -84,12 +52,12 @@
     <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/1901020-yosen.html" target="_blank">J.GOSPELコンテスト<br>東京アンテオケ教会予選<br>映像保存版</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span>NEW</span>    
     <a href="https://www.cornerstone.or.jp/event/190126zambiaevent/index.html" target="_blank"><img src="/2016/images/top/1901zambiaevent.jpg"></a>
 	<p class="block-date">開催日：2019年1月26日</p>
     <p class="block-title"><a href="https://www.cornerstone.or.jp/event/190126zambiaevent/index.html" target="_blank">ザンビア孤児院<br>〜家を失った子ども達〜<br>(報告会&Alpha;ミニコンサート)<br>インフォメーション</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-2">動画</span>
@@ -133,9 +101,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190126/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
+    <a href="http://astone.tv/events/2017byhisspirit/190127/" target="_blank"><img src="/2016/images/top/1702byhissetagaya.jpg"></a>
     <p class="block-date">日程：2019年1月26日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190126/" target="_blank">エルサレム <br>岩槻デイケアでコンサート</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190127/" target="_blank">By His Spirit <br>世田谷の高齢者施設でコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -248,6 +216,34 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/meeting1901/" target="_blank"><img src="/2016/images/top/1702yokotoyofuji.jpg"></a>
+    <p class="block-date">ブログ：2019年1月26日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/meeting1901/" target="_blank">冬の輝く光の中を <br>豊橋・富士宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gifts/190126/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
+    <p class="block-date">ブログ：2019年1月26日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190126/" target="_blank">Gifts <br>ザンビア孤児院〜家を失った子ども達〜に出演</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/gospel2017/190126/" target="_blank"><img src="/2016/images/top/1710gospeltudoi.jpg"></a>
+    <p class="block-date">ブログ：2019年1月26日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190126/" target="_blank">1月 ゴスペルの集い</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190126/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
+    <p class="block-date">日程：2019年1月26日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190126/" target="_blank">エルサレム <br>岩槻デイケアでコンサート</a></p>
 </div>
 
 <div class="column-inner">
