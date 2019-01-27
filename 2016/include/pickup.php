@@ -39,17 +39,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/synerugoi1901/" target="_blank"><img src="/2016/images/top/1701sunerugoiomoideantioch.jpg"></a>
-    <p class="block-date">ブログ：2019年1月21日～27日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/synerugoi1901/" target="_blank">白馬スネルゴイキャンプに向かって<br>東京アンテオケ教会ワクワクの一週間</a></p>
+    <a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank"><img src="/2016/images/top/1801daikanantioch.jpg"></a>
+    <p class="block-date">ブログ：2019年1月28日～2月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank">大寒を楽しもう！<br>東京アンテオケ教会ワクワクの一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/2017students/190127/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
-    <p class="block-date">日程：2019年1月27日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/190127/" target="_blank">1月 学生会の一日</a></p>
+    <a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank"><img src="/2016/images/top/1801kantoyosen.jpg"></a>
+    <p class="block-date">日程：2019年1月28日～2月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank">J.GOSPELコンテスト in 白馬<br>関東予選に向かって各ゴスペルグループ勝負の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -101,9 +101,16 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/synerugoi1901z/" target="_blank"><img src="/2016/images/top/1701sunerugoiomoidezenkoku.jpg"></a>
-    <p class="block-date">ブログ：2019年1月21日～27日</p>
-    <p class="block-title"><a href="http://astone.tv/events/synerugoi1901z/" target="_blank">白馬スネルゴイキャンプに向かって<br>全国各教会ウキウキの一週間 ー思い出とともにー</a></p>
+    <a href="http://astone.tv/events/yorokobi1901z/" target="_blank"><img src="/2016/images/top/1801daikanzenkoku.jpg"></a>
+    <p class="block-date">ブログ：2019年1月28日～2月3日</p>
+    <p class="block-title"><a href="http://astone.tv/events/yorokobi1901z/" target="_blank">大寒を楽しもう！<br>TLEA全国各教会の一週間 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190128/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
+    <p class="block-date">日程：2019年1月28日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190128/" target="_blank">エルサレム <br>岩槻デイケアでコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -220,6 +227,27 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/synerugoi1901/" target="_blank"><img src="/2016/images/top/1701sunerugoiomoideantioch.jpg"></a>
+    <p class="block-date">ブログ：2019年1月21日～27日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/synerugoi1901/" target="_blank">白馬スネルゴイキャンプに向かって<br>東京アンテオケ教会ワクワクの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/2017students/190127/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
+    <p class="block-date">日程：2019年1月27日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/190127/" target="_blank">1月 学生会の一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/synerugoi1901z/" target="_blank"><img src="/2016/images/top/1701sunerugoiomoidezenkoku.jpg"></a>
+    <p class="block-date">ブログ：2019年1月21日～27日</p>
+    <p class="block-title"><a href="http://astone.tv/events/synerugoi1901z/" target="_blank">白馬スネルゴイキャンプに向かって<br>全国各教会ウキウキの一週間 ー思い出とともにー</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/meeting1901/" target="_blank"><img src="/2016/images/top/1702yokotoyofuji.jpg"></a>
     <p class="block-date">ブログ：2019年1月26日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/meeting1901/" target="_blank">冬の輝く光の中を <br>豊橋・富士宣教の旅</a></p>
@@ -239,12 +267,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190126/" target="_blank">1月 ゴスペルの集い</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190126/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
     <p class="block-date">日程：2019年1月26日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190126/" target="_blank">エルサレム <br>岩槻デイケアでコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
