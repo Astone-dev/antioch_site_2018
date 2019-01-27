@@ -99,14 +99,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/2017byhisspirit/190127/" target="_blank"><img src="/2016/images/top/1702byhissetagaya.jpg"></a>
-    <p class="block-date">日程：2019年1月26日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190127/" target="_blank">By His Spirit <br>世田谷の高齢者施設でコンサート</a></p>
-</div>
-
-<div class="column-inner">
     <span>NEW</span>
     <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
