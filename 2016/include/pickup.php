@@ -52,14 +52,6 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank">J.GOSPELコンテスト in 白馬<br>関東予選に向かって各ゴスペルグループ勝負の一週間</a></p>
 </div>
 
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>    
-    <a href="https://tokyo.antioch.jp/internet-tv/1901020-yosen.html" target="_blank"><img src="/2016/images/top/1901hakubantiochyosen_m.jpg"></a>
-    <p class="block-date">開催日：2019年1月20日</p>	
-    <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/1901020-yosen.html" target="_blank">J.GOSPELコンテスト<br>東京アンテオケ教会予選<br>映像保存版</a></p>
-</div>
-
 <!--<div class="column-inner">
     <span>NEW</span>    
     <a href="https://www.cornerstone.or.jp/event/190126zambiaevent/index.html" target="_blank"><img src="/2016/images/top/1901zambiaevent.jpg"></a>
@@ -170,6 +162,13 @@
     <span class="label-2">映像</span>
     <a href="http://movie.antioch.jp/2018hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
     <p class="block-title"><a href="http://movie.antioch.jp/2018hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>受賞作品と応募作品</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="https://tokyo.antioch.jp/internet-tv/1901020-yosen.html" target="_blank"><img src="/2016/images/top/1901hakubantiochyosen_m.jpg"></a>
+    <p class="block-date">開催日：2019年1月20日</p>	
+    <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/1901020-yosen.html" target="_blank">J.GOSPELコンテスト<br>東京アンテオケ教会予選<br>映像保存版</a></p>
 </div>
 
 <div class="column-inner">
