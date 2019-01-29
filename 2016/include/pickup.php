@@ -41,7 +41,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/1901kawasaki/" target="_blank"><img src="/2016/images/top/1703kawasaki.jpg"></a>
     <p class="block-date">ブログ：2019年1月30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1901kawasaki/" target="_blank">冬晴れの川崎を行く<br>川崎宣教の旅</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1901kawasaki/" target="_blank">冬の輝く光の中を<br>関東宣教の旅<br>川崎聖会</a></p>
 </div>
 
 <div class="column-inner">
