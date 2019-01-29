@@ -39,6 +39,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/1901kawasaki/" target="_blank"><img src="/2016/images/top/1703kawasaki.jpg"></a>
+    <p class="block-date">ブログ：2019年1月30日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1901kawasaki/" target="_blank">冬晴れの川崎を行く<br>川崎宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank"><img src="/2016/images/top/1801daikanantioch.jpg"></a>
     <p class="block-date">ブログ：2019年1月28日～2月3日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank">大寒を楽しもう！<br>東京アンテオケ教会ワクワクの一週間</a></p>
