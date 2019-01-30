@@ -39,14 +39,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/1901kawasaki/" target="_blank"><img src="/2016/images/top/1703kawasaki.jpg"></a>
-    <p class="block-date">ブログ：2019年1月30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1901kawasaki/" target="_blank">冬の輝く光の中を<br>関東宣教の旅<br>川崎聖会</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank"><img src="/2016/images/top/1801daikanantioch.jpg"></a>
     <p class="block-date">ブログ：2019年1月28日～2月3日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank">大寒を楽しもう！<br>東京アンテオケ教会ワクワクの一週間</a></p>
@@ -225,12 +217,19 @@
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
 </div>
 
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/1901kawasaki/" target="_blank"><img src="/2016/images/top/1703kawasaki.jpg"></a>
+    <p class="block-date">ブログ：2019年1月30日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1901kawasaki/" target="_blank">冬の輝く光の中を<br>関東宣教の旅<br>川崎聖会</a></p>
+</div>
+
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190128/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
     <p class="block-date">日程：2019年1月28日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190128/" target="_blank">エルサレム <br>岩槻デイケアでコンサート</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190128/" target="_blank">エルサレム <br>三郷デイケアでコンサート</a></p>
 </div>
 
 
