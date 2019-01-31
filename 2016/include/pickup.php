@@ -52,6 +52,14 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank">J.GOSPELコンテスト in 白馬<br>関東予選に向かって各ゴスペルグループ勝負の一週間</a></p>
 </div>
 
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1901tocharidigest_p.jpg"></a>
+    <p class="block-date">日程：2019年1月9</p>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">1月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
+</div>
+
 <!--<div class="column-inner">
     <span>NEW</span>    
     <a href="https://www.cornerstone.or.jp/event/190126zambiaevent/index.html" target="_blank"><img src="/2016/images/top/1901zambiaevent.jpg"></a>
