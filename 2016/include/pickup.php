@@ -82,13 +82,13 @@
     <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank">白馬スネルゴイキャンプ<br>インフォメーション</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>    
     <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/2019hcff-sakuhin.jpg"></a>
 	<p class="block-date">開催日：2019年2月28日</p>	
     <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>応募作品</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-2">動画</span>
