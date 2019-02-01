@@ -174,13 +174,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="https://tokyo.antioch.jp/internet-tv/1901020-yosen.html" target="_blank"><img src="/2016/images/top/1901hakubantiochyosen_m.jpg"></a>
-    <p class="block-date">開催日：2019年1月20日</p>	
-    <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/1901020-yosen.html" target="_blank">J.GOSPELコンテスト<br>東京アンテオケ教会予選<br>映像保存版</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/movie1901/" target="_blank"><img src="/2016/images/top/1901teamfeizousai.jpg"></a>
     <p class="block-date">日程：2019年1月18日～19日</p>
@@ -265,13 +258,6 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/synerugoi1901z/" target="_blank"><img src="/2016/images/top/1701sunerugoiomoidezenkoku.jpg"></a>
-    <p class="block-date">ブログ：2019年1月21日～27日</p>
-    <p class="block-title"><a href="http://astone.tv/events/synerugoi1901z/" target="_blank">白馬スネルゴイキャンプに向かって<br>全国各教会ウキウキの一週間 ー思い出とともにー</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/meeting1901/" target="_blank"><img src="/2016/images/top/1702yokotoyofuji.jpg"></a>
     <p class="block-date">ブログ：2019年1月26日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/meeting1901/" target="_blank">冬の輝く光の中を <br>豊橋・富士宣教の旅</a></p>
@@ -297,79 +283,6 @@
     <p class="block-date">日程：2019年1月26日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190126/" target="_blank">エルサレム <br>岩槻デイケアでコンサート</a></p>
 </div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/faith1901/" target="_blank"><img src="/2016/images/top/1701syougatuantioch.jpg"></a>
-    <p class="block-date">日程：2019年1月14日～20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1901/" target="_blank">寒さに負けるな！<br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/yosen1901/" target="_blank"><img src="/2016/images/top/1801antiochyosen.jpg"></a>
-    <p class="block-date">日程：2019年1月14日～20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1901/" target="_blank">いよいよ今日決戦！<br>J.GOSPELコンテスト東京アンテオケ教会予選に向かって<br>出場グループドキドキの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/faith1901z/" target="_blank"><img src="/2016/images/top/1701syougatuzenkoku.jpg"></a>
-    <p class="block-date">日程：2019年1月14日～20日</p>
-    <p class="block-title"><a href="http://astone.tv/events/faith1901z/" target="_blank">寒さに負けるな！ <br>全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/yokosuka1901/" target="_blank"><img src="/2016/images/top/1704yokosuka.jpg"></a>
-    <p class="block-date">日程：2019年1月19日 18:00～</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/yokosuka1901/" target="_blank">冬晴れの関東を行く 横須賀聖会</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/revival2017/190119/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
-    <p class="block-date">日程：2019年1月19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190119/" target="_blank">1月 リバイバルナイトの一日</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190119/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
-    <p class="block-date">日程：2019年1月19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190119/" target="_blank">エルサレム <br>相馬の復興支援レストラン報徳庵でライブ</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/gate2018/190119/" target="_blank"><img src="/2016/images/top/1609gateofnerimarouken.jpg"></a>
-    <p class="block-date">日程：2019年1月19日</p>
-    <p class="block-title"><a href="http://astone.tv/events/gate2018/190119/" target="_blank">The Gate of Praise <br>練馬区の老健でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/gracious/190119/" target="_blank"><img src="/2016/images/top/1701gracious.jpg"></a>
-    <p class="block-date">日程：2019年1月19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190119/" target="_blank"> GRACIOUS DOORS  <br>中野区のデイサ━ビスで、ボランティア・コンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/gracejewel2017/190119/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
-    <p class="block-date">日程：2019年1月19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190119/" target="_blank">GRACEと宝石 <br>府中市の特別養護老人ホームでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jfes1901/" target="_blank"><img src="/2016/images/top/1801shibuyafes.jpg"></a>
-    <p class="block-date">日程：2019年1月7日～14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1901/" target="_blank">渋谷J.GOSPEL FESに向かって<br>出演グループとThe Visionスタッフの一週間</a></p>
-</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ </span>
