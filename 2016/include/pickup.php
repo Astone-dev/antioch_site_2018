@@ -39,9 +39,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/1902atugi/" target="_blank"><img src="/2016/images/top/1706atsugi.jpg"></a>
-    <p class="block-date">ブログ：2019年2月2日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1902atugi/" target="_blank">真冬の関東を行く<br>厚木聖会<br>(日程：2019年2月2日)</a></p>
+    <a href="http://antiochblog.jp/praise/1902tokyo/" target="_blank"><img src="/2016/images/top/1901tokyocharisma.jpg"></a>
+    <p class="block-date">日程：2019年2月2日〜3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1902tokyo/" target="_blank">冬の東京カリスマ聖会<br>てんやわんや<br>(日程：2019年2月2日〜3日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -50,14 +50,6 @@
     <a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank"><img src="/2016/images/top/1801daikanantioch.jpg"></a>
     <p class="block-date">ブログ：2019年1月28日～2月3日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank">大寒を楽しもう！<br>東京アンテオケ教会ワクワクの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/1902tokyo/" target="_blank"><img src="/2016/images/top/1901tokyocharisma.jpg"></a>
-    <p class="block-date">日程：2019年2月2日〜3日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1902tokyo/" target="_blank">冬の東京カリスマ聖会<br>てんやわんや<br>(日程：2019年2月2日〜3日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -240,6 +232,13 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/1902atugi/" target="_blank"><img src="/2016/images/top/1706atsugi.jpg"></a>
+    <p class="block-date">ブログ：2019年2月2日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1902atugi/" target="_blank">真冬の関東を行く<br>厚木聖会<br>(日程：2019年2月2日)</a></p>
 </div>
 
 <div class="column-inner">
