@@ -60,7 +60,9 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1902/" target="_blank">それぞれの長崎殉教記念聖会 <br>東京アンテオケ教会</a></p>
 </div>
 
+<!--
 <div class="column-inner">
+<<<<<<< HEAD
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/prayer1902/" target="_blank"><img src="/2016/images/top/1702inorinotour.jpg"></a>
@@ -75,17 +77,26 @@
     <p class="block-date">ブログ：2019年2月4日～</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1902hollywood/" target="_blank">映画製作にむかって前進！ <br>ハリウッドチーム 最新情報写真集</a></p>
 </div>
+=======
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/user/GLTVJP" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト関東予選 生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
+<p class="block-date">2019年2月3日</p>
+<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト関東予選 生中継');">J.GOSPELコンテスト in 白馬 関東予選 生中継<br>2月3日16:15 スタート</a>
+</p></div>
+-->
+>>>>>>> dead32831c510814d1e2014fc680827936d7bb39
 
 <div class="column-inner">
     <span class="label-2">動画</span>
-    <span>NEW</span>    
+    <span>NEW</span>
     <a href="https://www.youtube.com/watch?v=aaUPvz7vUl0&feature=youtu.be" target="_blank"><img src="/2016/images/top/1901jyunkyouseikai_cm_m.jpg"></a>
 	<p class="block-date">開催日：2019年2月5日</p>		
     <p class="block-title"><a href="https://www.youtube.com/watch?v=aaUPvz7vUl0&feature=youtu.be" target="_blank">長崎殉教記念聖会<br>紹介映像<br>(再生時間 2:23)<br>14:00〜西坂／19:00〜平和会館</a></p>
 </div>
 
 <div class="column-inner">
-    <span>NEW</span>    
+    <span>NEW</span>
     <a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1901hakubacampinfo.jpg"></a>
 	<p class="block-date">キャンプ：2019年2月27日〜3月1日</p>	
     <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank">白馬スネルゴイキャンプ<br>インフォメーション</a></p>
@@ -93,7 +104,7 @@
 
 <div class="column-inner">
     <span class="label-2">動画</span>
-    <span>NEW</span>    
+    <span>NEW</span>
     <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/2019hcff-sakuhin.jpg"></a>
 	<p class="block-date">開催日：2019年2月28日</p>	
     <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>応募作品: 順次アップされていきます</a></p>
@@ -101,7 +112,7 @@
 
 <div class="column-inner">
     <span class="label-2">動画</span>
-    <span>NEW</span>    
+    <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank"><img src="/2016/images/top/1812sunerugoi_cm.jpg"></a>
 	<p class="block-date">キャンプ：2019年2月27日〜3月1日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>CM映像<br>(再生時間 2:17)</a></p>
@@ -109,7 +120,7 @@
 
 <div class="column-inner">
     <span class="label-2">動画</span>
-    <span>NEW</span>    
+    <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/2019hcff-cm/" target="_blank"><img src="/2016/images/top/1812hcff_cm.jpg"></a>
 	<p class="block-date">開催日：2019年2月28日</p>	
     <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hcff-cm/" target="_blank">白馬クリスチャンフイルムフェスティバル2019<br>CM映像<br>(再生時間 1:51)</a></p>
