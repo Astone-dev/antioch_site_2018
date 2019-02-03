@@ -39,34 +39,41 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/1902tokyo/" target="_blank"><img src="/2016/images/top/1901tokyocharisma.jpg"></a>
-    <p class="block-date">日程：2019年2月2日〜3日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1902tokyo/" target="_blank">冬の東京カリスマ聖会<br>てんやわんや<br>(日程：2019年2月2日〜3日)</a></p>
+    <a href="http://antiochblog.jp/info/yorokobi1902/" target="_blank"><img src="/2016/images/top/1607kyusyuseika.jpg"></a>
+    <p class="block-date">日程：2019年2月4日〜6日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1902/" target="_blank">春待ち遠し <br>九州宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank"><img src="/2016/images/top/1801kantoyosen.jpg"></a>
-    <p class="block-date">日程：2019年1月28日～2月3日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank">いよいよ決戦！<br>J.GOSPELコンテスト in 白馬<br>関東予選に向かって各ゴスペルグループ勝負の1日</a></p>
+    <a href="http://antiochblog.jp/info/gifts/190204/" target="_blank"><img src="/2016/images/top/1702giftskyuushu.jpg"></a>
+    <p class="block-date">ブログ：2019年2月4日～9日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190204/" target="_blank">Gifts漫遊記<br>殉教聖会、九州を行く</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank"><img src="/2016/images/top/1801daikanantioch.jpg"></a>
-    <p class="block-date">ブログ：2019年1月28日～2月3日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank">大寒を楽しもう！<br>東京アンテオケ教会ワクワクの一週間</a></p>
+    <a href="http://antiochblog.jp/praise/faith1902/" target="_blank"><img src="/2016/images/top/1701jyunkyoseikaiantioch.jpg"></a>
+    <p class="block-date">日程：2019年2月4日～10日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1902/" target="_blank">それぞれの長崎殉教記念聖会 <br>東京アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像　</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/user/GLTVJP" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト関東予選 生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
-<p class="block-date">2019年2月3日</p>
-<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP" target="_blank" onclick="javascript:pageTracker._trackPageview('J.GOSPELコンテスト関東予選 生中継');">J.GOSPELコンテスト in 白馬 関東予選 生中継<br>2月3日16:15 スタート</a>
-</p>
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/prayer1902/" target="_blank"><img src="/2016/images/top/1702inorinotour.jpg"></a>
+    <p class="block-date">日程：2019年2月4日～10日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/prayer1902/" target="_blank">26聖人の足跡をたどる<br> 祈りのツアー</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://blog.antioch.jp/1902hollywood/" target="_blank"><img src="/2016/images/top/1702hollywoodteam.jpg"></a>
+    <p class="block-date">ブログ：2019年2月4日～</p>
+    <p class="block-title"><a href="http://blog.antioch.jp/1902hollywood/" target="_blank">映画製作にむかって前進！ <br>ハリウッドチーム 最新情報写真集</a></p>
 </div>
 
 <div class="column-inner">
@@ -111,9 +118,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/yorokobi1901z/" target="_blank"><img src="/2016/images/top/1801daikanzenkoku.jpg"></a>
-    <p class="block-date">ブログ：2019年1月28日～2月3日</p>
-    <p class="block-title"><a href="http://astone.tv/events/yorokobi1901z/" target="_blank">大寒を楽しもう！<br>TLEA全国各教会の一週間 </a></p>
+    <a href="http://astone.tv/events/faith1902z/" target="_blank"><img src="/2016/images/top/1701jyunkyoseikaizenkoku.jpg"></a>
+    <p class="block-date">ブログ：2019年2月4日～10日</p>
+    <p class="block-title"><a href="http://astone.tv/events/faith1902z/" target="_blank">それぞれの長崎殉教記念聖会<br>TLEA全国各教会の一週間 </a></p>
 </div>
 
 <div class="column-inner">
@@ -234,6 +241,34 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/1902tokyo/" target="_blank"><img src="/2016/images/top/1901tokyocharisma.jpg"></a>
+    <p class="block-date">日程：2019年2月2日〜3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1902tokyo/" target="_blank">冬の東京カリスマ聖会<br>てんやわんや<br>(日程：2019年2月2日〜3日)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank"><img src="/2016/images/top/1801kantoyosen.jpg"></a>
+    <p class="block-date">日程：2019年1月28日～2月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank">いよいよ決戦！<br>J.GOSPELコンテスト in 白馬<br>関東予選に向かって各ゴスペルグループ勝負の1日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank"><img src="/2016/images/top/1801daikanantioch.jpg"></a>
+    <p class="block-date">ブログ：2019年1月28日～2月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank">大寒を楽しもう！<br>東京アンテオケ教会ワクワクの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/yorokobi1901z/" target="_blank"><img src="/2016/images/top/1801daikanzenkoku.jpg"></a>
+    <p class="block-date">ブログ：2019年1月28日～2月3日</p>
+    <p class="block-title"><a href="http://astone.tv/events/yorokobi1901z/" target="_blank">大寒を楽しもう！<br>TLEA全国各教会の一週間 </a></p>
 </div>
 
 <div class="column-inner">
