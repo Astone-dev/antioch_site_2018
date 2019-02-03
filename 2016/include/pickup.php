@@ -47,17 +47,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank"><img src="/2016/images/top/1801daikanantioch.jpg"></a>
-    <p class="block-date">ブログ：2019年1月28日～2月3日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank">大寒を楽しもう！<br>東京アンテオケ教会ワクワクの一週間</a></p>
+    <a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank"><img src="/2016/images/top/1801kantoyosen.jpg"></a>
+    <p class="block-date">日程：2019年1月28日～2月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank">いよいよ決戦！<br>J.GOSPELコンテスト in 白馬<br>関東予選に向かって各ゴスペルグループ勝負の1日</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank"><img src="/2016/images/top/1801kantoyosen.jpg"></a>
-    <p class="block-date">日程：2019年1月28日～2月3日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank">J.GOSPELコンテスト in 白馬<br>関東予選に向かって各ゴスペルグループ勝負の一週間</a></p>
+    <a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank"><img src="/2016/images/top/1801daikanantioch.jpg"></a>
+    <p class="block-date">ブログ：2019年1月28日～2月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank">大寒を楽しもう！<br>東京アンテオケ教会ワクワクの一週間</a></p>
 </div>
 
 <div class="column-inner">
