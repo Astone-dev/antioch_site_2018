@@ -4,8 +4,7 @@
   
   //火曜12時以降～木曜12時までの間 祈りの時間 バナーを表示
   switch ($youbi){
-  	//TEST-Commentout case "Tue":
-  	case "Mon": ////TEST-Comment
+  	case "Tue":
   		if ( $hour >=12 ){show_prayer_html();}
   		break;
   	case "Wed":
@@ -21,7 +20,7 @@
   function show_prayer_html(){
   	 echo '<div class="column-inner"><span>NEW</span><a href="/prayer-time/" target="_blank"><img src="/2016/images/top/1604prayertime.jpg"></a>
   	 <p class="block-date">毎週火曜日22:00〜23:00生中継</p>
-  	 <p class="block-title"><a href="/prayer-time/" target="_blank">祈りの時間<br>プレイヤータイム 祈りによる恵みを受けるために<br></a><br>（本日の「祈りの時間」は録画放送です。祈りの課題は随時受け付けております。）</p></div>';
+  	 <p class="block-title"><a href="/prayer-time/" target="_blank">祈りの時間<br>プレイヤータイム 祈りによる恵みを受けるために</a><br>（本日の「祈りの時間」は録画放送です。祈りの課題は随時受け付けております。）</p></div>';
   }
   
   /* 以下を表示させる
