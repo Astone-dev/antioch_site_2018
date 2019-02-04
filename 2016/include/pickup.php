@@ -380,7 +380,7 @@
 <span>NEW</span>
 <a href="/prayer-time/" target="_blank"><img src="/2016/images/top/1604prayertime.jpg"></a>
 <p class="block-date">毎週火曜日22:00〜23:00生中継</p>
-<p class="block-title"><a href="/prayer-time/" target="_blank">祈りの時間<br>祈りによる恵みを受けるために<br></a></p>
+<p class="block-title"><a href="/prayer-time/" target="_blank">祈りの時間<br>祈りによる恵みを受けるために<br>（本日の「祈りの時間」は録画放送です。<br>祈りの課題は随時受け付けております。）</a></p>
 </div>-->
 
 <!--<div class="column-inner">
