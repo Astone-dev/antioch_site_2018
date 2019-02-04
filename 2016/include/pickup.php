@@ -60,6 +60,14 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1902/" target="_blank">それぞれの長崎殉教記念聖会 <br>東京アンテオケ教会</a></p>
 </div>
 
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="https://tokyo.antioch.jp/internet-tv/190203-kantoyosen.html" target="_blank"><img src="/2016/images/top/1902hakubkantoyosen_m.jpg"></a>
+	<p class="block-date">開催日：2019年2月3日</p>	
+    <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190203-kantoyosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>関東予選 映像保存版</a></p>
+</div>
+
 <!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
@@ -344,7 +352,6 @@
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/pyrayer_time_banner.php') ?>
 
 <!--<div class="column-inner">
-<<<<<<< HEAD
 <span>NEW</span>
 <a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
 <p class="block-date">日程：2017年10月1日</p>
@@ -359,8 +366,6 @@
 </div>-->
 
 <!--<div class="column-inner">
-=======
->>>>>>> d77524fdd4661bd25df73e925549dc9d874e559f
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
