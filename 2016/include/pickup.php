@@ -230,12 +230,6 @@
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201811-israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 10:19)</a></p>
 </div>
 
-<!--<div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告'); "><img src="/2016/images/top/1809paulo_m.jpg"></a>
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=238fo5HqQcc" target="_blank" onclick="javascript:pageTracker._trackPageview('映画『パウロ 愛と赦しの物語』予告');">映画『パウロ 愛と赦しの物語』<br>予告映像（2018年11月3日公開）</a></p>
-</div>-->
-
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
@@ -329,13 +323,6 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190126/" target="_blank">1月 ゴスペルの集い</a></p>
 </div>
 
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190126/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
-    <p class="block-date">日程：2019年1月26日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190126/" target="_blank">エルサレム <br>岩槻デイケアでコンサート</a></p>
-</div>-->
-
 <div class="column-inner">
     <span class="label-1">ブログ </span>
     <a href="http://astone.tv/events/1901event/" target="_blank"><img src="/2016/images/top/1607syakaijinkai.jpg"></a>
@@ -350,26 +337,14 @@
     <p class="block-title"><a href="/onsei/2019newyearworship.html" target="_blank">イスラエルチーム新年度礼拝 アーカイブ版</a></p>
 </div>
 
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<a href="http://movie.antioch.jp/2017hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
-<p class="block-title"><a href="http://movie.antioch.jp/2017hcff/" target="_blank">第7回 白馬クリスチャンフィルムフェスティバル<br>受賞作品とその他全作品</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-<span class="label-2">映像</span>
-<a href="http://movie.antioch.jp/hcmf2016/" target="_blank"><img src="/2016/images/top/blogbt_hcff.jpg"></a>
-<p class="block-title"><a href="http://movie.antioch.jp/hcmf2016/" target="_blank">第6回クリスチャン映像祭<br>結果発表＆応募作品</a></p>
-</div>-->
-
 <div class="column-inner"> <a href="http://astone.tv/events/arai201503/" target="_blank"><img src="/2016/images/top/blogbt_ptarai.jpg"></a>
     <p class="block-title"><a href="http://astone.tv/events/arai201503/" target="_blank">新井先生秘蔵写真<br>また会う日まで写真集</a></p>
 </div>
 
-
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/pyrayer_time_banner.php') ?>
 
 <!--<div class="column-inner">
+<<<<<<< HEAD
 <span>NEW</span>
 <a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
 <p class="block-date">日程：2017年10月1日</p>
@@ -384,6 +359,8 @@
 </div>-->
 
 <!--<div class="column-inner">
+=======
+>>>>>>> d77524fdd4661bd25df73e925549dc9d874e559f
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
