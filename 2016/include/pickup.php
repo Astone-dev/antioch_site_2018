@@ -41,7 +41,7 @@
 <span>NEW</span>
 <a href="https://www.youtube.com/user/kaminoshimobe/live" target="_blank" onclick="javascript:pageTracker._trackPageview('日本二十六聖人を記念する集会');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2019年2月5日</p>
-<p class="block-title"><a href="https://www.youtube.com/user/kaminoshimobe/live" target="_blank" onclick="javascript:pageTracker._trackPageview('日本二十六聖人を記念する集会');">日本二十六聖人を記念する集会生中継<br>2月5日 昼 14:00～／夜 19:00～</a></p>
+<p class="block-title"><a href="https://www.youtube.com/user/kaminoshimobe/live" target="_blank" onclick="javascript:pageTracker._trackPageview('日本二十六聖人を記念する集会');">日本二十六聖人を記念する集会生中継<br>昼 14:00～／夜 19:00～</a></p>
 </div>
 
 <div class="column-inner">
