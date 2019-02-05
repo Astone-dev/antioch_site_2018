@@ -85,7 +85,7 @@
 </div>
 
 <!--<div class="column-inner">
-    <span class="label-2">動画 </span>
+    <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="https://www.youtube.com/watch?v=aaUPvz7vUl0&feature=youtu.be" target="_blank"><img src="/2016/images/top/1902jyunkyohozon_m.jpg"></a>
 	<p class="block-date">開催日：2019年2月5日</p>		
