@@ -41,7 +41,7 @@
 <span>NEW</span>
 <a href="https://www.youtube.com/user/kaminoshimobe/live" target="_blank" onclick="javascript:pageTracker._trackPageview('日本二十六聖人を記念する集会');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
 <p class="block-date">2019年2月5日 </p>
-<p class="block-title"><a href="https://www.youtube.com/user/kaminoshimobe/live" target="_blank" onclick="javascript:pageTracker._trackPageview('日本二十六聖人を記念する集会');">日本二十六聖人を記念する集会生中継<br>昼 14:00～／夜 19:00～</a><br><i style="color:#ff0000;font-size: 11px;">※Youtubeアプリが無いと視聴に問題が起こる可能性があります。Youtubeアプリをダウンロードしてご視聴ください。</i></p>
+<p class="block-title"><a href="https://www.youtube.com/user/kaminoshimobe/live" target="_blank" onclick="javascript:pageTracker._trackPageview('日本二十六聖人を記念する集会');">長崎殉教記念聖会 生中継<br>昼 14:00～／夜 19:00～</a><br><i style="color:#ff0000;font-size: 11px;">※Youtubeアプリが無いと視聴に問題が起こる可能性があります。Youtubeアプリをダウンロードしてご視聴ください。</i></p>
 </div>
 
 <div class="column-inner">
