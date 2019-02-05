@@ -57,7 +57,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/faith1902/" target="_blank"><img src="/2016/images/top/1701jyunkyoseikaiantioch.jpg"></a>
     <p class="block-date">日程：2019年2月4日～10日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1902/" target="_blank">それぞれの長崎殉教記念聖会 <br>東京アンテオケ教会</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1902/" target="_blank">それぞれの長崎殉教記念聖会 その後<br>東京アンテオケ教会</a></p>
 </div>
 
 <div class="column-inner">
@@ -85,7 +85,7 @@
 </div>
 
 <!--<div class="column-inner">
-    <span class="label-2">動画</span>
+    <span class="label-2">動画 </span>
     <span>NEW</span>
     <a href="https://www.youtube.com/watch?v=aaUPvz7vUl0&feature=youtu.be" target="_blank"><img src="/2016/images/top/1902jyunkyohozon_m.jpg"></a>
 	<p class="block-date">開催日：2019年2月5日</p>		
@@ -128,7 +128,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/faith1902z/" target="_blank"><img src="/2016/images/top/1701jyunkyoseikaizenkoku.jpg"></a>
     <p class="block-date">ブログ：2019年2月4日～10日</p>
-    <p class="block-title"><a href="http://astone.tv/events/faith1902z/" target="_blank">それぞれの長崎殉教記念聖会<br>TLEA全国各教会の一週間 </a></p>
+    <p class="block-title"><a href="http://astone.tv/events/faith1902z/" target="_blank">それぞれの長崎殉教記念聖会 その後<br>TLEA全国各教会の一週間 </a></p>
 </div>
 
 <div class="column-inner">
