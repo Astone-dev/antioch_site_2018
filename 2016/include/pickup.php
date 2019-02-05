@@ -84,13 +84,13 @@
     <p class="block-title"><a href="http://blog.antioch.jp/1902hollywood/" target="_blank">映画製作にむかって前進！ <br>ハリウッドチーム 最新情報写真集</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="https://www.youtube.com/watch?v=aaUPvz7vUl0&feature=youtu.be" target="_blank"><img src="/2016/images/top/1901jyunkyouseikai_cm_m.jpg"></a>
+    <a href="https://www.youtube.com/watch?v=aaUPvz7vUl0&feature=youtu.be" target="_blank"><img src="/2016/images/top/1902jyunkyohozon_m.jpg"></a>
 	<p class="block-date">開催日：2019年2月5日</p>		
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=aaUPvz7vUl0&feature=youtu.be" target="_blank">長崎殉教記念聖会<br>紹介映像<br>(再生時間 2:23)<br>14:00〜西坂／19:00〜平和会館</a></p>
-</div>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=aaUPvz7vUl0&feature=youtu.be" target="_blank">長崎殉教記念聖会<br>映像保存版</a></p>
+</div>-->
 
 <div class="column-inner">
     <span>NEW</span>
