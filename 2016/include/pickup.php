@@ -68,13 +68,13 @@
     <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190203-kantoyosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>関東予選 映像保存版</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/prayer1902/" target="_blank"><img src="/2016/images/top/1702inorinotour.jpg"></a>
     <p class="block-date">日程：2019年2月6日～</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/prayer1902/" target="_blank">26聖人の足跡をたどる<br> 祈りのツアー</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
