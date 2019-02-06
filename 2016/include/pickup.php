@@ -36,13 +36,13 @@
     <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>(毎日AM5:00UP!)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/yorokobi1902/" target="_blank"><img src="/2016/images/top/1607kyusyuseika.jpg"></a>
-    <p class="block-date">日程：2019年2月4日〜6日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1902/" target="_blank">春待ち遠し <br>九州宣教の旅</a></p>
-</div>
+    <a href="http://astone.tv/events/yokohama1902/" target="_blank"><img src="/2016/images/top/1607kyusyuseika.jpg"></a>
+    <p class="block-date">日程：2019年2月9日</p>
+    <p class="block-title"><a href="http://astone.tv/events/yokohama1902/" target="_blank">春待ち遠し <br>横浜宣教の旅</a></p>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -60,20 +60,28 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1902/" target="_blank">それぞれの長崎殉教記念聖会 その後<br>東京アンテオケ教会</a></p>
 </div>
 
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/yokohama1902/" target="_blank"><img src="/2016/images/top/1607kyusyuseika.jpg"></a>
+    <p class="block-date">日程：2019年2月9日</p>
+    <p class="block-title"><a href="http://astone.tv/events/yokohama1902/" target="_blank">いやしの集いの一日</a></p>
+</div>-->
+
+<!--<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年2月9日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継');">いやしの集い生中継<br>(日程：2019年2月9日 18:30スタート)</a></p>
+</div>-->
+
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="https://tokyo.antioch.jp/internet-tv/190203-kantoyosen.html" target="_blank"><img src="/2016/images/top/1902hakubkantoyosen_m.jpg"></a>
 	<p class="block-date">開催日：2019年2月3日</p>	
     <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190203-kantoyosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>関東予選 映像保存版</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/prayer1902/" target="_blank"><img src="/2016/images/top/1702inorinotour.jpg"></a>
-    <p class="block-date">日程：2019年2月6日～</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/prayer1902/" target="_blank">26聖人の足跡をたどる<br> 祈りのツアー</a></p>
 </div>
 
 <div class="column-inner">
@@ -257,6 +265,20 @@
     <a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank"><img src="/2016/images/top/1801kantoyosen.jpg"></a>
     <p class="block-date">日程：2019年1月28日～2月3日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank">いよいよ決戦！<br>J.GOSPELコンテスト in 白馬<br>関東予選に向かって各ゴスペルグループ勝負の1日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/yorokobi1902/" target="_blank"><img src="/2016/images/top/1607kyusyuseika.jpg"></a>
+    <p class="block-date">日程：2019年2月4日〜6日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1902/" target="_blank">春待ち遠し <br>九州宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/prayer1902/" target="_blank"><img src="/2016/images/top/1702inorinotour.jpg"></a>
+    <p class="block-date">日程：2019年2月6日～</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/prayer1902/" target="_blank">26聖人の足跡をたどる<br> 祈りのツアー</a></p>
 </div>
 
 <div class="column-inner">
