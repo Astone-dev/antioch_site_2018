@@ -87,9 +87,9 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="http://nagasakich.jp/karisuma/film_charisma.htm" target="_blank"><img src="/2016/images/top/1902jyunkyohozon_m.jpg"></a>
+    <a href="http://nagasakich.jp/karisuma/film_charisma.html" target="_blank"><img src="/2016/images/top/1902jyunkyohozon_m.jpg"></a>
 	<p class="block-date">開催日：2019年2月5日</p>		
-    <p class="block-title"><a href="http://nagasakich.jp/karisuma/film_charisma.htm" target="_blank">長崎殉教記念聖会<br>映像保存版</a></p>
+    <p class="block-title"><a href="http://nagasakich.jp/karisuma/film_charisma.html" target="_blank">長崎殉教記念聖会<br>映像保存版</a></p>
 </div>
 
 <div class="column-inner">
