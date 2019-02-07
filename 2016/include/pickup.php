@@ -310,7 +310,7 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/1902atugi/" target="_blank">真冬の関東を行く<br>厚木聖会<br>(日程：2019年2月2日)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/1901kawasaki/" target="_blank"><img src="/2016/images/top/1703kawasaki.jpg"></a>
     <p class="block-date">ブログ：2019年1月30日</p>
@@ -366,7 +366,7 @@
     <a href="http://astone.tv/events/1901event/" target="_blank"><img src="/2016/images/top/1607syakaijinkai.jpg"></a>
     <p class="block-date">日程：2019年1月14日</p>
     <p class="block-title"><a href="http://astone.tv/events/1901event/" target="_blank">社会人会 鍋を食べる</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-2">動画</span>
