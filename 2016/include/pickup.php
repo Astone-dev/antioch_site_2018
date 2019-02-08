@@ -36,13 +36,13 @@
     <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>(毎日AM5:00UP!)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/yokohama1902/" target="_blank"><img src="/2016/images/top/1607kyusyuseika.jpg"></a>
+    <a href="http://astone.tv/events/yokohama1902/" target="_blank"><img src="/2016/images/top/1608yokohamaseikai.jpg"></a>
     <p class="block-date">日程：2019年2月9日</p>
-    <p class="block-title"><a href="http://astone.tv/events/yokohama1902/" target="_blank">春待ち遠し <br>横浜宣教の旅</a></p>
-</div>-->
+    <p class="block-title"><a href="http://astone.tv/events/yokohama1902/" target="_blank">積雪予報の関東を行く <br>横浜宣教の旅</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -68,21 +68,21 @@
     <p class="block-title"><a href="http://astone.tv/events/1902kanto/" target="_blank">J.GOSPELコンテスト in 白馬 <br>関東予選喜びと悲しみの一週間</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/yokohama1902/" target="_blank"><img src="/2016/images/top/1607kyusyuseika.jpg"></a>
+    <a href="http://astone.tv/events/2017healing/190209/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
     <p class="block-date">日程：2019年2月9日</p>
-    <p class="block-title"><a href="http://astone.tv/events/yokohama1902/" target="_blank">いやしの集いの一日</a></p>
-</div>-->
+    <p class="block-title"><a href="http://astone.tv/events/2017healing/190209/" target="_blank">いやしの集いの一日</a></p>
+</div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2019年2月9日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継');">いやしの集い生中継<br>(日程：2019年2月9日 18:30スタート)</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
     <span class="label-2">動画</span>
