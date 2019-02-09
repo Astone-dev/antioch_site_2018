@@ -120,7 +120,7 @@
     <span>NEW</span>
     <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/2019hcff-sakuhin.jpg"></a>
 	<p class="block-date">開催日：2019年2月28日</p>	
-    <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>応募作品: 順次アップされていきます</a></p>
+    <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル</a></p>
 </div>
 
 <div class="column-inner">
