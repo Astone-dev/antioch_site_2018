@@ -39,22 +39,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/yokohama1902/" target="_blank"><img src="/2016/images/top/1608yokohamaseikai.jpg"></a>
-    <p class="block-date">日程：2019年2月9日</p>
-    <p class="block-title"><a href="http://astone.tv/events/yokohama1902/" target="_blank">積雪予報の関東を行く<br>横浜宣教の旅</a><br>横浜聖会は中止となりました</p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gifts/190204/" target="_blank"><img src="/2016/images/top/1702giftskyuushu.jpg"></a>
-    <p class="block-date">ブログ：2019年2月4日～9日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190204/" target="_blank">Gifts漫遊記<br>殉教聖会、九州を行く</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/faith1902/" target="_blank"><img src="/2016/images/top/1701jyunkyoseikaiantioch.jpg"></a>
     <p class="block-date">日程：2019年2月4日～10日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1902/" target="_blank">それぞれの長崎殉教記念聖会 その後<br>東京アンテオケ教会</a></p>
@@ -71,17 +55,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/2017healing/190209/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
-    <p class="block-date">日程：2019年2月9日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/190209/" target="_blank">いやしの集いの一日</a></p>
+    <a href="http://antiochblog.jp/praise/2018women/201902/" target="_blank"><img src="/2016/images/top/1701fujinkai.jpg"></a>
+    <p class="block-date">日程：2019年2月10日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201902/" target="_blank">婦人会の一日</a></p>
 </div>
 
 <div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年2月9日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継');">いやしの集い生中継<br>(日程：2019年2月9日 18:30スタート)</a></p>
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/euqaristias/20190210gospel/" target="_blank"><img src="/2016/images/top/1702eukarishinjyuku.jpg"></a>
+    <p class="block-date">日程：2019年2月10日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190210gospel/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
@@ -259,6 +243,27 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/yokohama1902/" target="_blank"><img src="/2016/images/top/1608yokohamaseikai.jpg"></a>
+    <p class="block-date">日程：2019年2月9日</p>
+    <p class="block-title"><a href="http://astone.tv/events/yokohama1902/" target="_blank">積雪予報の関東を行く<br>横浜宣教の旅</a><br>横浜聖会は中止となりました</p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gifts/190204/" target="_blank"><img src="/2016/images/top/1702giftskyuushu.jpg"></a>
+    <p class="block-date">ブログ：2019年2月4日～9日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190204/" target="_blank">Gifts漫遊記<br>殉教聖会、九州を行く</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/2017healing/190209/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
+    <p class="block-date">日程：2019年2月9日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017healing/190209/" target="_blank">いやしの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
