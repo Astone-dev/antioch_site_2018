@@ -41,7 +41,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/yokohama1902/" target="_blank"><img src="/2016/images/top/1608yokohamaseikai.jpg"></a>
     <p class="block-date">日程：2019年2月9日</p>
-    <p class="block-title"><a href="http://astone.tv/events/yokohama1902/" target="_blank">積雪予報の関東を行く <br>横浜宣教の旅</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/yokohama1902/" target="_blank">積雪予報の関東を行く<br>横浜宣教の旅</a><br>横浜聖会は中止となりました</p>
 </div>
 
 <div class="column-inner">
