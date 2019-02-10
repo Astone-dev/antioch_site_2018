@@ -39,33 +39,33 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/faith1902/" target="_blank"><img src="/2016/images/top/1701jyunkyoseikaiantioch.jpg"></a>
-    <p class="block-date">日程：2019年2月4日～10日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1902/" target="_blank">それぞれの長崎殉教記念聖会 その後<br>東京アンテオケ教会</a></p>
+    <a href="http://astone.tv/events/chubu1902/" target="_blank"><img src="/2016/images/top/1608chubuseikai.jpg"></a>
+    <p class="block-date">日程：2019年2月11日～13日</p>
+    <p class="block-title"><a href="http://astone.tv/events/chubu1902/" target="_blank">春待ち遠し <br>中部宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/1902kanto/" target="_blank"><img src="/2016/images/top/1902kantoyosenyorokobi.jpg"></a>
-    <p class="block-date">日程：2019年2月7日～</p>
-    <p class="block-title"><a href="http://astone.tv/events/1902kanto/" target="_blank">J.GOSPELコンテスト in 白馬 <br>関東予選喜びと悲しみの一週間</a></p>
+    <a href="http://antiochblog.jp/praise/thanks1902/" target="_blank"><img src="/2016/images/top/1801samusaniantioch.jpg"></a>
+    <p class="block-date">日程：2019年2月11日～17日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1902/" target="_blank">春近し<br>東京アンテオケ教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/2018women/201902/" target="_blank"><img src="/2016/images/top/1701fujinkai.jpg"></a>
-    <p class="block-date">日程：2019年2月10日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201902/" target="_blank">婦人会の一日</a></p>
+    <a href="http://antiochblog.jp/info/yosen1902/" target="_blank"><img src="/2016/images/top/1802u21kidsanntiochyosen.jpg"></a>
+    <p class="block-date">日程：2019年2月11日～17日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1902/" target="_blank">J.GOSPELコンテスト in 白馬 <br>U21・KIDS アンテオケ教会予選</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/euqaristias/20190210gospel/" target="_blank"><img src="/2016/images/top/1702eukarishinjyuku.jpg"></a>
-    <p class="block-date">日程：2019年2月10日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190210gospel/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+    <a href="http://antiochblog.jp/praise/patolis/190211/" target="_blank"><img src="/2016/images/top/1607patoliswaseda.jpg"></a>
+    <p class="block-date">日程：2019年2月11日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190211/" target="_blank">PATOLIS <br>練馬区のデイサービスでコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -126,9 +126,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/faith1902z/" target="_blank"><img src="/2016/images/top/1701jyunkyoseikaizenkoku.jpg"></a>
-    <p class="block-date">ブログ：2019年2月4日～10日</p>
-    <p class="block-title"><a href="http://astone.tv/events/faith1902z/" target="_blank">それぞれの長崎殉教記念聖会 その後<br>TLEA全国各教会の一週間 </a></p>
+    <a href="http://astone.tv/events/faith1902z/" target="_blank"><img src="/2016/images/top/1801samusszenkoku.jpg"></a>
+    <p class="block-date">ブログ：2019年2月11日～17日</p>
+    <p class="block-title"><a href="http://astone.tv/events/faith1902z/" target="_blank">春近し <br>TLEA全国各教会メンバーの一週間 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/gracious/190211/" target="_blank"><img src="/2016/images/top/1701gracioustonai.jpg"></a>
+    <p class="block-date">日程：2019年2月11日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190211/" target="_blank">GRACIOUS DOORS  <br>都内のデイサ━ビスで、ボランティア・コンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -199,13 +207,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/movie1901/" target="_blank"><img src="/2016/images/top/1901teamfeizousai.jpg"></a>
-    <p class="block-date">日程：2019年1月18日～19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/movie1901/" target="_blank">白馬クリスチャンフイルムフェスティバル2019に向かって<br>チームF必死の頑張り</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank"><img src="/2016/images/top/1812kokorogospel_d_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank">こころごすぺる31 Light<br>ダイジェスト映像<br>(再生時間 4:48)</a></p>
@@ -243,6 +244,42 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/faith1902/" target="_blank"><img src="/2016/images/top/1701jyunkyoseikaiantioch.jpg"></a>
+    <p class="block-date">日程：2019年2月4日～10日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1902/" target="_blank">それぞれの長崎殉教記念聖会 その後<br>東京アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/1902kanto/" target="_blank"><img src="/2016/images/top/1902kantoyosenyorokobi.jpg"></a>
+    <p class="block-date">日程：2019年2月7日～</p>
+    <p class="block-title"><a href="http://astone.tv/events/1902kanto/" target="_blank">J.GOSPELコンテスト in 白馬 <br>関東予選喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/2018women/201902/" target="_blank"><img src="/2016/images/top/1701fujinkai.jpg"></a>
+    <p class="block-date">日程：2019年2月10日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201902/" target="_blank">婦人会の一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/euqaristias/20190210gospel/" target="_blank"><img src="/2016/images/top/1702eukarishinjyuku.jpg"></a>
+    <p class="block-date">日程：2019年2月10日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190210gospel/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/faith1902z/" target="_blank"><img src="/2016/images/top/1701jyunkyoseikaizenkoku.jpg"></a>
+    <p class="block-date">ブログ：2019年2月4日～10日</p>
+    <p class="block-title"><a href="http://astone.tv/events/faith1902z/" target="_blank">それぞれの長崎殉教記念聖会 その後<br>TLEA全国各教会の一週間 </a></p>
 </div>
 
 <div class="column-inner">
@@ -314,6 +351,14 @@
     <p class="block-date">ブログ：2019年2月2日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/1902atugi/" target="_blank">真冬の関東を行く<br>厚木聖会<br>(日程：2019年2月2日)</a></p>
 </div>
+
+
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/movie1901/" target="_blank"><img src="/2016/images/top/1901teamfeizousai.jpg"></a>
+    <p class="block-date">日程：2019年1月18日～19日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/movie1901/" target="_blank">白馬クリスチャンフイルムフェスティバル2019に向かって<br>チームF必死の頑張り</a></p>
+</div>-->
 
 <div class="column-inner">
     <span class="label-2">動画</span>
