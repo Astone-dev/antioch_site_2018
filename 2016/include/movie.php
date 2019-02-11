@@ -1,10 +1,10 @@
 <div class="column-inner">
-  <a href="http://tv.antioch.jp/digest/201711israel/" target="_blank">
+  <a href="http://tv.antioch.jp/digest/201811-israel/" target="_blank">
   <i class="icon-video"></i>
-  <img src="/2016/images/top/1711israeldigest_m.jpg">
+  <img src="/2016/images/top/1811israeldigest_1.jpg">
   </a>
-  <p class="block-title">2017年11月 イスラエルチーム</br>ダイジェスト映像</p>
-  <p class="block-time">視聴時間 05:10</p>
+  <p class="block-title">2018年11月 イスラエルチーム</br>ダイジェスト映像</p>
+  <p class="block-time">視聴時間 10:20</p>
 </div>
 
 <div class="column-inner">
