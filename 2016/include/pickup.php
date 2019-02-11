@@ -238,13 +238,6 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1901tocharidigest_p.jpg"></a>
-    <p class="block-date">日程：2019年1月9日</p>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">1月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/faith1902/" target="_blank"><img src="/2016/images/top/1701jyunkyoseikaiantioch.jpg"></a>
     <p class="block-date">日程：2019年2月4日～10日</p>
@@ -349,6 +342,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/1902atugi/" target="_blank">真冬の関東を行く<br>厚木聖会<br>(日程：2019年2月2日)</a></p>
 </div>
 
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1901tocharidigest_p.jpg"></a>
+    <p class="block-date">日程：2019年1月9日</p>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">1月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
+</div>
 
 <!--<div class="column-inner">
     <span class="label-1">ブログ</span>
