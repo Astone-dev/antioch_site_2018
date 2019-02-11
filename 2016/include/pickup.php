@@ -63,33 +63,25 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/patolis/190211/" target="_blank"><img src="/2016/images/top/1607patoliswaseda.jpg"></a>
-    <p class="block-date">日程：2019年2月11日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190211/" target="_blank">PATOLIS <br>練馬区のデイサービスでコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="https://tokyo.antioch.jp/internet-tv/190203-kantoyosen.html" target="_blank"><img src="/2016/images/top/1902hakubkantoyosen_m.jpg"></a>
-	<p class="block-date">開催日：2019年2月3日</p>	
-    <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190203-kantoyosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>関東予選 映像保存版</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://blog.antioch.jp/1902hollywood/" target="_blank"><img src="/2016/images/top/1702hollywoodteam.jpg"></a>
     <p class="block-date">ブログ：2019年2月4日～</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1902hollywood/" target="_blank">映画製作にむかって前進！ <br>ハリウッドチーム 最新情報写真集</a></p>
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
+    <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://nagasakich.jp/karisuma/film_charisma.html" target="_blank"><img src="/2016/images/top/1902jyunkyohozon_m.jpg"></a>
-	<p class="block-date">開催日：2019年2月5日</p>		
-    <p class="block-title"><a href="http://nagasakich.jp/karisuma/film_charisma.html" target="_blank">長崎殉教記念聖会<br>映像保存版</a></p>
+    <a href="http://antiochblog.jp/praise/patolis/190211/" target="_blank"><img src="/2016/images/top/1607patoliswaseda.jpg"></a>
+    <p class="block-date">日程：2019年2月11日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190211/" target="_blank">PATOLIS <br>練馬区のデイサービスでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/gracious/190211/" target="_blank"><img src="/2016/images/top/1701gracioustonai.jpg"></a>
+    <p class="block-date">日程：2019年2月11日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190211/" target="_blank">GRACIOUS DOORS  <br>都内のデイサ━ビスで、ボランティア・コンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -128,23 +120,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/thanks1902z/" target="_blank"><img src="/2016/images/top/1801samusszenkoku.jpg"></a>
     <p class="block-date">ブログ：2019年2月11日～17日</p>
-    <p class="block-title"><a href="http://astone.tv/events/thanks1902z/" target="_blank">春近し <br>TLEA全国各教会メンバーの一週間 </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gracious/190211/" target="_blank"><img src="/2016/images/top/1701gracioustonai.jpg"></a>
-    <p class="block-date">日程：2019年2月11日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190211/" target="_blank">GRACIOUS DOORS  <br>都内のデイサ━ビスで、ボランティア・コンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1901tocharidigest_p.jpg"></a>
-    <p class="block-date">日程：2019年1月9日</p>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">1月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/thanks1902z/" target="_blank">春近し<br>TLEA全国各教会メンバーの一週間 </a></p>
 </div>
 
 <div class="column-inner">
@@ -200,11 +176,11 @@
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-2">映像</span>
     <a href="http://movie.antioch.jp/2018hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
     <p class="block-title"><a href="http://movie.antioch.jp/2018hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>受賞作品と応募作品</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-2">動画</span>
@@ -247,6 +223,20 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="https://tokyo.antioch.jp/internet-tv/190203-kantoyosen.html" target="_blank"><img src="/2016/images/top/1902hakubkantoyosen_m.jpg"></a>
+	<p class="block-date">開催日：2019年2月3日</p>	
+    <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190203-kantoyosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>関東予選 映像保存版</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://nagasakich.jp/karisuma/film_charisma.html" target="_blank"><img src="/2016/images/top/1902jyunkyohozon_m.jpg"></a>
+	<p class="block-date">開催日：2019年2月5日</p>		
+    <p class="block-title"><a href="http://nagasakich.jp/karisuma/film_charisma.html" target="_blank">長崎殉教記念聖会<br>映像保存版</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/faith1902/" target="_blank"><img src="/2016/images/top/1701jyunkyoseikaiantioch.jpg"></a>
@@ -258,7 +248,7 @@
     <span class="label-1">ブログ</span>
     <a href="http://astone.tv/events/1902kanto/" target="_blank"><img src="/2016/images/top/1902kantoyosenyorokobi.jpg"></a>
     <p class="block-date">日程：2019年2月7日～</p>
-    <p class="block-title"><a href="http://astone.tv/events/1902kanto/" target="_blank">J.GOSPELコンテスト in 白馬 <br>関東予選喜びと悲しみの一週間</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/1902kanto/" target="_blank">J.GOSPELコンテスト in 白馬<br>関東予選喜びと悲しみの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -352,6 +342,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/1902atugi/" target="_blank">真冬の関東を行く<br>厚木聖会<br>(日程：2019年2月2日)</a></p>
 </div>
 
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1901tocharidigest_p.jpg"></a>
+    <p class="block-date">日程：2019年1月9日</p>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">1月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
+</div>
 
 <!--<div class="column-inner">
     <span class="label-1">ブログ</span>
