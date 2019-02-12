@@ -71,17 +71,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/patolis/190211/" target="_blank"><img src="/2016/images/top/1607patoliswaseda.jpg"></a>
-    <p class="block-date">日程：2019年2月11日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190211/" target="_blank">PATOLIS <br>練馬区のデイサービスでコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gracious/190211/" target="_blank"><img src="/2016/images/top/1701gracioustonai.jpg"></a>
-    <p class="block-date">日程：2019年2月11日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190211/" target="_blank">GRACIOUS DOORS  <br>都内のデイサ━ビスで、ボランティア・コンサート</a></p>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190209/" target="_blank"><img src="/2016/images/top/1606jerumisatode.jpg"></a>
+    <p class="block-date">日程：2019年2月12日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190209/" target="_blank">エルサレム<br>エルサレム三郷のアカシアの家オレンジカフェでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -184,12 +176,6 @@
 
 <div class="column-inner">
     <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank"><img src="/2016/images/top/1812kokorogospel_d_m.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank">こころごすぺる31 Light<br>ダイジェスト映像<br>(再生時間 4:48)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank"><img src="/2016/images/top/1812reonkakawari_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank">30年待ち望み続けた奇跡<br>ーロシア系ユダヤ人との関わりー<br>映像<br>(再生時間 9:52)</a></p>
 </div>
@@ -220,6 +206,26 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/patolis/190211/" target="_blank"><img src="/2016/images/top/1607patoliswaseda.jpg"></a>
+    <p class="block-date">日程：2019年2月11日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190211/" target="_blank">PATOLIS <br>練馬区のデイサービスでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gracious/190211/" target="_blank"><img src="/2016/images/top/1701gracioustonai.jpg"></a>
+    <p class="block-date">日程：2019年2月11日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190211/" target="_blank">GRACIOUS DOORS  <br>都内のデイサ━ビスで、ボランティア・コンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank"><img src="/2016/images/top/1812kokorogospel_d_m.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank">こころごすぺる31 Light<br>ダイジェスト映像<br>(再生時間 4:48)</a></p>
 </div>
 
 <div class="column-inner">
