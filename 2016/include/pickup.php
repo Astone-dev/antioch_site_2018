@@ -39,9 +39,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/chubu1902/" target="_blank"><img src="/2016/images/top/1608chubuseikai.jpg"></a>
+    <a href="http://astone.tv/events/chubu1902/" target="_blank"><img src="/2016/images/top/1704chubuseikai.jpg"></a>
     <p class="block-date">日程：2019年2月11日～13日</p>
-    <p class="block-title"><a href="http://astone.tv/events/chubu1902/" target="_blank">春待ち遠し <br>中部宣教の旅</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/chubu1902/" target="_blank">春待ち遠し<br>中部宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
