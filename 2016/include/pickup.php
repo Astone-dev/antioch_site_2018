@@ -73,7 +73,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190209/" target="_blank"><img src="/2016/images/top/1606jerumisatode.jpg"></a>
     <p class="block-date">日程：2019年2月12日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190209/" target="_blank">エルサレム<br>エルサレム三郷のアカシアの家オレンジカフェでゴスペルコンサート</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190209/" target="_blank">エルサレム<br>三郷のアカシアの家オレンジカフェでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
