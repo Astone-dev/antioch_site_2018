@@ -69,14 +69,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190209/" target="_blank"><img src="/2016/images/top/1606jerumisatode.jpg"></a>
-    <p class="block-date">日程：2019年2月12日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190209/" target="_blank">エルサレム<br>三郷のアカシアの家オレンジカフェでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
     <span>NEW</span>
     <a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1901hakubacampinfo.jpg"></a>
 	<p class="block-date">キャンプ：2019年2月27日〜3月1日</p>	
@@ -206,6 +198,13 @@
     <a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank"><img src="/2016/images/top/1811israeldigest_p.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190209/" target="_blank"><img src="/2016/images/top/1606jerumisatode.jpg"></a>
+    <p class="block-date">日程：2019年2月12日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190209/" target="_blank">エルサレム<br>三郷のアカシアの家オレンジカフェでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
