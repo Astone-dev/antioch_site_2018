@@ -251,7 +251,6 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/faith1902/" target="_blank"><img src="/2016/images/top/1701jyunkyoseikaiantioch.jpg"></a>
     <p class="block-date">日程：2019年2月4日～10日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1902/" target="_blank">それぞれの長崎殉教記念聖会 その後<br>東京アンテオケ教会</a></p>
