@@ -69,14 +69,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://blog.antioch.jp/1902hollywood/" target="_blank"><img src="/2016/images/top/1702hollywoodteam.jpg"></a>
-    <p class="block-date">ブログ：2019年2月4日～</p>
-    <p class="block-title"><a href="http://blog.antioch.jp/1902hollywood/" target="_blank">映画製作にむかって前進！ <br>ハリウッドチーム 最新情報写真集</a></p>
-</div>
-
-<div class="column-inner">
     <span>NEW</span>
     <a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1901hakubacampinfo.jpg"></a>
 	<p class="block-date">キャンプ：2019年2月27日〜3月1日</p>	
@@ -198,6 +190,13 @@
     <a href="http://astone.tv/events/chubu1902/" target="_blank"><img src="/2016/images/top/1704chubuseikai.jpg"></a>
     <p class="block-date">日程：2019年2月11日～13日</p>
     <p class="block-title"><a href="http://astone.tv/events/chubu1902/" target="_blank">春待ち遠し<br>中部宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://blog.antioch.jp/1902hollywood/" target="_blank"><img src="/2016/images/top/1702hollywoodteam.jpg"></a>
+    <p class="block-date">ブログ：2019年2月4日～</p>
+    <p class="block-title"><a href="http://blog.antioch.jp/1902hollywood/" target="_blank">映画製作にむかって前進！ <br>ハリウッドチーム 最新情報写真集</a></p>
 </div>
 
 <div class="column-inner">
