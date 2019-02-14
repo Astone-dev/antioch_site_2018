@@ -39,14 +39,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/chubu1902/" target="_blank"><img src="/2016/images/top/1704chubuseikai.jpg"></a>
-    <p class="block-date">日程：2019年2月11日～13日</p>
-    <p class="block-title"><a href="http://astone.tv/events/chubu1902/" target="_blank">春待ち遠し<br>中部宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/thanks1902/" target="_blank"><img src="/2016/images/top/1801samusaniantioch.jpg"></a>
     <p class="block-date">日程：2019年2月11日～17日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/thanks1902/" target="_blank">春近し<br>東京アンテオケ教会メンバーの一週間</a></p>
@@ -57,7 +49,23 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/yosen1902/" target="_blank"><img src="/2016/images/top/1802u21kidsanntiochyosen.jpg"></a>
     <p class="block-date">日程：2019年2月11日～17日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1902/" target="_blank">J.GOSPELコンテスト in 白馬 <br>U21・KIDS アンテオケ教会予選</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yosen1902/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS アンテオケ教会予選に向かって<br>ドキドキの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/gate2018/190215/" target="_blank"><img src="/2016/images/top/1606gateof.jpg"></a>
+    <p class="block-date">ブログ：2019年2月15日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gate2018/190215/" target="_blank">The Gate of Praise<br>練馬区の老健でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/thanks1902z/" target="_blank"><img src="/2016/images/top/1801samusszenkoku.jpg"></a>
+    <p class="block-date">ブログ：2019年2月11日～17日</p>
+    <p class="block-title"><a href="http://astone.tv/events/thanks1902z/" target="_blank">春近し<br>TLEA全国各教会メンバーの一週間 </a></p>
 </div>
 
 <div class="column-inner">
@@ -97,22 +105,6 @@
     <a href="http://tv.antioch.jp/digest/2019hcff-cm/" target="_blank"><img src="/2016/images/top/1812hcff_cm.jpg"></a>
 	<p class="block-date">開催日：2019年2月28日</p>	
     <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hcff-cm/" target="_blank">白馬クリスチャンフイルムフェスティバル2019<br>CM映像<br>(再生時間 1:51)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/thanks1902z/" target="_blank"><img src="/2016/images/top/1801samusszenkoku.jpg"></a>
-    <p class="block-date">ブログ：2019年2月11日～17日</p>
-    <p class="block-title"><a href="http://astone.tv/events/thanks1902z/" target="_blank">春近し<br>TLEA全国各教会メンバーの一週間 </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/gate2018/190215/" target="_blank"><img src="/2016/images/top/1606gateof.jpg"></a>
-    <p class="block-date">ブログ：2019年2月15日</p>
-    <p class="block-title"><a href="http://astone.tv/events/gate2018/190215/" target="_blank">The Gate of Praise <br>練馬区の老健でコンサート </a></p>
 </div>
 
 <div class="column-inner">
@@ -199,6 +191,13 @@
     <a href="http://tv.antioch.jp/digest/201811-israel/" target="_blank"><img src="/2016/images/top/1811israeldigest_1.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201811-israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 10:19)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/chubu1902/" target="_blank"><img src="/2016/images/top/1704chubuseikai.jpg"></a>
+    <p class="block-date">日程：2019年2月11日～13日</p>
+    <p class="block-title"><a href="http://astone.tv/events/chubu1902/" target="_blank">春待ち遠し<br>中部宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
