@@ -229,19 +229,6 @@
 
 <div class="column-inner">
     <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank"><img src="/2016/images/top/1812kokorogospel_d_m.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/20181224-kokoro-digest/" target="_blank">こころごすぺる31 Light<br>ダイジェスト映像<br>(再生時間 4:48)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="https://tokyo.antioch.jp/internet-tv/190203-kantoyosen.html" target="_blank"><img src="/2016/images/top/1902hakubkantoyosen_m.jpg"></a>
-	<p class="block-date">開催日：2019年2月3日</p>	
-    <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190203-kantoyosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>関東予選 映像保存版</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
     <a href="http://nagasakich.jp/karisuma/film_charisma.html" target="_blank"><img src="/2016/images/top/1902jyunkyohozon_m.jpg"></a>
 	<p class="block-date">開催日：2019年2月5日</p>		
     <p class="block-title"><a href="http://nagasakich.jp/karisuma/film_charisma.html" target="_blank">長崎殉教記念聖会<br>映像保存版</a></p>
@@ -301,55 +288,6 @@
     <a href="http://astone.tv/events/2017healing/190209/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
     <p class="block-date">日程：2019年2月9日</p>
     <p class="block-title"><a href="http://astone.tv/events/2017healing/190209/" target="_blank">いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/1902tokyo/" target="_blank"><img src="/2016/images/top/1901tokyocharisma.jpg"></a>
-    <p class="block-date">日程：2019年2月2日〜3日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1902tokyo/" target="_blank">冬の東京カリスマ聖会<br>てんやわんや<br>(日程：2019年2月2日〜3日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank"><img src="/2016/images/top/1801kantoyosen.jpg"></a>
-    <p class="block-date">日程：2019年1月28日～2月3日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/rejoice1901/" target="_blank">いよいよ決戦！<br>J.GOSPELコンテスト in 白馬<br>関東予選に向かって各ゴスペルグループ勝負の1日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/yorokobi1902/" target="_blank"><img src="/2016/images/top/1607kyusyuseika.jpg"></a>
-    <p class="block-date">日程：2019年2月4日〜6日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1902/" target="_blank">春待ち遠し <br>九州宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/prayer1902/" target="_blank"><img src="/2016/images/top/1702inorinotour.jpg"></a>
-    <p class="block-date">日程：2019年2月6日～</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/prayer1902/" target="_blank">26聖人の足跡をたどる<br> 祈りのツアー</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank"><img src="/2016/images/top/1801daikanantioch.jpg"></a>
-    <p class="block-date">ブログ：2019年1月28日～2月3日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1901/" target="_blank">大寒を楽しもう！<br>東京アンテオケ教会ワクワクの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/yorokobi1901z/" target="_blank"><img src="/2016/images/top/1801daikanzenkoku.jpg"></a>
-    <p class="block-date">ブログ：2019年1月28日～2月3日</p>
-    <p class="block-title"><a href="http://astone.tv/events/yorokobi1901z/" target="_blank">大寒を楽しもう！<br>TLEA全国各教会の一週間 </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/1902atugi/" target="_blank"><img src="/2016/images/top/1706atsugi.jpg"></a>
-    <p class="block-date">ブログ：2019年2月2日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1902atugi/" target="_blank">真冬の関東を行く<br>厚木聖会<br>(日程：2019年2月2日)</a></p>
 </div>
 
 <div class="column-inner">
