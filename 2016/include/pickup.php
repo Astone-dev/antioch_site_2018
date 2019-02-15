@@ -55,9 +55,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/gate2018/190215/" target="_blank"><img src="/2016/images/top/1606gateof.jpg"></a>
-    <p class="block-date">ブログ：2019年2月15日</p>
-    <p class="block-title"><a href="http://astone.tv/events/gate2018/190215/" target="_blank">The Gate of Praise<br>練馬区の老健でコンサート</a></p>
+    <a href="http://antiochblog.jp/info/revival2017/190215/" target="_blank"><img src="/2016/images/top/1608revivalnight.jpg"></a>
+    <p class="block-date">日程：2019年2月16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190215/" target="_blank">リバイバルナイトの一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/2017labeille/190216/" target="_blank"><img src="/2016/images/top/1608lageiyuarakawa.jpg"></a>
+    <p class="block-date">日程：2019年2月16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190216/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -66,6 +74,14 @@
     <a href="http://astone.tv/events/thanks1902z/" target="_blank"><img src="/2016/images/top/1801samusszenkoku.jpg"></a>
     <p class="block-date">ブログ：2019年2月11日～17日</p>
     <p class="block-title"><a href="http://astone.tv/events/thanks1902z/" target="_blank">春近し<br>TLEA全国各教会メンバーの一週間 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190216/" target="_blank"><img src="/2016/images/top/1606jerumisatode.jpg"></a>
+    <p class="block-date">日程：2019年2月16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190216/" target="_blank">エルサレム<br>さいたま市岩槻リハビリセンターでコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -187,6 +203,13 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/gate2018/190215/" target="_blank"><img src="/2016/images/top/1606gateof.jpg"></a>
+    <p class="block-date">ブログ：2019年2月15日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gate2018/190215/" target="_blank">The Gate of Praise<br>練馬区の老健でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://astone.tv/events/chubu1902/" target="_blank"><img src="/2016/images/top/1704chubuseikai.jpg"></a>
     <p class="block-date">日程：2019年2月11日～13日</p>
     <p class="block-title"><a href="http://astone.tv/events/chubu1902/" target="_blank">春待ち遠し<br>中部宣教の旅</a></p>
@@ -206,12 +229,12 @@
     <p class="block-title"><a href="http://blog.antioch.jp/1811israel/category/dst201811/" target="_blank">イスラエルチーム<br>ダイジェスト写真集</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190209/" target="_blank"><img src="/2016/images/top/1606jerumisatode.jpg"></a>
     <p class="block-date">日程：2019年2月12日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190209/" target="_blank">エルサレム<br>三郷のアカシアの家オレンジカフェでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
