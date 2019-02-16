@@ -95,17 +95,19 @@
 <!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-<<<<<<< HEAD
     <a href="http://antiochblog.jp/info/jerusalem2017/190216/" target="_blank"><img src="/2016/images/top/1606jerumisatode.jpg"></a>
     <p class="block-date">日程：2019年2月16日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190216/" target="_blank">エルサレム<br>さいたま市岩槻リハビリセンターでコンサート</a></p>
 </div>-->
-=======
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/thanks1902z/" target="_blank"><img src="/2016/images/top/1801samusszenkoku.jpg"></a>
     <p class="block-date">ブログ：2019年2月11日～17日</p>
     <p class="block-title"><a href="http://astone.tv/events/thanks1902z/" target="_blank">春近し<br>TLEA全国各教会メンバーの一週間 </a></p>
 </div>
->>>>>>> f26e9b8ca316c77ccbc2109ba1394c3984e030c2
+
 
 <div class="column-inner">
     <span>NEW</span>
