@@ -55,59 +55,18 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/revival2017/190215/" target="_blank"><img src="/2016/images/top/1608revivalnight.jpg"></a>
-    <p class="block-date">日程：2019年2月16日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190215/" target="_blank">2月リバイバルナイトの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年2月16日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2019年2月16日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/2017labeille/190216/" target="_blank"><img src="/2016/images/top/1608lageiyuarakawa.jpg"></a>
-    <p class="block-date">日程：2019年2月16日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190216/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/treeoflife/190216/" target="_blank"><img src="/2016/images/top/1607treeoflife.jpg"></a>
-    <p class="block-date">日程：2019年2月16日</p>
-    <p class="block-title"><a href="http://astone.tv/events/treeoflife/190216/" target="_blank">Tree of Life<br>ららん藤岡でゴスペルコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190216/" target="_blank"><img src="/2016/images/top/1606jerumisatode.jpg"></a>
-    <p class="block-date">日程：2019年2月16日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190216/" target="_blank">エルサレム<br>さいたま市岩槻リハビリセンターでコンサート</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190216/" target="_blank"><img src="/2016/images/top/1606jerumisatode.jpg"></a>
-    <p class="block-date">日程：2019年2月16日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190216/" target="_blank">エルサレム<br>さいたま市岩槻リハビリセンターでコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://astone.tv/events/thanks1902z/" target="_blank"><img src="/2016/images/top/1801samusszenkoku.jpg"></a>
     <p class="block-date">ブログ：2019年2月11日～17日</p>
     <p class="block-title"><a href="http://astone.tv/events/thanks1902z/" target="_blank">春近し<br>TLEA全国各教会メンバーの一週間 </a></p>
 </div>
 
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/2017byhisspirit/190217/" target="_blank"><img src="/2016/images/top/1607byhissetagaya.jpg"></a>
+    <p class="block-date">日程：2019年2月17日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190217/" target="_blank">By His spirit<br>世田谷の高齢者施設と高円寺のレストランでゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span>NEW</span>
@@ -225,6 +184,34 @@
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201811-israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 10:19)</a></p>
 </div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/revival2017/190215/" target="_blank"><img src="/2016/images/top/1608revivalnight.jpg"></a>
+    <p class="block-date">日程：2019年2月16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190215/" target="_blank">2月リバイバルナイトの一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/2017labeille/190216/" target="_blank"><img src="/2016/images/top/1608lageiyuarakawa.jpg"></a>
+    <p class="block-date">日程：2019年2月16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190216/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/treeoflife/190216/" target="_blank"><img src="/2016/images/top/1607treeoflife.jpg"></a>
+    <p class="block-date">日程：2019年2月16日</p>
+    <p class="block-title"><a href="http://astone.tv/events/treeoflife/190216/" target="_blank">Tree of Life<br>ららん藤岡でゴスペルコンサート</a></p>
+</div>
+
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190216/" target="_blank"><img src="/2016/images/top/1606jerumisatode.jpg"></a>
+    <p class="block-date">日程：2019年2月16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190216/" target="_blank">エルサレム<br>さいたま市岩槻リハビリセンターでコンサート</a></p>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
