@@ -61,6 +61,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="http://tv.antioch.jp/digest/201902-hollywood/" target="_blank"><img src="/2016/images/top/1902-hollywood-dst.jpg"></a>
+	<p class="block-date">2019年2月6日～2月13日</p>	
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201902-hollywood/" target="_blank">ハリウッドチーム<br>ダイジェスト映像</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/thanks1902z/" target="_blank"><img src="/2016/images/top/1801samusszenkoku.jpg"></a>
