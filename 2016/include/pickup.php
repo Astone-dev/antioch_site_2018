@@ -55,9 +55,9 @@
 <div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('U21・KIDS アンテオケ教会予選-生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('U21・KIDS アンテオケ教会予選-生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2019年2月17日 17:30～</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('U21・KIDS アンテオケ教会予選-生中継');">U21・KIDS アンテオケ教会予選 生中継<br>(日程：2019年2月17日 17:30スタート)</a></p>
+<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('U21・KIDS アンテオケ教会予選-生中継');">U21・KIDS アンテオケ教会予選 生中継<br>2019年2月17日 17:30スタート</a></p>
 </div>
 
 <div class="column-inner">
