@@ -52,6 +52,7 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/yosen1902/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS アンテオケ教会予選に向かって<br>ドキドキの一週間</a></p>
 </div>
 
+<div class="column-inner">
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('U21・KIDS アンテオケ教会予選-生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
