@@ -55,9 +55,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/forgive1902/" target="_blank"><img src="/2016/images/top/1802u21kidsanntiochyosen.jpg"></a>
+    <a href="http://antiochblog.jp/praise/forgive1902/" target="_blank"><img src="/2016/images/top/1902u21antiochyosenyorokobi.jpg"></a>
     <p class="block-date">日程：2019年2月18日～24日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/forgive1902/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS東京アンテオケ教会予選 <br>喜び悲しみの一週間</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/forgive1902/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS東京アンテオケ教会予選<br>喜び悲しみの一週間</a></p>
 </div>
 
 <div class="column-inner">
