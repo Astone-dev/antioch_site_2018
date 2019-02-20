@@ -61,6 +61,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/1902concert/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
+    <p class="block-date">日程：2019年2月21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1902concert/" target="_blank">Immanuel、Beracha、CROIX、<br>杉並区の特別養護老人施設でコンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/201902-hollywood/" target="_blank"><img src="/2016/images/top/1902-hollywood-dst.jpg"></a>
