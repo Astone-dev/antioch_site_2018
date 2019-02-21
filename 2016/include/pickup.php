@@ -39,14 +39,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/forgive1902z/" target="_blank"><img src="/2016/images/top/1608shikokuseikai.jpg"></a>
-    <p class="block-date">日程：2019年2月18日～19日</p>
-    <p class="block-title"><a href="http://astone.tv/events/forgive1902z/" target="_blank">向春の季節の中 四国を行く<br> 四国宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/info/hakuba1902/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
     <p class="block-date">日程：2019年2月18日～24日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1902/" target="_blank">いよいよ来週 白馬スネルゴイキャンプに向かって <br>東京アンテオケ教会てんやわんやの一週間</a></p>
@@ -112,7 +104,7 @@
     <span>NEW</span>
     <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/2019hcff-sakuhin.jpg"></a>
 	<p class="block-date">開催日：2019年2月28日</p>	
-    <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>応募作品</a></p>
+    <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>ノミネート作品決定！</a></p>
 </div>
 
 <div class="column-inner">
@@ -215,6 +207,13 @@
     <a href="http://tv.antioch.jp/digest/201811-israel/" target="_blank"><img src="/2016/images/top/1811israeldigest_1.jpg"></a>
     <p class="block-date">日程：2018年10月29日〜11月10日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201811-israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 10:19)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/forgive1902z/" target="_blank"><img src="/2016/images/top/1608shikokuseikai.jpg"></a>
+    <p class="block-date">日程：2019年2月18日～19日</p>
+    <p class="block-title"><a href="http://astone.tv/events/forgive1902z/" target="_blank">向春の季節の中 四国を行く<br> 四国宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
