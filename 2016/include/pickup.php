@@ -53,6 +53,22 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gospel2017/190223/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+    <p class="block-date">日程：2019年2月23日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190223/" target="_blank">2月 ゴスペルの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年2月23日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継');">ゴスペルの集い生中継<br>(日程：2019年2月23日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/201902-hollywood/" target="_blank"><img src="/2016/images/top/1902-hollywood-dst.jpg"></a>
