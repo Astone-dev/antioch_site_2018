@@ -181,27 +181,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/israel-70-aniversary/" target="_blank"><img src="/2016/images/top/1811israeldigest_3.jpg"></a>
-    <p class="block-date">日程：2018年10月29日〜11月10日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/israel-70-aniversary/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>70th Aniversaryバージョン<br>(再生時間 7:24)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/201811-israel-newyearworship/" target="_blank"><img src="/2016/images/top/1811israeldigest_2.jpg"></a>
-    <p class="block-date">日程：2018年10月29日〜11月10日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201811-israel-newyearworship/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 5:28)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/201811-israel/" target="_blank"><img src="/2016/images/top/1811israeldigest_1.jpg"></a>
-    <p class="block-date">日程：2018年10月29日〜11月10日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201811-israel/" target="_blank">イスラエルチーム<br>ダイジェスト映像<br>(再生時間 10:19)</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/gospel2017/190223/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
     <p class="block-date">日程：2019年2月23日</p>
