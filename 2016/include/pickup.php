@@ -41,23 +41,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/hakuba1902/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
     <p class="block-date">日程：2019年2月25日～3月1日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1902/" target="_blank">いよいよ来週 白馬スネルゴイキャンプに向かって <br>東京アンテオケ教会てんやわんやの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://tv.antioch.jp/digest/201902-hollywood/" target="_blank"><img src="/2016/images/top/1902-hollywood-dst.jpg"></a>
-	<p class="block-date">2019年2月6日～2月13日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201902-hollywood/" target="_blank">ハリウッドチーム<br>ダイジェスト映像</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="https://tokyo.antioch.jp/internet-tv/190216-antiochyosen.html" target="_blank"><img src="/2016/images/top/1902hakuu21antiochyosen_m.jpg"></a>
-    <p class="block-date">日程：2019年2月17日</p>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190216-antiochyosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS東京アンテオケ教会予選<br>映像保存版</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1902/" target="_blank">いあ2日！<br>白馬スネルゴイキャンプに向かって <br>東京アンテオケ教会てんやわんやの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -65,7 +49,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/hakuba1902z/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
     <p class="block-date">ブログ：2019年2月2月25日～3月1日</p>
-    <p class="block-title"><a href="http://astone.tv/events/hakuba1902z/" target="_blank">いよいよ来週 白馬スネルゴイキャンプに向かって <br>全国各教会わくわくの一週間</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/hakuba1902z/" target="_blank">あと2日！<br>白馬スネルゴイキャンプに向かって <br>全国各教会わくわくの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -160,8 +144,16 @@
 
 <div class="column-inner">
     <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank"><img src="/2016/images/top/1812reonkakawari_m.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/2019-miraclewaited30years/" target="_blank">30年待ち望み続けた奇跡<br>ーロシア系ユダヤ人との関わりー<br>映像<br>(再生時間 9:52)</a></p>
+    <a href="http://tv.antioch.jp/digest/201902-hollywood/" target="_blank"><img src="/2016/images/top/1902-hollywood-dst.jpg"></a>
+	<p class="block-date">2019年2月6日～2月13日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201902-hollywood/" target="_blank">ハリウッドチーム<br>ダイジェスト映像</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="https://tokyo.antioch.jp/internet-tv/190216-antiochyosen.html" target="_blank"><img src="/2016/images/top/1902hakuu21antiochyosen_m.jpg"></a>
+    <p class="block-date">日程：2019年2月17日</p>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190216-antiochyosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS東京アンテオケ教会予選<br>映像保存版</a></p>
 </div>
 
 <div class="column-inner">
@@ -276,12 +268,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/movie1901/" target="_blank">白馬クリスチャンフイルムフェスティバル2019に向かって<br>チームF必死の頑張り</a></p>
 </div>-->
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="/onsei/2019newyearworship.html" target="_blank"><img src="/2016/images/top/181104israelnewyear_m.jpg"></a>
     <p class="block-date">日程：2017年11月04日</p>
     <p class="block-title"><a href="/onsei/2019newyearworship.html" target="_blank">イスラエルチーム新年度礼拝 アーカイブ版</a></p>
-</div>
+</div>-->
 
 <div class="column-inner"> <a href="http://astone.tv/events/arai201503/" target="_blank"><img src="/2016/images/top/blogbt_ptarai.jpg"></a>
     <p class="block-title"><a href="http://astone.tv/events/arai201503/" target="_blank">新井先生秘蔵写真<br>また会う日まで写真集</a></p>
