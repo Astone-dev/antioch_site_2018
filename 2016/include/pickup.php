@@ -41,7 +41,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/hakuba1902/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
     <p class="block-date">日程：2019年2月25日～3月1日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1902/" target="_blank">いよいよあと2日！<br>白馬スネルゴイキャンプに向かって <br>東京アンテオケ教会てんやわんやの一週間</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1902/" target="_blank">いよいよあと明日！<br>白馬スネルゴイキャンプに向かって <br>東京アンテオケ教会てんやわんやの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -49,7 +49,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/hakuba1902z/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
     <p class="block-date">ブログ：2019年2月2月25日～3月1日</p>
-    <p class="block-title"><a href="http://astone.tv/events/hakuba1902z/" target="_blank">いよいよあと2日！<br>白馬スネルゴイキャンプに向かって <br>全国各教会わくわくの一週間</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/hakuba1902z/" target="_blank">いよいよあと明日！<br>白馬スネルゴイキャンプに向かって <br>全国各教会わくわくの一週間</a></p>
 </div>
 
 <div class="column-inner">
