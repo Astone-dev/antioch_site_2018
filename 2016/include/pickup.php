@@ -37,19 +37,20 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/u21kids1903/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
-<p class="block-date">ブログ：2019年3月1日～3月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/u21kids1903/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS関東予選<br>日程：2019年3月3日</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/hakuba1902/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
     <p class="block-date">日程：2019年2月25日～3月1日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1902/" target="_blank">いよいよ今日から！<br>白馬スネルゴイキャンプに向かって<br>東京アンテオケ教会てんやわんやの一週間</a></p>
+</div>
+
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/u21kids1903/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
+<p class="block-date">ブログ：2019年3月1日～3月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/u21kids1903/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS関東予選<br>日程：2019年3月3日</a></p>
 </div>
 
 <div class="column-inner">
