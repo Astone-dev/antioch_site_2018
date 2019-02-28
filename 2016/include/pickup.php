@@ -69,11 +69,25 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="https://www.youtube.com/watch?v=jErUoZf3k7o" target="_blank"><img src="/2016/images/top/1902younginfo_m.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=jErUoZf3k7o" target="_blank">ヤング礼拝紹介映像<br>「TLEAニュース」</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="https://www.youtube.com/watch?v=vRMcK4MMFKc" target="_blank"><img src="/2016/images/top/1902ohhappydayinfo_m.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=vRMcK4MMFKc" target="_blank">OH HAPPY DAY（CS・中高生会）紹介映像</a></p>
+</div>
+
+<!--<div class="column-inner">
     <span>NEW</span>
     <a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank"><img src="/2016/images/top/1901hakubacampinfo.jpg"></a>
 	<p class="block-date">キャンプ：2019年2月27日〜3月1日</p>	
     <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank">白馬スネルゴイキャンプ<br>WEBサイトはこちらから</a></p>
-</div>
+</div>-->
 
 <!--<div class="column-inner">
     <span class="label-2">動画</span>
