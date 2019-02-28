@@ -47,9 +47,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/hakuba1902z/" target="_blank"><img src="/2016/images/top/1902hcffyorokobi.jpg"></a>
+    <a href="http://antiochblog.jp/praise/rejoice1902/" target="_blank"><img src="/2016/images/top/1902hcffyorokobi.jpg"></a>
     <p class="block-date">日程：2019年3月1日～3月10日</p>
-    <p class="block-title"><a href="http://astone.tv/events/hakuba1902z/" target="_blank">白馬クリスチャンフィルムフェスティバル<br>喜びと悲しみの一週間</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/rejoice1902/" target="_blank">白馬クリスチャンフィルムフェスティバル<br>喜びと悲しみの一週間</a></p>
 </div>
 
 <div class="column-inner">
