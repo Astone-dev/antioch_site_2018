@@ -37,6 +37,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/info/u21kids1903/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
+<p class="block-date">ブログ：2019年3月1日～3月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/u21kids1903/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS関東予選<br>日程：2019年3月3日</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/hakuba1902/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
@@ -69,15 +77,6 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/u21kids1903/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
-<p class="block-date">ブログ：2019年3月1日～3月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/u21kids1903/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS関東予選<br>日程：2019年3月3日</a></p>
-</div>
-
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="https://www.youtube.com/watch?v=jErUoZf3k7o" target="_blank"><img src="/2016/images/top/1902younginfo_m.jpg"></a>
@@ -104,14 +103,6 @@
     <a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank"><img src="/2016/images/top/1812sunerugoi_cm.jpg"></a>
 	<p class="block-date">キャンプ：2019年2月27日〜3月1日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>CM映像<br>(再生時間 2:17)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://tv.antioch.jp/digest/2019hcff-cm/" target="_blank"><img src="/2016/images/top/1812hcff_cm.jpg"></a>
-	<p class="block-date">開催日：2019年2月28日</p>	
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hcff-cm/" target="_blank">白馬クリスチャンフイルムフェスティバル2019<br>CM映像<br>(再生時間 1:51)</a></p>
 </div>-->
 
 <div class="column-inner">
@@ -167,12 +158,7 @@
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
 </div>
 
-<!--<div class="column-inner">
-    <span class="label-2">映像</span>
-    <a href="http://movie.antioch.jp/2018hcff/" target="_blank"><img src="/2016/images/top/1702hcffjyusyo.jpg"></a>
-    <p class="block-title"><a href="http://movie.antioch.jp/2018hcff/" target="_blank">第8回 白馬クリスチャンフィルムフェスティバル<br>受賞作品と応募作品</a></p>
-</div>-->
-
+<!--
 <div class="column-inner">
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201902-hollywood/" target="_blank"><img src="/2016/images/top/1902-hollywood-dst.jpg"></a>
@@ -185,7 +171,7 @@
     <a href="https://tokyo.antioch.jp/internet-tv/190216-antiochyosen.html" target="_blank"><img src="/2016/images/top/1902hakuu21antiochyosen_m.jpg"></a>
     <p class="block-date">日程：2019年2月17日</p>
     <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190216-antiochyosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS東京アンテオケ教会予選<br>映像保存版</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -208,6 +194,7 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190223/" target="_blank">2月 ゴスペルの集いの一日</a></p>
 </div>
 
+<!--
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/1902concert/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
@@ -276,7 +263,7 @@
     <a href="http://astone.tv/events/treeoflife/190216/" target="_blank"><img src="/2016/images/top/1607treeoflife.jpg"></a>
     <p class="block-date">日程：2019年2月16日</p>
     <p class="block-title"><a href="http://astone.tv/events/treeoflife/190216/" target="_blank">Tree of Life<br>ららん藤岡でゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <!--<div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -285,12 +272,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190216/" target="_blank">エルサレム<br>さいたま市岩槻リハビリセンターでコンサート</a></p>
 </div>-->
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://astone.tv/events/gate2018/190215/" target="_blank"><img src="/2016/images/top/1606gateof.jpg"></a>
     <p class="block-date">ブログ：2019年2月15日</p>
     <p class="block-title"><a href="http://astone.tv/events/gate2018/190215/" target="_blank">The Gate of Praise<br>練馬区の老健でコンサート</a></p>
-</div>
+</div>-->
 
 <!--<div class="column-inner">
     <span class="label-1">ブログ</span>
