@@ -47,9 +47,25 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://astone.tv/events/hakuba1902z/" target="_blank"><img src="/2016/images/top/1902hcffyorokobi.jpg"></a>
+    <p class="block-date">日程：2019年3月1日～3月10日</p>
+    <p class="block-title"><a href="http://astone.tv/events/hakuba1902z/" target="_blank">白馬クリスチャンフィルムフェスティバル<br>喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/hakuba1902z/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
-    <p class="block-date">日程：2019年2月2月25日～3月1日</p>
+    <p class="block-date">日程：2019年2月25日～3月1日</p>
     <p class="block-title"><a href="http://astone.tv/events/hakuba1902z/" target="_blank">いよいよ今日から！<br>白馬スネルゴイキャンプに向かって <br>全国各教会わくわくの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/1902hcffnyuusyou_m.jpg"></a>
+	<p class="block-date">開催日：2019年2月28日</p>	
+    <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>入賞作品1位〜7位まで発表！</a></p>
 </div>
 
 <div class="column-inner">
@@ -59,21 +75,13 @@
     <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba-synerugoi/" target="_blank">白馬スネルゴイキャンプ<br>WEBサイトはこちらから</a></p>
 </div>
 
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/2019hcff-sakuhin.jpg"></a>
-	<p class="block-date">開催日：2019年2月28日</p>	
-    <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>ノミネート作品決定！</a></p>
-</div>
-
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank"><img src="/2016/images/top/1812sunerugoi_cm.jpg"></a>
 	<p class="block-date">キャンプ：2019年2月27日〜3月1日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>CM映像<br>(再生時間 2:17)</a></p>
-</div>
+</div>-->
 
 <!--<div class="column-inner">
     <span class="label-2">動画</span>
