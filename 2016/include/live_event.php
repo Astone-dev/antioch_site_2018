@@ -10,12 +10,12 @@
 			show_banner_broadcast_sp();
   		}
   		break;
-  	// case "Wed":
-  	// 	if ( $hour >=18 && $hour <= 20 ){show_banner_broadcast_wed();}
-  	// 	else {
-		// 	show_banner_broadcast_sp();
-  	// 	}
-  	// 	break;
+  	case "Wed":
+  		if ( $hour >=18 && $hour <= 20 ){show_banner_broadcast_wed();}
+  		else {
+			show_banner_broadcast_sp();
+  		}
+  		break;
   	case "Sat": 
   		if ( $hour >=18 && $hour < 20 ){
 	  		if ( intval(date("Ymd")) == intval(date("Ymd", strtotime('second sat of this month')))) {
