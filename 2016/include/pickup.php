@@ -39,9 +39,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/charisma1903/" target="_blank"><img src="/2016/images/top/1903tokyocharisma.jpg"></a>
+    <p class="block-date">日程：2019年3月2日～3月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/charisma1903/" target="_blank">春の訪れを感じながら<br>東京カリスマ聖会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/info/hakuba1902/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
-    <p class="block-date">日程：2019年2月25日～3月1日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1902/" target="_blank">いよいよ今日から！<br>白馬スネルゴイキャンプに向かって<br>東京アンテオケ教会てんやわんやの一週間</a></p>
+    <p class="block-date">日程：2019年2月25日～3月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1902/" target="_blank">祝福の白馬スネルゴイキャンプ<br>東京アンテオケ教会その後</a></p>
 </div>
 
 <div class="column-inner">
@@ -72,8 +80,8 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/hakuba1902z/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
-    <p class="block-date">日程：2019年2月25日～3月1日</p>
-    <p class="block-title"><a href="http://astone.tv/events/hakuba1902z/" target="_blank">いよいよ今日から！<br>白馬スネルゴイキャンプに向かって<br>全国各教会わくわくの一週間</a></p>
+    <p class="block-date">日程：2019年2月25日～3月3日</p>
+    <p class="block-title"><a href="http://astone.tv/events/hakuba1902z/" target="_blank">祝福いっぱい！<br>白馬スネルゴイキャンプ<br>全国各教会その後</a></p>
 </div>
 
 <div class="column-inner">
