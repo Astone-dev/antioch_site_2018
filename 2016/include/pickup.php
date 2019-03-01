@@ -73,7 +73,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/hakuba1902z/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
     <p class="block-date">日程：2019年2月25日～3月1日</p>
-    <p class="block-title"><a href="http://astone.tv/events/hakuba1902z/" target="_blank">いよいよ今日から！<br>白馬スネルゴイキャンプに向かって <br>全国各教会わくわくの一週間</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/hakuba1902z/" target="_blank">いよいよ今日から！<br>白馬スネルゴイキャンプに向かって<br>全国各教会わくわくの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -122,8 +122,8 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="https://www.youtube.com/watch?v=RbKtAmNxozw" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/190217giftstv.jpg"></a>
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=RbKtAmNxozw" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃35<br>ゴスペルグループGiftsの<br>ワイワイYouTube動画<br>(2月17日UP!)</a></p>
+    <a href="https://www.youtube.com/watch?v=bBdAVcC_BNo&t=42s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/190228giftstv.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=bBdAVcC_BNo&t=42s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃36<br>ゴスペルグループGiftsの<br>ワイワイYouTube動画<br>(2月24日UP!)</a></p>
 </div>
 
 <div class="column-inner">
