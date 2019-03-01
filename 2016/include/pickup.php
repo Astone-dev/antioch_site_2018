@@ -44,6 +44,13 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1902/" target="_blank">いよいよ今日から！<br>白馬スネルゴイキャンプに向かって<br>東京アンテオケ教会てんやわんやの一週間</a></p>
 </div>
 
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://antiochblog.jp/praise/meeting1903/" target="_blank"><img src="/2016/images/top/zannbiahouokoku.jpg"></a>
+<p class="block-date">ブログ：2019年3月1日～</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/meeting1903/" target="_blank">ザンビア孤児院報告会 <br>現地駐在員、桜子ムタレさんの生の声<br>Giftsゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
