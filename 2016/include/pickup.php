@@ -70,6 +70,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/euqaristias/20190303gospel/" target="_blank"><img src="/2016/images/top/1610eukarishinjyuku.jpg"></a>
+    <p class="block-date">日程：2019年3月3日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190303gospel/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/1902hcffnyuusyou_m.jpg"></a>
