@@ -39,9 +39,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/tohoku1903/" target="_blank"><img src="/2016/images/top/1610tohokuseikai.jpg"></a>
+    <a href="http://astone.tv/events/tohoku1903/" target="_blank"><img src="/2016/images/top/1903tohokuseikai.jpg"></a>
     <p class="block-date">日程：2019年3月3日～7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/tohoku1903/" target="_blank">春の光の中 <br>東北聖会<br>(日程:2019年3月4日～6日)</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/tohoku1903/" target="_blank">早春の東北を行く<br>東北宣教の旅<br>(日程:2019年3月4日～6日)</a></p>
 </div>
 
 <div class="column-inner">
