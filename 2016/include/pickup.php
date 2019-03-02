@@ -52,13 +52,6 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/charisma1903/" target="_blank">春の訪れを感じながら<br>東京カリスマ聖会</a></p>
 </div>
 
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/praise/meeting1903/" target="_blank"><img src="/2016/images/top/zannbiahouokoku.jpg"></a>
-<p class="block-date">ブログ：2019年3月1日～</p>
-<p class="block-title"><a href="http://antiochblog.jp/praise/meeting1903/" target="_blank">ザンビア孤児院報告会 <br>現地駐在員、桜子ムタレさんの生の声<br>Giftsゴスペルコンサート</a></p>
-</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -194,6 +187,13 @@
     <p class="block-date">日程：2019年2月17日</p>
     <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190216-antiochyosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS東京アンテオケ教会予選<br>映像保存版</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/praise/meeting1903/" target="_blank"><img src="/2016/images/top/zannbiahouokoku.jpg"></a>
+<p class="block-date">ブログ：2019年3月1日～</p>
+<p class="block-title"><a href="http://antiochblog.jp/praise/meeting1903/" target="_blank">ザンビア孤児院報告会 <br>現地駐在員、桜子ムタレさんの生の声<br>Giftsゴスペルコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
