@@ -45,14 +45,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/hakuba1902/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
-    <p class="block-date">日程：2019年2月25日～3月3日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1902/" target="_blank">祝福の白馬スネルゴイキャンプ<br>東京アンテオケ教会その後</a></p>
-</div>
-
-<div class="column-inner">
 <span class="label-1">ブログ</span>
 <span>NEW</span>
 <a href="http://antiochblog.jp/praise/meeting1903/" target="_blank"><img src="/2016/images/top/zannbiahouokoku.jpg"></a>
@@ -77,6 +69,22 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/1902hcffnyuusyou_m.jpg"></a>
+	<p class="block-date">開催日：2019年2月28日</p>	
+    <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>入賞作品1位〜7位まで発表！</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/hakuba1902/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukateantioch.jpg"></a>
+    <p class="block-date">日程：2019年2月25日～3月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1902/" target="_blank">祝福の白馬スネルゴイキャンプ<br>東京アンテオケ教会その後</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/hakuba1902z/" target="_blank"><img src="/2016/images/top/1802sunerugoinimukatezenkoku.jpg"></a>
@@ -87,9 +95,8 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/1902hcffnyuusyou_m.jpg"></a>
-	<p class="block-date">開催日：2019年2月28日</p>	
-    <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>入賞作品1位〜7位まで発表！</a></p>
+    <a href="https://www.youtube.com/watch?v=j7GhDtbTQjw" target="_blank"><img src="/2016/images/top/1902giftspv_m.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=j7GhDtbTQjw" target="_blank">Gifts<br>ミュージックビデオ<br>「God's Love to the World」</a></p>
 </div>
 
 <div class="column-inner">
@@ -104,6 +111,13 @@
     <span>NEW</span>
     <a href="https://www.youtube.com/watch?v=vRMcK4MMFKc" target="_blank"><img src="/2016/images/top/1902ohhappydayinfo_m.jpg"></a>
     <p class="block-title"><a href="https://www.youtube.com/watch?v=vRMcK4MMFKc" target="_blank">OH HAPPY DAY（CS・中高生会）紹介映像</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="https://www.youtube.com/watch?v=GzrusQOkx48" target="_blank"><img src="/2016/images/top/1902immanuelpv_m.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=GzrusQOkx48" target="_blank">Immanuel<br>ミュージックビデオ<br>「一粒の麦」</a></p>
 </div>
 
 <!--<div class="column-inner">
