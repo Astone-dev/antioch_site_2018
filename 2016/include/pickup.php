@@ -65,8 +65,8 @@
 <span class="label-2">映像</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('U21・KIDS 関東予選-生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年3月4日 17:00～</p>
-<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('U21・KIDS 関東予選-生中継');">U21・KIDS アンテオケ教会予選 生中継<br>2019年3月4日 17:00スタート</a></p>
+<p class="block-date">2019年3月3日 17:00～ </p>
+<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('U21・KIDS 関東予選-生中継');">U21・KIDS アンテオケ教会予選 生中継<br>2019年3月3日 17:00スタート</a></p>
 </div>
 
 <div class="column-inner">
