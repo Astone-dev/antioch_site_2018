@@ -47,26 +47,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/charisma1903/" target="_blank"><img src="/2016/images/top/1903tokyocharisma.jpg"></a>
+    <a href="http://antiochblog.jp/praise/march1903/" target="_blank"><img src="/2016/images/top/1702haruchikaantioch.jpg"></a>
     <p class="block-date">日程：2019年3月2日～3月3日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/charisma1903/" target="_blank">春の訪れを感じながら<br>東京カリスマ聖会</a></p>
-</div>
-
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://antiochblog.jp/info/u21kids1903/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
-<p class="block-date">ブログ：2019年3月1日～3月3日</p>
-<p class="block-title"><a href="http://antiochblog.jp/info/u21kids1903/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS関東予選<br>日程：2019年3月3日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('U21・KIDS 関東予選-生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年3月3日 17:00～ </p>
-<p class="block-title"><a href="https://www.youtube.com/user/GLTVJP/live" target="_blank" onclick="javascript:pageTracker._trackPageview('U21・KIDS 関東予選-生中継');">U21・KIDS アンテオケ教会予選 生中継<br>2019年3月3日 17:00スタート</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/march1903/" target="_blank">春一番が吹く季節<br>アンテオケ教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -78,11 +61,19 @@
 </div>
 
 <div class="column-inner">
+<span class="label-1">ブログ</span>
+<span>NEW</span>
+<a href="http://astone.tv/events/rejoice1902z/" target="_blank"><img src="/2016/images/top/1902u21kantoyosenyorokobi.jpg"></a>
+<p class="block-date">ブログ：2019年3月4日～10日</p>
+<p class="block-title"><a href="http://astone.tv/events/rejoice1902z/" target="_blank">J.GOSPELコンテスト in 白馬<br>関東予選U21、KIDS<br>喜びと悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/euqaristias/20190303gospel/" target="_blank"><img src="/2016/images/top/1610eukarishinjyuku.jpg"></a>
-    <p class="block-date">日程：2019年3月3日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190303gospel/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+    <a href="http://antiochblog.jp/info/march1903z/" target="_blank"><img src="/2016/images/top/1702harchikaizenkou.jpg"></a>
+    <p class="block-date">日程：2019年3月4日～10日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/march1903z/" target="_blank">春一番が吹く季節<br>TLEA全国各教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -203,6 +194,28 @@
     <p class="block-date">日程：2019年2月17日</p>
     <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190216-antiochyosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS東京アンテオケ教会予選<br>映像保存版</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/charisma1903/" target="_blank"><img src="/2016/images/top/1903tokyocharisma.jpg"></a>
+    <p class="block-date">日程：2019年3月2日～3月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/charisma1903/" target="_blank">春の訪れを感じながら<br>東京カリスマ聖会</a></p>
+</div>
+
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://antiochblog.jp/info/u21kids1903/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
+<p class="block-date">ブログ：2019年3月1日～3月3日</p>
+<p class="block-title"><a href="http://antiochblog.jp/info/u21kids1903/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS関東予選<br>日程：2019年3月3日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/euqaristias/20190303gospel/" target="_blank"><img src="/2016/images/top/1610eukarishinjyuku.jpg"></a>
+    <p class="block-date">日程：2019年3月3日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190303gospel/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
