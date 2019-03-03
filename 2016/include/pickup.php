@@ -49,12 +49,8 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/march1903/" target="_blank"><img src="/2016/images/top/1702haruchikaantioch.jpg"></a>
     <p class="block-date">日程：2019年3月2日～3月3日</p>
-<<<<<<< HEAD
-    <p class="block-title"><a href="http://antiochblog.jp/praise/march1903/" target="_blank">春一番が吹く季節<br>アンテオケ教会メンバーの一週間</a></p>
-=======
     <p class="block-title"><a href="http://antiochblog.jp/praise/charisma1903/" target="_blank">春の訪れを感じながら<br>東京カリスマ聖会</a></p>
 </div>
-
 
 <div class="column-inner">
 <span class="label-1">ブログ</span>
@@ -62,7 +58,6 @@
 <a href="http://antiochblog.jp/info/u21kids1903/" target="_blank"><img src="/2016/images/top/1803u21kidskantonimukate.jpg"></a>
 <p class="block-date">ブログ：2019年3月1日～3月3日</p>
 <p class="block-title"><a href="http://antiochblog.jp/info/u21kids1903/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS関東予選<br>日程：2019年3月3日</a></p>
->>>>>>> 4582e0559f9e738f463d6dbcf998d261fc4d5218
 </div>
 
 <div class="column-inner">
