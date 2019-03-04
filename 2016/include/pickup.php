@@ -53,6 +53,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="https://www.youtube.com/watch?v=VWgUPcomOwE&feature=youtu.be" target="_blank"><img src="/2016/images/top/1903hakubasunerugoi_d_m.jpg"></a>
+	<p class="block-date">開催日：日程：2019年2月25日～3月3日</p>	
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=VWgUPcomOwE&feature=youtu.be" target="_blank">白馬スネルゴイキャンプ<br>ダイジェスト映像</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/rejoice1902/" target="_blank"><img src="/2016/images/top/1902hcffyorokobi.jpg"></a>
@@ -83,6 +91,15 @@
 	<p class="block-date">開催日：2019年2月28日</p>	
     <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>入賞作品1位〜7位まで発表！</a></p>
 </div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="https://tokyo.antioch.jp/internet-tv/190303-yosen.html" target="_blank"><img src="/2016/images/top/1903hakuu21kantoyosen_m.jpg"></a>
+	<p class="block-date">開催日：2019年3月3日</p>	
+    <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190303-yosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>映像保存版</a></p>
+</div>
+
 
 <div class="column-inner">
     <span class="label-2">動画</span>
