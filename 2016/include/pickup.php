@@ -112,7 +112,7 @@
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="https://www.youtube.com/watch?v=jErUoZf3k7o" target="_blank"><img src="/2016/images/top/1902younginfo_m.jpg"></a>
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=jErUoZf3k7o" target="_blank">ヤング礼拝紹介映像<br>「TLEAニュース」</a></p>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=jErUoZf3k7o" target="_blank">ヤング礼拝学生会紹介映像<br>「TLEAニュース」</a></p>
 </div>
 
 <div class="column-inner">
