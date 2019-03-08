@@ -195,6 +195,13 @@
 
 <div class="column-inner">
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/likemovie/" target="_blank"><img src="/2016/images/top/1903yorimichi37.jpg"></a>
+    <p class="block-date">毎日7:00更新</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/likemovie/" target="_blank">クリスチャンの寄り道 Vol.37<br>今回は「まるで映画のようだと思った出来事」のお話です</a></p>
+</div>
+
+<div class="column-inner">
+    <span>NEW</span>
     <a href="http://antiochblog.jp/info/smilehappy/" target="_blank"><img src="/2016/images/top/1812yorimichi36.jpg"></a>
     <p class="block-date">毎日7:00更新</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/smilehappy/" target="_blank">クリスチャンの寄り道 Vol.36<br>今回は「今まででハッピーと思って笑顔になったこと」のお話です</a></p>
