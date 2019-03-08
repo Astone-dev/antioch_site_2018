@@ -261,27 +261,6 @@
     <p class="block-title"><a href="http://astone.tv/events/hakuba1902z/" target="_blank">祝福いっぱい！<br>白馬スネルゴイキャンプ<br>全国各教会</a></p>
 </div>
 
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/forgive1902/" target="_blank"><img src="/2016/images/top/1902u21antiochyosenyorokobi.jpg"></a>
-    <p class="block-date">日程：2019年2月18日～24日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/forgive1902/" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS東京アンテオケ教会予選<br>喜び悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/2017students/20190224/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
-    <p class="block-date">日程：2019年2月24日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/20190224/" target="_blank">2月 学生会の一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/gospel2017/190223/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
-    <p class="block-date">日程：2019年2月23日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190223/" target="_blank">2月 ゴスペルの集いの一日</a></p>
-</div>
-
 <!--<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="/onsei/2019newyearworship.html" target="_blank"><img src="/2016/images/top/181104israelnewyear_m.jpg"></a>
