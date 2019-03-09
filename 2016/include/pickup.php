@@ -39,6 +39,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/1903chugoku/" target="_blank"><img src="/2016/images/top/1605chugokuseikai.jpg"></a>
+    <p class="block-date">日程：2019年3月11日～13日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1903chugoku/" target="_blank">春の日差しの中<br>中国地方を行く<br>中国地方宣教の旅<br>(日程:2019年3月11日～13日)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/march1903/" target="_blank"><img src="/2016/images/top/1702haruchikaantioch.jpg"></a>
     <p class="block-date">日程：2019年3月2日～3月3日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/march1903/" target="_blank">春一番が吹く季節<br>東京アンテオケ教会メンバーの一週間</a></p>
@@ -69,35 +77,11 @@
 </div>
 
 <div class="column-inner">
-<span class="label-1">ブログ</span>
-<span>NEW</span>
-<a href="http://astone.tv/events/2017healing/190309/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-<p class="block-date">ブログ：2019年3月9日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/190309/" target="_blank">3月 いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年3月9日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継');">いやしの集い生中継<br>(日程：2019年3月9日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/march1903z/" target="_blank"><img src="/2016/images/top/1702harchikaizenkou.jpg"></a>
     <p class="block-date">日程：2019年3月4日～10日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/march1903z/" target="_blank">春一番が吹く季節<br>TLEA全国各教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190309/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-    <p class="block-date">日程：2019年3月9日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190309/" target="_blank">エルサレム<br> さいたま市岩槻リハビリセンターコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -234,6 +218,20 @@
     <p class="block-date">日程：2019年2月17日</p>
     <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190216-antiochyosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS東京アンテオケ教会予選<br>映像保存版</a></p>
 </div>-->
+
+<div class="column-inner">
+<span class="label-1">ブログ</span>
+<a href="http://astone.tv/events/2017healing/190309/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+<p class="block-date">ブログ：2019年3月9日</p>
+<p class="block-title"><a href="http://astone.tv/events/2017healing/190309/" target="_blank">3月 いやしの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190309/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+    <p class="block-date">日程：2019年3月9日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190309/" target="_blank">エルサレム<br> さいたま市岩槻リハビリセンターコンサート</a></p>
+</div>
 
 <!--<div class="column-inner">
     <span class="label-1">ブログ</span>
