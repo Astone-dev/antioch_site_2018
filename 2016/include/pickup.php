@@ -63,7 +63,7 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/thanks1903z/" target="_blank"><img src="/2016/images/top/1703graduationzenkoku.jpg"></a>
+    <a href="http://astone.tv/events/thanks1903z/" target="_blank"><img src="/2016/images/top/1703haruantioch.jpg"></a>
     <p class="block-date">日程：2019年3月11日～17日</p>
     <p class="block-title"><a href="http://astone.tv/events/thanks1903z/" target="_blank">春春の風さわやかに卒業式シーズンの<br>TLEA全国各教会の一週間</a></p>
 </div>
