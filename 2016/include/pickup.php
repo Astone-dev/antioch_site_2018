@@ -48,7 +48,7 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/2017labeille/190316/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
+    <a href="http://antiochblog.jp/praise/2017labeille/190316/" target="_blank"><img src="/2016/images/top/1608lageiyuarakawa.jpg"></a>
     <p class="block-date">日程：2019年3月15日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190316/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
 </div>
