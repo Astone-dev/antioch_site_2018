@@ -41,8 +41,16 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/revival2017/190316/" target="_blank"><img src="/2016/images/top/1608revivalnight.jpg"></a>
-    <p class="block-date">日程：2019年3月15日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190316/" target="_blank">３月 リバイバルナイトの１日</a></p>
+    <p class="block-date">日程：2019年3月16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190316/" target="_blank">3月 Revival Nightの1日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年3月16日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2019年3月16日 18:30スタート)</a></p>
 </div>
 
 <div class="column-inner">
@@ -58,14 +66,6 @@
     <span>NEW</span>
     <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1903kiseki_ito.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年2月16日UP!)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://tv.antioch.jp/digest/201903-hakuba/" target="_blank"><img src="/2016/images/top/1903hakubasunerugoi_d_m.jpg"></a>
-	<p class="block-date">日程：2019年2月27日～3月1日</p>	
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201903-hakuba/" target="_blank">白馬スネルゴイキャンプ<br>ダイジェスト映像</a></p>
 </div>
 
 <div class="column-inner">
@@ -143,6 +143,13 @@
 	<p class="block-date">キャンプ：2019年2月27日〜3月1日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>CM映像<br>(再生時間 2:17)</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://tv.antioch.jp/digest/201903-hakuba/" target="_blank"><img src="/2016/images/top/1903hakubasunerugoi_d_m.jpg"></a>
+	<p class="block-date">日程：2019年2月27日～3月1日</p>	
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201903-hakuba/" target="_blank">白馬スネルゴイキャンプ<br>ダイジェスト映像</a></p>
+</div>
 
 <div class="column-inner">
     <span>NEW</span>
