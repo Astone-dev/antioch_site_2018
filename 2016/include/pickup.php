@@ -144,12 +144,7 @@
     <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>CM映像<br>(再生時間 2:17)</a></p>
 </div>-->
 
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/201903-hakuba/" target="_blank"><img src="/2016/images/top/1903hakubasunerugoi_d_m.jpg"></a>
-	<p class="block-date">日程：2019年2月27日～3月1日</p>	
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201903-hakuba/" target="_blank">白馬スネルゴイキャンプ<br>ダイジェスト映像</a></p>
-</div>
+
 
 <div class="column-inner">
     <span>NEW</span>
@@ -275,7 +270,7 @@
 <p class="block-title"><a href="http://astone.tv/events/2017healing/190309/" target="_blank">3月 いやしの集いの一日</a></p>
 </div>
 
-<<!--div class="column-inner">
+<!--div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190309/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
     <p class="block-date">日程：2019年3月9日</p>
