@@ -32,6 +32,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/1903hokuriku/" target="_blank"><img src="/2016/images/top/1705hokuriku.jpg"></a>
+    <p class="block-date">日程：2019年3月17日～21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1903hokuriku/" target="_blank">春近い北陸を行く <br>北陸宣教の旅<br>(日程:2019年3月18日～21日)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/info/thanks1903/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
     <p class="block-date">日程：2019年3月11日～17日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/thanks1903/" target="_blank">春の風さわやかに卒業式シーズンの<br>東京アンテオケ教会の一週間</a></p>
@@ -40,25 +48,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/revival2017/190316/" target="_blank"><img src="/2016/images/top/1608revivalnight.jpg"></a>
-    <p class="block-date">日程：2019年3月16日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190316/" target="_blank">3月 Revival Nightの1日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年3月16日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2019年3月16日 18:30スタート)</a></p>
+    <a href="http://antiochblog.jp/praise/2018women/201903/" target="_blank"><img src="/2016/images/top/1703women.jpg"></a>
+    <p class="block-date">日程：2019年3月17日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201903/" target="_blank">婦人会 <br>皿うどんを食べる</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/2017labeille/190316/" target="_blank"><img src="/2016/images/top/1608lageiyuarakawa.jpg"></a>
-    <p class="block-date">日程：2019年3月15日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190316/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
+    <a href="http://astone.tv/events/euqaristias/20190317gospelconcert/" target="_blank"><img src="/2016/images/top/1705eukarishinjyuku.jpg"></a>
+    <p class="block-date">日程：2019年3月17日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190317gospelconcert/" target="_blank">エウカリスティアス<br>コーヒーショップでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
@@ -74,14 +74,6 @@
     <a href="http://astone.tv/events/thanks1903z/" target="_blank"><img src="/2016/images/top/1703haruantioch.jpg"></a>
     <p class="block-date">日程：2019年3月11日～17日</p>
     <p class="block-title"><a href="http://astone.tv/events/thanks1903z/" target="_blank">春の風さわやかに卒業式シーズンの<br>TLEA全国各教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190315/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-    <p class="block-date">日程：2019年3月15日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190315/" target="_blank">エルサレム<br>浪江町の復興支援のイベントでゴスペルを歌う</a></p>
 </div>
 
 <div class="column-inner">
@@ -227,6 +219,27 @@
     <p class="block-date">日程：2019年3月12日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190312/" target="_blank">エルサレム<br>三郷のアカシアの家オレンジカフェでコンサート</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/revival2017/190316/" target="_blank"><img src="/2016/images/top/1608revivalnight.jpg"></a>
+    <p class="block-date">日程：2019年3月16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190316/" target="_blank">3月 Revival Nightの1日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/2017labeille/190316/" target="_blank"><img src="/2016/images/top/1608lageiyuarakawa.jpg"></a>
+    <p class="block-date">日程：2019年3月15日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190316/" target="_blank">ラベイユ<br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190315/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+    <p class="block-date">日程：2019年3月15日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190315/" target="_blank">エルサレム<br>浪江町の復興支援のイベントでゴスペルを歌う</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
