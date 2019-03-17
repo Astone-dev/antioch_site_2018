@@ -187,6 +187,12 @@
 
 <div class="column-inner">
     <span>NEW</span>
+    <a href="https://tokyo.antioch.jp/yorimichi/result-smilehappy.html" target="_blank"><img src="/2016/images/top/1903yorimichi36kekka.jpg"></a>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-smilehappy.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.36<br>「今まででハッピーと思って笑顔になったこと」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+</div>
+
+<div class="column-inner">
+    <span>NEW</span>
     <a href="https://tokyo.antioch.jp/yorimichi/result-hokkori.html" target="_blank"><img src="/2016/images/top/1901yorimichi35kekka.jpg"></a>
     <p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-hokkori.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.35<br>「思わずほっこりしたこと」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>
