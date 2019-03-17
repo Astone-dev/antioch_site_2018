@@ -76,13 +76,13 @@
     <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>入賞作品1位〜7位まで発表！</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="https://tokyo.antioch.jp/internet-tv/190303-yosen.html" target="_blank"><img src="/2016/images/top/1903hakuu21kantoyosen_m.jpg"></a>
 	<p class="block-date">開催日：2019年3月3日</p>	
     <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190303-yosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>U21、KIDS関東予選 映像保存版</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-2">動画</span>
@@ -136,8 +136,8 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="https://www.youtube.com/watch?v=bBdAVcC_BNo&t=42s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/190228giftstv.jpg"></a>
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=bBdAVcC_BNo&t=42s" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃36<br>ゴスペルグループGiftsの<br>ワイワイYouTube動画<br>(2月26日UP!)</a></p>
+    <a href="https://www.youtube.com/watch?v=QO2mPZp0n-w" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/190317giftstv.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=QO2mPZp0n-w" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃37<br>ゴスペルグループGiftsの<br>ワイワイYouTube動画<br>(3月17日UP!)</a></p>
 </div>
 
 <div class="column-inner">
