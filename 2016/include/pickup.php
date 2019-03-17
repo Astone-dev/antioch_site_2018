@@ -180,21 +180,8 @@
 
 <div class="column-inner">
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/smilehappy/" target="_blank"><img src="/2016/images/top/1812yorimichi36.jpg"></a>
-    <p class="block-date">毎日7:00更新</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/smilehappy/" target="_blank">クリスチャンの寄り道 Vol.36<br>今回は「今まででハッピーと思って笑顔になったこと」のお話です</a></p>
-</div>
-
-<div class="column-inner">
-    <span>NEW</span>
     <a href="https://tokyo.antioch.jp/yorimichi/result-smilehappy.html" target="_blank"><img src="/2016/images/top/1903yorimichi36kekka.jpg"></a>
     <p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-smilehappy.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.36<br>「今まででハッピーと思って笑顔になったこと」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
-</div>
-
-<div class="column-inner">
-    <span>NEW</span>
-    <a href="https://tokyo.antioch.jp/yorimichi/result-hokkori.html" target="_blank"><img src="/2016/images/top/1901yorimichi35kekka.jpg"></a>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-hokkori.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.35<br>「思わずほっこりしたこと」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>
 
 <div class="column-inner">
@@ -203,21 +190,6 @@
     <p class="block-date">毎日19:00更新</p>
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
 </div>
-
-<!--
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/201902-hollywood/" target="_blank"><img src="/2016/images/top/1902-hollywood-dst.jpg"></a>
-	<p class="block-date">2019年2月6日～2月13日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201902-hollywood/" target="_blank">ハリウッドチーム<br>ダイジェスト映像</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="https://tokyo.antioch.jp/internet-tv/190216-antiochyosen.html" target="_blank"><img src="/2016/images/top/1902hakuu21antiochyosen_m.jpg"></a>
-    <p class="block-date">日程：2019年2月17日</p>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190216-antiochyosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>U21・KIDS東京アンテオケ教会予選<br>映像保存版</a></p>
-</div>-->
 
 <!--<div class="column-inner">
     <span class="label-1">ブログ</span>
