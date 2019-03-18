@@ -55,6 +55,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1703sakuraantioch.jpg"></a>
+    <p class="block-date">日程：2019年3月6日</p>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">3月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/sakura1903z/" target="_blank"><img src="/2016/images/top/1703sakurazenkoku.jpg"></a>
     <p class="block-date">日程：2019年3月18日～24日</p>
     <p class="block-title"><a href="http://astone.tv/events/sakura1903z/" target="_blank">桜の咲くころ<br>TLEA全国各教会メンバーのふわっと一週間</a></p>
