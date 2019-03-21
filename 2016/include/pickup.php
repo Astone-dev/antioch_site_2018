@@ -40,17 +40,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/1903hokuriku/" target="_blank"><img src="/2016/images/top/1705hokuriku.jpg"></a>
-    <p class="block-date">日程：2019年3月17日～21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1903hokuriku/" target="_blank">春近い北陸を行く <br>北陸宣教の旅<br>(日程:2019年3月18日～21日)</a></p>
+    <a href="http://antiochblog.jp/praise/truevine/190321/" target="_blank"><img src="/2016/images/top/1903truemarv.jpg"></a>
+    <p class="block-date">日程：2019年3月21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/truevine/190321/" target="_blank">True VineとMarvellous Light<br>田無市の介護施設でコンサート</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/truevine/190321/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
-    <p class="block-date">日程：2019年3月21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/truevine/190321/" target="_blank">True VineとMarvellous Light<br>田無市の介護施設でコンサート</a></p>
+    <a href="http://antiochblog.jp/praise/1903hokuriku/" target="_blank"><img src="/2016/images/top/1705hokuriku.jpg"></a>
+    <p class="block-date">日程：2019年3月17日～21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1903hokuriku/" target="_blank">春近い北陸を行く<br>北陸宣教の旅<br>21日：J.GOSPELコンテスト 北陸予選<br>(日程:2019年3月18日～21日)</a></p>
 </div>
 
 <div class="column-inner">
