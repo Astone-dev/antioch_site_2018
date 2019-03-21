@@ -40,22 +40,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/truevine/190321/" target="_blank"><img src="/2016/images/top/1903truemarv.jpg"></a>
-    <p class="block-date">日程：2019年3月21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/truevine/190321/" target="_blank">True VineとMarvellous Light<br>田無市の介護施設でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/1903hokuriku/" target="_blank"><img src="/2016/images/top/1705hokuriku.jpg"></a>
-    <p class="block-date">日程：2019年3月17日～21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1903hokuriku/" target="_blank">春近い北陸を行く<br>北陸宣教の旅<br>21日：J.GOSPELコンテスト 北陸予選<br>(日程:2019年3月18日～21日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1903tocharidigest_p.jpg"></a>
     <p class="block-date">日程：2019年3月6日</p>
     <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">3月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
@@ -74,14 +58,6 @@
     <a href="http://astone.tv/events/sakura1903z/" target="_blank"><img src="/2016/images/top/1703sakurazenkoku.jpg"></a>
     <p class="block-date">日程：2019年3月18日～24日</p>
     <p class="block-title"><a href="http://astone.tv/events/sakura1903z/" target="_blank">桜の咲くころ<br>TLEA全国各教会メンバーのふわっと一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gracious/190321/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
-    <p class="block-date">日程：2019年3月21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190321/" target="_blank">GRACIOUS DOORS<br>都内のデイサービスで、ボランティア・コンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -194,6 +170,27 @@
     <a href="http://atv.antioch.jp/kazenohibiki" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
     <p class="block-date">毎日19:00更新</p>
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/truevine/190321/" target="_blank"><img src="/2016/images/top/1903truemarv.jpg"></a>
+    <p class="block-date">日程：2019年3月21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/truevine/190321/" target="_blank">True VineとMarvellous Light<br>田無市の介護施設でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/1903hokuriku/" target="_blank"><img src="/2016/images/top/1705hokuriku.jpg"></a>
+    <p class="block-date">日程：2019年3月17日～21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1903hokuriku/" target="_blank">春近い北陸を行く<br>北陸宣教の旅<br>21日：J.GOSPELコンテスト 北陸予選<br>(日程:2019年3月18日～21日)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gracious/190321/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
+    <p class="block-date">日程：2019年3月21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190321/" target="_blank">GRACIOUS DOORS<br>都内のデイサービスで、ボランティア・コンサート</a></p>
 </div>
 
 <div class="column-inner">
