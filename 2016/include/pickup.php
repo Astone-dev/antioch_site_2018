@@ -32,17 +32,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/1903hokuriku/" target="_blank"><img src="/2016/images/top/1705hokuriku.jpg"></a>
-    <p class="block-date">日程：2019年3月17日～21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1903hokuriku/" target="_blank">春近い北陸を行く <br>北陸宣教の旅<br>(日程:2019年3月18日～21日)</a></p>
+    <a href="http://antiochblog.jp/info/sakura1903/" target="_blank"><img src="/2016/images/top/1703sakuraantioch.jpg"></a>
+    <p class="block-date">日程：2019年3月18日～24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/sakura1903/" target="_blank">桜の咲くころ<br>東京アンテオケ教会メンバーのさわやか一週間</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/sakura1903/" target="_blank"><img src="/2016/images/top/1703sakuraantioch.jpg"></a>
-    <p class="block-date">日程：2019年3月18日～24日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/sakura1903/" target="_blank">桜の咲くころ<br>東京アンテオケ教会メンバーのさわやか一週間</a></p>
+    <a href="http://antiochblog.jp/praise/1903hokuriku/" target="_blank"><img src="/2016/images/top/1705hokuriku.jpg"></a>
+    <p class="block-date">日程：2019年3月17日～21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1903hokuriku/" target="_blank">春近い北陸を行く <br>北陸宣教の旅<br>(日程:2019年3月18日～21日)</a></p>
 </div>
 
 <div class="column-inner">
@@ -54,18 +54,18 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1903kiseki_ito.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年2月16日UP!)</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1903tocharidigest_p.jpg"></a>
     <p class="block-date">日程：2019年3月6日</p>
     <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">3月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1903kiseki_ito.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年2月16日UP!)</a></p>
 </div>
 
 <div class="column-inner">
@@ -99,6 +99,12 @@
 	<p class="block-date">開催日：2019年3月3日</p>	
     <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190303-yosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>U21、KIDS関東予選 映像保存版</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span>NEW</span>
+    <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
+    <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-2">動画</span>
@@ -142,12 +148,6 @@
 	<p class="block-date">キャンプ：2019年2月27日〜3月1日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>CM映像<br>(再生時間 2:17)</a></p>
 </div>-->
-
-<div class="column-inner">
-    <span>NEW</span>
-    <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
-    <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
-</div>
 
 <div class="column-inner">
     <span class="label-2">動画</span>
