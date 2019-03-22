@@ -40,6 +40,30 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/gifts/190323/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
+    <p class="block-date">日程：2019年3月23日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190323/" target="_blank">Gifts <br>三鷹の施設でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gospel2017/190323/" target="_blank"><img src="/2016/images/top/1710gospeltudoi.jpg"></a>
+    <p class="block-date">日程：2019年3月23日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190323/" target="_blank">3月 ゴスペルの集いの１日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年3月23日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継');">ゴスペルの集い生中継<br>(日程：2019年3月23日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1903tocharidigest_p.jpg"></a>
     <p class="block-date">日程：2019年3月6日</p>
     <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">3月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
@@ -58,6 +82,30 @@
     <a href="http://astone.tv/events/sakura1903z/" target="_blank"><img src="/2016/images/top/1703sakurazenkoku.jpg"></a>
     <p class="block-date">日程：2019年3月18日～24日</p>
     <p class="block-title"><a href="http://astone.tv/events/sakura1903z/" target="_blank">桜の咲くころ<br>TLEA全国各教会メンバーのふわっと一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/treeoflife/190323/" target="_blank"><img src="/2016/images/top/1709treeoflife.jpg"></a>
+    <p class="block-date">日程：2019年3月23日</p>
+    <p class="block-title"><a href="http://astone.tv/events/treeoflife/190323/" target="_blank">Tree of Life<br>大久保の学生の家にて、J.Gospel Live＋子ども支援 でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190323/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+    <p class="block-date">日程：2019年3月23日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190323/" target="_blank">エルサレム<br>さいたま市岩槻西 グルーブホームでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gracejewel2017/190323/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
+    <p class="block-date">日程：2019年3月23日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190323/" target="_blank">GRACEと宝石<br>東中野の特別養護老人ホームでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
