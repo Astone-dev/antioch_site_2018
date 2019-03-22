@@ -249,62 +249,6 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190315/" target="_blank">エルサレム<br>浪江町の復興支援のイベントでゴスペルを歌う</a></p>
 </div>-->
 
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/1903chugoku/" target="_blank"><img src="/2016/images/top/1605chugokuseikai.jpg"></a>
-    <p class="block-date">日程：2019年3月11日～13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1903chugoku/" target="_blank">春の日差しの中<br>中国地方を行く<br>中国地方宣教の旅<br>(日程:2019年3月11日～13日)</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190312/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-    <p class="block-date">日程：2019年3月12日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190312/" target="_blank">エルサレム<br>三郷のアカシアの家オレンジカフェでコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/march1903/" target="_blank"><img src="/2016/images/top/1702haruchikaantioch.jpg"></a>
-    <p class="block-date">日程：2019年3月2日～3月3日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/march1903/" target="_blank">春一番が吹く季節<br>東京アンテオケ教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/rejoice1902/" target="_blank"><img src="/2016/images/top/1902hcffyorokobi.jpg"></a>
-    <p class="block-date">日程：2019年3月1日～3月10日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/rejoice1902/" target="_blank">白馬クリスチャンフィルムフェスティバル<br>喜びと悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/rejoice1902z/" target="_blank"><img src="/2016/images/top/1902u21kantoyosenyorokobi.jpg"></a>
-<p class="block-date">ブログ：2019年3月4日～10日</p>
-<p class="block-title"><a href="http://astone.tv/events/rejoice1902z/" target="_blank">J.GOSPELコンテスト in 白馬<br>関東予選U21、KIDS<br>喜びと悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/march1903z/" target="_blank"><img src="/2016/images/top/1702harchikaizenkou.jpg"></a>
-    <p class="block-date">日程：2019年3月4日～10日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/march1903z/" target="_blank">春一番が吹く季節<br>TLEA全国各教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-1">ブログ</span>
-<a href="http://astone.tv/events/2017healing/190309/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-<p class="block-date">ブログ：2019年3月9日</p>
-<p class="block-title"><a href="http://astone.tv/events/2017healing/190309/" target="_blank">3月 いやしの集いの一日</a></p>
-</div>
-
-<!--div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190309/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-    <p class="block-date">日程：2019年3月9日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190309/" target="_blank">エルサレム<br> さいたま市岩槻リハビリセンターコンサート</a></p>
-</div>-->
-
 <!--<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="/onsei/2019newyearworship.html" target="_blank"><img src="/2016/images/top/181104israelnewyear_m.jpg"></a>
