@@ -54,6 +54,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/2017students/20190324/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
+    <p class="block-date">日程：2019年3月24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/20190324/" target="_blank">3月の学生会 ドッチボールをする</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1903kiseki_ito.jpg"></a>
@@ -75,14 +83,6 @@
 	<p class="block-date">開催日：2019年2月28日</p>	
     <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>入賞作品1位〜7位まで発表！</a></p>
 </div>
-
-<!--<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="https://tokyo.antioch.jp/internet-tv/190303-yosen.html" target="_blank"><img src="/2016/images/top/1903hakuu21kantoyosen_m.jpg"></a>
-	<p class="block-date">開催日：2019年3月3日</p>	
-    <p class="block-title"><a href="https://tokyo.antioch.jp/internet-tv/190303-yosen.html" target="_blank">J.GOSPELコンテスト in 白馬<br>U21、KIDS関東予選 映像保存版</a></p>
-</div>-->
 
 <div class="column-inner">
     <span>NEW</span>
