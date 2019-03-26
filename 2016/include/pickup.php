@@ -46,6 +46,13 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank"><img src="/2016/images/top/1903merlin_m.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank">感謝と賛美<br>マーリン・キャロザーズ師<br>映像<br>(視聴時間 10:35)</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1903tocharidigest_p.jpg"></a>
