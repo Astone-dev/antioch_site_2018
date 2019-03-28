@@ -32,14 +32,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://blog.antioch.jp/hokkaido1903/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
-    <p class="block-date">日程：2019年3月24日～27日</p>
-    <p class="block-title"><a href="http://blog.antioch.jp/hokkaido1903/" target="_blank">春まだ遠い北海道を行く<br>北海道宣教の旅<br>(日程:2019年3月25日～27日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/faith1903/" target="_blank"><img src="/2016/images/top/1703haruantioch.jpg"></a>
     <p class="block-date">日程：2019年3月25日～31日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1903/" target="_blank">ゆったりまったり春休み<br>東京アンテオケ教会メンバーの一週間</a></p>
@@ -177,6 +169,13 @@
     <a href="http://atv.antioch.jp/kazenohibiki" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
     <p class="block-date">毎日19:00更新</p>
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://blog.antioch.jp/hokkaido1903/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
+    <p class="block-date">日程：2019年3月24日～27日</p>
+    <p class="block-title"><a href="http://blog.antioch.jp/hokkaido1903/" target="_blank">春まだ遠い北海道を行く<br>北海道宣教の旅<br>(日程:2019年3月25日～27日)</a></p>
 </div>
 
 <div class="column-inner">
