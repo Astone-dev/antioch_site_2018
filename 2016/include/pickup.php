@@ -46,22 +46,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gifts/190330/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
-    <p class="block-date">日程：2019年3月30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190330/" target="_blank">Gifts<br>練馬の施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/graduation1903/" target="_blank"><img src="/2016/images/top/1903tleagraduation.jpg"></a>
-    <p class="block-date">日程：2019年3月30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/graduation1903/" target="_blank">TLEA神学校<br>アンテオケ卒業生の１日</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank"><img src="/2016/images/top/1903merlin_m.jpg"></a>
@@ -193,6 +177,20 @@
     <a href="http://atv.antioch.jp/kazenohibiki" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
     <p class="block-date">毎日19:00更新</p>
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gifts/190330/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
+    <p class="block-date">日程：2019年3月30日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190330/" target="_blank">Gifts<br>練馬の施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/graduation1903/" target="_blank"><img src="/2016/images/top/1903tleagraduation.jpg"></a>
+    <p class="block-date">日程：2019年3月30日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/graduation1903/" target="_blank">TLEA神学校<br>アンテオケ卒業生の１日</a></p>
 </div>
 
 <div class="column-inner">
