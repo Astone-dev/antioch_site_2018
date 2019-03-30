@@ -32,6 +32,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/kansai1904/" target="_blank"><img src="/2016/images/top/1704kansaiseikai.jpg"></a>
+    <p class="block-date">日程：2019年3月31日～4月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/kansai1904/" target="_blank">季節の変わり目の関西を行く<br>関西宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/faith1903/" target="_blank"><img src="/2016/images/top/1703haruantioch.jpg"></a>
     <p class="block-date">日程：2019年3月25日～31日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1903/" target="_blank">ゆったりまったり春休み<br>東京アンテオケ教会メンバーの一週間</a></p>
