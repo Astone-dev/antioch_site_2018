@@ -215,12 +215,12 @@
     <p class="block-title"><a href="http://astone.tv/events/sakura1903z/" target="_blank">桜の咲くころ<br>TLEA全国各教会メンバーのふわっと一週間</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/gifts/190323/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
     <p class="block-date">日程：2019年3月23日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190323/" target="_blank">Gifts <br>三鷹の施設でコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
