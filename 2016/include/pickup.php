@@ -63,6 +63,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://astone.tv/events/2017byhisspirit/20190331/" target="_blank"><img src="/2016/images/top/1607byhissetagaya.jpg"></a>
+    <p class="block-date">日程：2019年3月31日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20190331/" target="_blank">By His spirit<br>高円寺のレストランでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1903tocharidigest_p.jpg"></a>
     <p class="block-date">日程：2019年3月6日</p>
     <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">3月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
