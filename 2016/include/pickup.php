@@ -231,9 +231,9 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <a href="http://blog.antioch.jp/hokkaido1903/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
+    <a href="https://blog.antioch.jp/hokkaido1903/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
     <p class="block-date">日程：2019年3月24日～27日</p>
-    <p class="block-title"><a href="http://blog.antioch.jp/hokkaido1903/" target="_blank">春まだ遠い北海道を行く<br>北海道宣教の旅<br>(日程:2019年3月25日～27日)</a></p>
+    <p class="block-title"><a href="https://blog.antioch.jp/hokkaido1903/" target="_blank">春まだ遠い北海道を行く<br>北海道宣教の旅<br>(日程:2019年3月25日～27日)</a></p>
 </div>
 
 <div class="column-inner">
