@@ -76,6 +76,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>    
+    <a href="http://antiochblog.jp/info/jerusalem2017/190404/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+    <p class="block-date">日程：2019年4月4日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190404/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/1902hcffnyuusyou_m.jpg"></a>
@@ -270,12 +278,12 @@
     <p class="block-title"><a href="http://astone.tv/events/treeoflife/190323/" target="_blank">Tree of Life<br>大久保の学生の家にて、J.Gospel Live＋子ども支援 でゴスペルコンサート</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190323/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
     <p class="block-date">日程：2019年3月23日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190323/" target="_blank">エルサレム<br>さいたま市岩槻西 グルーブホームでコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
