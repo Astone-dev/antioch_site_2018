@@ -34,7 +34,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/april1904/" target="_blank"><img src="/2016/images/top/1704nyuugakushiki.jpg"></a>
     <p class="block-date">日程：2019年4月1日～7日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/april1904/" target="_blank">まだまだ桜楽しめるぞ  <br>東京アンテオケメンバーの一週間</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/april1904/" target="_blank">まだまだ桜楽しめるぞ<br>東京アンテオケメンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -164,13 +164,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>    
-    <a href="http://antiochblog.jp/info/jerusalem2017/190404/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-    <p class="block-date">日程：2019年4月4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190404/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/kansai1904/" target="_blank"><img src="/2016/images/top/1704kansaiseikai.jpg"></a>
     <p class="block-date">日程：2019年3月31日～4月3日</p>
@@ -182,6 +175,13 @@
     <a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1903tocharidigest_p.jpg"></a>
     <p class="block-date">日程：2019年3月6日</p>
     <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">3月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>    
+    <a href="http://antiochblog.jp/info/jerusalem2017/190404/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+    <p class="block-date">日程：2019年4月4日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190404/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
 </div>
 
 <div class="column-inner">
