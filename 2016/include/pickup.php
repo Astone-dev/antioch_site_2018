@@ -32,9 +32,33 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/yamato1904/" target="_blank"><img src="/2016/images/top/1705yamatomachida.jpg"></a>
+    <p class="block-date">日程：2019年4月6日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/yamato1904/" target="_blank">春本番関東を行く <br>大和聖会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/1904cari/" target="_blank"><img src="/2016/images/top/1705tokari.jpg"></a>
+    <p class="block-date">日程：2019年4月6日～7日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1904cari/" target="_blank">桜舞う<br>東京カリスマ聖会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/april1904/" target="_blank"><img src="/2016/images/top/1704nyuugakushiki.jpg"></a>
     <p class="block-date">日程：2019年4月1日～7日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/april1904/" target="_blank">まだまだ桜楽しめるぞ<br>東京アンテオケメンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/1904semi/" target="_blank"><img src="/2016/images/top/1808mouretsunatsuzenkoku.jpg"></a>
+    <p class="block-date">日程：2019年4月6日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1904semi/" target="_blank">爽やかな春の風<br>TLEA神学校入学式の一日</a></p>
 </div>
 
 <div class="column-inner">
