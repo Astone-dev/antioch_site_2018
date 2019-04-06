@@ -32,9 +32,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/yamato1904/" target="_blank"><img src="/2016/images/top/1705yamatomachida.jpg"></a>
-    <p class="block-date">日程：2019年4月6日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/yamato1904/" target="_blank">春本番関東を行く <br>大和聖会</a></p>
+    <a href="http://antiochblog.jp/info/okinawa1903/" target="_blank"><img src="/2016/images/top/1609okinawa.jpg"></a>
+    <p class="block-date">日程：2019年4月7日～10日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/okinawa1903/" target="_blank">華やぐ季節の沖縄を行く <br>沖縄宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
@@ -51,14 +51,6 @@
     <a href="http://antiochblog.jp/praise/april1904/" target="_blank"><img src="/2016/images/top/1704nyuugakushiki.jpg"></a>
     <p class="block-date">日程：2019年4月1日～7日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/april1904/" target="_blank">まだまだ桜楽しめるぞ<br>東京アンテオケメンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/1904semi/" target="_blank"><img src="/2016/images/top/1808mouretsunatsuzenkoku.jpg"></a>
-    <p class="block-date">日程：2019年4月6日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1904semi/" target="_blank">爽やかな春の風<br>TLEA神学校入学式の一日</a></p>
 </div>
 
 <div class="column-inner">
@@ -185,6 +177,20 @@
     <a href="http://atv.antioch.jp/kazenohibiki" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
     <p class="block-date">毎日19:00更新</p>
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/yamato1904/" target="_blank"><img src="/2016/images/top/1705yamatomachida.jpg"></a>
+    <p class="block-date">日程：2019年4月6日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/yamato1904/" target="_blank">春本番関東を行く <br>大和聖会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/1904semi/" target="_blank"><img src="/2016/images/top/1808mouretsunatsuzenkoku.jpg"></a>
+    <p class="block-date">日程：2019年4月6日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1904semi/" target="_blank">爽やかな春の風<br>TLEA神学校入学式の一日</a></p>
 </div>
 
 <div class="column-inner">
