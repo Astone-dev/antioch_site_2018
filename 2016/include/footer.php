@@ -19,8 +19,10 @@
     </ul>
 
   </div>
-  <p style="clear:both;"><a href="/position/googleanalytics-privacypolicy.html">プライバシーポリシー</a></p>
+  <div style="clear:both;">
+  <p><a href="/position/googleanalytics-privacypolicy.html">プライバシーポリシー</a></p>
   <p>Copyright (C) Tokyo Antioch Church All Rights Reserved.<br>東京アンテオケ教会のウェブサイトはアストン株式会社が製作しております。<br>カトリック教会ではありません。</p>
-
+  </div>
+  
   </section>
 </footer>
