@@ -63,7 +63,7 @@
               <li><a href="http://astone.tv/tlcsseminary/">TLEA 神学校</a></li>
               <li><a href="http://arechinikawa.com/">荒地に川ミュージック</a></li>
               <li><a href="http://www.mikoe.co.jp/">み声新聞</a></li>
-              <li><a href="http://www.kumoniji.co.jp/">雲の間にある虹出版</a></li>
+              <li><a href="https://www.kumoniji.co.jp/">雲の間にある虹出版</a></li>
               <li><a href="http://www.astone.co.jp/">アストン株式会社</a></li>
               <li><a href="http://astone.tv/film-mission/">映画ミッション</a></li>
               <li><a href="http://tlccc.net/prayer/">祈りのミッション</a></li>
