@@ -17,11 +17,9 @@
       <li>お悩みの方はこちら <a href="mailto:tokyoantioch.help@gmail.com">tokyoantioch.help@gmail.com</a></li>
       <li>お問い合せ窓口 <a href="mailto:tokyo.antioch.inquiries@gmail.com">tokyo.antioch.inquiries@gmail.com</a></li>
     </ul>
-
-  </div>
-  <div style="clear:both;">
-  <p><a href="/position/googleanalytics-privacypolicy.html">プライバシーポリシー</a></p>
-  <p>Copyright (C) Tokyo Antioch Church All Rights Reserved.<br>東京アンテオケ教会のウェブサイトはアストン株式会社が製作しております。<br>カトリック教会ではありません。</p>
+    
+    <p><a href="/position/googleanalytics-privacypolicy.html">プライバシーポリシー</a></p>
+    <p>Copyright (C) Tokyo Antioch Church All Rights Reserved.<br>東京アンテオケ教会のウェブサイトはアストン株式会社が製作しております。<br>カトリック教会ではありません。</p>
   </div>
   
   </section>
