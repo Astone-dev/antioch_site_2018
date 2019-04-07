@@ -40,25 +40,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/1904cari/" target="_blank"><img src="/2016/images/top/1705tokari.jpg"></a>
-    <p class="block-date">日程：2019年4月6日～7日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1904cari/" target="_blank">桜舞う<br>東京カリスマ聖会</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/april1904/" target="_blank"><img src="/2016/images/top/1704nyuugakushiki.jpg"></a>
-    <p class="block-date">日程：2019年4月1日～7日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/april1904/" target="_blank">まだまだ桜楽しめるぞ<br>東京アンテオケメンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/euqaristias/20190407gospel/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
-    <p class="block-date">日程：2019年4月7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190407gospel/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+    <a href="http://antiochblog.jp/praise/haru1904/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
+    <p class="block-date">日程：2019年4月8日～14日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/haru1904/" target="_blank">爽やかな春風の季節 <br>東京アンテオケ教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -78,9 +62,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/april1904z/" target="_blank"><img src="/2016/images/top/1703tlcccharuweek.jpg"></a>
-    <p class="block-date">日程：2019年4月1日～7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/april1904z/" target="_blank">まだまだ桜楽しめるぞ <br>TLEA全国各教会メンバーの一週間</a></p>
+    <a href="http://astone.tv/events/haru1904z/" target="_blank"><img src="/2016/images/top/1703graduationzenkoku.jpg"></a>
+    <p class="block-date">日程：4月8日～14日</p>
+    <p class="block-title"><a href="http://astone.tv/events/haru1904z/" target="_blank">爽やかな春風の季節<br>TLEA全国各教会メンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>        
+    <a href="http://antiochblog.jp/info/jerusalem2017/190408/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
+    <p class="block-date">日程：2019年4月8日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190408/" target="_blank">エルサレム<br>笑顔 施設でゴスペル教室</a></p>
 </div>
 
 <div class="column-inner">
@@ -189,6 +181,34 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/1904cari/" target="_blank"><img src="/2016/images/top/1705tokari.jpg"></a>
+    <p class="block-date">日程：2019年4月6日～7日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1904cari/" target="_blank">桜舞う<br>東京カリスマ聖会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/april1904/" target="_blank"><img src="/2016/images/top/1704nyuugakushiki.jpg"></a>
+    <p class="block-date">日程：2019年4月1日～7日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/april1904/" target="_blank">まだまだ桜楽しめるぞ<br>東京アンテオケメンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/euqaristias/20190407gospel/" target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
+    <p class="block-date">日程：2019年4月7日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190407gospel/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/april1904z/" target="_blank"><img src="/2016/images/top/1703tlcccharuweek.jpg"></a>
+    <p class="block-date">日程：2019年4月1日～7日</p>
+    <p class="block-title"><a href="http://astone.tv/events/april1904z/" target="_blank">まだまだ桜楽しめるぞ <br>TLEA全国各教会メンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/yamato1904/" target="_blank"><img src="/2016/images/top/1705yamatomachida.jpg"></a>
     <p class="block-date">日程：2019年4月6日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/yamato1904/" target="_blank">春本番関東を行く <br>大和聖会</a></p>
@@ -215,12 +235,12 @@
     <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">3月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>    
     <a href="http://antiochblog.jp/info/jerusalem2017/190404/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
     <p class="block-date">日程：2019年4月4日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190404/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
