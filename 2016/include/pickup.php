@@ -71,8 +71,8 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>        
     <a href="http://antiochblog.jp/info/jerusalem2017/190408/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-    <p class="block-date">日程：2019年4月8日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190408/" target="_blank">エルサレム<br>笑顔 施設でゴスペル教室</a></p>
+    <p class="block-date">日程：2019年4月8日〜9日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190408/" target="_blank">エルサレム<br>施設でゴスペル教室とオレンジカフェでコンサート</a></p>
 </div>
 
 <div class="column-inner">
