@@ -32,14 +32,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/okinawa1903/" target="_blank"><img src="/2016/images/top/1609okinawa.jpg"></a>
-    <p class="block-date">日程：2019年4月7日～10日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/okinawa1903/" target="_blank">華やぐ季節の沖縄を行く <br>沖縄宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/haru1904/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
     <p class="block-date">日程：2019年4月8日～14日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/haru1904/" target="_blank">爽やかな春風の季節 <br>東京アンテオケ教会メンバーの一週間</a></p>
@@ -65,6 +57,14 @@
     <a href="http://astone.tv/events/haru1904z/" target="_blank"><img src="/2016/images/top/1703graduationzenkoku.jpg"></a>
     <p class="block-date">日程：4月8日～14日</p>
     <p class="block-title"><a href="http://astone.tv/events/haru1904z/" target="_blank">爽やかな春風の季節<br>TLEA全国各教会メンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>       
+    <a href="http://antiochblog.jp/praise/gracejewel2017/190412/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
+    <p class="block-date">日程：2019年4月12日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190412/" target="_blank">GRACEと宝石<br>高円寺にあるデイサービスでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -172,10 +172,10 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>       
-    <a href="http://antiochblog.jp/info/jerusalem2017/1904089/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-    <p class="block-date">日程：2019年4月8日〜9日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190409/" target="_blank">エルサレム<br>施設でゴスペル教室とオレンジカフェでコンサート</a></p>
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/okinawa1903/" target="_blank"><img src="/2016/images/top/1609okinawa.jpg"></a>
+    <p class="block-date">日程：2019年4月7日～10日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/okinawa1903/" target="_blank">華やぐ季節の沖縄を行く <br>沖縄宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
