@@ -220,69 +220,6 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/1904semi/" target="_blank">爽やかな春の風<br>TLEA神学校入学式の一日</a></p>
 </div>
 
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/kansai1904/" target="_blank"><img src="/2016/images/top/1704kansaiseikai.jpg"></a>
-    <p class="block-date">日程：2019年3月31日～4月3日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/kansai1904/" target="_blank">季節の変わり目の関西を行く<br>関西宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="https://tokyo.antioch.jp/tcm/" target="_blank"><img src="/2016/images/top/1903tocharidigest_p.jpg"></a>
-    <p class="block-date">日程：2019年3月6日</p>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/tcm/" target="_blank">3月の東京カリスマ聖会<br>ダイジェスト写真集<br>(きれいな写真版)</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>    
-    <a href="http://antiochblog.jp/info/jerusalem2017/190404/" target="_blank"><img src="/2016/images/top/1706jerumisato.jpg"></a>
-    <p class="block-date">日程：2019年4月4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190404/" target="_blank">エルサレム<br>箱根のホテルでロビーコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/faith1903/" target="_blank"><img src="/2016/images/top/1703haruantioch.jpg"></a>
-    <p class="block-date">日程：2019年3月25日～31日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1903/" target="_blank">ゆったりまったり春休み<br>東京アンテオケ教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/happyday2017/201903/" target="_blank"><img src="/2016/images/top/1701ohhappyday.jpg"></a>
-    <p class="block-date">日程：2019年3月31日</p>
-    <p class="block-title"><a href="http://astone.tv/events/happyday2017/201903/" target="_blank">OH! HAPPY DAY!の一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017byhisspirit/20190331/" target="_blank"><img src="/2016/images/top/1607byhissetagaya.jpg"></a>
-    <p class="block-date">日程：2019年3月31日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/20190331/" target="_blank">By His spirit<br>高円寺のレストランでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/faith1903z/" target="_blank"><img src="/2016/images/top/1703haruzenkoku.jpg"></a>
-    <p class="block-date">日程：2019年3月25日～31日</p>
-    <p class="block-title"><a href="http://astone.tv/events/faith1903z/" target="_blank">ゆったりまったり春休み<br>TLEA全国各教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/gifts/190330/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
-    <p class="block-date">日程：2019年3月30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190330/" target="_blank">Gifts<br>練馬の施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/graduation1903/" target="_blank"><img src="/2016/images/top/1903tleagraduation.jpg"></a>
-    <p class="block-date">日程：2019年3月30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/graduation1903/" target="_blank">TLEA神学校<br>アンテオケ卒業生の１日</a></p>
-</div>
-
 <!--<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="/onsei/2019newyearworship.html" target="_blank"><img src="/2016/images/top/181104israelnewyear_m.jpg"></a>
