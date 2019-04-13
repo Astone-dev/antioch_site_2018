@@ -14,7 +14,7 @@
   <p class="block-title"><span><a href="/blog/">教会員、賛美グループのブログコーナー</a></span></p>
 </div>
 
-<div class="column-inner"> <a href="/hakuba-synerugoi/"><img src="/2016/images/top/bt_sunerugoicamp.jpg"></a>
+<div class="column-inner"> <a href="/hakuba/"><img src="/2016/images/top/bt_camp.jpg"></a>
   <p class="block-title"><span><a href="/hakuba/">白馬キャンプ（夏）</a><br><a href="/hakuba-synerugoi/">白馬スネルゴイキャンプ（冬）</a></span></p>
 </div>
 
