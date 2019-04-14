@@ -40,9 +40,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/haru1904/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
-    <p class="block-date">日程：2019年4月8日～14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/haru1904/" target="_blank">爽やかな春風の季節 <br>東京アンテオケ教会メンバーの一週間</a></p>
+    <a href="http://antiochblog.jp/praise/light1904/" target="_blank"><img src="/2016/images/top/1704shingakiantioch.jpg"></a>
+    <p class="block-date">日程：2019年4月15日～21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/light1904/" target="_blank">緑の風爽やかに  <br>東京アンテオケ教会メンバーの一週間 </a></p>
 </div>
 
 <div class="column-inner">
@@ -50,22 +50,6 @@
     <a href="https://tokyo.antioch.jp/hakuba/" target="_blank"><img src="/2016/images/top/1904hakubacamp.jpg"></a>
 	<p class="block-date">キャンプ：2019年7月23日〜26日</p>	
     <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba/" target="_blank">白馬キャンプ<br>WEBサイトはこちらから</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/truevine/190414/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
-    <p class="block-date">日程：2019年4月14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/truevine/190414/" target="_blank">TrueVine <br>長野県上田の桜まつりでゴスペルを歌う</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/2018women/190414/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
-    <p class="block-date">日程：2019年4月14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190414/" target="_blank">婦人会、オーケストラ  <br>施設でコンサート </a></p>
 </div>
 
 <div class="column-inner">
@@ -85,9 +69,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/haru1904z/" target="_blank"><img src="/2016/images/top/1703graduationzenkoku.jpg"></a>
-    <p class="block-date">日程：4月8日～14日</p>
-    <p class="block-title"><a href="http://astone.tv/events/haru1904z/" target="_blank">爽やかな春風の季節<br>TLEA全国各教会メンバーの一週間</a></p>
+    <a href="http://astone.tv/events/light1904z/" target="_blank"><img src="/2016/images/top/1704shingakkizenkoku.jpg"></a>
+    <p class="block-date">日程：4月15日～21日</p>
+    <p class="block-title"><a href="http://astone.tv/events/light1904z/" target="_blank">緑の風爽やかに<br> TLEA全国各教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -192,6 +176,34 @@
     <a href="http://atv.antioch.jp/kazenohibiki" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
     <p class="block-date">毎日19:00更新</p>
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/haru1904/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
+    <p class="block-date">日程：2019年4月8日～14日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/haru1904/" target="_blank">爽やかな春風の季節 <br>東京アンテオケ教会メンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/truevine/190414/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
+    <p class="block-date">日程：2019年4月14日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/truevine/190414/" target="_blank">TrueVine <br>長野県上田の桜まつりでゴスペルを歌う</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/2018women/190414/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
+    <p class="block-date">日程：2019年4月14日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190414/" target="_blank">婦人会、オーケストラ  <br>施設でコンサート </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/haru1904z/" target="_blank"><img src="/2016/images/top/1703graduationzenkoku.jpg"></a>
+    <p class="block-date">日程：4月8日～14日</p>
+    <p class="block-title"><a href="http://astone.tv/events/haru1904z/" target="_blank">爽やかな春風の季節<br>TLEA全国各教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
