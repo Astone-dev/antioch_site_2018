@@ -34,7 +34,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/kyusyu1904/" target="_blank"><img src="/2016/images/top/1610kyusyuseika.jpg"></a>
     <p class="block-date">日程：2019年4月14日～17日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/kyusyu1904/" target="_blank">爽やかな風の中 九州を行く  <br>九州宣教の旅</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/kyusyu1904/" target="_blank">爽やかな風の中 九州を行く<br>九州宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
@@ -42,7 +42,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/light1904/" target="_blank"><img src="/2016/images/top/1704shingakiantioch.jpg"></a>
     <p class="block-date">日程：2019年4月15日～21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/light1904/" target="_blank">緑の風爽やかに  <br>東京アンテオケ教会メンバーの一週間 </a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/light1904/" target="_blank">緑の風爽やかに<br>東京アンテオケ教会メンバーの一週間 </a></p>
 </div>
 
 <div class="column-inner">
@@ -50,6 +50,14 @@
     <a href="https://tokyo.antioch.jp/hakuba/" target="_blank"><img src="/2016/images/top/1904hakubacamp.jpg"></a>
 	<p class="block-date">キャンプ：2019年7月23日〜26日</p>	
     <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba/" target="_blank">白馬キャンプ<br>WEBサイトはこちらから</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>	
+    <span>NEW</span>
+    <a href="http://tv.antioch.jp/digest/201904-hakubacm/" target="_blank"><img src="/2016/images/top/1904hakub_cm_m.jpg"></a>
+	<p class="block-date">キャンプ：2019年7月23日〜26日</p>	
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201904-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像</a></p>
 </div>
 
 <div class="column-inner">
