@@ -46,6 +46,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/patolis/190417/" target="_blank"><img src="/2016/images/top/1606patolisnerima.jpg"></a>
+    <p class="block-date">日程：2019年4月17日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190417/" target="_blank">PATOLIS<br> 川口の病院でボランティア・コンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span>NEW</span>
     <a href="https://tokyo.antioch.jp/hakuba/" target="_blank"><img src="/2016/images/top/1904hakubacamp.jpg"></a>
 	<p class="block-date">キャンプ：2019年7月23日〜26日</p>	
@@ -235,12 +243,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190413/" target="_blank">ラベイユ  <br>荒川区の福祉施設でゴスペルコンサート </a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/patolis/190413/" target="_blank"><img src="/2016/images/top/1606patolisnerima.jpg"></a>
     <p class="block-date">日程：2019年4月13日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190413/" target="_blank">PATOLIS<br>練馬区のデイサービスでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
