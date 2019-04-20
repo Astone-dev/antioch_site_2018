@@ -61,6 +61,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年4月20日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('Revival Night生中継');">Revival Night生中継<br>(日程：2019年4月20日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
     <span>NEW</span>
     <a href="https://tokyo.antioch.jp/hakuba/" target="_blank"><img src="/2016/images/top/1904hakubacamp.jpg"></a>
 	<p class="block-date">キャンプ：2019年7月23日〜26日</p>	
