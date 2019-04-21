@@ -52,6 +52,30 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/light1904/" target="_blank">緑の風爽やかに<br>東京アンテオケ教会メンバーの一週間 </a></p>
 </div>
 
+<!-- <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/gw1904/" target="_blank"><img src="/2016/images/top/1704duummy.jpg"></a>
+    <p class="block-date">日程：2019年4月22日～28日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gw1904/" target="_blank">ゴールデンウイーク直前 東京アンテオケ教会メンバーウキウキの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gospel1904/" target="_blank"><img src="/2016/images/top/1704duummy.jpg"></a>
+    <p class="block-date">日程：2019年4月22日～28日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel1904/" target="_blank">いよいよ来週！こころごすぺる、出演者、スタッフの直前ドタバタ一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/gw1904z/" target="_blank"><img src="/2016/images/top/1704duummy.jpg"></a>
+    <p class="block-date">日程：2019年4月22日～28日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gw1904z/" target="_blank">ゴールデンウイーク直前 TLEA全国各教会メンバーワクワクの一週間</a></p>
+</div -->
+
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>    
