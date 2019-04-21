@@ -70,6 +70,21 @@
 
 <div class="column-inner">
     <span>NEW</span>
+    <a href="http://www.gospelconcert.jp" target="_blank"><img src="/2016/images/top/1904kokorogospelinfo.jpg"></a>
+	<p class="block-date">日程：2019年4月29日</p>	
+    <p class="block-title"><a href="http://www.gospelconcert.jp" target="_blank">こころごすぺる<br>2019年4月29日 19:00開演 18:30開場</a></p>
+</div>
+
+<!-- <div class="column-inner">
+    <span class="label-2">動画</span>	
+    <span>NEW</span>
+    <a href="http://tv.antioch.jp/digest/201904kokorogoslpelcm" target="_blank"><img src="/2016/images/top/1904hakub_cm_m.jpg"></a>
+    <p class="block-date">日程：2019年4月29日</p>	
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201904kokorogoslpelcm" target="_blank">こころごすぺる<br>紹介映像</a></p>
+</div> -->
+
+<div class="column-inner">
+    <span>NEW</span>
     <a href="https://tokyo.antioch.jp/hakuba/" target="_blank"><img src="/2016/images/top/1904hakubacamp.jpg"></a>
 	<p class="block-date">キャンプ：2019年7月23日〜26日</p>	
     <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba/" target="_blank">白馬キャンプ<br>WEBサイトはこちらから</a></p>
