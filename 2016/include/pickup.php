@@ -44,7 +44,7 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/chubu1904/" target="_blank">風軽やかな季節の中部聖会　<br>中部宣教の旅 </a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/gospel1904/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
@@ -58,38 +58,14 @@
     <a href="http://antiochblog.jp/info/gw1904/" target="_blank"><img src="/2016/images/top/1704goldenweedmaeantioch.jpg"></a>
     <p class="block-date">日程：2019年4月22日～28日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/gw1904/" target="_blank">ゴールデンウイーク直前 <br>東京アンテオケ教会メンバーウキウキの一週間 </a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/light1904/" target="_blank"><img src="/2016/images/top/1704shingakiantioch.jpg"></a>
-    <p class="block-date">日程：2019年4月15日～21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/light1904/" target="_blank">緑の風爽やかに<br>東京アンテオケ教会メンバーの一週間 </a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/gw1904z/" target="_blank"><img src="/2016/images/top/1704goldenweedmaezenkoku.jpg"></a>
     <p class="block-date">日程：4月22日～28日</p>
     <p class="block-title"><a href="http://astone.tv/events/gw1904z/" target="_blank">ゴールデンウイーク直前 <br> TLEA全国各教会メンバーワクワクの一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>    
-    <a href="http://antiochblog.jp/info/gifts/190421/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
-    <p class="block-date">日程：2019年4月21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190421/" target="_blank">Gifts漫遊記　<br>都内の施設でゴスペルコンサート </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>    
-    <a href="http://antiochblog.jp/praise/2018women/190421/" target="_blank"><img src="/2016/images/top/1609fujinkai.jpg"></a>
-    <p class="block-date">日程：2019年4月21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190421/" target="_blank">婦人会 牛丼を食べる </a></p>
 </div>
 
 <div class="column-inner">
@@ -129,21 +105,6 @@
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank">感謝と賛美<br>マーリン・キャロザーズ師<br>映像<br>(視聴時間 10:35)</a></p>
 </div>
 
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/light1904z/" target="_blank"><img src="/2016/images/top/1704shingakkizenkoku.jpg"></a>
-    <p class="block-date">日程：4月15日～21日</p>
-    <p class="block-title"><a href="http://astone.tv/events/light1904z/" target="_blank">緑の風爽やかに<br> TLEA全国各教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>    
-    <a href="http://astone.tv/events/2017byhisspirit/190421/" target="_blank"><img src="/2016/images/top/1609byhissetagaya.jpg"></a>
-    <p class="block-date">日程：2019年4月21日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190421/" target="_blank">By His spirit 　<br>世田谷の高齢者施設でゴスペルコンサート </a></p>
-</div>
 
 <div class="column-inner">
     <span class="label-2">動画</span>
@@ -255,6 +216,46 @@
     <p class="block-date">日程：2019年4月20日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190420/" target="_blank">Gifts漫遊記　<br>春の信州上田を行く </a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/light1904/" target="_blank"><img src="/2016/images/top/1704shingakiantioch.jpg"></a>
+    <p class="block-date">日程：2019年4月15日～21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/light1904/" target="_blank">緑の風爽やかに<br>東京アンテオケ教会メンバーの一週間 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>    
+    <a href="http://antiochblog.jp/info/gifts/190421/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
+    <p class="block-date">日程：2019年4月21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190421/" target="_blank">Gifts漫遊記　<br>都内の施設でゴスペルコンサート </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>    
+    <a href="http://antiochblog.jp/praise/2018women/190421/" target="_blank"><img src="/2016/images/top/1609fujinkai.jpg"></a>
+    <p class="block-date">日程：2019年4月21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190421/" target="_blank">婦人会 牛丼を食べる </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/light1904z/" target="_blank"><img src="/2016/images/top/1704shingakkizenkoku.jpg"></a>
+    <p class="block-date">日程：4月15日～21日</p>
+    <p class="block-title"><a href="http://astone.tv/events/light1904z/" target="_blank">緑の風爽やかに<br> TLEA全国各教会メンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>    
+    <a href="http://astone.tv/events/2017byhisspirit/190421/" target="_blank"><img src="/2016/images/top/1609byhissetagaya.jpg"></a>
+    <p class="block-date">日程：2019年4月21日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190421/" target="_blank">By His spirit 　<br>世田谷の高齢者施設でゴスペルコンサート </a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
