@@ -30,18 +30,18 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1904kiseki_mayuna.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年4月19日UP!)</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>    
     <a href="http://antiochblog.jp/praise/chubu1904/" target="_blank"><img src="/2016/images/top/1608chubuseikai.jpg"></a>
     <p class="block-date">日程：2019年4月21日～24日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/chubu1904/" target="_blank">風軽やかな季節の中部聖会　<br>中部宣教の旅 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1904kiseki_mayuna.jpg"></a>
+<p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年4月19日UP!)</a></p>
 </div>
 
 <div class="column-inner">
