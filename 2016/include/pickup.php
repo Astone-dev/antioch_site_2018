@@ -41,7 +41,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/utunomiya1904/" target="_blank"><img src="/2016/images/top/1710kawasaki.jpg"></a>
     <p class="block-date">日程：2019年4月27日</p>
-    <p class="block-title"><a href="http://astone.tv/events/utunomiya1904/" target="_blank">　春色の風の中を宇都宮を行く<br>関東宣教の旅 </a></p>
+    <p class="block-title"><a href="http://astone.tv/events/utunomiya1904/" target="_blank">春色の風の中を宇都宮を行く<br>関東宣教の旅 </a></p>
 </div>
 
 <div class="column-inner">
