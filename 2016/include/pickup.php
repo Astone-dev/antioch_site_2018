@@ -1,4 +1,4 @@
-<!--　<div class="column-inner">
+<!--    <div class="column-inner">
 <span class="label-2">映像　</span>
 <span>NEW</span>
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew" target="_blank" onclick="javascript:pageTracker._trackPageview('ハワイチーム聖会生中継');"><img src="/2016/images/top/1610hanbokushilive.png"></a>
@@ -30,18 +30,18 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>    
-    <a href="http://antiochblog.jp/praise/chubu1904/" target="_blank"><img src="/2016/images/top/1608chubuseikai.jpg"></a>
-    <p class="block-date">日程：2019年4月21日～24日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/chubu1904/" target="_blank">風軽やかな季節の中部聖会　<br>中部宣教の旅 </a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1904kiseki_mayuna.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年4月19日UP!)</a></p>
+    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年4月19日UP!)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/utunomiya1904/" target="_blank"><img src="/2016/images/top/1710kawasaki.jpg"></a>
+    <p class="block-date">日程：2019年4月27日</p>
+    <p class="block-title"><a href="http://astone.tv/events/utunomiya1904/" target="_blank">春色の風の中を宇都宮を行く<br>関東宣教の旅 </a></p>
 </div>
 
 <div class="column-inner">
@@ -61,17 +61,60 @@
 </div>
 
 <div class="column-inner">
+<<<<<<< HEAD
+=======
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/1904live/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
+    <p class="block-date">日程：2019年4月27日</p>
+    <p class="block-title"><a href="http://astone.tv/events/1904live/" target="_blank"> 道の駅ランキング1位のららん藤岡でゴスペルライブ<br>Gifts、Tree of Life他 ゴスペルグループ出演 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gospel2017/190427/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+    <p class="block-date">日程：2019年4月27日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190427/" target="_blank">4月 ゴスペルの集いの1日 </a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年4月27日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継');">ゴスペルの集い生中継<br>(日程：2019年4月27日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/gw1904z/" target="_blank"><img src="/2016/images/top/1704goldenweedmaezenkoku.jpg"></a>
+    <p class="block-date">日程：4月22日～28日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gw1904z/" target="_blank">ゴールデンウイーク直前 <br> TLEA全国各教会メンバーワクワクの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190427/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
+    <p class="block-date">日程：2019年4月27日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190427/" target="_blank">エルサレム<br>岩槻西グループホームでコンサート </a></p>
+</div>
+
+<div class="column-inner">
+>>>>>>> 6ef905d8e7e1ebf9a8c00cae05758ee9763acaeb
     <span>NEW</span>
     <a href="http://www.gospelconcert.jp" target="_blank"><img src="/2016/images/top/1904kokorogospelinfo.jpg"></a>
-	<p class="block-date">日程：2019年4月29日</p>	
+    <p class="block-date">日程：2019年4月29日</p>
     <p class="block-title"><a href="http://www.gospelconcert.jp" target="_blank">こころごすぺる<br>2019年4月29日 19:00開演 18:30開場</a></p>
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>	
+    <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/201904kokorogoslpelcm" target="_blank"><img src="/2016/images/top/1904kokorogospelcm.jpg"></a>
-    <p class="block-date">日程：2019年4月29日</p>	
+    <p class="block-date">日程：2019年4月29日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201904kokorogoslpelcm" target="_blank">こころごすぺる<br>紹介映像</a></p>
 </div>
 
@@ -86,15 +129,15 @@
 <div class="column-inner">
     <span>NEW</span>
     <a href="https://tokyo.antioch.jp/hakuba/" target="_blank"><img src="/2016/images/top/1904hakubacamp.jpg"></a>
-	<p class="block-date">キャンプ：2019年7月23日〜26日</p>	
+    <p class="block-date">キャンプ：2019年7月23日〜26日</p>
     <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba/" target="_blank">白馬キャンプ<br>WEBサイトはこちらから</a></p>
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>	
+    <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/201904-hakubacm/" target="_blank"><img src="/2016/images/top/1904hakub_cm_m.jpg"></a>
-	<p class="block-date">キャンプ：2019年7月23日〜26日</p>	
+    <p class="block-date">キャンプ：2019年7月23日〜26日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201904-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像</a></p>
 </div>
 
@@ -105,12 +148,11 @@
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank">感謝と賛美<br>マーリン・キャロザーズ師<br>映像<br>(視聴時間 10:35)</a></p>
 </div>
 
-
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/1902hcffnyuusyou_m.jpg"></a>
-	<p class="block-date">開催日：2019年2月28日</p>	
+    <p class="block-date">開催日：2019年2月28日</p>
     <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>入賞作品1位〜7位まで発表！</a></p>
 </div>
 
@@ -212,6 +254,13 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/chubu1904/" target="_blank"><img src="/2016/images/top/1608chubuseikai.jpg"></a>
+    <p class="block-date">日程：2019年4月21日～24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/chubu1904/" target="_blank">風軽やかな季節の中部聖会　<br>中部宣教の旅 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/concert1904/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
     <p class="block-date">日程：2019年4月24日 </p>
     <p class="block-title"><a href="http://antiochblog.jp/info/concert1904/" target="_blank">Immanuel、Beracha、CROIX、 <br>杉並区の特別養護老人施設でコンサート </a></p>
@@ -266,110 +315,19 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190420/" target="_blank">4月 リバイバルナイトの1日 </a></p>
 </div>
 
-<div class="column-inner">
-    <span class="label-1">ブログ</span> 
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190420/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
     <p class="block-date">日程：2019年4月13日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190420/" target="_blank">エルサレム<br>岩槻デイサービスでコンサート </a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>       
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/gracejewel2017/190420/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
     <p class="block-date">日程：2019年4月20日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190420/" target="_blank">GRACEと宝石<br>埼玉県志木市の特別養護老人ホームでゴスペルコンサート</a></p>
 </div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/kyusyu1904/" target="_blank"><img src="/2016/images/top/1610kyusyuseika.jpg"></a>
-    <p class="block-date">日程：2019年4月14日～17日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/kyusyu1904/" target="_blank">爽やかな風の中 九州を行く<br>九州宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/patolis/190417/" target="_blank"><img src="/2016/images/top/1606patolisnerima.jpg"></a>
-    <p class="block-date">日程：2019年4月17日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190417/" target="_blank">PATOLIS<br> 川口の病院でボランティア・コンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/haru1904/" target="_blank"><img src="/2016/images/top/1703graduationantioch.jpg"></a>
-    <p class="block-date">日程：2019年4月8日～14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/haru1904/" target="_blank">爽やかな春風の季節 <br>東京アンテオケ教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/truevine/190414/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
-    <p class="block-date">日程：2019年4月14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/truevine/190414/" target="_blank">TrueVine <br>長野県上田の桜まつりでゴスペルを歌う</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/2018women/190414/" target="_blank"><img src="/2016/images/top/1704fujinkai.jpg"></a>
-    <p class="block-date">日程：2019年4月14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190414/" target="_blank">婦人会、オーケストラ  <br>施設でコンサート </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/haru1904z/" target="_blank"><img src="/2016/images/top/1703graduationzenkoku.jpg"></a>
-    <p class="block-date">日程：4月8日～14日</p>
-    <p class="block-title"><a href="http://astone.tv/events/haru1904z/" target="_blank">爽やかな春風の季節<br>TLEA全国各教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/1904omiya" target="_blank"><img src="/2016/images/top/1702yokohamaseikai.jpg"></a>
-    <p class="block-date">日程：2019年4月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1904omiya" target="_blank">春の埼玉を行く  <br>大宮聖会</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017healing/190413/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-    <p class="block-date">日程：2019年4月13日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/190413/" target="_blank">4月のいやしの集いの1日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/2017labeille/190413/" target="_blank"><img src="/2016/images/top/1703lageiyumusashiurawa.jpg"></a>
-    <p class="block-date">日程：2019年4月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190413/" target="_blank">ラベイユ  <br>荒川区の福祉施設でゴスペルコンサート </a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/patolis/190413/" target="_blank"><img src="/2016/images/top/1606patolisnerima.jpg"></a>
-    <p class="block-date">日程：2019年4月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190413/" target="_blank">PATOLIS<br>練馬区のデイサービスでゴスペルコンサート</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190413/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
-    <p class="block-date">日程：2019年4月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190413/" target="_blank">エルサレム<br>三郷市文化会館にてチャリティーコンサート </a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/gracious/190413/" target="_blank"><img src="/2016/images/top/1701gracious.jpg"></a>
-    <p class="block-date">日程：2019年4月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190413/" target="_blank">GRACIOUS DOORS <br>都内のデイサービスで、ボランティア・コンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>      
-    <a href="http://antiochblog.jp/praise/gracejewel2017/190412/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
-    <p class="block-date">日程：2019年4月12日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190412/" target="_blank">GRACEと宝石<br>高円寺にあるデイサービスでゴスペルコンサート</a></p>
-</div>-->
 
 <!--<div class="column-inner">
     <span class="label-2">動画</span>
