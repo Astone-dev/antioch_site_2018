@@ -39,6 +39,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://astone.tv/events/utunomiya1904/" target="_blank"><img src="/2016/images/top/1710kawasaki.jpg"></a>
+    <p class="block-date">日程：2019年4月27日</p>
+    <p class="block-title"><a href="http://astone.tv/events/utunomiya1904/" target="_blank">　春色の風の中を宇都宮を行く<br>関東宣教の旅 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/gospel1904/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
     <p class="block-date">日程：2019年4月22日～29日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/gospel1904/" target="_blank">いよいよ来週！こころごすぺる、<br>出演者、スタッフの直前ドタバタ一週間 </a></p>
@@ -55,9 +63,41 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://astone.tv/events/1904live/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
+    <p class="block-date">日程：2019年4月27日</p>
+    <p class="block-title"><a href="http://astone.tv/events/1904live/" target="_blank"> 道の駅ランキング1位のららん藤岡でゴスペルライブ<br>Gifts、Tree of Life他 ゴスペルグループ出演 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gospel2017/190427/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+    <p class="block-date">日程：2019年4月27日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190427/" target="_blank">4月 ゴスペルの集いの1日 </a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年4月27日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継');">ゴスペルの集い生中継<br>(日程：2019年4月27日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/gw1904z/" target="_blank"><img src="/2016/images/top/1704goldenweedmaezenkoku.jpg"></a>
     <p class="block-date">日程：4月22日～28日</p>
     <p class="block-title"><a href="http://astone.tv/events/gw1904z/" target="_blank">ゴールデンウイーク直前 <br> TLEA全国各教会メンバーワクワクの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190427/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
+    <p class="block-date">日程：2019年4月27日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190427/" target="_blank">エルサレム<br>岩槻西グループホームでコンサート </a></p>
 </div>
 
 <div class="column-inner">
@@ -264,12 +304,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190420/" target="_blank">4月 リバイバルナイトの1日 </a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190420/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
     <p class="block-date">日程：2019年4月13日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190420/" target="_blank">エルサレム<br>岩槻デイサービスでコンサート </a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
