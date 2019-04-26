@@ -61,14 +61,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/gw1904z/" target="_blank"><img src="/2016/images/top/1704goldenweedmaezenkoku.jpg"></a>
-    <p class="block-date">日程：4月22日～28日</p>
-    <p class="block-title"><a href="http://astone.tv/events/gw1904z/" target="_blank">ゴールデンウイーク直前 <br> TLEA全国各教会メンバーワクワクの一週間</a></p>
-</div>
-
-<div class="column-inner">
     <span>NEW</span>
     <a href="http://www.gospelconcert.jp" target="_blank"><img src="/2016/images/top/1904kokorogospelinfo.jpg"></a>
 	<p class="block-date">日程：2019年4月29日</p>	
@@ -81,6 +73,14 @@
     <a href="http://tv.antioch.jp/digest/201904kokorogoslpelcm" target="_blank"><img src="/2016/images/top/1904kokorogospelcm.jpg"></a>
     <p class="block-date">日程：2019年4月29日</p>	
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201904kokorogoslpelcm" target="_blank">こころごすぺる<br>紹介映像</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/gw1904z/" target="_blank"><img src="/2016/images/top/1704goldenweedmaezenkoku.jpg"></a>
+    <p class="block-date">日程：4月22日～28日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gw1904z/" target="_blank">ゴールデンウイーク直前 <br> TLEA全国各教会メンバーワクワクの一週間</a></p>
 </div>
 
 <div class="column-inner">
