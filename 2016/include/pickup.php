@@ -33,7 +33,7 @@
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1904kiseki_mayuna.jpg"></a>
-<p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年4月19日UP!)</a></p>
+    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年4月19日UP!)</a></p>
 </div>
 
 <div class="column-inner">
@@ -63,30 +63,30 @@
 <div class="column-inner">
     <span>NEW</span>
     <a href="http://www.gospelconcert.jp" target="_blank"><img src="/2016/images/top/1904kokorogospelinfo.jpg"></a>
-	<p class="block-date">日程：2019年4月29日</p>	
+    <p class="block-date">日程：2019年4月29日</p>
     <p class="block-title"><a href="http://www.gospelconcert.jp" target="_blank">こころごすぺる<br>2019年4月29日 19:00開演 18:30開場</a></p>
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>	
+    <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/201904kokorogoslpelcm" target="_blank"><img src="/2016/images/top/1904kokorogospelcm.jpg"></a>
-    <p class="block-date">日程：2019年4月29日</p>	
+    <p class="block-date">日程：2019年4月29日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201904kokorogoslpelcm" target="_blank">こころごすぺる<br>紹介映像</a></p>
 </div>
 
 <div class="column-inner">
     <span>NEW</span>
     <a href="https://tokyo.antioch.jp/hakuba/" target="_blank"><img src="/2016/images/top/1904hakubacamp.jpg"></a>
-	<p class="block-date">キャンプ：2019年7月23日〜26日</p>	
+    <p class="block-date">キャンプ：2019年7月23日〜26日</p>
     <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba/" target="_blank">白馬キャンプ<br>WEBサイトはこちらから</a></p>
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>	
+    <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/201904-hakubacm/" target="_blank"><img src="/2016/images/top/1904hakub_cm_m.jpg"></a>
-	<p class="block-date">キャンプ：2019年7月23日〜26日</p>	
+    <p class="block-date">キャンプ：2019年7月23日〜26日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201904-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像</a></p>
 </div>
 
@@ -101,7 +101,7 @@
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/1902hcffnyuusyou_m.jpg"></a>
-	<p class="block-date">開催日：2019年2月28日</p>	
+    <p class="block-date">開催日：2019年2月28日</p>
     <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>入賞作品1位〜7位まで発表！</a></p>
 </div>
 
@@ -265,14 +265,14 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span> 
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190420/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
     <p class="block-date">日程：2019年4月13日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190420/" target="_blank">エルサレム<br>岩槻デイサービスでコンサート </a></p>
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>       
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/gracejewel2017/190420/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
     <p class="block-date">日程：2019年4月20日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190420/" target="_blank">GRACEと宝石<br>埼玉県志木市の特別養護老人ホームでゴスペルコンサート</a></p>
