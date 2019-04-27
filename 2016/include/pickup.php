@@ -115,13 +115,6 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="https://www.youtube.com/watch?v=j7GhDtbTQjw" target="_blank"><img src="/2016/images/top/1902giftspv_m.jpg"></a>
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=j7GhDtbTQjw" target="_blank">Gifts<br>ミュージックビデオ<br>「God's Love to the World」</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
     <a href="https://www.youtube.com/watch?v=jErUoZf3k7o" target="_blank"><img src="/2016/images/top/1902younginfo_m.jpg"></a>
     <p class="block-title"><a href="https://www.youtube.com/watch?v=jErUoZf3k7o" target="_blank">ヤング礼拝学生会紹介映像<br>「TLEAニュース」</a></p>
 </div>
@@ -131,13 +124,6 @@
     <span>NEW</span>
     <a href="https://www.youtube.com/watch?v=vRMcK4MMFKc" target="_blank"><img src="/2016/images/top/1902ohhappydayinfo_m.jpg"></a>
     <p class="block-title"><a href="https://www.youtube.com/watch?v=vRMcK4MMFKc" target="_blank">OH HAPPY DAY（CS・中高生会）紹介映像</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="https://www.youtube.com/watch?v=GzrusQOkx48" target="_blank"><img src="/2016/images/top/1902immanuelpv_m.jpg"></a>
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=GzrusQOkx48" target="_blank">Immanuel<br>ミュージックビデオ<br>「一粒の麦」</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -311,6 +297,18 @@
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank"><img src="/2016/images/top/1903merlin_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank">感謝と賛美<br>マーリン・キャロザーズ師<br>映像<br>(視聴時間 10:35)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="https://www.youtube.com/watch?v=j7GhDtbTQjw" target="_blank"><img src="/2016/images/top/1902giftspv_m.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=j7GhDtbTQjw" target="_blank">Gifts<br>ミュージックビデオ<br>「God's Love to the World」</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="https://www.youtube.com/watch?v=GzrusQOkx48" target="_blank"><img src="/2016/images/top/1902immanuelpv_m.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=GzrusQOkx48" target="_blank">Immanuel<br>ミュージックビデオ<br>「一粒の麦」</a></p>
 </div>
 
 <!--<div class="column-inner">
