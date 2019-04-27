@@ -52,21 +52,6 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/gw1904/" target="_blank">ゴールデンウイーク直前 <br>東京アンテオケ教会メンバーウキウキの一週間 </a></p>
 </div>
 
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年4月27日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継');">ゴスペルの集い生中継<br>(日程：2019年4月27日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/gw1904z/" target="_blank"><img src="/2016/images/top/1704goldenweedmaezenkoku.jpg"></a>
-    <p class="block-date">日程：4月22日～28日</p>
-    <p class="block-title"><a href="http://astone.tv/events/gw1904z/" target="_blank">ゴールデンウイーク直前 <br> TLEA全国各教会メンバーワクワクの一週間</a></p>
-</div>
 
 <div class="column-inner">
     <span>NEW</span>
@@ -104,13 +89,6 @@
     <a href="http://tv.antioch.jp/digest/201904-hakubacm/" target="_blank"><img src="/2016/images/top/1904hakub_cm_m.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201904-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank"><img src="/2016/images/top/1903merlin_m.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank">感謝と賛美<br>マーリン・キャロザーズ師<br>映像<br>(視聴時間 10:35)</a></p>
 </div>
 
 <div class="column-inner">
@@ -320,6 +298,12 @@
     <a href="http://antiochblog.jp/praise/gracejewel2017/190420/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
     <p class="block-date">日程：2019年4月20日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190420/" target="_blank">GRACEと宝石<br>埼玉県志木市の特別養護老人ホームでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank"><img src="/2016/images/top/1903merlin_m.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201803-merline/" target="_blank">感謝と賛美<br>マーリン・キャロザーズ師<br>映像<br>(視聴時間 10:35)</a></p>
 </div>
 
 <!--<div class="column-inner">
