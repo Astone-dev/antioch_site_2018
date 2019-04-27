@@ -52,7 +52,6 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/gw1904/" target="_blank">ゴールデンウイーク直前 <br>東京アンテオケ教会メンバーウキウキの一週間 </a></p>
 </div>
 
-<<<<<<< HEAD
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
@@ -60,8 +59,6 @@
     <p class="block-date">日程：4月22日～28日</p>
     <p class="block-title"><a href="http://astone.tv/events/gw1904z/" target="_blank">ゴールデンウイーク直前 <br> TLEA全国各教会メンバーワクワクの一週間</a></p>
 </div>
-=======
->>>>>>> 80d64bdba07e073bab3f21566e642f08ba1c6050
 
 <div class="column-inner">
     <span>NEW</span>
