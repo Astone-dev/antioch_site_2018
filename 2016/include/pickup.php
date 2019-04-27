@@ -61,8 +61,7 @@
 </div>
 
 <div class="column-inner">
-<<<<<<< HEAD
-=======
+
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/1904live/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
@@ -103,7 +102,6 @@
 </div>
 
 <div class="column-inner">
->>>>>>> 6ef905d8e7e1ebf9a8c00cae05758ee9763acaeb
     <span>NEW</span>
     <a href="http://www.gospelconcert.jp" target="_blank"><img src="/2016/images/top/1904kokorogospelinfo.jpg"></a>
     <p class="block-date">日程：2019年4月29日</p>
