@@ -41,10 +41,10 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/gospel1904/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
     <p class="block-date">日程：2019年4月22日～29日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel1904/" target="_blank">いよいよ来週！こころごすぺる、<br>出演者、スタッフの直前ドタバタ一週間 </a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel1904/" target="_blank">いよいよ明日！こころごすぺる、<br>出演者、スタッフの直前ドタバタ一週間 </a></p>
 </div>
 
-<!--<div class="column-inner">
+<!-- <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/gw1905/" target="_blank"><img src="/2016/images/top/1805gwantioch.jpg"></a>
