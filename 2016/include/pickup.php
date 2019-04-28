@@ -44,6 +44,22 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/gospel1904/" target="_blank">いよいよ来週！こころごすぺる、<br>出演者、スタッフの直前ドタバタ一週間 </a></p>
 </div>
 
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gw1905/" target="_blank"><img src="/2016/images/top/1805gwantioch.jpg"></a>
+    <p class="block-date">日程：2019年4月29日～5月5日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gw1905/" target="_blank">東京アンテオケ教会メンバー <br>の大型ゴールデンウイーク一週間 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/gw1905z/" target="_blank"><img src="/2016/images/top/1805gwzenkoku.jpg"></a>
+    <p class="block-date">日程：2019年4月29日～5月5日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gw1905z/" target="_blank">TLEA全国各教会メンバー<br>の大型ゴールデンウイーク一週間 </a></p>
+</div>-->
+
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
