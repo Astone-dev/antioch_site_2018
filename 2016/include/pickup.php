@@ -44,12 +44,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/gospel1904/" target="_blank">いよいよ明日！こころごすぺる、<br>出演者、スタッフの直前ドタバタ一週間 </a></p>
 </div>
 
-<!-- <div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/gw1905/" target="_blank"><img src="/2016/images/top/1805gwantioch.jpg"></a>
     <p class="block-date">日程：2019年4月29日～5月5日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gw1905/" target="_blank">東京アンテオケ教会メンバー <br>の大型ゴールデンウイーク一週間 </a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gw1905/" target="_blank">東京アンテオケ教会メンバー <br>大型ゴールデンウイーク一週間 </a></p>
 </div>
 
 <div class="column-inner">
@@ -57,31 +57,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/gw1905z/" target="_blank"><img src="/2016/images/top/1805gwzenkoku.jpg"></a>
     <p class="block-date">日程：2019年4月29日～5月5日</p>
-    <p class="block-title"><a href="http://astone.tv/events/gw1905z/" target="_blank">TLEA全国各教会メンバー<br>の大型ゴールデンウイーク一週間 </a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gw1904/" target="_blank"><img src="/2016/images/top/1704goldenweedmaeantioch.jpg"></a>
-    <p class="block-date">日程：2019年4月22日～28日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gw1904/" target="_blank">ゴールデンウイーク直前 <br>東京アンテオケ教会メンバーウキウキの一週間 </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/2017students/20190428/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
-    <p class="block-date">日程：2019年4月28日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/20190428/" target="_blank">4月の学生会</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/gw1904z/" target="_blank"><img src="/2016/images/top/1704goldenweedmaezenkoku.jpg"></a>
-    <p class="block-date">日程：4月22日～28日</p>
-    <p class="block-title"><a href="http://astone.tv/events/gw1904z/" target="_blank">ゴールデンウイーク直前 <br> TLEA全国各教会メンバーワクワクの一週間</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/gw1905z/" target="_blank">TLEA全国各教会メンバー<br>大型ゴールデンウイーク一週間 </a></p>
 </div>
 
 <div class="column-inner">
@@ -97,14 +73,6 @@
     <a href="http://tv.antioch.jp/digest/201904kokorogoslpelcm" target="_blank"><img src="/2016/images/top/1904kokorogospelcm.jpg"></a>
     <p class="block-date">日程：2019年4月29日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201904kokorogoslpelcm" target="_blank">こころごすぺる<br>紹介映像</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/gw1904z/" target="_blank"><img src="/2016/images/top/1704goldenweedmaezenkoku.jpg"></a>
-    <p class="block-date">日程：4月22日～28日</p>
-    <p class="block-title"><a href="http://astone.tv/events/gw1904z/" target="_blank">ゴールデンウイーク直前 <br> TLEA全国各教会メンバーワクワクの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -210,6 +178,27 @@
     <a href="http://atv.antioch.jp/kazenohibiki" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
     <p class="block-date">毎日19:00更新</p>
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gw1904/" target="_blank"><img src="/2016/images/top/1704goldenweedmaeantioch.jpg"></a>
+    <p class="block-date">日程：2019年4月22日～28日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gw1904/" target="_blank">ゴールデンウイーク直前 <br>東京アンテオケ教会メンバーウキウキの一週間 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/2017students/20190428/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
+    <p class="block-date">日程：2019年4月28日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/20190428/" target="_blank">4月の学生会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/gw1904z/" target="_blank"><img src="/2016/images/top/1704goldenweedmaezenkoku.jpg"></a>
+    <p class="block-date">日程：4月22日～28日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gw1904z/" target="_blank">ゴールデンウイーク直前<br>TLEA全国各教会メンバーワクワクの一週間</a></p>
 </div>
 
 <div class="column-inner">
