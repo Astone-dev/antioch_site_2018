@@ -55,6 +55,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/2017students/20190428/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
+    <p class="block-date">日程：2019年4月28日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/20190428/" target="_blank">4月の学生会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/gw1904z/" target="_blank"><img src="/2016/images/top/1704goldenweedmaezenkoku.jpg"></a>
     <p class="block-date">日程：4月22日～28日</p>
     <p class="block-title"><a href="http://astone.tv/events/gw1904z/" target="_blank">ゴールデンウイーク直前 <br> TLEA全国各教会メンバーワクワクの一週間</a></p>
