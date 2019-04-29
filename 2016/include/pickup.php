@@ -39,14 +39,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/gospel1904/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
-    <p class="block-date">日程：2019年4月22日～29日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel1904/" target="_blank">いよいよ今日当日！こころごすぺる<br>出演者、スタッフ大忙し<br>(19:00スタート)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/gw1905/" target="_blank"><img src="/2016/images/top/1805gwantioch.jpg"></a>
     <p class="block-date">日程：2019年4月29日～5月5日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/gw1905/" target="_blank">東京アンテオケ教会メンバー <br>大型ゴールデンウイーク一週間 </a></p>
@@ -55,24 +47,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jfes1905/" target="_blank"><img src="/2016/images/top/1805kichijyojifes.jpg"></a>
+    <p class="block-date">日程：2019年4月30日～5月4日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1905/" target="_blank">吉祥寺J.GOSPEL FESに向かって <br>出演グループとThe Visionスタッフの一週間 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/gw1905z/" target="_blank"><img src="/2016/images/top/1805gwzenkoku.jpg"></a>
     <p class="block-date">日程：2019年4月29日～5月5日</p>
     <p class="block-title"><a href="http://astone.tv/events/gw1905z/" target="_blank">TLEA全国各教会メンバー<br>大型ゴールデンウイーク一週間 </a></p>
-</div>
-
-<div class="column-inner">
-    <span>NEW</span>
-    <a href="http://www.gospelconcert.jp" target="_blank"><img src="/2016/images/top/1904kokorogospelinfo.jpg"></a>
-    <p class="block-date">日程：2019年4月29日</p>
-    <p class="block-title"><a href="http://www.gospelconcert.jp" target="_blank">こころごすぺる<br>2019年4月29日 19:00開演 18:30開場</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://tv.antioch.jp/digest/201904kokorogoslpelcm" target="_blank"><img src="/2016/images/top/1904kokorogospelcm.jpg"></a>
-    <p class="block-date">日程：2019年4月29日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201904kokorogoslpelcm" target="_blank">こころごすぺる<br>紹介映像</a></p>
 </div>
 
 <div class="column-inner">
@@ -178,6 +163,13 @@
     <a href="http://atv.antioch.jp/kazenohibiki" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
     <p class="block-date">毎日19:00更新</p>
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/gospel1904/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
+    <p class="block-date">日程：2019年4月22日～29日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel1904/" target="_blank">いよいよ今日当日！こころごすぺる<br>出演者、スタッフ大忙し<br>(19:00スタート)</a></p>
 </div>
 
 <div class="column-inner">
