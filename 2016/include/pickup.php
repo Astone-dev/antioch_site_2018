@@ -56,7 +56,7 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/gifts/190501/" target="_blank"><img src="/2016/images/top/1705giftskashiwa.jpg"></a>
-    <p class="block-date">日程：2019年4月21日</p>
+    <p class="block-date">日程：2019年5月1日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190501/" target="_blank">Gifts<br>柏のチャリティーコンサートで歌う </a></p>
 </div>
 
