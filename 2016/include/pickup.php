@@ -55,6 +55,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/gifts/190501/" target="_blank"><img src="/2016/images/top/1705giftskashiwa.jpg"></a>
+    <p class="block-date">日程：2019年4月21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190501/" target="_blank">Gifts<br>柏のチャリティーコンサートで歌う </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/gw1905z/" target="_blank"><img src="/2016/images/top/1805gwzenkoku.jpg"></a>
     <p class="block-date">日程：2019年4月29日～5月5日</p>
     <p class="block-title"><a href="http://astone.tv/events/gw1905z/" target="_blank">TLEA全国各教会メンバー<br>大型ゴールデンウイーク一週間 </a></p>
@@ -249,12 +257,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/light1904/" target="_blank">緑の風爽やかに<br>東京アンテオケ教会メンバーの一週間 </a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/gifts/190421/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
     <p class="block-date">日程：2019年4月21日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190421/" target="_blank">Gifts漫遊記　<br>都内の施設でゴスペルコンサート </a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
