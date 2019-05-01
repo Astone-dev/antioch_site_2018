@@ -36,6 +36,14 @@
     <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年4月19日UP!)</a></p>
 </div>
 
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/1905meetings/" target="_blank"><img src="/2016/images/top/1605kashiwamachida.jpg"></a>
+    <p class="block-date">日程：2019年5月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1905meetings/" target="_blank">大型連休真っ只中の柏を行く<br>関東宣教の旅 </a></p>
+</div>-->
+
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
@@ -55,18 +63,18 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gifts/190501/" target="_blank"><img src="/2016/images/top/1705giftskashiwa.jpg"></a>
-    <p class="block-date">日程：2019年5月1日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190501/" target="_blank">Gifts<br>柏のチャリティーコンサートで歌う </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://astone.tv/events/gw1905z/" target="_blank"><img src="/2016/images/top/1805gwzenkoku.jpg"></a>
     <p class="block-date">日程：2019年4月29日～5月5日</p>
     <p class="block-title"><a href="http://astone.tv/events/gw1905z/" target="_blank">TLEA全国各教会メンバー<br>大型ゴールデンウイーク一週間 </a></p>
 </div>
+
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/gracious/190503/" target="_blank"><img src="/2016/images/top/1605graciousborantia.jpg"></a>
+    <p class="block-date">日程：2019年5月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190503/" target="_blank">GRACIOUS DOORS <br>都内のデイサービスで、ボランティア・コンサート </a></p>
+</div>-->
 
 <div class="column-inner">
     <span>NEW</span>
@@ -171,6 +179,13 @@
     <a href="http://atv.antioch.jp/kazenohibiki" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
     <p class="block-date">毎日19:00更新</p>
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gifts/190501/" target="_blank"><img src="/2016/images/top/1705giftskashiwa.jpg"></a>
+    <p class="block-date">日程：2019年5月1日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190501/" target="_blank">Gifts<br>柏のチャリティーコンサートで歌う </a></p>
 </div>
 
 <div class="column-inner">
