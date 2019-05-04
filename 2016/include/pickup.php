@@ -39,6 +39,22 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://astone.tv/events/1905machida/" target="_blank"><img src="/2016/images/top/1701machida.jpg"></a>
+    <p class="block-date">日程：2019年5月4日</p>
+    <p class="block-title"><a href="http://astone.tv/events/1905machida/" target="_blank">青葉の季節の町田を行く<br>関東宣教の旅 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/tocari1905/" target="_blank"><img src="/2016/images/top/1703tokyocharisma.jpg"></a>
+    <p class="block-date">日程：2019年5月4日～5月5日</p>
+    <p class="block-title"><a href="http://astone.tv/events/tocari1905/" target="_blank">風薫る<br>5月の東京カリスマ聖会スタッフ大忙し </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/gw1905/" target="_blank"><img src="/2016/images/top/1805gwantioch.jpg"></a>
     <p class="block-date">日程：2019年4月29日～5月5日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/gw1905/" target="_blank">東京アンテオケ教会メンバー <br>大型ゴールデンウイーク一週間 </a></p>
@@ -50,14 +66,6 @@
     <a href="http://antiochblog.jp/info/jfes1905/" target="_blank"><img src="/2016/images/top/1805kichijyojifes.jpg"></a>
     <p class="block-date">日程：2019年4月30日～5月4日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jfes1905/" target="_blank">いよいよ今日！<br>吉祥寺J.GOSPEL FES<br>出演グループとThe Visionスタッフの一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gifts/190501/" target="_blank"><img src="/2016/images/top/1705giftskashiwa.jpg"></a>
-    <p class="block-date">日程：2019年5月1日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190501/" target="_blank">Gifts<br>柏のチャリティーコンサートで歌う </a></p>
 </div>
 
 <div class="column-inner">
@@ -175,6 +183,28 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/1905meetings/" target="_blank"><img src="/2016/images/top/1605kashiwamachida.jpg"></a>
+    <p class="block-date">日程：2019年5月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1905meetings/" target="_blank">大型連休真っ只中の柏を行く<br>関東宣教の旅 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gracious/190503/" target="_blank"><img src="/2016/images/top/1605graciousborantia.jpg"></a>
+    <p class="block-date">日程：2019年5月3日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190503/" target="_blank">GRACIOUS DOORS <br>都内のデイサービスで、ボランティア・コンサート </a></p>
+</div>
+
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gifts/190501/" target="_blank"><img src="/2016/images/top/1705giftskashiwa.jpg"></a>
+    <p class="block-date">日程：2019年5月1日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190501/" target="_blank">Gifts<br>柏のチャリティーコンサートで歌う </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/gospel1904/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
     <p class="block-date">日程：2019年4月22日～29日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/gospel1904/" target="_blank">いよいよ今日当日！こころごすぺる<br>出演者、スタッフ大忙し<br>(19:00スタート)</a></p>
@@ -234,76 +264,6 @@
     <a href="http://antiochblog.jp/praise/chubu1904/" target="_blank"><img src="/2016/images/top/1608chubuseikai.jpg"></a>
     <p class="block-date">日程：2019年4月21日～24日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/chubu1904/" target="_blank">風軽やかな季節の中部聖会　<br>中部宣教の旅 </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/concert1904/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
-    <p class="block-date">日程：2019年4月24日 </p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/concert1904/" target="_blank">Immanuel、Beracha、CROIX、 <br>杉並区の特別養護老人施設でコンサート </a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/gifts/190420/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
-    <p class="block-date">日程：2019年4月20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190420/" target="_blank">Gifts漫遊記　<br>春の信州上田を行く </a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/light1904/" target="_blank"><img src="/2016/images/top/1704shingakiantioch.jpg"></a>
-    <p class="block-date">日程：2019年4月15日～21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/light1904/" target="_blank">緑の風爽やかに<br>東京アンテオケ教会メンバーの一週間 </a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/gifts/190421/" target="_blank"><img src="/2016/images/top/1703giftsshaonkai.jpg"></a>
-    <p class="block-date">日程：2019年4月21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190421/" target="_blank">Gifts漫遊記　<br>都内の施設でゴスペルコンサート </a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/2018women/190421/" target="_blank"><img src="/2016/images/top/1609fujinkai.jpg"></a>
-    <p class="block-date">日程：2019年4月21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190421/" target="_blank">婦人会 牛丼を食べる </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/light1904z/" target="_blank"><img src="/2016/images/top/1704shingakkizenkoku.jpg"></a>
-    <p class="block-date">日程：4月15日～21日</p>
-    <p class="block-title"><a href="http://astone.tv/events/light1904z/" target="_blank">緑の風爽やかに<br> TLEA全国各教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017byhisspirit/190421/" target="_blank"><img src="/2016/images/top/1609byhissetagaya.jpg"></a>
-    <p class="block-date">日程：2019年4月21日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190421/" target="_blank">By His spirit 　<br>世田谷の高齢者施設でゴスペルコンサート </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/revival2017/190420/" target="_blank"><img src="/2016/images/top/1703revivalnight.jpg"></a>
-    <p class="block-date">日程：2019年4月20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190420/" target="_blank">4月 リバイバルナイトの1日 </a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190420/" target="_blank"><img src="/2016/images/top/1606jeruhakone.jpg"></a>
-    <p class="block-date">日程：2019年4月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190420/" target="_blank">エルサレム<br>岩槻デイサービスでコンサート </a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/gracejewel2017/190420/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
-    <p class="block-date">日程：2019年4月20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190420/" target="_blank">GRACEと宝石<br>埼玉県志木市の特別養護老人ホームでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
