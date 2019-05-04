@@ -49,7 +49,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/jfes1905/" target="_blank"><img src="/2016/images/top/1805kichijyojifes.jpg"></a>
     <p class="block-date">日程：2019年4月30日～5月4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1905/" target="_blank">吉祥寺J.GOSPEL FESに向かって <br>出演グループとThe Visionスタッフの一週間 </a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jfes1905/" target="_blank">いよいよ今日！<br>吉祥寺J.GOSPEL FES<br>出演グループとThe Visionスタッフの一日</a></p>
 </div>
 
 <div class="column-inner">
