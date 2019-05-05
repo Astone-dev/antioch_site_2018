@@ -39,9 +39,25 @@
 <!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/yokosuka1905/" target="_blank"><img src="/2016/images/top/1701machida.jpg"></a>
+    <a href="http://antiochblog.jp/praise/yokosuka1905/" target="_blank"><img src="/2016/images/top/1801yokosuka.jpg"></a>
     <p class="block-date">日程：2019年5月6日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/yokosuka1905/" target="_blank">5月の明るい光の中横須賀を行く<br>関東宣教の旅 </a></p>
+</div>-->
+
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/thanks1905/" target="_blank"><img src="/2016/images/top/1807hakubaanntioch.jpg"></a>
+    <p class="block-date">日程：2019年5月6日～5月12日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/thanks1905/" target="_blank">白馬キャンプ申し込みスタート <br>東京アンテオケ教会メンバーワクワクのー週間 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/thanks1905z/" target="_blank"><img src="/2016/images/top/1807hakubazenkoku.jpg"></a>
+    <p class="block-date">日程：2019年5月6日～5月12日</p>
+    <p class="block-title"><a href="http://astone.tv/events/thanks1905z/" target="_blank">白馬キャンプ申し込みスタート <br>TLEA全国各教会メンバーときめきのー週間</a></p>
 </div>-->
 
 <div class="column-inner">
