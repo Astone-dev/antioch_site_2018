@@ -41,7 +41,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/shikoku1905/" target="_blank"><img src="/2016/images/top/1703shikoku.jpg"></a>
     <p class="block-date">日程：2019年5月7日～5月8日</p>
-    <p class="block-title"><a href="http://astone.tv/events/shikoku1905/" target="_blank">輝く光の中を 四国を行く <br>四国宣教の旅 </a></p>
+    <p class="block-title"><a href="http://astone.tv/events/shikoku1905/" target="_blank">輝く光の中を 四国を行く<br>四国宣教の旅 </a></p>
 </div>
 
 <div class="column-inner">
