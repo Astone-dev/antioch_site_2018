@@ -61,6 +61,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="http://tv.antioch.jp/digest/201904-kokorogospel/" target="_blank"><img src="/2016/images/top/1904hakub_cm_m.jpg"></a>
+    <p class="block-date">開催日：2019年4月29日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201904-kokorogospel/" target="_blank">こころごすぺる<br>ダイジェスト映像</a></p>
+</div>
+
+<div class="column-inner">
     <span>NEW</span>
     <a href="https://tokyo.antioch.jp/hakuba/" target="_blank"><img src="/2016/images/top/1904hakubacamp.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
@@ -70,9 +78,9 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="http://tv.antioch.jp/digest/201904-hakubacm/" target="_blank"><img src="/2016/images/top/1904hakub_cm_m.jpg"></a>
+    <a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank"><img src="/2016/images/top/1904hakub_cm_m.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201904-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像</a></p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像 Part2</a></p>
 </div>
 
 <div class="column-inner">
