@@ -56,8 +56,8 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/2017healing/190511/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
-    <p class="block-date">日程：2019年5月11日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/190511/" target="_blank">4月のいやしの集いの一日 </a></p>
+    <p class="block-date">日程：2019年5月11日 </p>
+    <p class="block-title"><a href="http://astone.tv/events/2017healing/190511/" target="_blank">5月のいやしの集いの一日 </a></p>
 </div>
 
 <div class="column-inner">
