@@ -61,6 +61,14 @@
 </div>
 
 <div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年5月11日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継');">いやしの集い生中継<br>(日程：2019年5月11日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/thanks1905z/" target="_blank"><img src="/2016/images/top/1807hakubazenkoku.jpg"></a>
