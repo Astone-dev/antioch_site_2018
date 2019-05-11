@@ -39,9 +39,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/1905meeting/" target="_blank"><img src="/2016/images/top/1808higashitokyoseikai.jpg"></a>
-    <p class="block-date">日程：2019年5月11日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1905meeting/" target="_blank">初夏の訪れを感じながら <br>東東京聖会 </a></p>
+    <a href="http://astone.tv/events/tohoku1905/" target="_blank"><img src="/2016/images/top/1608tohokuseikai.jpg"></a>
+    <p class="block-date">日程：2019年5月12日～5月15日</p>
+    <p class="block-title"><a href="http://astone.tv/events/tohoku1905/" target="_blank">緑の風の中 東北を行く <br>東北宣教の旅 </a></p>
 </div>
 
 <div class="column-inner">
@@ -50,30 +50,6 @@
     <a href="http://antiochblog.jp/info/thanks1905/" target="_blank"><img src="/2016/images/top/1807hakubaanntioch.jpg"></a>
     <p class="block-date">日程：2019年5月6日～5月12日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/thanks1905/" target="_blank">白馬キャンプ申し込みスタート <br>東京アンテオケ教会メンバーワクワクのー週間 </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/2017healing/190511/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
-    <p class="block-date">日程：2019年5月11日 </p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/190511/" target="_blank">5月のいやしの集いの一日 </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/20190511/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
-    <p class="block-date">日程：2019年5月11日 </p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20190511/" target="_blank">エルサレム<br>岩槻西のグルーブホームでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年5月11日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継');">いやしの集い生中継<br>(日程：2019年5月11日 18:30スタート)</a></p>
 </div>
 
 <div class="column-inner">
@@ -195,6 +171,27 @@
     <a href="http://atv.antioch.jp/kazenohibiki" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
     <p class="block-date">毎日19:00更新</p>
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/1905meeting/" target="_blank"><img src="/2016/images/top/1808higashitokyoseikai.jpg"></a>
+    <p class="block-date">日程：2019年5月11日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1905meeting/" target="_blank">初夏の訪れを感じながら <br>東東京聖会 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/2017healing/190511/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
+    <p class="block-date">日程：2019年5月11日 </p>
+    <p class="block-title"><a href="http://astone.tv/events/2017healing/190511/" target="_blank">5月のいやしの集いの一日 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/20190511/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
+    <p class="block-date">日程：2019年5月11日 </p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/20190511/" target="_blank">エルサレム<br>岩槻西のグルーブホームでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
