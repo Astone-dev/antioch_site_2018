@@ -44,9 +44,9 @@
     <p class="block-title"><a href="http://astone.tv/events/tohoku1905/" target="_blank">緑の風の中 東北を行く <br>東北宣教の旅 </a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
-    <span>NEW</span>
+    <span>NEW</span>	
     <a href="http://antiochblog.jp/praise/earlysummer1905/" target="_blank"><img src="/2016/images/top/1705eigaantioch.jpg"></a>
     <p class="block-date">日程：2019年5月13日～5月19日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/earlysummer1905/" target="_blank">風薫る季節<br>東京アンテオケ教会メンバーのワクワクー週間 </a></p>
@@ -74,38 +74,6 @@
     <a href="http://astone.tv/events/earlysummer1905z/" target="_blank"><img src="/2016/images/top/1705eigazenkoku.jpg"></a>
     <p class="block-date">日程：2019年5月13日～5月19日</p>
     <p class="block-title"><a href="http://astone.tv/events/earlysummer1905z/" target="_blank">風薫る季節<br>TLEA全国各教会メンバーのワクワクー週間</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/thanks1905/" target="_blank"><img src="/2016/images/top/1807hakubaanntioch.jpg"></a>
-    <p class="block-date">日程：2019年5月6日～5月12日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/thanks1905/" target="_blank">白馬キャンプ申し込みスタート <br>東京アンテオケ教会メンバーワクワクのー週間 </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/2018women/190512/" target="_blank"><img src="/2016/images/top/1804okechoir.jpg"></a>
-    <p class="block-date">日程：2019年5月12日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190512/" target="_blank">オーケストラと婦人会<br>コンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/thanks1905z/" target="_blank"><img src="/2016/images/top/1807hakubazenkoku.jpg"></a>
-    <p class="block-date">日程：2019年5月6日～5月12日</p>
-    <p class="block-title"><a href="http://astone.tv/events/thanks1905z/" target="_blank">白馬キャンプ申し込みスタート <br>TLEA全国各教会メンバーときめきのー週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://tv.antioch.jp/digest/201904-kokorogospel/" target="_blank"><img src="/2016/images/top/1905kokoro_digest_m.jpg"></a>
-    <p class="block-date">開催日：2019年4月29日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201904-kokorogospel/" target="_blank">こころごすぺる<br>ダイジェスト映像</a></p>
 </div>
 
 <div class="column-inner">
@@ -121,14 +89,6 @@
     <a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank"><img src="/2016/images/top/1905hakub_cm_m.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像 Part2</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/1902hcffnyuusyou_m.jpg"></a>
-    <p class="block-date">開催日：2019年2月28日</p>
-    <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>入賞作品1位〜7位まで発表！</a></p>
 </div>
 
 <div class="column-inner">
@@ -215,16 +175,52 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/thanks1905/" target="_blank"><img src="/2016/images/top/1807hakubaanntioch.jpg"></a>
+    <p class="block-date">日程：2019年5月6日～5月12日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/thanks1905/" target="_blank">白馬キャンプ申し込みスタート <br>東京アンテオケ教会メンバーワクワクのー週間 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/2018women/190512/" target="_blank"><img src="/2016/images/top/1804okechoir.jpg"></a>
+    <p class="block-date">日程：2019年5月12日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190512/" target="_blank">オーケストラと婦人会<br>コンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/thanks1905z/" target="_blank"><img src="/2016/images/top/1807hakubazenkoku.jpg"></a>
+    <p class="block-date">日程：2019年5月6日～5月12日</p>
+    <p class="block-title"><a href="http://astone.tv/events/thanks1905z/" target="_blank">白馬キャンプ申し込みスタート <br>TLEA全国各教会メンバーときめきのー週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://tv.antioch.jp/digest/201904-kokorogospel/" target="_blank"><img src="/2016/images/top/1905kokoro_digest_m.jpg"></a>
+    <p class="block-date">開催日：2019年4月29日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201904-kokorogospel/" target="_blank">こころごすぺる<br>ダイジェスト映像</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/1902hcffnyuusyou_m.jpg"></a>
+    <p class="block-date">開催日：2019年2月28日</p>
+    <p class="block-title"><a href="http://atv.antioch.jp/hcff2019/" target="_blank">第9回 白馬クリスチャンフィルムフェスティバル<br>入賞作品1位〜7位まで発表！</a></p>
+</div>
+
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/1905meeting/" target="_blank"><img src="/2016/images/top/1808higashitokyoseikai.jpg"></a>
     <p class="block-date">日程：2019年5月11日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1905meeting/" target="_blank">初夏の訪れを感じながら <br>東東京聖会 </a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1905meeting/" target="_blank">初夏の訪れを感じながら<br>東東京聖会</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://astone.tv/events/2017healing/190511/" target="_blank"><img src="/2016/images/top/1706iyashinotsudoi.jpg"></a>
     <p class="block-date">日程：2019年5月11日 </p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/190511/" target="_blank">5月のいやしの集いの一日 </a></p>
+    <p class="block-title"><a href="http://astone.tv/events/2017healing/190511/" target="_blank">5月のいやしの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
