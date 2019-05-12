@@ -30,13 +30,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1904kiseki_mayuna.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年4月19日UP!)</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/tohoku1905/" target="_blank"><img src="/2016/images/top/1608tohokuseikai.jpg"></a>
@@ -74,6 +67,13 @@
     <a href="http://astone.tv/events/earlysummer1905z/" target="_blank"><img src="/2016/images/top/1705eigazenkoku.jpg"></a>
     <p class="block-date">日程：2019年5月13日～5月19日</p>
     <p class="block-title"><a href="http://astone.tv/events/earlysummer1905z/" target="_blank">風薫る季節<br>TLEA全国各教会メンバーのワクワクー週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1904kiseki_mayuna.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年4月19日UP!)</a></p>
 </div>
 
 <div class="column-inner">
