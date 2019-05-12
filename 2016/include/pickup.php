@@ -49,7 +49,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/earlysummer1905/" target="_blank"><img src="/2016/images/top/1705eigaantioch.jpg"></a>
     <p class="block-date">日程：2019年5月13日～5月19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/earlysummer1905/" target="_blank">初夏の訪れを感じる季節<br>東京アンテオケ教会メンバーワクワクのー週間 </a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/earlysummer1905/" target="_blank">風薫る季節<br>東京アンテオケ教会メンバーのワクワクー週間 </a></p>
 </div>
 
 <div class="column-inner">
@@ -73,7 +73,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/earlysummer1905z/" target="_blank"><img src="/2016/images/top/1705eigazenkoku.jpg"></a>
     <p class="block-date">日程：2019年5月13日～5月19日</p>
-    <p class="block-title"><a href="http://astone.tv/events/earlysummer1905z/" target="_blank">初夏の訪れを感じる季節<br>TLEA全国各教会メンバーのワクワクー週間</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/earlysummer1905z/" target="_blank">風薫る季節<br>TLEA全国各教会メンバーのワクワクー週間</a></p>
 </div>-->
 
 <div class="column-inner">
