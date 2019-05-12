@@ -55,6 +55,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/2018women/190512/" target="_blank"><img src="/2016/images/top/1804okechoir.jpg"></a>
+    <p class="block-date">日程：2019年5月12日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190512/" target="_blank">オーケストラと婦人会<br>コンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/thanks1905z/" target="_blank"><img src="/2016/images/top/1807hakubazenkoku.jpg"></a>
     <p class="block-date">日程：2019年5月6日～5月12日</p>
     <p class="block-title"><a href="http://astone.tv/events/thanks1905z/" target="_blank">白馬キャンプ申し込みスタート <br>TLEA全国各教会メンバーときめきのー週間</a></p>
