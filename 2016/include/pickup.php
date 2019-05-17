@@ -66,7 +66,7 @@
     <span>NEW</span>	
     <a href="http://antiochblog.jp/info/revival2017/190518/" target="_blank"><img src="/2016/images/top/1704revivalnight.jpg"></a>
     <p class="block-date">日程：2019年5月18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190518/" target="_blank">5月 リバイバルナイトの一日</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190518/" target="_blank">若者たち集まれ<br>リバイバルナイトのワイワイな一日</a></p>
 </div>
 
 <div class="column-inner">
