@@ -32,6 +32,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>	
+    <a href="http://antiochblog.jp/info/1905toyofuji/" target="_blank"><img src="/2016/images/top/1708toyohashifuji.jpg"></a>
+    <p class="block-date">日程：2019年5月18日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1905toyofuji/" target="_blank">初夏の気持ちの良い季節<br>豊橋、富士聖会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>	
     <a href="http://antiochblog.jp/praise/earlysummer1905/" target="_blank"><img src="/2016/images/top/1705eigaantioch.jpg"></a>
     <p class="block-date">日程：2019年5月13日～5月19日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/earlysummer1905/" target="_blank">風薫る季節<br>東京アンテオケ教会メンバーのワクワクー週間 </a></p>
@@ -51,6 +59,30 @@
     <a href="http://antiochblog.jp/info/hibiki1905/" target="_blank"><img src="/2016/images/top/1704sakyokusyaantioch.jpg"></a>
     <p class="block-date">日程：2019年5月13日～5月19日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/hibiki1905/" target="_blank">風のひびき6集 <br>作詞・作曲賞受賞 喜びの一週間  </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>	
+    <a href="http://antiochblog.jp/info/revival2017/190518/" target="_blank"><img src="/2016/images/top/1704revivalnight.jpg"></a>
+    <p class="block-date">日程：2019年5月18日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190518/" target="_blank">5月 リバイバルナイトの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('リバイバルナイト生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年5月18日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('リバイバルナイト生中継');">リバイバルナイト生中継<br>(日程：2019年5月18日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>	
+    <a href="http://antiochblog.jp/praise/2017labeille/190518/" target="_blank"><img src="/2016/images/top/1705lageiyumusashiurawa.jpg"></a>
+    <p class="block-date">日程：2019年5月18日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190518/" target="_blank">ラベイユ <br>荒川区の福祉施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
