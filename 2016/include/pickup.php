@@ -37,6 +37,22 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/hokuriku1905/" target="_blank">5月の明るい光の中北陸を行く<br>北陸宣教の旅</a></p>
 </div>
 
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/faith1905/" target="_blank"><img src="/2016/images/top/1707summer.jpg"></a>
+    <p class="block-date">日程：2019年5月20日～5月26日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1905/" target="_blank">初夏の風が清々しい<br>東京アンテオケ教会メンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/faith1905z/" target="_blank"><img src="/2016/images/top/1707summerz.jpg"></a>
+    <p class="block-date">日程：2019年5月20日～5月26日</p>
+    <p class="block-title"><a href="http://astone.tv/events/faith1905z/" target="_blank">初夏の風が清々しい<br>TLEA全国各教会メンバーの一週間</a></p>
+</div>-->
+
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>	
