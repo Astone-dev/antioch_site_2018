@@ -60,7 +60,7 @@
             <ul class="header--nav--sub__ul">
               <li><a href="http://wfsmission.info/">聖所から流れ出る水ミッション</a></li>
               <li><a href="https://www.cornerstone.or.jp/">礎の石孤児院</a></li>
-              <li><a href="http://astone.tv/tlcsseminary/">TLEA 神学校</a></li>
+              <li><a href="https://tleaseminary.net/courses/">TLEA 神学校</a></li>
               <li><a href="http://arechinikawa.com/">荒地に川ミュージック</a></li>
               <li><a href="http://www.mikoe.co.jp/">み声新聞</a></li>
               <li><a href="https://www.kumoniji.co.jp/">雲の間にある虹出版</a></li>
