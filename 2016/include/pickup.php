@@ -48,6 +48,30 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gospel2017/190525/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+    <p class="block-date">日程：2019年5月25日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190525/" target="_blank">5月のゴスペルの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">20119年5月25日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継');">ゴスペルの集い生中継<br>(日程：2019年5月25日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190525/" target="_blank"><img src="/2016/images/top/1905jerusalem.jpg"></a>
+    <p class="block-date">日程：2019年5月25日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190525/" target="_blank">エルサレム<br>埼玉県岩槻市デイケアでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/faith1905z/" target="_blank"><img src="/2016/images/top/1707summerz.jpg"></a>
     <p class="block-date">日程：2019年5月20日～5月26日</p>
     <p class="block-title"><a href="http://astone.tv/events/faith1905z/" target="_blank">初夏の風が清々しい<br>TLEA全国各教会メンバーの一週間</a></p>
