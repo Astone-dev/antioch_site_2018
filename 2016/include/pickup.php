@@ -48,6 +48,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/1905truth/" target="_blank"><img src="/2016/images/top/1905truthyokosuka.jpg"></a>
+    <p class="block-date">日程：2019年5月26日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1905truth/" target="_blank"> Truth<br> 横須賀で歌う</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/2017byhisspirit/190526/" target="_blank"><img src="/2016/images/top/1704byhissetagaya.jpg"></a>
     <p class="block-date">日程：2019年5月26日</p>
     <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190526/" target="_blank"> By His spirit<br> 高円寺のフレンチレストランでゴスペルコンサート</a></p>
