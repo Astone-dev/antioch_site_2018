@@ -162,8 +162,7 @@
 
 <div class="column-inner">
     <span>NEW</span>
-    <a href="https://tokyo.antioch.jp/yorimichi/result-movie.html" target="_blank"><img src="/2016/images/top/1905yorimichi37kekka.jpg
-.jpg"></a>
+    <a href="https://tokyo.antioch.jp/yorimichi/result-movie.html" target="_blank"><img src="/2016/images/top/1905yorimichi37kekka.jpg"></a>
     <p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-movie.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.37<br>「今まででハッピーと思って笑顔になったこと」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>
 
