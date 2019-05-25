@@ -32,6 +32,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="https://blog.antioch.jp/hokkaido1905/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
+    <p class="block-date">日程：2019年5月26日～5月29日</p>
+    <p class="block-title"><a href="https://blog.antioch.jp/hokkaido1905/" target="_blank">風爽やかな 北海道を行く<br>北海道宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/faith1905/" target="_blank"><img src="/2016/images/top/1707summer.jpg"></a>
     <p class="block-date">日程：2019年5月20日～5月26日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1905/" target="_blank">初夏の風が清々しい<br>東京アンテオケ教会メンバーの一週間</a></p>
@@ -40,33 +48,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gifts/190524/" target="_blank"><img src="/2016/images/top/1905gifts.jpg"></a>
-    <p class="block-date">日程：2019年5月24日～25日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190524/" target="_blank">Gifts <br>箱根のホテルでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/gospel2017/190525/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
-    <p class="block-date">日程：2019年5月25日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190525/" target="_blank">5月のゴスペルの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">20119年5月25日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継');">ゴスペルの集い生中継<br>(日程：2019年5月25日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190525/" target="_blank"><img src="/2016/images/top/1905jerusalem.jpg"></a>
-    <p class="block-date">日程：2019年5月25日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190525/" target="_blank">エルサレム<br>埼玉県岩槻市デイケアでゴスペルコンサート</a></p>
+    <a href="http://astone.tv/events/2017byhisspirit/190526/" target="_blank"><img src="/2016/images/top/1704byhissetagaya.jpg"></a>
+    <p class="block-date">日程：2019年5月26日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190526/" target="_blank"> By His spirit<br> 高円寺のフレンチレストランでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -178,8 +162,9 @@
 
 <div class="column-inner">
     <span>NEW</span>
-    <a href="https://tokyo.antioch.jp/yorimichi/result-smilehappy.html" target="_blank"><img src="/2016/images/top/1903yorimichi36kekka.jpg"></a>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-smilehappy.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.36<br>「今まででハッピーと思って笑顔になったこと」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+    <a href="https://tokyo.antioch.jp/yorimichi/result-movie.html" target="_blank"><img src="/2016/images/top/1905yorimichi37kekka.jpg
+.jpg"></a>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-movie.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.37<br>「今まででハッピーと思って笑顔になったこと」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>
 
 <div class="column-inner">
@@ -187,6 +172,27 @@
     <a href="http://atv.antioch.jp/kazenohibiki" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
     <p class="block-date">毎日19:00更新</p>
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gifts/190524/" target="_blank"><img src="/2016/images/top/1905gifts.jpg"></a>
+    <p class="block-date">日程：2019年5月24日～25日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190524/" target="_blank">Gifts <br>箱根のホテルでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/gospel2017/190525/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+    <p class="block-date">日程：2019年5月25日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190525/" target="_blank">5月のゴスペルの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190525/" target="_blank"><img src="/2016/images/top/1905jerusalem.jpg"></a>
+    <p class="block-date">日程：2019年5月25日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190525/" target="_blank">エルサレム<br>埼玉県岩槻市デイケアでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
