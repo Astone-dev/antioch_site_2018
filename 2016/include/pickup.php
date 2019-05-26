@@ -66,7 +66,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/2017students/190526/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
     <p class="block-date">日程：2019年5月26日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/190526/" target="_blank">5月の学生会</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/190526/" target="_blank">5月学生会の一日 しゃぶしゃぶを食べる</a></p>
 </div>
 
 <div class="column-inner">
