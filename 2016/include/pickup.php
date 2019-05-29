@@ -76,6 +76,13 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="https://storage.googleapis.com/antioch_archives/movie/201905_kobayashi.mov" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
+    <p class="block-title"><a href="https://storage.googleapis.com/antioch_archives/movie/201905_kobayashi.mov" target="_blank">小林ハンナさん<br>テレビ出演映像</a></p>
+</div>
+
+<div class="column-inner">
     <span>NEW</span>
     <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
