@@ -32,14 +32,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="https://blog.antioch.jp/hokkaido1905/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
-    <p class="block-date">日程：2019年5月26日～5月29日</p>
-    <p class="block-title"><a href="https://blog.antioch.jp/hokkaido1905/" target="_blank">風爽やかな 北海道を行く<br>北海道宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/grace1905/" target="_blank"><img src="/2016/images/top/1606tsuyuantioch.jpg"></a>
     <p class="block-date">日程：2019年5月27日～6月2日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/grace1905/" target="_blank">初夏の香りに包まれて<br>東京アンテオケ教会メンバーほのぼの一週間</a></p>
@@ -162,13 +154,6 @@
 
 <div class="column-inner">
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/likemovie/" target="_blank"><img src="/2016/images/top/1903yorimichi37.jpg"></a>
-    <p class="block-date">毎日7:00更新</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/likemovie/" target="_blank">クリスチャンの寄り道 Vol.37<br>今回は「まるで映画のようだと思った出来事」のお話です</a></p>
-</div>
-
-<div class="column-inner">
-    <span>NEW</span>
     <a href="https://tokyo.antioch.jp/yorimichi/result-movie.html" target="_blank"><img src="/2016/images/top/1905yorimichi37kekka.jpg"></a>
     <p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-movie.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.37<br>「まるで映画のようだと思った出来事」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
 </div>
@@ -182,6 +167,13 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="https://blog.antioch.jp/hokkaido1905/" target="_blank"><img src="/2016/images/top/1705hokkaidou.jpg"></a>
+    <p class="block-date">日程：2019年5月26日～5月29日</p>
+    <p class="block-title"><a href="https://blog.antioch.jp/hokkaido1905/" target="_blank">風爽やかな 北海道を行く<br>北海道宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/faith1905/" target="_blank"><img src="/2016/images/top/1707summer.jpg"></a>
     <p class="block-date">日程：2019年5月20日～5月26日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1905/" target="_blank">初夏の風が清々しい<br>東京アンテオケ教会メンバーの一週間</a></p>
@@ -191,7 +183,7 @@
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/1905truth/" target="_blank"><img src="/2016/images/top/1905truthyokosuka.jpg"></a>
     <p class="block-date">日程：2019年5月26日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1905truth/" target="_blank"> Truth<br> 横須賀で歌う</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1905truth/" target="_blank">Truth<br>横須賀で歌う</a></p>
 </div>
 
 <div class="column-inner">
