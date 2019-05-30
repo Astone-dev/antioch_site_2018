@@ -46,14 +46,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190530/" target="_blank"><img src="/2016/images/top/1905jerusalem.jpg"></a>
-    <p class="block-date">日程：2019年5月30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190530/" target="_blank">エルサレム<br>岩槻の特別養護老人ホームでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1904kiseki_mayuna.jpg"></a>
@@ -144,7 +136,6 @@
     <p class="block-title"><a href="https://www.instagram.com/tleamovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('TLEA各教会のインスタ動画');">短いInstagram動画で見る<br>TLEA全国各教会</a></p>
 </div>
 
-
 <div class="column-inner">
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/movetotears/" target="_blank"><img src="/2016/images/top/1905yorimichi38.jpg"></a>
@@ -163,6 +154,13 @@
     <a href="http://atv.antioch.jp/kazenohibiki" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
     <p class="block-date">毎日19:00更新</p>
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190530/" target="_blank"><img src="/2016/images/top/1905jerusalem.jpg"></a>
+    <p class="block-date">日程：2019年5月30日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190530/" target="_blank">エルサレム<br>岩槻の特別養護老人ホームでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -227,92 +225,6 @@
     <p class="block-date">日程：2019年5月25日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190525/" target="_blank">エルサレム<br>埼玉県岩槻市デイケアでゴスペルコンサート</a></p>
 </div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/hokuriku1905/" target="_blank"><img src="/2016/images/top/1609hokuriku.jpg"></a>
-    <p class="block-date">日程：2019年5月19日～5月22日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/hokuriku1905/" target="_blank">5月の明るい光の中北陸を行く<br>北陸宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/earlysummer1905/" target="_blank"><img src="/2016/images/top/1705eigaantioch.jpg"></a>
-    <p class="block-date">日程：2019年5月13日～5月19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/earlysummer1905/" target="_blank">風薫る季節<br>東京アンテオケ教会メンバーのワクワクー週間 </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/hibiki1905/" target="_blank"><img src="/2016/images/top/1704sakyokusyaantioch.jpg"></a>
-    <p class="block-date">日程：2019年5月13日～5月19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/hibiki1905/" target="_blank">風のひびき6集 <br>作詞・作曲賞受賞 喜びの一週間  </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/2018women/201905/" target="_blank"><img src="/2016/images/top/1611fujinkai.jpg"></a>
-    <p class="block-date">日程：2019年5月19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201905/" target="_blank">婦人会  <br>蕎麦とピザを食べる</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/euqaristias/20190519gospelconcert/" target="_blank"><img src="/2016/images/top/1612eukariparty.jpg"></a>
-    <p class="block-date">日程：2019年5月19日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190519gospelconcert/" target="_blank">エウカリスティアス<br>コーヒーショップでゴスペル </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017byhisspirit/190519/" target="_blank"><img src="/2016/images/top/1702byhissetagaya.jpg"></a>
-    <p class="block-date">日程：2019年5月19日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190519/" target="_blank">By His spirit<br>世田谷の高齢者施設でゴスペルコンサート  </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/earlysummer1905z/" target="_blank"><img src="/2016/images/top/1705eigazenkoku.jpg"></a>
-    <p class="block-date">日程：2019年5月13日～5月19日</p>
-    <p class="block-title"><a href="http://astone.tv/events/earlysummer1905z/" target="_blank">風薫る季節<br>TLEA全国各教会メンバーのワクワクー週間</a></p>
-</div>
-
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/1905toyofuji/" target="_blank"><img src="/2016/images/top/1708toyohashifuji.jpg"></a>
-    <p class="block-date">日程：2019年5月18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1905toyofuji/" target="_blank">初夏の気持ちの良い季節<br>豊橋、富士聖会</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/gifts/190513/" target="_blank"><img src="/2016/images/top/1704gifts.jpg"></a>
-    <p class="block-date">日程：2019年5月13日～5月18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190513/" target="_blank">Gifts漫遊記 <br>関西、中国、四国、中部を行く  </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/revival2017/190518/" target="_blank"><img src="/2016/images/top/1704revivalnight.jpg"></a>
-    <p class="block-date">日程：2019年5月18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190518/" target="_blank">若者たち集まれ<br>リバイバルナイトのワイワイな一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/2017labeille/190518/" target="_blank"><img src="/2016/images/top/1705lageiyumusashiurawa.jpg"></a>
-    <p class="block-date">日程：2019年5月18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190518/" target="_blank">ラベイユ <br>荒川区の福祉施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190518/" target="_blank"><img src="/2016/images/top/1804jerhakone.jpg"></a>
-    <p class="block-date">日程：2019年5月17-18日 </p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190518/" target="_blank">エルサレム<br>福島相馬でゴスペルコンサート</a></p>
-</div>
-
 
 <div class="column-inner">
     <span class="label-2">動画</span>
