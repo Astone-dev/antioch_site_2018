@@ -54,6 +54,13 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank"><img src="/2016/images/top/1905jerusalem.jpg"></a>
+    <p class="block-date">日程：2019年5月30日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/" target="_blank">エルサレム<br>岩槻の特別養護老人ホームでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1904kiseki_mayuna.jpg"></a>
@@ -221,12 +228,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190525/" target="_blank">5月のゴスペルの集いの一日</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190525/" target="_blank"><img src="/2016/images/top/1905jerusalem.jpg"></a>
     <p class="block-date">日程：2019年5月25日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190525/" target="_blank">エルサレム<br>埼玉県岩槻市デイケアでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
