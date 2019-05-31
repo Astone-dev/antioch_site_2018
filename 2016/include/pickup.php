@@ -32,9 +32,41 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/gunma1906/" target="_blank"><img src="/2016/images/top/blogbt_haruyasumizenkoku.jpg"></a>
+    <p class="block-date">日程：2019年5月27日～6月1日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gunma1906/" target="_blank">群馬のミャンマー教会で奉仕 <br>Giftsも歌う</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/1905chari/" target="_blank"><img src="/2016/images/top/1903tokyocharisma.jpg"></a>
+    <p class="block-date">日程：2019年6月1日～2日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1905chari/" target="_blank">初夏の東京カリスマ聖会<br>スタッフてんやわんや</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/grace1905/" target="_blank"><img src="/2016/images/top/1606tsuyuantioch.jpg"></a>
     <p class="block-date">日程：2019年5月27日～6月2日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/grace1905/" target="_blank">初夏の香りに包まれて<br>東京アンテオケ教会メンバーほのぼの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/gracious/190601/" target="_blank"><img src="/2016/images/top/1610gracioustonai.jpg"></a>
+    <p class="block-date">日程：2019年6月1日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190601/" target="_blank">GRACIOUS DOORS <br>都内のデイサービスで、ボランティア・コンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gracejewel2017/190601/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
+    <p class="block-date">日程：2019年6月1日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190601/" target="_blank">GRACEと宝石 <br>宇都宮市主催の軽音楽祭でゴスペル コンサート</a></p>
 </div>
 
 <div class="column-inner">
