@@ -32,9 +32,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gunma1906/" target="_blank"><img src="/2016/images/top/blogbt_haruyasumizenkoku.jpg"></a>
-    <p class="block-date">日程：2019年5月27日～6月1日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gunma1906/" target="_blank">群馬のミャンマー教会で奉仕 <br>Giftsも歌う</a></p>
+    <a href="http://antiochblog.jp/info/1906chugoku/" target="_blank"><img src="/2016/images/top/1611chugokuseikai.jpg"></a>
+    <p class="block-date">日程：2019年6月2日～5日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1906chugoku/" target="_blank">緑薫る中国地方を行く  <br>中国宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
@@ -53,6 +53,14 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/grace1905/" target="_blank">初夏の香りに包まれて<br>東京アンテオケ教会メンバーほのぼの一週間</a></p>
 </div>
 
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/euqaristias/20190602shinjuku/ " target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
+    <p class="block-date">日程：2019年6月3日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190602shinjuku/ " target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル </a></p>
+</div>
+
 <!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
@@ -60,14 +68,6 @@
     <p class="block-date">日程：2019年6月1日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190601/" target="_blank">GRACIOUS DOORS <br>都内のデイサービスで、ボランティア・コンサート</a></p>
 </div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/gracejewel2017/190601/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
-    <p class="block-date">日程：2019年6月1日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190601/" target="_blank">GRACEと宝石 <br>宇都宮市主催の軽音楽祭でゴスペル コンサート</a></p>
-</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -186,6 +186,20 @@
     <a href="http://atv.antioch.jp/kazenohibiki" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
     <p class="block-date">毎日19:00更新</p>
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gunma1906/" target="_blank"><img src="/2016/images/top/blogbt_haruyasumizenkoku.jpg"></a>
+    <p class="block-date">日程：2019年5月27日～6月1日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gunma1906/" target="_blank">群馬のミャンマー教会で奉仕 <br>Giftsも歌う</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/gracejewel2017/190601/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
+    <p class="block-date">日程：2019年6月1日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190601/" target="_blank">GRACEと宝石 <br>宇都宮市主催の軽音楽祭でゴスペル コンサート</a></p>
 </div>
 
 <div class="column-inner">
