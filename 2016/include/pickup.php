@@ -37,6 +37,22 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/1906chugoku/" target="_blank">緑薫る中国地方を行く  <br>中国宣教の旅</a></p>
 </div>
 
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/june1906/" target="_blank"><img src="/2016/images/top/1707hakubajyunbi.jpg"></a>
+    <p class="block-date">日程：2019年6月3日～9日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/june1906/" target="_blank">白馬キャンプに向かって<br> 東京アンテオケ教会メンバー ワクワクな一週間<br>（思い出を振り返りつつ）</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/june1906z/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenzenkoku.jpg"></a>
+    <p class="block-date">日程：2019年6月3日～9日</p>
+    <p class="block-title"><a href="http://astone.tv/events/june1906z/" target="_blank">白馬キャンプに向かって <br>全国各教会 ワクワクな一週間<br>（思い出を振り返りつつ）</a></p>
+</div>-->
+
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
