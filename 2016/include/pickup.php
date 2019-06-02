@@ -34,15 +34,15 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/1906chugoku/" target="_blank"><img src="/2016/images/top/1611chugokuseikai.jpg"></a>
     <p class="block-date">日程：2019年6月2日～5日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1906chugoku/" target="_blank">緑薫る中国地方を行く  <br>中国宣教の旅</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1906chugoku/" target="_blank">緑薫る中国地方を行く<br>中国宣教の旅</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/june1906/" target="_blank"><img src="/2016/images/top/1707hakubajyunbi.jpg"></a>
     <p class="block-date">日程：2019年6月3日～9日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/june1906/" target="_blank">白馬キャンプに向かって<br> 東京アンテオケ教会メンバー ワクワクな一週間<br>（思い出を振り返りつつ）</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/june1906/" target="_blank">白馬キャンプに向かって<br>東京アンテオケ教会メンバー ワクワクな一週間<br>（思い出を振り返りつつ）</a></p>
 </div>
 
 <div class="column-inner">
@@ -50,47 +50,15 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/june1906z/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenzenkoku.jpg"></a>
     <p class="block-date">日程：2019年6月3日～9日</p>
-    <p class="block-title"><a href="http://astone.tv/events/june1906z/" target="_blank">白馬キャンプに向かって <br>全国各教会 ワクワクな一週間<br>（思い出を振り返りつつ）</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/1905chari/" target="_blank"><img src="/2016/images/top/1903tokyocharisma.jpg"></a>
-    <p class="block-date">日程：2019年6月1日～2日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1905chari/" target="_blank">初夏の東京カリスマ聖会<br>スタッフてんやわんや</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/june1906z/" target="_blank">白馬キャンプに向かって<br>全国各教会 ワクワクな一週間<br>（思い出を振り返りつつ）</a></p>
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
+    <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/grace1905/" target="_blank"><img src="/2016/images/top/1606tsuyuantioch.jpg"></a>
-    <p class="block-date">日程：2019年5月27日～6月2日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/grace1905/" target="_blank">初夏の香りに包まれて<br>東京アンテオケ教会メンバーほのぼの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/euqaristias/20190602shinjuku/ " target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
-    <p class="block-date">日程：2019年6月3日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190602shinjuku/ " target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル </a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gracious/190601/" target="_blank"><img src="/2016/images/top/1610gracioustonai.jpg"></a>
-    <p class="block-date">日程：2019年6月1日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190601/" target="_blank">GRACIOUS DOORS <br>都内のデイサービスで、ボランティア・コンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/grace1905z/" target="_blank"><img src="/2016/images/top/1606tsuyuzenkoku.jpg"></a>
-    <p class="block-date">日程：2019年5月27日～6月2日</p>
-    <p class="block-title"><a href="http://astone.tv/events/grace1905z/" target="_blank">初夏の香りに包まれて<br>TLEA全国各教会メンバーゆったり一週間</a></p>
+    <a href="http://tv.antioch.jp/digest/201906-hakubacm/" target="_blank"><img src="/2016/images/top/1906hakub_cm_m.jpg"></a>
+    <p class="block-date">キャンプ：2019年7月23日〜26日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201906-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像 Part3</a></p>
 </div>
 
 <div class="column-inner">
@@ -105,14 +73,6 @@
     <a href="https://tokyo.antioch.jp/hakuba/" target="_blank"><img src="/2016/images/top/1904hakubacamp.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
     <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba/" target="_blank">白馬キャンプ<br>WEBサイトはこちらから</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank"><img src="/2016/images/top/1905hakub_cm_m.jpg"></a>
-    <p class="block-date">キャンプ：2019年7月23日〜26日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像 Part2</a></p>
 </div>
 
 <div class="column-inner">
@@ -202,6 +162,41 @@
     <a href="http://atv.antioch.jp/kazenohibiki" target="_blank"><img src="/2016/images/top/1604kazenohibikiradio.jpg"></a>
     <p class="block-date">毎日19:00更新</p>
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank"><img src="/2016/images/top/1905hakub_cm_m.jpg"></a>
+    <p class="block-date">キャンプ：2019年7月23日〜26日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像 Part2</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/1905chari/" target="_blank"><img src="/2016/images/top/1903tokyocharisma.jpg"></a>
+    <p class="block-date">日程：2019年6月1日～2日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1905chari/" target="_blank">初夏の東京カリスマ聖会<br>スタッフてんやわんや</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/grace1905/" target="_blank"><img src="/2016/images/top/1606tsuyuantioch.jpg"></a>
+    <p class="block-date">日程：2019年5月27日～6月2日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/grace1905/" target="_blank">初夏の香りに包まれて<br>東京アンテオケ教会メンバーほのぼの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/euqaristias/20190602shinjuku/ " target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
+    <p class="block-date">日程：2019年6月3日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190602shinjuku/ " target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/grace1905z/" target="_blank"><img src="/2016/images/top/1606tsuyuzenkoku.jpg"></a>
+    <p class="block-date">日程：2019年5月27日～6月2日</p>
+    <p class="block-title"><a href="http://astone.tv/events/grace1905z/" target="_blank">初夏の香りに包まれて<br>TLEA全国各教会メンバーゆったり一週間</a></p>
 </div>
 
 <div class="column-inner">
