@@ -32,25 +32,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/june1906/" target="_blank"><img src="/2016/images/top/1707hakubajyunbi.jpg"></a>
-    <p class="block-date">日程：2019年6月3日～9日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/june1906/" target="_blank">白馬キャンプに向かって<br>東京アンテオケ教会メンバー ワクワクな一週間<br>（思い出を振り返りつつ）</a></p>
+    <a href="http://antiochblog.jp/praise/kansai1906/" target="_blank"><img src="/2016/images/top/1704kansaiseikai.jpg"></a>
+    <p class="block-date">日程：2019年6月9日～12日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/kansai1906/" target="_blank">夏近づく関西を行く <br>関西宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/2017healing/190608/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-    <p class="block-date">日程：2019年6月8日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/190608/" target="_blank">6月のいやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年6月8日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継');">いやしの集い生中継<br>(日程：2019年6月8日 18:30スタート)</a></p>
+    <a href="http://antiochblog.jp/praise/june1906/" target="_blank"><img src="/2016/images/top/1707hakubajyunbi.jpg"></a>
+    <p class="block-date">日程：2019年6月3日～9日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/june1906/" target="_blank">白馬キャンプに向かって<br>東京アンテオケ教会メンバー ワクワクな一週間<br>（思い出を振り返りつつ）</a></p>
 </div>
 
 <div class="column-inner">
@@ -177,6 +169,13 @@
     <a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank"><img src="/2016/images/top/1905hakub_cm_m.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像 Part2</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/2017healing/190608/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+    <p class="block-date">日程：2019年6月8日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017healing/190608/" target="_blank">6月のいやしの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
