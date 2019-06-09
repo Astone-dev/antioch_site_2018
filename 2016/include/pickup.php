@@ -37,6 +37,30 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/kansai1906/" target="_blank">夏近づく関西を行く <br>関西宣教の旅</a></p>
 </div>
 
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/faith1906/" target="_blank"><img src="/2016/images/top1705tsuyumaeantioch.jpg"></a>
+    <p class="block-date">日程：2019年6月10日～16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1906/" target="_blank">紫陽花の季節 <br>東京アンテオケ教会メンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/hibiki1906/" target="_blank"><img src="/2016/images/top/1706sakushiyorokobizenkoku.jpg"></a>
+    <p class="block-date">日程：2019年6月10日～16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/hibiki1906/" target="_blank">風のひびき第7集募集開始 <br>作詞作曲者たちの驚くべき野心</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/faith1906z/" target="_blank"><img src="/2016/images/top/1705tsuyumaezenkoku.jpg"></a>
+    <p class="block-date">日程：2019年6月10日～16日</p>
+    <p class="block-title"><a href="http://astone.tv/events/faith1906z/" target="_blank">紫陽花の季節 <br>TLEA全国各教会メンバーの一週間</a></p>
+</div>-->
+
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
