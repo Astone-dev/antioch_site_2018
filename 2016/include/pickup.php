@@ -224,62 +224,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/uranos2017/190606/" target="_blank"><img src="/2016/images/top/1706uranos.jpg"></a>
-    <p class="block-date">日程：2019年6月6日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/uranos2017/190606/" target="_blank">ウラノス<br>小平の国立病院でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/1906chugoku/" target="_blank"><img src="/2016/images/top/1611chugokuseikai.jpg"></a>
-    <p class="block-date">日程：2019年6月2日～5日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1906chugoku/" target="_blank">緑薫る中国地方を行く<br>中国宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/1905chari/" target="_blank"><img src="/2016/images/top/1903tokyocharisma.jpg"></a>
-    <p class="block-date">日程：2019年6月1日～2日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1905chari/" target="_blank">初夏の東京カリスマ聖会<br>スタッフてんやわんや</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/grace1905/" target="_blank"><img src="/2016/images/top/1606tsuyuantioch.jpg"></a>
-    <p class="block-date">日程：2019年5月27日～6月2日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/grace1905/" target="_blank">初夏の香りに包まれて<br>東京アンテオケ教会メンバーほのぼの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/euqaristias/20190602shinjuku/ " target="_blank"><img src="/2016/images/top/1708eukarishinjyuku.jpg"></a>
-    <p class="block-date">日程：2019年6月3日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190602shinjuku/ " target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/grace1905z/" target="_blank"><img src="/2016/images/top/1606tsuyuzenkoku.jpg"></a>
-    <p class="block-date">日程：2019年5月27日～6月2日</p>
-    <p class="block-title"><a href="http://astone.tv/events/grace1905z/" target="_blank">初夏の香りに包まれて<br>TLEA全国各教会メンバーゆったり一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/gunma1906/" target="_blank"><img src="/2016/images/top/blogbt_haruyasumizenkoku.jpg"></a>
-    <p class="block-date">日程：2019年5月27日～6月1日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gunma1906/" target="_blank">群馬のミャンマー教会で奉仕 <br>Giftsも歌う</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/gracejewel2017/190601/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
-    <p class="block-date">日程：2019年6月1日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190601/" target="_blank">GRACEと宝石 <br>宇都宮市主催の軽音楽祭でゴスペル コンサート</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/1902hcffnyuusyou_m.jpg"></a>
     <p class="block-date">開催日：2019年2月28日</p>
