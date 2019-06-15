@@ -32,6 +32,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/okinawa1906/" target="_blank"><img src="/2016/images/top/1703okinawa.jpg"></a>
+    <p class="block-date">日程：2019年6月16日～19日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/okinawa1906/" target="_blank">梅雨明け間近の沖縄を行く<br>沖縄宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/faith1906/" target="_blank"><img src="/2016/images/top/1705tsuyumaeantioch.jpg"></a>
     <p class="block-date">日程：2019年6月10日～16日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1906/" target="_blank">紫陽花の季節 <br>東京アンテオケ教会メンバーの一週間</a></p>
@@ -48,25 +56,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/revival2017/190615/" target="_blank"><img src="/2016/images/top/1701revivalnight.jpg"></a>
-    <p class="block-date">日程：2019年6月15日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190615/" target="_blank">6月 リバイバルナイトの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('リバイバルナイト生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年6月15日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('リバイバルナイト生中継');">リバイバルナイト生中継<br>(日程：2019年6月15日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190615/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
-    <p class="block-date">日程：2019年6月15日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190615/" target="_blank">エルサレム <br>埼玉県岩槻西グループホームでゴスペルコンサート</a></p>
+    <a href="http://antiochblog.jp/praise/2018women/201906/" target="_blank"><img src="/2016/images/top/1703women.jpg"></a>
+    <p class="block-date">日程：2019年6月16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/201906/" target="_blank">婦人会  <br>冬瓜スープと鶏ごぼうご飯を食べる</a></p>
 </div>
 
 <div class="column-inner">
@@ -193,6 +185,20 @@
     <a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank"><img src="/2016/images/top/1905hakub_cm_m.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像 Part2</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/revival2017/190615/" target="_blank"><img src="/2016/images/top/1701revivalnight.jpg"></a>
+    <p class="block-date">日程：2019年6月15日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190615/" target="_blank">6月 リバイバルナイトの一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190615/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
+    <p class="block-date">日程：2019年6月15日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190615/" target="_blank">エルサレム <br>埼玉県岩槻西グループホームでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
