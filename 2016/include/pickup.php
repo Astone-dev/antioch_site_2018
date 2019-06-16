@@ -37,6 +37,38 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/okinawa1906/" target="_blank">梅雨明け間近の沖縄を行く<br>沖縄宣教の旅</a></p>
 </div>
 
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/rainy1906/" target="_blank"><img src="/2016/images/top/1606tsuyuantioch.jpg"></a>
+    <p class="block-date">日程：2019年6月17日～23日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/rainy1906/" target="_blank">じめじめの梅雨を吹きとばせ！ <br>東京アンテオケ教会メンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/yorokobi1906/" target="_blank"><img src="/2016/images/top/1607jgosfinalchokuzen.jpg"></a>
+    <p class="block-date">日程：2019年6月17日～23日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1906/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬  <br>次点枠決定！喜びの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/u21kids1906/" target="_blank"><img src="/2016/images/top/1607jgosfinalu21kidschokuzen.jpg"></a>
+    <p class="block-date">日程：2019年6月17日～23日</p>
+    <p class="block-title"><a href="http://astone.tv/events/u21kids1906/" target="_blank">J.GOSPELコンテスト U21・KIDS ファイナル in 白馬<br>出場決定！喜びの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/rainy1906z/" target="_blank"><img src="/2016/images/top/1606tsuyuzenkoku.jpg"></a>
+    <p class="block-date">日程：2019年6月17日～23日</p>
+    <p class="block-title"><a href="http://astone.tv/events/rainy1906z/" target="_blank">じめじめの梅雨を吹きとばせ！ <br>TLEA各教会メンバーの一週間</a></p>
+</div>-->
+
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
