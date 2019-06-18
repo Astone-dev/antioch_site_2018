@@ -64,6 +64,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190619/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
+    <p class="block-date">日程：2019年6月19日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190619/" target="_blank">エルサレム <br>笑顔 施設でゴスペル教室</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/rainy1906z/" target="_blank"><img src="/2016/images/top/1606tsuyuzenkoku.jpg"></a>
     <p class="block-date">日程：2019年6月17日～23日</p>
     <p class="block-title"><a href="http://astone.tv/events/rainy1906z/" target="_blank">じめじめの梅雨を吹きとばせ！ <br>TLEA各教会メンバーの一週間</a></p>
@@ -222,12 +230,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190615/" target="_blank">6月 リバイバルナイトの一日</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190615/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
     <p class="block-date">日程：2019年6月15日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190615/" target="_blank">エルサレム <br>埼玉県岩槻西グループホームでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
