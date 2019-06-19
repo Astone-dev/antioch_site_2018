@@ -32,14 +32,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/okinawa1906/" target="_blank"><img src="/2016/images/top/1703okinawa.jpg"></a>
-    <p class="block-date">日程：2019年6月16日～19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/okinawa1906/" target="_blank">梅雨明け間近の沖縄を行く<br>沖縄宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/rainy1906/" target="_blank"><img src="/2016/images/top/1606tsuyuantioch.jpg"></a>
     <p class="block-date">日程：2019年6月17日～23日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/rainy1906/" target="_blank">じめじめの梅雨を吹きとばせ！ <br>東京アンテオケ教会メンバーの一週間</a></p>
@@ -60,14 +52,6 @@
     <p class="block-date">日程：2019年6月17日～23日</p>
     <p class="block-title"><a href="http://astone.tv/events/u21kids1906/" target="_blank">J.GOSPELコンテスト U21・KIDS ファイナル in 白馬<br>出場決定！喜びの一週間</a></p>
 </div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190619/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
-    <p class="block-date">日程：2019年6月19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190619/" target="_blank">エルサレム <br>笑顔 施設でゴスペル教室</a></p>
-</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -193,6 +177,20 @@
     <a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank"><img src="/2016/images/top/1905hakub_cm_m.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像 Part2</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/okinawa1906/" target="_blank"><img src="/2016/images/top/1703okinawa.jpg"></a>
+    <p class="block-date">日程：2019年6月16日～19日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/okinawa1906/" target="_blank">梅雨明け間近の沖縄を行く<br>沖縄宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190619/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
+    <p class="block-date">日程：2019年6月19日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190619/" target="_blank">エルサレム <br>笑顔 施設でゴスペル教室</a></p>
 </div>
 
 <div class="column-inner">
