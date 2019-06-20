@@ -32,6 +32,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/1906kawasaki/" target="_blank"><img src="/2016/images/top/1703kawasaki.jpg"></a>
+    <p class="block-date">日程：2019年6月21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1906kawasaki/" target="_blank">梅雨の川崎を行く <br> 関東宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/rainy1906/" target="_blank"><img src="/2016/images/top/1606tsuyuantioch.jpg"></a>
     <p class="block-date">日程：2019年6月17日～23日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/rainy1906/" target="_blank">じめじめの梅雨を吹きとばせ！ <br>東京アンテオケ教会メンバーの一週間</a></p>
@@ -43,6 +51,14 @@
     <a href="http://antiochblog.jp/info/yorokobi1906/" target="_blank"><img src="/2016/images/top/1607jgosfinalchokuzen.jpg"></a>
     <p class="block-date">日程：2019年6月17日～23日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1906/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬  <br>次点枠決定！喜びの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/gate2018/190621/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+    <p class="block-date">日程：2019年6月21日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gate2018/190621/" target="_blank">The Gate of Praise   <br>新百合ヶ丘の施設でコンサート</a></p>
 </div>
 
 <!--<div class="column-inner">
