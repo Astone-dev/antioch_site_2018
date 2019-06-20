@@ -266,42 +266,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/kansai1906/" target="_blank"><img src="/2016/images/top/1704kansaiseikai.jpg"></a>
-    <p class="block-date">日程：2019年6月9日～12日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/kansai1906/" target="_blank">夏近づく関西を行く <br>関西宣教の旅</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190611/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
-    <p class="block-date">日程：2019年6月11日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190611/" target="_blank">エルサレム <br>三郷のアカシアの家オレンジカフェでコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/june1906/" target="_blank"><img src="/2016/images/top/1707hakubajyunbi.jpg"></a>
-    <p class="block-date">日程：2019年6月3日～9日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/june1906/" target="_blank">白馬キャンプに向かって<br>東京アンテオケ教会メンバー ワクワクな一週間<br>（思い出を振り返りつつ）</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/june1906z/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenzenkoku.jpg"></a>
-    <p class="block-date">日程：2019年6月3日～9日</p>
-    <p class="block-title"><a href="http://astone.tv/events/june1906z/" target="_blank">白馬キャンプに向かって<br>全国各教会 ワクワクな一週間<br>（思い出を振り返りつつ）</a></p>
-</div>
-
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017healing/190608/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-    <p class="block-date">日程：2019年6月8日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/190608/" target="_blank">6月のいやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="http://atv.antioch.jp/hcff2019/" target="_blank"><img src="/2016/images/top/1902hcffnyuusyou_m.jpg"></a>
     <p class="block-date">開催日：2019年2月28日</p>
