@@ -241,12 +241,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/okinawa1906/" target="_blank">梅雨明け間近の沖縄を行く<br>沖縄宣教の旅</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190619/" target="_blank"><img src="/2016/images/top/1609jerumisatoconcert.jpg"></a>
     <p class="block-date">日程：2019年6月19日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190619/" target="_blank">エルサレム <br>笑顔 施設でゴスペル教室</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
