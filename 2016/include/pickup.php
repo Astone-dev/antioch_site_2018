@@ -32,9 +32,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/1906kawasaki/" target="_blank"><img src="/2016/images/top/1703kawasaki.jpg"></a>
-    <p class="block-date">日程：2019年6月21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1906kawasaki/" target="_blank">梅雨の川崎を行く <br> 関東宣教の旅</a></p>
+    <a href="http://astone.tv/events/1906chiba/" target="_blank"><img src="/2016/images/top/1803chibaseikai.jpg"></a>
+    <p class="block-date">日程：2019年6月22日</p>
+    <p class="block-title"><a href="http://astone.tv/events/1906chiba/" target="_blank">緑の風の中を 千葉へ行く <br> 関東宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
@@ -56,9 +56,33 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/gate2018/190621/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
-    <p class="block-date">日程：2019年6月21日</p>
-    <p class="block-title"><a href="http://astone.tv/events/gate2018/190621/" target="_blank">The Gate of Praise   <br>新百合ヶ丘の施設でコンサート</a></p>
+    <a href="http://antiochblog.jp/praise/gospel2017/190622/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+    <p class="block-date">日程：2019年6月22日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190622/" target="_blank">6月のゴスペルの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年6月22日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継');">ゴスペルの集い生中継<br>(日程：2019年6月22日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/patolis/190622/" target="_blank"><img src="/2016/images/top/1609patoliskawaguchi.jpg"></a>
+    <p class="block-date">日程：2019年6月22日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190622/" target="_blank">PATOLIS <br>川口の病院でボランティア・コンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190622/" target="_blank"><img src="/2016/images/top/1610jerusoma.jpg"></a>
+    <p class="block-date">日程：2019年6月22日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190622/" target="_blank">エルサレム <br>埼玉県岩槻 デイケアでゴスペルコンサート</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -194,6 +218,21 @@
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像 Part2</a></p>
 </div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/1906kawasaki/" target="_blank"><img src="/2016/images/top/1703kawasaki.jpg"></a>
+    <p class="block-date">日程：2019年6月21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1906kawasaki/" target="_blank">梅雨の川崎を行く <br> 関東宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/gate2018/190621/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+    <p class="block-date">日程：2019年6月21日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gate2018/190621/" target="_blank">The Gate of Praise   <br>新百合ヶ丘の施設でコンサート</a></p>
+</div>
+
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
