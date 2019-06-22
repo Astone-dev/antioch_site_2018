@@ -34,7 +34,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/kyusyu1906/" target="_blank"><img src="/2016/images/top/1612kyusyuseika.jpg"></a>
     <p class="block-date">日程：2019年6月23日～26日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/kyusyu1906/" target="_blank"> <br> 九州宣教の旅</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/kyusyu1906/" target="_blank">青葉の季節 九州を行く <br> 九州宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
