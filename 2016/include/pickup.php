@@ -84,13 +84,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
-</div>
-
-<div class="column-inner">
     <span>NEW</span>
     <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
@@ -177,6 +170,12 @@
     <a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank"><img src="/2016/images/top/1905hakub_cm_m.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像 Part2</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
 </div>
 
 <div class="column-inner">
