@@ -56,6 +56,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/patolis/190626/" target="_blank"><img src="/2016/images/top/1609patoliskawaguchi.jpg"></a>
+    <p class="block-date">日程：2019年6月26日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190626/" target="_blank">PATOLIS <br>練馬区デイサービス施設でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/yuttari1906z/" target="_blank"><img src="/2016/images/top/1805tsuyutyokzenkoku.jpg"></a>
     <p class="block-date">日程：2019年6月24日～30日</p>
     <p class="block-title"><a href="http://astone.tv/events/yuttari1906z/" target="_blank">梅雨空の中ゆったり<br>TLEA各教会メンバーの一週間</a></p>
@@ -228,12 +236,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190622/" target="_blank">6月のゴスペルの集いの一日</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/patolis/190622/" target="_blank"><img src="/2016/images/top/1609patoliskawaguchi.jpg"></a>
     <p class="block-date">日程：2019年6月22日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190622/" target="_blank">PATOLIS <br>川口の病院でボランティア・コンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
