@@ -29,13 +29,13 @@
     <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>(毎日AM5:00UP!)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/kyusyu1906/" target="_blank"><img src="/2016/images/top/1612kyusyuseika.jpg"></a>
     <p class="block-date">日程：2019年6月23日～26日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/kyusyu1906/" target="_blank">青葉の季節 九州を行く <br> 九州宣教の旅</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -51,14 +51,6 @@
     <a href="http://astone.tv/events/u21kids1906/" target="_blank"><img src="/2016/images/top/1607jgosfinalu21kidschokuzen.jpg"></a>
     <p class="block-date">日程：2019年6月24日～30日</p>
     <p class="block-title"><a href="http://astone.tv/events/u21kids1906/" target="_blank">J.GOSPELコンテスト U21・KIDS ファイナル in 白馬<br>出場決定！喜びの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/patolis/190626/" target="_blank"><img src="/2016/images/top/1609patoliskawaguchi.jpg"></a>
-    <p class="block-date">日程：2019年6月26日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190626/" target="_blank">PATOLIS <br>練馬区デイサービス施設でコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -184,6 +176,20 @@
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/kyusyu1906/" target="_blank"><img src="/2016/images/top/1612kyusyuseika.jpg"></a>
+    <p class="block-date">日程：2019年6月23日～26日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/kyusyu1906/" target="_blank">青葉の季節 九州を行く <br> 九州宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/patolis/190626/" target="_blank"><img src="/2016/images/top/1609patoliskawaguchi.jpg"></a>
+    <p class="block-date">日程：2019年6月26日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190626/" target="_blank">PATOLIS <br>練馬区デイサービス施設でコンサート</a></p>
 </div>
 
 <div class="column-inner">
