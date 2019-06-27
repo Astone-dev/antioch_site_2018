@@ -56,7 +56,7 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/u21kids1906/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
+    <a href="http://antiochblog.jp/praise/1906atsugi/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
     <p class="block-date">日程：2019年6月27日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/1906atsugi/" target="_blank">Immanuel、Beracha、CROIX<br>杉並区の特別養護老人施設でコンサート</a></p>
 </div>
