@@ -29,13 +29,13 @@
     <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>(毎日AM5:00UP!)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/kyusyu1906/" target="_blank"><img src="/2016/images/top/1612kyusyuseika.jpg"></a>
-    <p class="block-date">日程：2019年6月23日～26日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/kyusyu1906/" target="_blank">青葉の季節 九州を行く <br> 九州宣教の旅</a></p>
-</div>-->
+    <a href="http://antiochblog.jp/info/1906atsugi7/" target="_blank"><img src="/2016/images/top/1701atsugi.jpg"></a>
+    <p class="block-date">日程：2019年6月29日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1906atsugi7/" target="_blank">梅雨空の関東を行く <br>厚木宣教の旅</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
