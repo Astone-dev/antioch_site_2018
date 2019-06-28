@@ -56,6 +56,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/truevine/190629/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
+    <p class="block-date">日程：2019年6月28日～29日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/truevine/190629/" target="_blank">TrueVine <br>仙台市 誰も知らない劇場のイベントでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/yuttari1906z/" target="_blank"><img src="/2016/images/top/1805tsuyutyokzenkoku.jpg"></a>
     <p class="block-date">日程：2019年6月24日～30日</p>
     <p class="block-title"><a href="http://astone.tv/events/yuttari1906z/" target="_blank">梅雨空の中ゆったり<br>TLEA各教会メンバーの一週間</a></p>
