@@ -64,6 +64,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://astone.tv/events/euqaristias/20190629atsugi/" target="_blank"><img src="/2016/images/top/1705eukarishinjyuku.jpg"></a>
+    <p class="block-date">日程：2019年6月29日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190629atsugi/" target="_blank">エウカリスティアス<br>厚木のケアホームでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/yuttari1906z/" target="_blank"><img src="/2016/images/top/1805tsuyutyokzenkoku.jpg"></a>
     <p class="block-date">日程：2019年6月24日～30日</p>
     <p class="block-title"><a href="http://astone.tv/events/yuttari1906z/" target="_blank">梅雨空の中ゆったり<br>TLEA各教会メンバーの一週間</a></p>
