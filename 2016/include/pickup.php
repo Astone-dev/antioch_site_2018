@@ -64,9 +64,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/2017byhisspirit/190623/" target="_blank"><img src="/2016/images/top/1701byhis.jpg"></a>
+    <a href="http://astone.tv/events/2017byhisspirit/190630/" target="_blank"><img src="/2016/images/top/1701byhis.jpg"></a>
     <p class="block-date">日程：2019年6月30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190623/" target="_blank">By His Spirit<br>世田谷の高齢者施設でゴスペルコンサート</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190630/" target="_blank">By His Spirit<br> 世田谷の高齢者施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
