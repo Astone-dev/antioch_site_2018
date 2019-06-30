@@ -63,14 +63,6 @@
     <p class="block-title"><a href="http://astone.tv/events/faith1907z/" target="_blank">白馬キャンプに向かって<br>ワクワク全国各教会の一週間</a></p>
 </div>
 
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/hibiki1907/" target="_blank"><img src="/2016/images/top/1604goldenmaesanbizenkoku.jpg"></a>
-    <p class="block-date">日程：2019年7月1日～7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/hibiki1907/" target="_blank">風のひびき7集 作詞・作曲者たちの一週間<br>さあ出すぞ！その前にちょっと一服 全国各教会</a></p>
-</div>
-
 -->
 
 <div class="column-inner">
