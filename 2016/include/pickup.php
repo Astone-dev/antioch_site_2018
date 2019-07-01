@@ -37,7 +37,7 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/chubu1907/" target="_blank">初夏の季節の中を <br>中部宣教の旅</a></p>
 </div>
 
-<!--
+
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -61,48 +61,6 @@
     <a href="http://astone.tv/events/faith1907z/" target="_blank"><img src="/2016/images/top/1605hakubajyunbi.jpg"></a>
     <p class="block-date">日程：2019年7月1日～7日</p>
     <p class="block-title"><a href="http://astone.tv/events/faith1907z/" target="_blank">白馬キャンプに向かって<br>ワクワク全国各教会の一週間</a></p>
-</div>
-
--->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/yuttari1906/" target="_blank"><img src="/2016/images/top/1805tsuyutyokuantioch.jpg"></a>
-    <p class="block-date">日程：2019年6月24日～30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yuttari1906/" target="_blank">梅雨空の中ゆったり<br>東京アンテオケ教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/u21kids1906/" target="_blank"><img src="/2016/images/top/1607jgosfinalu21kidschokuzen.jpg"></a>
-    <p class="block-date">日程：2019年6月24日～30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/u21kids1906/" target="_blank">J.GOSPELコンテスト U21・KIDS ファイナル in 白馬<br>出場決定！喜びの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/happyday2017/190630/" target="_blank"><img src="/2016/images/top/1704ohhappyday.jpg"></a>
-    <p class="block-date">日程：2019年6月30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/happyday2017/190630/" target="_blank">6月 OH HAPPY DAYの一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/2017byhisspirit/190630/" target="_blank"><img src="/2016/images/top/1701byhis.jpg"></a>
-    <p class="block-date">日程：2019年6月30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190630/" target="_blank">By His Spirit<br> 世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/yuttari1906z/" target="_blank"><img src="/2016/images/top/1805tsuyutyokzenkoku.jpg"></a>
-    <p class="block-date">日程：2019年6月24日～30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/yuttari1906z/" target="_blank">梅雨空の中ゆったり<br>TLEA各教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -220,6 +178,41 @@
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/yuttari1906/" target="_blank"><img src="/2016/images/top/1805tsuyutyokuantioch.jpg"></a>
+    <p class="block-date">日程：2019年6月24日～30日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yuttari1906/" target="_blank">梅雨空の中ゆったり<br>東京アンテオケ教会メンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/u21kids1906/" target="_blank"><img src="/2016/images/top/1607jgosfinalu21kidschokuzen.jpg"></a>
+    <p class="block-date">日程：2019年6月24日～30日</p>
+    <p class="block-title"><a href="http://astone.tv/events/u21kids1906/" target="_blank">J.GOSPELコンテスト U21・KIDS ファイナル in 白馬<br>出場決定！喜びの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/happyday2017/190630/" target="_blank"><img src="/2016/images/top/1704ohhappyday.jpg"></a>
+    <p class="block-date">日程：2019年6月30日</p>
+    <p class="block-title"><a href="http://astone.tv/events/happyday2017/190630/" target="_blank">6月 OH HAPPY DAYの一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/2017byhisspirit/190630/" target="_blank"><img src="/2016/images/top/1701byhis.jpg"></a>
+    <p class="block-date">日程：2019年6月30日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190630/" target="_blank">By His Spirit<br> 世田谷の高齢者施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/yuttari1906z/" target="_blank"><img src="/2016/images/top/1805tsuyutyokzenkoku.jpg"></a>
+    <p class="block-date">日程：2019年6月24日～30日</p>
+    <p class="block-title"><a href="http://astone.tv/events/yuttari1906z/" target="_blank">梅雨空の中ゆったり<br>TLEA各教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
