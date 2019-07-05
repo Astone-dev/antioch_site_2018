@@ -32,6 +32,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://astone.tv/events/hibiki1907/" target="_blank"><img src="/2016/images/top/1611tocharidigest_p.jpg"></a>
+    <p class="block-date">日程：2019年7月6日～7日</p>
+    <p class="block-title"><a href="http://astone.tv/events/hibiki1907/" target="_blank"><br>東京カリスマ聖会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/faith1907/" target="_blank"><img src="/2016/images/top/1605hakubainfo_m.jpg"></a>
     <p class="block-date">日程：2019年7月1日～7日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1907/" target="_blank">白馬キャンプに向かってウキウキ<br>東京アンテオケ教会メンバーの一週間</a></p>
@@ -47,16 +55,18 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/patolis/190705/" target="_blank"><img src="/2016/images/top/1609patoliskawaguchi.jpg"></a>
-    <p class="block-date">日程：2019年7月5日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190705/" target="_blank">PATOLIS<br>東久留米デイサービスでコンサート</a></p>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/true1907/" target="_blank"><img src="/2016/images/top/1805shokazenkoku.jpg"></a>
+    <p class="block-date">日程：2019年7月6日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/true1907/" target="_blank">TrueVineとTree of Life<br>ららん藤岡のゴスペルライブに出演</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/gate2018/190705/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
-    <p class="block-date">日程：2019年7月5日</p>
-    <p class="block-title"><a href="http://astone.tv/events/gate2018/190705/" target="_blank">The Gate of Praise<br>練馬区の老健でコンサート</a></p>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/2018women/190706/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
+    <p class="block-date">日程：2019年7月6日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190706/" target="_blank">オーケストラと婦人会 <br>茨城県の道の駅でゴスペルを歌う</a></p>
 </div>
 
 <div class="column-inner">
@@ -182,6 +192,20 @@
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/patolis/190705/" target="_blank"><img src="/2016/images/top/1609patoliskawaguchi.jpg"></a>
+    <p class="block-date">日程：2019年7月5日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190705/" target="_blank">PATOLIS<br>東久留米デイサービスでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/gate2018/190705/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+    <p class="block-date">日程：2019年7月5日</p>
+    <p class="block-title"><a href="http://astone.tv/events/gate2018/190705/" target="_blank">The Gate of Praise<br>練馬区の老健でコンサート</a></p>
 </div>
 
 <div class="column-inner">
