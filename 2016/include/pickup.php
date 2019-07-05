@@ -66,7 +66,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/2018women/190706/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
     <p class="block-date">日程：2019年7月6日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190706/" target="_blank">オーケストラと婦人会 <br>茨城県の道の駅でゴスペルを歌う</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190706/" target="_blank">オーケストラと婦人会とGraceと宝石<br>茨城県の道の駅でゴスペルを歌う</a></p>
 </div>
 
 <div class="column-inner">
