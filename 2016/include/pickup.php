@@ -29,13 +29,13 @@
     <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>(毎日AM5:00UP!)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/hibiki1907/" target="_blank"><img src="/2016/images/top/1611tocharidigest_p.jpg"></a>
     <p class="block-date">日程：2019年7月6日～7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/hibiki1907/" target="_blank"><br>東京カリスマ聖会</a></p>
-</div>-->
+    <p class="block-title"><a href="http://astone.tv/events/hibiki1907/" target="_blank">７月の東京カリスマ聖会<br>スタッフ大忙し</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -58,7 +58,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/true1907/" target="_blank"><img src="/2016/images/top/1805shokazenkoku.jpg"></a>
     <p class="block-date">日程：2019年7月6日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/true1907/" target="_blank">TrueVineとTree of Life<br>ららん藤岡のゴスペルライブに出演</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/true1907/" target="_blank">TrueVineとTree of LifeとNoah<br>ららん藤岡のゴスペルライブに出演</a></p>
 </div>
 
 <div class="column-inner">
