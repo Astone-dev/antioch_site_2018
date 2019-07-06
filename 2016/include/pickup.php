@@ -23,6 +23,13 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1904kiseki_noe.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年7月6日UP!)</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">音楽</span>
     <span>NEW</span>
     <a href="http://atv.antioch.jp/jgospel/" target="_blank"><img src="/2016/images/top/1809todaysjgospel.jpg"></a>
@@ -34,7 +41,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/hibiki1907/" target="_blank"><img src="/2016/images/top/1611tocharidigest_p.jpg"></a>
     <p class="block-date">日程：2019年7月6日～7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/hibiki1907/" target="_blank">７月の東京カリスマ聖会<br>スタッフ大忙し</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/hibiki1907/" target="_blank">7月の東京カリスマ聖会<br>スタッフ大忙し</a></p>
 </div>
 
 <div class="column-inner">
@@ -66,7 +73,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/2018women/190706/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
     <p class="block-date">日程：2019年7月6日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190706/" target="_blank">オーケストラと婦人会とGRACEと宝石<br>　茨城県の道の駅でゴスペルを歌う</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190706/" target="_blank">オーケストラと婦人会とGRACEと宝石<br>茨城県の道の駅でゴスペルを歌う</a></p>
 </div>
 
 <div class="column-inner">
@@ -83,13 +90,6 @@
     <a href="http://tv.antioch.jp/digest/201906-hakubacm/" target="_blank"><img src="/2016/images/top/1906hakub_cm_m.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201906-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像 Part3</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1904kiseki_mayuna.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年4月19日UP!)</a></p>
 </div>
 
 <div class="column-inner">
