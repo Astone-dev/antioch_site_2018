@@ -70,6 +70,13 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/euqaristias/20190707shinjuku/" target="_blank"><img src="/2016/images/top/1705eukarishinjyuku.jpg"></a>
+    <p class="block-date">日程：2019年7月7日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190707shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/faith1907z/" target="_blank"><img src="/2016/images/top/1605hakubajyunbi.jpg"></a>
     <p class="block-date">日程：2019年7月1日～7日</p>
