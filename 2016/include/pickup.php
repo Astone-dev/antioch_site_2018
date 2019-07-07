@@ -55,6 +55,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190708/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
+    <p class="block-date">日程：2019年7月8日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190708/" target="_blank">エルサレム <br>三郷市のグルーブホームでゴスペル教室</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/give1907z/" target="_blank"><img src="/2016/images/top/1804semi_z.jpg"></a>
     <p class="block-date">日程：2019年7月8日～14日</p>
     <p class="block-title"><a href="http://astone.tv/events/give1907z/" target="_blank">梅雨空を吹きとばせ！<br>TLEA全国各教会メンバーの一週間</a></p>
