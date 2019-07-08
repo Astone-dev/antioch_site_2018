@@ -31,20 +31,20 @@
 
 <div class="column-inner">
     <span class="label-2">音楽</span>
-    <span>NEW</span>
+    <span>NEW</span>	
     <a href="http://atv.antioch.jp/jgospel/" target="_blank"><img src="/2016/images/top/1809todaysjgospel.jpg"></a>
     <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>(毎日AM5:00UP!)</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <span>NEW</span>
+    <span>NEW</span>	
     <a href="http://antiochblog.jp/praise/tohoku1907/" target="_blank"><img src="/2016/images/top/1608tohokuseikai.jpg"></a>
     <p class="block-date">日程：2019年7月7日～10日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/tohoku1907/" target="_blank">もうすぐ梅雨明けの東北を行く<br>東北宣教の旅</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/give1907/" target="_blank"><img src="/2016/images/top/1804semi_a.jpg"></a>
@@ -66,45 +66,6 @@
     <a href="http://astone.tv/events/give1907z/" target="_blank"><img src="/2016/images/top/1804semi_z.jpg"></a>
     <p class="block-date">日程：2019年7月8日～14日</p>
     <p class="block-title"><a href="http://astone.tv/events/give1907z/" target="_blank">梅雨空を吹きとばせ！<br>TLEA全国各教会メンバーの一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/hibiki1907/" target="_blank"><img src="/2016/images/top/1611tocharidigest_p.jpg"></a>
-    <p class="block-date">日程：2019年7月6日～7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/hibiki1907/" target="_blank">7月の東京カリスマ聖会<br>スタッフ大忙し</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/faith1907/" target="_blank"><img src="/2016/images/top/1605hakubainfo_m.jpg"></a>
-    <p class="block-date">日程：2019年7月1日～7日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1907/" target="_blank">白馬キャンプに向かってウキウキ<br>東京アンテオケ教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/hibiki1907a/" target="_blank"><img src="/2016/images/top/1604goldenmaesanbiantioch.jpg"></a>
-    <p class="block-date">日程：2019年7月1日～7日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/hibiki1907a/" target="_blank">風のひびき7集 作詞・作曲者たちの一週間<br>さあ出すぞ！その前にちょっと一服 東京アンテオケ教会</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/euqaristias/20190707shinjuku/" target="_blank"><img src="/2016/images/top/1705eukarishinjyuku.jpg"></a>
-    <p class="block-date">日程：2019年7月7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190707shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/faith1907z/" target="_blank"><img src="/2016/images/top/1605hakubajyunbi.jpg"></a>
-    <p class="block-date">日程：2019年7月1日～7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/faith1907z/" target="_blank">白馬キャンプに向かって<br>ワクワク全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -215,6 +176,41 @@
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/hibiki1907/" target="_blank"><img src="/2016/images/top/1611tocharidigest_p.jpg"></a>
+    <p class="block-date">日程：2019年7月6日～7日</p>
+    <p class="block-title"><a href="http://astone.tv/events/hibiki1907/" target="_blank">7月の東京カリスマ聖会<br>スタッフ大忙し</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/faith1907/" target="_blank"><img src="/2016/images/top/1605hakubainfo_m.jpg"></a>
+    <p class="block-date">日程：2019年7月1日～7日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1907/" target="_blank">白馬キャンプに向かってウキウキ<br>東京アンテオケ教会メンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/hibiki1907a/" target="_blank"><img src="/2016/images/top/1604goldenmaesanbiantioch.jpg"></a>
+    <p class="block-date">日程：2019年7月1日～7日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/hibiki1907a/" target="_blank">風のひびき7集 作詞・作曲者たちの一週間<br>さあ出すぞ！その前にちょっと一服 東京アンテオケ教会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/euqaristias/20190707shinjuku/" target="_blank"><img src="/2016/images/top/1705eukarishinjyuku.jpg"></a>
+    <p class="block-date">日程：2019年7月7日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190707shinjuku/" target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペル</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/faith1907z/" target="_blank"><img src="/2016/images/top/1605hakubajyunbi.jpg"></a>
+    <p class="block-date">日程：2019年7月1日～7日</p>
+    <p class="block-title"><a href="http://astone.tv/events/faith1907z/" target="_blank">白馬キャンプに向かって<br>ワクワク全国各教会の一週間</a></p>
 </div>
 
 <div class="column-inner">
