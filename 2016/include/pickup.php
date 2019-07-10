@@ -36,13 +36,13 @@
     <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>(毎日AM5:00UP!)</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
-    <span>NEW</span>	
-    <a href="http://antiochblog.jp/praise/tohoku1907/" target="_blank"><img src="/2016/images/top/1608tohokuseikai.jpg"></a>
-    <p class="block-date">日程：2019年7月7日～10日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/tohoku1907/" target="_blank">もうすぐ梅雨明けの東北を行く<br>東北宣教の旅</a></p>
-</div>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/yokohama1907/" target="_blank"><img src="/2016/images/top/1608yokohamaseikai.jpg"></a>
+    <p class="block-date">日程：2019年7月12日</p>
+    <p class="block-title"><a href="http://astone.tv/events/yokohama1907/" target="_blank">　<br>横浜宣教の旅</a></p>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -55,18 +55,10 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gifts/190710/" target="_blank"><img src="/2016/images/top/1905gifts.jpg"></a>
-    <p class="block-date">日程：2019年7月10日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190710/" target="_blank">Gifts <br>千葉の病院でゴスペルコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190711/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
     <p class="block-date">日程：2019年7月11日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190711/" target="_blank">エルサレム <br>グリーンプラザ箱根でロビーコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -188,10 +180,26 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <span>NEW</span>	
+    <a href="http://antiochblog.jp/praise/tohoku1907/" target="_blank"><img src="/2016/images/top/1608tohokuseikai.jpg"></a>
+    <p class="block-date">日程：2019年7月7日～10日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/tohoku1907/" target="_blank">もうすぐ梅雨明けの東北を行く<br>東北宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/gifts/190710/" target="_blank"><img src="/2016/images/top/1905gifts.jpg"></a>
+    <p class="block-date">日程：2019年7月10日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190710/" target="_blank">Gifts <br>千葉の病院でゴスペルコンサート</a></p>
+</div>
+
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190709/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
     <p class="block-date">日程：2019年7月9日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190709/" target="_blank">エルサレム <br>三郷のアカシアの家オレンジカフェでコンサート</a></p>
-</div>
+</div>-->
 
 <!--<div class="column-inner">
     <span class="label-1">ブログ</span>
