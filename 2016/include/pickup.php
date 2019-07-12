@@ -55,6 +55,38 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://astone.tv/events/2017healing/190713/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
+    <p class="block-date">日程：2019年7月13日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017healing/190713/" target="_blank">いやしの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年7月13日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継');">いやしの集い生中継<br>(日程：2019年7月13日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190711/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
+    <p class="block-date">日程：2019年7月13日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190711/" target="_blank">ラベイユ  <br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190713/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
+    <p class="block-date">日程：2019年7月13日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190713/" target="_blank">エルサレム <br>埼玉県岩槻西グループホームでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/give1907z/" target="_blank"><img src="/2016/images/top/1804semi_z.jpg"></a>
     <p class="block-date">日程：2019年7月8日～14日</p>
     <p class="block-title"><a href="http://astone.tv/events/give1907z/" target="_blank">梅雨空を吹きとばせ！<br>TLEA全国各教会メンバーの一週間</a></p>
@@ -172,14 +204,20 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/yokohama1907/" target="_blank"><img src="/2016/images/top/1608yokohamaseikai.jpg"></a>
+    <p class="block-date">日程：2019年7月12日</p>
+    <p class="block-title"><a href="http://astone.tv/events/yokohama1907/" target="_blank">梅雨寒の関東を行く　<br>横浜聖会</a></p>
+</div>
+
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190711/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
     <p class="block-date">日程：2019年7月11日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190711/" target="_blank">エルサレム <br>グリーンプラザ箱根でロビーコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <span>NEW</span>	
     <a href="http://antiochblog.jp/praise/tohoku1907/" target="_blank"><img src="/2016/images/top/1608tohokuseikai.jpg"></a>
     <p class="block-date">日程：2019年7月7日～10日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/tohoku1907/" target="_blank">もうすぐ梅雨明けの東北を行く<br>東北宣教の旅</a></p>
@@ -187,7 +225,6 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/info/gifts/190710/" target="_blank"><img src="/2016/images/top/1905gifts.jpg"></a>
     <p class="block-date">日程：2019年7月10日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190710/" target="_blank">Gifts <br>千葉の病院でゴスペルコンサート</a></p>
@@ -269,69 +306,6 @@
     <a href="http://astone.tv/events/gate2018/190705/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
     <p class="block-date">日程：2019年7月5日</p>
     <p class="block-title"><a href="http://astone.tv/events/gate2018/190705/" target="_blank">The Gate of Praise<br>練馬区の老健でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/chubu1907/" target="_blank"><img src="/2016/images/top/1704chubuseikai.jpg"></a>
-    <p class="block-date">日程：2019年6月30日～7月3日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/chubu1907/" target="_blank">初夏の季節の中を <br>中部宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/yuttari1906/" target="_blank"><img src="/2016/images/top/1805tsuyutyokuantioch.jpg"></a>
-    <p class="block-date">日程：2019年6月24日～30日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yuttari1906/" target="_blank">梅雨空の中ゆったり<br>東京アンテオケ教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/u21kids1906/" target="_blank"><img src="/2016/images/top/1607jgosfinalu21kidschokuzen.jpg"></a>
-    <p class="block-date">日程：2019年6月24日～30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/u21kids1906/" target="_blank">J.GOSPELコンテスト U21・KIDS ファイナル in 白馬<br>出場決定！喜びの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/happyday2017/190630/" target="_blank"><img src="/2016/images/top/1704ohhappyday.jpg"></a>
-    <p class="block-date">日程：2019年6月30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/happyday2017/190630/" target="_blank">6月 OH HAPPY DAYの一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017byhisspirit/190630/" target="_blank"><img src="/2016/images/top/1701byhis.jpg"></a>
-    <p class="block-date">日程：2019年6月30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190630/" target="_blank">By His Spirit<br> 世田谷の高齢者施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/yuttari1906z/" target="_blank"><img src="/2016/images/top/1805tsuyutyokzenkoku.jpg"></a>
-    <p class="block-date">日程：2019年6月24日～30日</p>
-    <p class="block-title"><a href="http://astone.tv/events/yuttari1906z/" target="_blank">梅雨空の中ゆったり<br>TLEA各教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/1906atsugi7/" target="_blank"><img src="/2016/images/top/1701atsugi.jpg"></a>
-    <p class="block-date">日程：2019年6月29日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1906atsugi7/" target="_blank">梅雨空の関東を行く <br>厚木宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/truevine/190629/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
-    <p class="block-date">日程：2019年6月28日～29日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/truevine/190629/" target="_blank">TrueVine <br>仙台市 誰も知らない劇場のイベントでコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/euqaristias/20190629atsugi/" target="_blank"><img src="/2016/images/top/1705eukarishinjyuku.jpg"></a>
-    <p class="block-date">日程：2019年6月29日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190629atsugi/" target="_blank">エウカリスティアス<br>厚木のケアホームでゴスペル</a></p>
 </div>
 
 <div class="column-inner">
