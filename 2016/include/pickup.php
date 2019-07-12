@@ -41,7 +41,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/1907fujitoyo/" target="_blank"><img src="/2016/images/top/1708toyohashifuji.jpg"></a>
     <p class="block-date">日程：2019年7月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1907fujitoyo/" target="_blank">異常気象の関東を行く<br>富士、豊橋宣教の旅</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1907fujitoyo/" target="_blank">異常気象の関東を行く<br> 富士、豊橋宣教の旅</a></p>
 </div>
 
 <div class="column-inner">
@@ -71,9 +71,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190711/" target="_blank"><img src="/2016/images/top/1705lageiyumusashiurawa.jpg"></a>
+    <a href="http://antiochblog.jp/praise/2017labeille/190713/" target="_blank"><img src="/2016/images/top/1705lageiyumusashiurawa.jpg"></a>
     <p class="block-date">日程：2019年7月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190711/" target="_blank">ラベイユ  <br>荒川区の福祉施設でゴスペルコンサート</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190713/" target="_blank">ラベイユ  <br>荒川区の福祉施設でゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
