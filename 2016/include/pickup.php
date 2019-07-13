@@ -39,49 +39,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/1907fujitoyo/" target="_blank"><img src="/2016/images/top/1708toyohashifuji.jpg"></a>
-    <p class="block-date">日程：2019年7月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1907fujitoyo/" target="_blank">異常気象の関東を行く<br> 富士、豊橋宣教の旅</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/give1907/" target="_blank"><img src="/2016/images/top/1804semi_a.jpg"></a>
     <p class="block-date">日程：2019年7月8日～14日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/give1907/" target="_blank">梅雨空を吹きとばせ！<br>東京アンテオケ教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/2017healing/190713/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-    <p class="block-date">日程：2019年7月13日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/190713/" target="_blank">いやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年7月13日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継');">いやしの集い生中継<br>(日程：2019年7月13日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/2017labeille/190713/" target="_blank"><img src="/2016/images/top/1705lageiyumusashiurawa.jpg"></a>
-    <p class="block-date">日程：2019年7月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190713/" target="_blank">ラベイユ  <br>荒川区の福祉施設でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190713/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
-    <p class="block-date">日程：2019年7月13日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190713/" target="_blank">エルサレム <br>埼玉県岩槻西グループホームでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -200,6 +160,35 @@
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/1907fujitoyo/" target="_blank"><img src="/2016/images/top/1708toyohashifuji.jpg"></a>
+    <p class="block-date">日程：2019年7月13日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1907fujitoyo/" target="_blank">異常気象の関東を行く<br> 富士、豊橋宣教の旅</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/2017healing/190713/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+    <p class="block-date">日程：2019年7月13日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017healing/190713/" target="_blank">いやしの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/2017labeille/190713/" target="_blank"><img src="/2016/images/top/1705lageiyumusashiurawa.jpg"></a>
+    <p class="block-date">日程：2019年7月13日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190713/" target="_blank">ラベイユ  <br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190713/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
+    <p class="block-date">日程：2019年7月13日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190713/" target="_blank">エルサレム <br>埼玉県岩槻西グループホームでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
