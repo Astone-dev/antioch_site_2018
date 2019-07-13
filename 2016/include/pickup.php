@@ -68,16 +68,16 @@
 </div>
 
 <div class="column-inner">
-    <span>NEW</span>
-    <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
-    <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/category/martyrdom/" target="_blank"><img src="/2016/images/top/1907jyunkyou_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/category/martyrdom/" target="_blank">動画で見る<br>日本二十六聖人の殉教と殉教の歴史</a></p>
+</div>
+
+<div class="column-inner">
+    <span>NEW</span>
+    <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
+    <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
 </div>
 
 <div class="column-inner">
