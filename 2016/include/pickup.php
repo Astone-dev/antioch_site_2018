@@ -57,7 +57,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/society1907/" target="_blank"><img src="/2016/images/top/1701syakaijinkai.jpg"></a>
     <p class="block-date">日程：2019年7月15日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/society1907/" target="_blank">社会人会<br>　</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/society1907/" target="_blank">いざ勝負！<br>誰が勝つか社会人会ボーリング大会</a></p>
 </div>
 
 <div class="column-inner">
