@@ -36,7 +36,7 @@
     <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>(毎日AM5:00UP!)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/hakuba1907/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenzenkoku.jpg"></a>
@@ -74,22 +74,6 @@
     <a href="http://astone.tv/events/light1907z/" target="_blank"><img src="/2016/images/top/1706sanbisyutujyou21kids.jpg"></a>
     <p class="block-date">日程：2019年7月15日～21日</p>
     <p class="block-title"><a href="http://astone.tv/events/light1907z/" target="_blank">いざ勝負！ J.GOSPELコンテストU21・KIDS ファイナル in 白馬に向かって<br>7.24決戦に向かって</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/give1907/" target="_blank"><img src="/2016/images/top/1804semi_a.jpg"></a>
-    <p class="block-date">日程：2019年7月8日～14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/give1907/" target="_blank">梅雨空を吹きとばせ！<br>東京アンテオケ教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/give1907z/" target="_blank"><img src="/2016/images/top/1804semi_z.jpg"></a>
-    <p class="block-date">日程：2019年7月8日～14日</p>
-    <p class="block-title"><a href="http://astone.tv/events/give1907z/" target="_blank">梅雨空を吹きとばせ！<br>TLEA全国各教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -207,6 +191,20 @@
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/give1907/" target="_blank"><img src="/2016/images/top/1804semi_a.jpg"></a>
+    <p class="block-date">日程：2019年7月8日～14日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/give1907/" target="_blank">梅雨空を吹きとばせ！<br>東京アンテオケ教会メンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/give1907z/" target="_blank"><img src="/2016/images/top/1804semi_z.jpg"></a>
+    <p class="block-date">日程：2019年7月8日～14日</p>
+    <p class="block-title"><a href="http://astone.tv/events/give1907z/" target="_blank">梅雨空を吹きとばせ！<br>TLEA全国各教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
