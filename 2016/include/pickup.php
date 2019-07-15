@@ -55,14 +55,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/society1907/" target="_blank"><img src="/2016/images/top/1701syakaijinkai.jpg"></a>
-    <p class="block-date">日程：2019年7月15日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/society1907/" target="_blank">いざ勝負！<br>誰が勝つか社会人会ボーリング大会</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/light1907/" target="_blank"><img src="/2016/images/top/1607jgospelzenkokukettei.jpg"></a>
     <p class="block-date">日程：2019年7月15日～21日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/light1907/" target="_blank">いざ勝負！J.GOSPELコンテスト ファイナル in 白馬に向かって<br> 7.25決戦に向かって</a></p>
@@ -191,6 +183,13 @@
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/society1907/" target="_blank"><img src="/2016/images/top/1701syakaijinkai.jpg"></a>
+    <p class="block-date">日程：2019年7月15日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/society1907/" target="_blank">いざ勝負！<br>誰が勝つか社会人会ボーリング大会</a></p>
 </div>
 
 <div class="column-inner">
