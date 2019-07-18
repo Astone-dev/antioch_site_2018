@@ -55,6 +55,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190713/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
+    <p class="block-date">日程：2019年7月19日～20日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190713/" target="_blank">エルサレム <br>相馬のレストランでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/light1907/" target="_blank"><img src="/2016/images/top/1607jgospelzenkokukettei.jpg"></a>
     <p class="block-date">日程：2019年7月15日～21日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/light1907/" target="_blank">いざ勝負！J.GOSPELコンテスト ファイナル in 白馬に向かって<br> 7.25決戦に向かって</a></p>
@@ -228,12 +236,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190713/" target="_blank">ラベイユ  <br>荒川区の福祉施設でゴスペルコンサート</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190713/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
     <p class="block-date">日程：2019年7月13日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190713/" target="_blank">エルサレム <br>埼玉県岩槻西グループホームでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
