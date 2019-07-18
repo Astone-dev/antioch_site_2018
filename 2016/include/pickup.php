@@ -55,9 +55,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190713/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190720/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
     <p class="block-date">日程：2019年7月19日～20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190713/" target="_blank">エルサレム <br>相馬のレストランでゴスペルコンサート</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190720/" target="_blank">エルサレム<br>相馬のレストランでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
