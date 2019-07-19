@@ -39,6 +39,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/1907yokosuka/" target="_blank"><img src="/2016/images/top/1801yokosuka.jpg"></a>
+    <p class="block-date">日程：2019年7月20日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1907yokosuka/" target="_blank">もうすぐ梅雨明けの関東を行く<br>横須賀聖会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/info/hakuba1907/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenzenkoku.jpg"></a>
     <p class="block-date">日程：2019年7月15日～21日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1907/" target="_blank">いよいよ来週 ワクワク白馬キャンプ直前<br>東京アンテオケ教会メンバーの一週間</a></p>
@@ -55,9 +63,25 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190720/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
-    <p class="block-date">日程：2019年7月19日～20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190720/" target="_blank">エルサレム<br>相馬のレストランでゴスペルコンサート</a></p>
+    <a href="http://antiochblog.jp/info/revival2017/190720/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
+    <p class="block-date">日程：2019年7月20日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190720/" target="_blank">7月 リバイバルナイトの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('リバイバルナイト生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年7月20日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('リバイバルナイト生中継');">リバイバルナイト生中継<br>(日程：2019年7月20日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gracejewel2017/190719/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
+    <p class="block-date">日程：2019年7月20日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190719/" target="_blank">GRACEと宝石<br>高円寺のデイサービスアースサポートでコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -191,6 +215,13 @@
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190720/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
+    <p class="block-date">日程：2019年7月19日～20日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190720/" target="_blank">エルサレム<br>相馬のレストランでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
