@@ -41,7 +41,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/give1907/" target="_blank"><img src="/2016/images/top/1804semi_a.jpg"></a>
     <p class="block-date">日程：2019年7月8日～14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/give1907/" target="_blank">梅雨空を吹きとばせ！<br>東京アンテオケ教会メンバーの一週間</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/give1907/" target="_blank">梅雨空を吹きとばせ！<br>東京アンテオケ教会メンバーの一週間　</a></p>
 </div>
 
 <div class="column-inner">
@@ -64,14 +64,14 @@
     <span>NEW</span>
     <a href="https://tokyo.antioch.jp/hakuba/" target="_blank"><img src="/2016/images/top/1904hakubacamp.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba/" target="_blank">白馬キャンプ<br>WEBサイトはこちらから</a></p>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba/" target="_blank">白馬キャンプ<br>WEBサイトはこちらから　</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/category/martyrdom/" target="_blank"><img src="/2016/images/top/1907jyunkyou_m.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/category/martyrdom/" target="_blank">動画で見る<br>日本二十六聖人の殉教と殉教の歴史</a></p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/category/martyrdom/" target="_blank">動画で見る<br>日本二十六聖人の殉教と殉教の歴史<br>アニメからドキュメンタリーまで10本の感動的な動画を集めました！</a></p>
 </div>
 
 <div class="column-inner">
