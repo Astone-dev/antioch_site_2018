@@ -38,11 +38,19 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <span>NEW</span>	
+    <a href="http://antiochblog.jp/praise/1907yokosuka/" target="_blank"><img src="/2016/images/top/1801yokosuka.jpg"></a>
+    <p class="block-date">日程：2019年7月20日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/1907yokosuka/" target="_blank">もうすぐ梅雨明けの関東を行く<br>横須賀聖会</a></p>
+</div>
+
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/give1907/" target="_blank"><img src="/2016/images/top/1804semi_a.jpg"></a>
     <p class="block-date">日程：2019年7月8日～14日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/give1907/" target="_blank">梅雨空を吹きとばせ！<br>東京アンテオケ教会メンバーの一週間　</a></p>
-</div>	
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -65,7 +73,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/revival2017/190720/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
     <p class="block-date">日程：2019年7月20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190720/" target="_blank">7月のリバイバルナイトの一日<br>カンボジア孤児院の子どもたちが来日！歌う！</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190720/" target="_blank">7月のリバイバルナイトの一日<br>カンボジア孤児院の子どもたち来日！出演！</a></p>
 </div>
 
 <div class="column-inner">
@@ -120,7 +128,7 @@
     <span>NEW</span>
     <a href="https://tokyo.antioch.jp/hakuba/" target="_blank"><img src="/2016/images/top/1904hakubacamp.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
-    <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba/" target="_blank">白馬キャンプ<br>WEBサイトはこちらから</a></p>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/hakuba/" target="_blank">白馬キャンプ<br>WEBサイトはこちらから　</a></p>
 </div>
 
 <div class="column-inner">
