@@ -85,6 +85,13 @@
 </div>
 
 <div class="column-inner">
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/2018women/190706/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
+    <p class="block-date">日程：2019年7月21日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190721/" target="_blank">2019年7月21日 婦人会<br></a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/201906-hakubacm/" target="_blank"><img src="/2016/images/top/1906hakub_cm_m.jpg"></a>
