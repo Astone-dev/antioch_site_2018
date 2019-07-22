@@ -57,7 +57,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/hakuba1907/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenzenkoku.jpg"></a>
     <p class="block-date">日程：2019年7月15日～21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1907/" target="_blank">いよいよ明日から！<br>ワクワク白馬キャンプ直前<br>東京アンテオケ教会メンバーの一週間</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1907/" target="_blank">いよいよ明日から！<br>白馬キャンプ直前てんやわんや<br>東京アンテオケ教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
