@@ -57,7 +57,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/hakuba1907/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenzenkoku.jpg"></a>
     <p class="block-date">日程：2019年7月15日～26日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1907/" target="_blank">いよいよ明日から！<br>白馬キャンプ直前てんやわんや<br>東京アンテオケ教会メンバーの一週間</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1907/" target="_blank">いよいよ始まった！<br>白馬キャンプ<br>東京アンテオケ教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -73,7 +73,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/hakuba1907z/" target="_blank"><img src="/2016/images/top/1706zenkokuhakuba.jpg"></a>
     <p class="block-date">日程：2019年7月15日～26日</p>
-    <p class="block-title"><a href="http://astone.tv/events/hakuba1907z/" target="_blank">いよいよ明日から！<br>ワクワク白馬キャンプ直前<br>TLEA全国各教会メンバーの一週間</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/hakuba1907z/" target="_blank">いよいよ始まった！<br>白馬キャンプ<br>TLEA全国各教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
