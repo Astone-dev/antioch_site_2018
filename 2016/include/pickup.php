@@ -176,6 +176,13 @@
     <p class="block-title"><a href="https://www.instagram.com/tleamovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('TLEA各教会のインスタ動画');">短いInstagram動画で見る<br>TLEA全国各教会</a></p>
 </div>
 
+<!--<div class="column-inner">
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/comeback/" target="_blank"><img src="/2016/images/top/1907yorimichi39.jpg"></a>
+    <p class="block-date">毎日7:00更新</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/comeback/" target="_blank">クリスチャンの寄り道 Vol.39<br>今回は「かつて苦手だったことが逆転した話し」です</a></p>
+</div>-->
+
 <div class="column-inner">
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/movetotears/" target="_blank"><img src="/2016/images/top/1905yorimichi38.jpg"></a>
