@@ -63,6 +63,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/light1907/" target="_blank"><img src="/2016/images/top/1607jgospelzenkokukettei.jpg"></a>
+    <p class="block-date">日程：2019年7月15日～25日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/light1907/" target="_blank">いよいよ今日決戦！<br>J.GOSPELコンテスト ファイナル in 白馬<br>ドキドキの一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/info/dokidoki1907/" target="_blank"><img src="/2016/images/top/1907cambodiataizai.jpg"></a>
     <p class="block-date">日程：2019年7月20日～</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/dokidoki1907/" target="_blank">カンボジア孤児院から前田さんと子どもたち来日！<br>日本滞在記</a></p>
@@ -74,22 +82,6 @@
     <a href="http://astone.tv/events/hakuba1907z/" target="_blank"><img src="/2016/images/top/1706zenkokuhakuba.jpg"></a>
     <p class="block-date">日程：2019年7月15日～26日</p>
     <p class="block-title"><a href="http://astone.tv/events/hakuba1907z/" target="_blank">いよいよ始まった！<br>白馬キャンプ<br>TLEA全国各教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/light1907/" target="_blank"><img src="/2016/images/top/1607jgospelzenkokukettei.jpg"></a>
-    <p class="block-date">日程：2019年7月15日～25日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/light1907/" target="_blank">いざ勝負！J.GOSPELコンテスト ファイナル in 白馬に向かって<br>7.25決戦に向かって</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/light1907z/" target="_blank"><img src="/2016/images/top/1706sanbisyutujyou21kids.jpg"></a>
-    <p class="block-date">日程：2019年7月15日～24日</p>
-    <p class="block-title"><a href="http://astone.tv/events/light1907z/" target="_blank">いざ勝負！ J.GOSPELコンテストU21・KIDS ファイナル in 白馬に向かって<br>7.24決戦に向かって</a></p>
 </div>
 
 <div class="column-inner">
@@ -214,6 +206,13 @@
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/light1907z/" target="_blank"><img src="/2016/images/top/1706sanbisyutujyou21kids.jpg"></a>
+    <p class="block-date">日程：2019年7月15日～24日</p>
+    <p class="block-title"><a href="http://astone.tv/events/light1907z/" target="_blank">いざ勝負！ J.GOSPELコンテストU21・KIDS ファイナル in 白馬に向かって<br>7.24決戦に向かって</a></p>
 </div>
 
 <div class="column-inner">
