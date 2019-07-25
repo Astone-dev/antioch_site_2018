@@ -63,17 +63,25 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/light1907/" target="_blank"><img src="/2016/images/top/1607jgospelzenkokukettei.jpg"></a>
-    <p class="block-date">日程：2019年7月15日～25日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/light1907/" target="_blank">いよいよ今日決戦！<br>J.GOSPELコンテスト ファイナル in 白馬<br>ドキドキの一日</a></p>
+    <a href="http://antiochblog.jp/info/dokidoki1907/" target="_blank"><img src="/2016/images/top/1907cambodiataizai.jpg"></a>
+    <p class="block-date">日程：2019年7月20日～</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/dokidoki1907/" target="_blank">カンボジア孤児院から前田さんと子どもたち来日！<br>日本滞在記</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/dokidoki1907/" target="_blank"><img src="/2016/images/top/1907cambodiataizai.jpg"></a>
-    <p class="block-date">日程：2019年7月20日～</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/dokidoki1907/" target="_blank">カンボジア孤児院から前田さんと子どもたち来日！<br>日本滞在記</a></p>
+    <a href="http://antiochblog.jp/info/yorokobi1907/" target="_blank"><img src="/2016/images/top/1807contestyorokobi.jpg"></a>
+    <p class="block-date">日程：2019年7月26日～８月4日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1907/" target="_blank">J.GOSPELコンテスト ファイナル <br>喜び悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/u21kids1907/" target="_blank"><img src="/2016/images/top/1807contestu21kidsyorokobi.jpg"></a>
+    <p class="block-date">日程：2019年7月26日～８月4日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/u21kids1907/" target="_blank"> J.GOSPELコンテストU21・KIDS ファイナル in 白馬<br>喜び悲しみの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -206,6 +214,13 @@
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/light1907/" target="_blank"><img src="/2016/images/top/1607jgospelzenkokukettei.jpg"></a>
+    <p class="block-date">日程：2019年7月15日～25日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/light1907/" target="_blank">いよいよ今日決戦！<br>J.GOSPELコンテスト ファイナル in 白馬<br>ドキドキの一日</a></p>
 </div>
 
 <div class="column-inner">
