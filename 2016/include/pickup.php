@@ -108,13 +108,13 @@
     <p class="block-title"><a href="http://astone.tv/events/hakuba1907z/" target="_blank">今日で最終日！<br>TLEA全国各教会メンバー<br>祝福いっぱいの白馬キャンプ<br>それぞれの地へ</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/201906-hakubacm/" target="_blank"><img src="/2016/images/top/1906hakub_cm_m.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201906-hakubacm/" target="_blank">白馬キャンプ<br>紹介映像 Part3</a></p>
-</div>
+</div>-->
 
 <!--<div class="column-inner">
     <span>NEW</span>
@@ -192,12 +192,12 @@
     <p class="block-title"><a href="https://www.instagram.com/tleamovielog/" target="_blank" onclick="javascript:pageTracker._trackPageview('TLEA各教会のインスタ動画');">短いInstagram動画で見る<br>TLEA全国各教会</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/comeback/" target="_blank"><img src="/2016/images/top/1907yorimichi39.jpg"></a>
     <p class="block-date">毎日7:00更新</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/comeback/" target="_blank">クリスチャンの寄り道 Vol.39<br>今回は「かつて苦手だったことが逆転した話し」です</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
     <span>NEW</span>
