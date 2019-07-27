@@ -103,6 +103,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190727/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
+    <p class="block-date">日程：2019年7月27日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190727/" target="_blank">エルサレム<br>埼玉県岩槻のデイケアでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/hakuba1907z/" target="_blank"><img src="/2016/images/top/1706zenkokuhakuba.jpg"></a>
     <p class="block-date">日程：2019年7月15日～26日</p>
     <p class="block-title"><a href="http://astone.tv/events/hakuba1907z/" target="_blank">今日で最終日！<br>TLEA全国各教会メンバー<br>祝福いっぱいの白馬キャンプ<br>それぞれの地へ</a></p>
@@ -272,12 +280,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190720/" target="_blank">7月のリバイバルナイトの一日<br>カンボジア孤児院の子どもたち来日！出演！</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190720/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
     <p class="block-date">日程：2019年7月19日～20日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190720/" target="_blank">エルサレム<br>相馬のレストランでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
