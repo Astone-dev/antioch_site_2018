@@ -57,7 +57,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/gospel2017/190727/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
     <p class="block-date">日程：2019年7月27日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190727/" target="_blank">7月のゴスペルの集いの一日</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190727/" target="_blank">白馬キャンプの祝福いっぱいに<br>今日はゴスペルの集いの一日</a></p>
 </div>
 
 <div class="column-inner">
