@@ -55,9 +55,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/hakuba1907/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenzenkoku.jpg"></a>
-    <p class="block-date">日程：2019年7月15日～26日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1907/" target="_blank">今日で最終日！<br>東京アンテオケ教会メンバー<br>祝福いっぱいの白馬キャンプ</a></p>
+    <a href="http://antiochblog.jp/praise/gospel2017/190727/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+    <p class="block-date">日程：2019年7月27日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190727/" target="_blank">7月のゴスペルの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年7月27日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継');">ゴスペルの集い生中継<br>(日程：2019年7月27日 18:30スタート)</a></p>
 </div>
 
 <div class="column-inner">
@@ -87,25 +95,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/gospel2017/190727/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190727/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
     <p class="block-date">日程：2019年7月27日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190727/" target="_blank">7月のゴスペルの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年7月27日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継');">ゴスペルの集い生中継<br>(日程：2019年7月27日 18:30スタート)</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190727/" target="_blank">エルサレム<br>埼玉県岩槻のデイケアでゴスペルコンサート</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190727/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
-    <p class="block-date">日程：2019年7月27日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190727/" target="_blank">エルサレム<br>埼玉県岩槻のデイケアでゴスペルコンサート</a></p>
+    <a href="http://antiochblog.jp/info/hakuba1907/" target="_blank"><img src="/2016/images/top/1707hakubachokuzenzenkoku.jpg"></a>
+    <p class="block-date">日程：2019年7月15日～26日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/hakuba1907/" target="_blank">今日で最終日！<br>東京アンテオケ教会メンバー<br>祝福いっぱいの白馬キャンプ</a></p>
 </div>
 
 <div class="column-inner">
