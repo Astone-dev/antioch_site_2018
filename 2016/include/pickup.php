@@ -47,18 +47,20 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/eternal1907/" target="_blank"><img src="/2016/images/top/1907olympic_antioch.jpg"></a>
+    <p class="block-date">日程：2019年7月28日～8月4日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/eternal1907/" target="_blank">東京2020オリンピック開催まであと一年！<br>東京アンテオケ教会メンバーの一週間</a></p>
+</div>
+
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/info/dokidoki1907/" target="_blank"><img src="/2016/images/top/1907cambodiataizai.jpg"></a>
     <p class="block-date">日程：2019年7月20日～</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/dokidoki1907/" target="_blank">カンボジア孤児院から前田さんと子どもたち来日！<br>日本滞在記</a></p>
 </div>
 
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/eternal1907/" target="_blank"><img src="/2016/images/top/1907olympic_antioch.jpg"></a>
-    <p class="block-date">日程：2019年7月28日～8月4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/eternal1907/" target="_blank">東京2020オリンピック開催まであと一年！<br>東京アンテオケ教会メンバーの一週間</a></p>
-</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
