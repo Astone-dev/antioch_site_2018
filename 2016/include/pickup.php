@@ -63,6 +63,22 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/yorokobi1907/" target="_blank"><img src="/2016/images/top/1907contestyorokobi.jpg"></a>
+    <p class="block-date">日程：2019年7月26日～８月4日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1907/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬<br>喜び悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/u21kids1907/" target="_blank"><img src="/2016/images/top/1907contestu21kidsyorokobi.jpg"></a>
+    <p class="block-date">日程：2019年7月26日～８月4日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/u21kids1907/" target="_blank">J.GOSPELコンテストU21・KIDS ファイナル in 白馬<br>喜び悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/eternal1907z/" target="_blank"><img src="/2016/images/top/1907olympic_zenkoku.jpg"></a>
     <p class="block-date">日程：2019年7月28日～8月4日</p>
     <p class="block-title"><a href="http://astone.tv/events/eternal1907z/" target="_blank">東京2020オリンピック開催まであと一年！<br>TLEA全国各教会メンバーの一週間</a></p>
@@ -182,20 +198,6 @@
     <a href="http://antiochblog.jp/praise/gospel2017/190727/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
     <p class="block-date">日程：2019年7月27日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190727/" target="_blank">白馬キャンプの祝福いっぱいに<br>今日はゴスペルの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/yorokobi1907/" target="_blank"><img src="/2016/images/top/1907contestyorokobi.jpg"></a>
-    <p class="block-date">日程：2019年7月26日～８月4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1907/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬<br>喜び悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/u21kids1907/" target="_blank"><img src="/2016/images/top/1907contestu21kidsyorokobi.jpg"></a>
-    <p class="block-date">日程：2019年7月26日～８月4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/u21kids1907/" target="_blank">J.GOSPELコンテストU21・KIDS ファイナル in 白馬<br>喜び悲しみの一週間</a></p>
 </div>
 
 <div class="column-inner">
