@@ -81,7 +81,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/2017students/190728/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
     <p class="block-date">日程：2019年7月28日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/190728/" target="_blank">7月の学生会 流しそうめん</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/190728/" target="_blank">7月の学生会<br>今日は流しそうめん</a></p>
 </div>
 
 <div class="column-inner">
