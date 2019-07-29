@@ -55,14 +55,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/20190729praiseworship/" target="_blank"><img src="/2016/images/top/1806koreayouth.jpg"></a>
-    <p class="block-date">日程：2019年7月29日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/20190729praiseworship/" target="_blank">ラ・スポーザ、エウカリスティアス、パトリス、NAOMI<br>韓国系の集会でゴスペルを歌う</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/info/dokidoki1907/" target="_blank"><img src="/2016/images/top/1907cambodiataizai.jpg"></a>
     <p class="block-date">日程：2019年7月20日～</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/dokidoki1907/" target="_blank">カンボジア孤児院から前田さんと子どもたち来日！<br>日本滞在記</a></p>
@@ -199,6 +191,13 @@
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/20190729praiseworship/" target="_blank"><img src="/2016/images/top/1806koreayouth.jpg"></a>
+    <p class="block-date">日程：2019年7月29日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/20190729praiseworship/" target="_blank">ラ・スポーザ、エウカリスティアス、パトリス、NAOMI<br>韓国系の集会でゴスペルを歌う</a></p>
 </div>
 
 <div class="column-inner">
