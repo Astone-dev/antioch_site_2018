@@ -61,6 +61,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/cambodia1907/" target="_blank"><img src="/2016/images/top/1809cambodiateam.jpg"></a>
+    <p class="block-date">日程：2019年7月31日～</p>
+    <p class="block-title"><a href="http://astone.tv/events/cambodia1907/" target="_blank">今井さん<br>カンボジアに行く3日間</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201907hakuba-digest/" target="_blank"><img src="/2016/images/top/1907hakub_digest1_m.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
