@@ -65,7 +65,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/cambodia1907/" target="_blank"><img src="/2016/images/top/1809cambodiateam.jpg"></a>
     <p class="block-date">日程：2019年7月31日～</p>
-    <p class="block-title"><a href="http://astone.tv/events/cambodia1907/" target="_blank">今井さん<br>カンボジアに行く3日間</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/cambodia1907/" target="_blank">今井さん<br>カンボジアに行く4日間 </a></p>
 </div>
 
 <div class="column-inner">
