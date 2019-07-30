@@ -92,6 +92,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="https://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1907kokoro_info.jpg"></a>
+    <p class="block-date">日程：2019年8月15日</p>
+    <p class="block-title"><a href="https://gospelconcert.jp" target="_blank">いやしのコンサート<br>こころごすぺる<br>こころごすぺるインフォメーション</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/category/martyrdom/" target="_blank"><img src="/2016/images/top/1907jyunkyou_m.jpg"></a>
