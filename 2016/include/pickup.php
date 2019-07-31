@@ -39,14 +39,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/hokuriku1907/" target="_blank"><img src="/2016/images/top/1907hokuriku.jpg"></a>
-    <p class="block-date">日程：2019年7月28日～31日</p>
-    <p class="block-title"><a href="http://astone.tv/events/hokuriku1907/" target="_blank">梅雨明けの北陸を行く<br>北陸宣教の旅<br>(聖会日程 2019年7月29日〜31日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/eternal1907/" target="_blank"><img src="/2016/images/top/1907olympic_antioch.jpg"></a>
     <p class="block-date">日程：2019年7月28日～8月4日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/eternal1907/" target="_blank">東京2020オリンピック開催まであと一年！<br>東京アンテオケ教会メンバーの一週間</a></p>
@@ -207,6 +199,13 @@
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/hokuriku1907/" target="_blank"><img src="/2016/images/top/1907hokuriku.jpg"></a>
+    <p class="block-date">日程：2019年7月28日～31日</p>
+    <p class="block-title"><a href="http://astone.tv/events/hokuriku1907/" target="_blank">梅雨明けの北陸を行く<br>北陸宣教の旅<br>(聖会日程 2019年7月29日〜31日)</a></p>
 </div>
 
 <div class="column-inner">
