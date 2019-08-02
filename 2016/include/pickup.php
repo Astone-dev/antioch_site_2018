@@ -39,6 +39,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/1908tocari/" target="_blank"><img src="/2016/images/top/1805chari.jpg"></a>
+    <p class="block-date">日程：2019年8月3日～4日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1908tocari/" target="_blank">東京カリスマ聖会</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/eternal1907/" target="_blank"><img src="/2016/images/top/1907olympic_antioch.jpg"></a>
     <p class="block-date">日程：2019年7月28日～8月4日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/eternal1907/" target="_blank">東京2020オリンピック開催まであと一年！<br>東京アンテオケ教会メンバーの一週間</a></p>
@@ -255,60 +263,6 @@
     <a href="http://astone.tv/events/hakuba1907z/" target="_blank"><img src="/2016/images/top/1706zenkokuhakuba.jpg"></a>
     <p class="block-date">日程：2019年7月15日～26日</p>
     <p class="block-title"><a href="http://astone.tv/events/hakuba1907z/" target="_blank">今日で最終日！<br>TLEA全国各教会メンバー<br>祝福いっぱいの白馬キャンプ<br>それぞれの地へ</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/light1907/" target="_blank"><img src="/2016/images/top/1607jgospelzenkokukettei.jpg"></a>
-    <p class="block-date">日程：2019年7月15日～25日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/light1907/" target="_blank">いよいよ今日決戦！<br>J.GOSPELコンテスト ファイナル in 白馬<br>ドキドキの一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/light1907z/" target="_blank"><img src="/2016/images/top/1706sanbisyutujyou21kids.jpg"></a>
-    <p class="block-date">日程：2019年7月15日～24日</p>
-    <p class="block-title"><a href="http://astone.tv/events/light1907z/" target="_blank">いざ勝負！ J.GOSPELコンテストU21・KIDS ファイナル in 白馬に向かって<br>7.24決戦に向かって</a></p>
-</div>
-
-<div class="column-inner">
-    <a href="http://antiochblog.jp/praise/2018women/190721/" target="_blank"><img src="/2016/images/top/1709okefujin.jpg"></a>
-    <p class="block-date">日程：2019年7月21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190721/" target="_blank">2019年7月21日 婦人会 <br></a></p>
-</div>
-
-<div class="column-inner">
-    <a href="http://antiochblog.jp/praise/2017students/190721/" target="_blank"><img src="/2016/images/top/1701gakuseikai.jpg"></a>
-    <p class="block-date">日程：2019年7月21日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/190721/" target="_blank">2019年7月21日 学生会 <br></a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/1907yokosuka/" target="_blank"><img src="/2016/images/top/1801yokosuka.jpg"></a>
-    <p class="block-date">日程：2019年7月20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/1907yokosuka/" target="_blank">もうすぐ梅雨明けの関東を行く<br>横須賀聖会</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/revival2017/190720/" target="_blank"><img src="/2016/images/top/1705revivalnight.jpg"></a>
-    <p class="block-date">日程：2019年7月20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190720/" target="_blank">7月のリバイバルナイトの一日<br>カンボジア孤児院の子どもたち来日！出演！</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190720/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
-    <p class="block-date">日程：2019年7月19日～20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190720/" target="_blank">エルサレム<br>相馬のレストランでゴスペルコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/gracejewel2017/190719/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
-    <p class="block-date">日程：2019年7月20日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190719/" target="_blank">GRACEと宝石<br>高円寺のデイサービスアースサポートでコンサート</a></p>
 </div>
 
 <div class="column-inner">
