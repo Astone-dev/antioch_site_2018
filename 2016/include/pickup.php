@@ -41,7 +41,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/1908tocari/" target="_blank"><img src="/2016/images/top/1805chari.jpg"></a>
     <p class="block-date">日程：2019年8月3日～4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1908tocari/" target="_blank">東京カリスマ聖会</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1908tocari/" target="_blank">真夏の東京カリスマ聖会<br>スタッフ大忙し<br>(聖会日程：2019年8月4日)</a></p>
 </div>
 
 <div class="column-inner">
