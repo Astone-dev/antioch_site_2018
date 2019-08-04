@@ -44,6 +44,30 @@
     <p class="block-title"><a href="http://astone.tv/events/shikoku1908/" target="_blank">灼熱の四国を行く<br>四国宣教の旅<br>(聖会日程：2019年8月5日～6日)</a></p>
 </div>
 
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/faith1908/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
+    <p class="block-date">日程：2019年8月5日～11日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1908/" target="_blank">夏真っ盛り <br>東京アンテオケ教会メンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/kokorogospel1908/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
+    <p class="block-date">日程：2019年8月5日～11日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/kokorogospel1908/" target="_blank">こころごすぺるに向かって<br>出演グループとスタッフ大忙し</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/faith1908z/" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
+    <p class="block-date">日程：2019年8月5日～11日</p>
+    <p class="block-title"><a href="http://astone.tv/events/faith1908z/" target="_blank">夏真っ盛り<br>TLEA全国各教会メンバーの一週間</a></p>
+</div>-->
+
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
