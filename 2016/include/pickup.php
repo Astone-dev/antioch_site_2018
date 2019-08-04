@@ -44,7 +44,7 @@
     <p class="block-title"><a href="http://astone.tv/events/shikoku1908/" target="_blank">灼熱の四国を行く<br>四国宣教の旅<br>(聖会日程：2019年8月5日～6日)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/faith1908/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
@@ -66,22 +66,6 @@
     <a href="http://astone.tv/events/faith1908z/" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
     <p class="block-date">日程：2019年8月5日～11日</p>
     <p class="block-title"><a href="http://astone.tv/events/faith1908z/" target="_blank">夏真っ盛り<br>TLEA全国各教会メンバーの一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/1908tocari/" target="_blank"><img src="/2016/images/top/1805chari.jpg"></a>
-    <p class="block-date">日程：2019年8月3日～4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1908tocari/" target="_blank">真夏の東京カリスマ聖会<br>スタッフ大忙し<br>(聖会日程：2019年8月4日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/eternal1907/" target="_blank"><img src="/2016/images/top/1907olympic_antioch.jpg"></a>
-    <p class="block-date">日程：2019年7月28日～8月4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/eternal1907/" target="_blank">東京2020オリンピック開催まであと一年！<br>東京アンテオケ教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
@@ -93,14 +77,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/cambodia1907/" target="_blank"><img src="/2016/images/top/1809cambodiateam.jpg"></a>
-    <p class="block-date">日程：2019年7月31日～</p>
-    <p class="block-title"><a href="http://astone.tv/events/cambodia1907/" target="_blank">今井さん<br>カンボジアに行く4日間 </a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201907hakuba-digest/" target="_blank"><img src="/2016/images/top/1907hakub_digest1_m.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
@@ -108,27 +84,11 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
+    <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/yorokobi1907/" target="_blank"><img src="/2016/images/top/1907contestyorokobi.jpg"></a>
-    <p class="block-date">日程：2019年7月26日～８月4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1907/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬<br>喜び悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/u21kids1907/" target="_blank"><img src="/2016/images/top/1907contestu21kidsyorokobi.jpg"></a>
-    <p class="block-date">日程：2019年7月26日～８月4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/u21kids1907/" target="_blank">J.GOSPELコンテストU21・KIDS ファイナル in 白馬<br>喜び悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/eternal1907z/" target="_blank"><img src="/2016/images/top/1907olympic_zenkoku.jpg"></a>
-    <p class="block-date">日程：2019年7月28日～8月4日</p>
-    <p class="block-title"><a href="http://astone.tv/events/eternal1907z/" target="_blank">東京2020オリンピック開催まであと一年！<br>TLEA全国各教会メンバーの一週間</a></p>
+    <a href="http://tv.antioch.jp/digest/201908-kokogos-cm/" target="_blank"><img src="/2016/images/top/1907kokoro_cm_m.jpg"></a>
+    <p class="block-date">日程：2019年8月15日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201908-kokogos-cm/" target="_blank">いやしのコンサート<br>こころに深く<br>こころごすぺる紹介動画</a></p>
 </div>
 
 <div class="column-inner">
@@ -235,10 +195,52 @@
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
+</div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/1908tocari/" target="_blank"><img src="/2016/images/top/1805chari.jpg"></a>
+    <p class="block-date">日程：2019年8月3日～4日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1908tocari/" target="_blank">真夏の東京カリスマ聖会<br>スタッフ大忙し<br>(聖会日程：2019年8月4日)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/eternal1907/" target="_blank"><img src="/2016/images/top/1907olympic_antioch.jpg"></a>
+    <p class="block-date">日程：2019年7月28日～8月4日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/eternal1907/" target="_blank">東京2020オリンピック開催まであと一年！<br>東京アンテオケ教会メンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/cambodia1907/" target="_blank"><img src="/2016/images/top/1809cambodiateam.jpg"></a>
+    <p class="block-date">日程：2019年7月31日～</p>
+    <p class="block-title"><a href="http://astone.tv/events/cambodia1907/" target="_blank">今井さん<br>カンボジアに行く4日間 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/yorokobi1907/" target="_blank"><img src="/2016/images/top/1907contestyorokobi.jpg"></a>
+    <p class="block-date">日程：2019年7月26日～８月4日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1907/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬<br>喜び悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/u21kids1907/" target="_blank"><img src="/2016/images/top/1907contestu21kidsyorokobi.jpg"></a>
+    <p class="block-date">日程：2019年7月26日～８月4日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/u21kids1907/" target="_blank">J.GOSPELコンテストU21・KIDS ファイナル in 白馬<br>喜び悲しみの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/eternal1907z/" target="_blank"><img src="/2016/images/top/1907olympic_zenkoku.jpg"></a>
+    <p class="block-date">日程：2019年7月28日～8月4日</p>
+    <p class="block-title"><a href="http://astone.tv/events/eternal1907z/" target="_blank">東京2020オリンピック開催まであと一年！<br>TLEA全国各教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
