@@ -39,8 +39,8 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank"><img src="/2016/images/top/1908seminar190804.jpg"></a>
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank">【セミナー】悪霊はいるのか</a></p>
+    <a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank" onclick="javascript:pageTracker._trackPageview('【セミナー】悪霊はいるのか'); "><img src="/2016/images/top/1908seminar190804.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank" onclick="javascript:pageTracker._trackPageview('【セミナー】悪霊はいるのか');">【セミナー】<br>悪霊はいるのか</a></p>
 </div>
 
 <div class="column-inner">
