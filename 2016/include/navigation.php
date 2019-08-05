@@ -105,7 +105,7 @@
               <li><a href="/onsei/carisma.html">日曜第7礼拝・カリスマ聖会</a></li>
               <li><a href="/muti-lang/eng/contents/onsei/">インターナショナルサービス</a></li>
               <li><a href="http://atv.antioch.jp/ministry/category/young/" target="_blank">ヤング礼拝</a></li>
-              <li><a href="/internet-tv/">GLTV</a></li>
+              <li><a href="https://www.youtube.com/user/GLTVJP">GLTV</a></li>
               <li><a href="http://movie.antioch.jp/keypoint/download/">クリスチャンのキーポイント</a></li>
               <li><a href="http://tv.antioch.jp/digest/download/">過去の動画</a></li>
             </ul>

@@ -70,6 +70,22 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://astone.tv/events/yobi1908/" target="_blank"><img src="/2016/images/top/1607cambodiajapan_m.jpg"></a>
+    <p class="block-date">日程：2019年8月6日</p>
+    <p class="block-title"><a href="http://astone.tv/events/yobi1908/" target="_blank">カンボジア孤児院　現地報告会＆チャリティーコンサート<br> Gifts、Follow Godも歌う</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gracejewel2017/190806/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
+    <p class="block-date">日程：2019年8月6日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190806/" target="_blank">GRACEと宝石<br>中野のデイサービス せらび新宿でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/faith1908z/" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
     <p class="block-date">日程：2019年8月5日～11日</p>
     <p class="block-title"><a href="http://astone.tv/events/faith1908z/" target="_blank">夏真っ盛り<br>TLEA全国各教会メンバーの一週間</a></p>
