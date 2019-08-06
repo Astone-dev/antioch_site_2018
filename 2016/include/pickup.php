@@ -224,7 +224,7 @@
     <span class="label-1">ブログ</span>
     <a href="http://astone.tv/events/yobi1908/" target="_blank"><img src="/2016/images/top/1908cambodiahoukoku.jpg"></a>
     <p class="block-date">日程：2019年8月6日</p>
-    <p class="block-title"><a href="http://astone.tv/events/yobi1908/" target="_blank">カンボジア孤児院　現地報告会＆チャリティーコンサート<br> Gifts、Follow Godも歌う</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/yobi1908/" target="_blank">カンボジア孤児院　現地報告会＆チャリティーコンサート<br>Gifts、Follow Godも歌う</a></p>
 </div>
 
 <div class="column-inner">
