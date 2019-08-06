@@ -101,6 +101,13 @@
 
 <div class="column-inner">
     <span class="label-2">動画</span>
+    <a href="http://tv.antioch.jp/digest/201907-hakuba-contest-ver/" target="_blank"><img src="/2016/images/top/1908gospelcontest_m.jpg"></a>
+    <p class="block-date">キャンプ：2019年7月23日〜26日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201907-hakuba-contest-ver/" target="_blank">白馬キャンプ 2019<br>ダイジェスト映像<br>J.GOSPELコンテスト2019 Ver.</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201907hakuba-digest/" target="_blank"><img src="/2016/images/top/1907hakub_digest1_m.jpg"></a>
     <p class="block-date">キャンプ：2019年7月23日〜26日</p>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201907hakuba-digest/" target="_blank">白馬キャンプ 2019<br>ダイジェスト映像</a></p>
@@ -198,18 +205,24 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/comeback/" target="_blank">クリスチャンの寄り道 Vol.39<br>今回は「かつて苦手だったことが逆転した話し」です</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/movetotears/" target="_blank"><img src="/2016/images/top/1905yorimichi38.jpg"></a>
     <p class="block-date">毎日7:00更新</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/movetotears/" target="_blank">クリスチャンの寄り道 Vol.38<br>今回は「感動で思わず涙がこぼれ落ちた体験」のお話です</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span>NEW</span>
+    <a href="https://tokyo.antioch.jp/yorimichi/result-movetotears.html" target="_blank"><img src="/2016/images/top/1908yorimichi38kekka.jpg"></a>
+    <p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-movetotears.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.38<br>「感動で思わず涙がこぼれ落ちた体験」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
+</div>
+
+<!--<div class="column-inner">
+    <span>NEW</span>
     <a href="https://tokyo.antioch.jp/yorimichi/result-movie.html" target="_blank"><img src="/2016/images/top/1905yorimichi37kekka.jpg"></a>
     <p class="block-title"><a href="https://tokyo.antioch.jp/yorimichi/result-movie.html" target="_blank">ついに決定！<br>クリスチャンの寄り道 Vol.37<br>「まるで映画のようだと思った出来事」のお話し人気ベスト10<br>ぜひお聴きください。</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span>NEW</span>
