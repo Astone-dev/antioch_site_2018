@@ -109,25 +109,29 @@ foreach ($rss->items as $item ) {
     */
     // echo "TEST obata 0";
 
-    //php でwget によるデータ取得
-    // wget の参照 http://itpro.nikkeibp.co.jp/article/COLUMN/20060228/230995/?rt=nocnt
-        
-    // echo "TEST obata";
-    // echo $img;
-    // passthru("wget -nv -N -O ".$tmp_img_dir." ".$img."  > /dev/null 2>&1", $ret);
-    passthru("wget -nv -N -P ../..".$tmp_img_dir." ".$img."  > /dev/null 2>&1", $ret);
-    // echo $ret; //wget エラー時は $ret に0以外の値が入る
-
-    if ($ret == 0){
-        // ファイルパスの指定
-        //参照: https://mail.google.com/mail/u/0/?tab=wm#sent/163f451258e92c0c
-        $img = strrchr( $img, "/" );// /postname.html
-        $img = substr( $img, 1 );// postname.html
-
-        $img = $tmp_img_dir."/".$img;
-        // echo $img;
-
+    if ($img === ""){
         touch($timestamp_file);
+    }else{
+        //php でwget によるデータ取得
+        // wget の参照 http://itpro.nikkeibp.co.jp/article/COLUMN/20060228/230995/?rt=nocnt
+        
+        // echo "TEST obata";
+        // echo $img;
+        // passthru("wget -nv -N -O ".$tmp_img_dir." ".$img."  > /dev/null 2>&1", $ret);
+        passthru("wget -nv -N -P ../..".$tmp_img_dir." ".$img."  > /dev/null 2>&1", $ret);
+        // echo $ret; //wget エラー時は $ret に0以外の値が入る
+
+        if ($ret == 0){
+            // ファイルパスの指定
+            //参照: https://mail.google.com/mail/u/0/?tab=wm#sent/163f451258e92c0c
+            $img = strrchr( $img, "/" );// /postname.html
+            $img = substr( $img, 1 );// postname.html
+
+            $img = $tmp_img_dir."/".$img;
+            // echo $img;
+
+            touch($timestamp_file);
+        }
     }
 
     $out_str = '<aside class="news__article"><a href="'. $link .' " target="_brank"><div class="news__article-img" style="background-image:url(\''. $img . '\');"></div><div><p class="news__article-day">'.date("Y/n/j", strtotime( $item['pubdate'] )).'</p><p class="news__article-title">'. $title .'</p></div></a></aside>';
