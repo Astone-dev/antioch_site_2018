@@ -87,7 +87,7 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190810/" target="_blank"><img src="/2016/images/top/1608jerumisatocafe.jpg"></a>
-    <p class="block-date">日程：2019年8月9日～</p>
+    <p class="block-date">日程：2019年8月10日 </p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190810/" target="_blank">エルサレム <br>埼玉県岩槻西グループホームでゴスペルコンサート</a></p>
 </div>
 
