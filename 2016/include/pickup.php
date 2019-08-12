@@ -70,33 +70,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/light1908/" target="_blank"><img src="/2016/images/top/1903truemarv.jpg"></a>
-    <p class="block-date">日程：2019年8月12日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/light1908/" target="_blank">TrueVine、マーベラスライト<br>東久留米の施設でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/euqaristias/20190812gospel/ " target="_blank"><img src="/2016/images/top/1708euq.jpg"></a>
-    <p class="block-date">日程：2019年8月12日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190812gospel/ " target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/1908fes/" target="_blank"><img src="/2016/images/top/1905truthyokosuka.jpg"></a>
-    <p class="block-date">日程：2019年8月12日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1908fes/" target="_blank">Truth　横須賀で歌う</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gracious/190812/" target="_blank"><img src="/2016/images/top/1701gracioustonai.jpg"></a>
-    <p class="block-date">日程：2019年8月12日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190812/" target="_blank">GRACIOUS DOORS<br>都内のデイサービスで、ボランティア・コンサート</a></p>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190813/" target="_blank"><img src="/2016/images/top/1608jerumisatocafe.jpg"></a>
+    <p class="block-date">日程：2019年8月13日 </p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190813/" target="_blank">エルサレム <br>三郷のアカシアの家オレンジカフェでコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -247,6 +223,34 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/light1908/" target="_blank"><img src="/2016/images/top/1903truemarv.jpg"></a>
+    <p class="block-date">日程：2019年8月12日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/light1908/" target="_blank">TrueVine、マーベラスライト<br>東久留米の施設でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/euqaristias/20190812gospel/ " target="_blank"><img src="/2016/images/top/1708euq.jpg"></a>
+    <p class="block-date">日程：2019年8月12日</p>
+    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190812gospel/ " target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/1908fes/" target="_blank"><img src="/2016/images/top/1905truthyokosuka.jpg"></a>
+    <p class="block-date">日程：2019年8月12日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1908fes/" target="_blank">Truth　横須賀で歌う</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/gracious/190812/" target="_blank"><img src="/2016/images/top/1701gracioustonai.jpg"></a>
+    <p class="block-date">日程：2019年8月12日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190812/" target="_blank">GRACIOUS DOORS<br>都内のデイサービスで、ボランティア・コンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/faith1908/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
     <p class="block-date">日程：2019年8月5日～11日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/faith1908/" target="_blank">夏真っ盛り <br>東京アンテオケ教会メンバーの一週間</a></p>
@@ -273,12 +277,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/dokidoki1907/" target="_blank">カンボジア孤児院から前田さんと子どもたち来日！<br>日本滞在記</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190810/" target="_blank"><img src="/2016/images/top/1608jerumisatocafe.jpg"></a>
     <p class="block-date">日程：2019年8月10日 </p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190810/" target="_blank">エルサレム <br>埼玉県岩槻西グループホームでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
