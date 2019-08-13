@@ -148,12 +148,12 @@
     <p class="block-title"><a href="http://tv.antioch.jp/digest/2019hakuba-cm/" target="_blank">白馬スネルゴイキャンプ<br>CM映像<br>(再生時間 2:17)</a></p>
 </div>-->
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="https://www.youtube.com/watch?v=AI-mZ4u3zWw" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV'); "><img src="/2016/images/top/190625giftstv.jpg"></a>
     <p class="block-title"><a href="https://www.youtube.com/watch?v=AI-mZ4u3zWw" target="_blank" onclick="javascript:pageTracker._trackPageview('GiftsTV');">GiftsTV ＃43<br>ゴスペルグループGiftsの<br>ワイワイYouTube動画<br>(6月25日UP!)</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span>NEW</span>
