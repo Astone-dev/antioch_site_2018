@@ -41,7 +41,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/kokorogospel1908/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
     <p class="block-date">日程：2019年8月5日～15日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/kokorogospel1908/" target="_blank">こころごすぺるに向かって<br>出演グループとスタッフ大忙し</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/kokorogospel1908/" target="_blank">いよいよ今日本番！<br>こころごすぺる<br>出演グループとスタッフ大忙し<br>19:00開演</a></p>
 </div>
 
 <div class="column-inner">
