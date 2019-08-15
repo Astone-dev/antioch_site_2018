@@ -289,69 +289,6 @@
     <p class="block-title"><a href="https://blog.antioch.jp/gateofpraise/category/190809/" target="_blank">The Gate of Praise <br>練馬区の老健でコンサート</a></p>
 </div>
 
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/shikoku1908/" target="_blank"><img src="/2016/images/top/1703shikoku.jpg"></a>
-    <p class="block-date">日程：2019年8月4日～6日</p>
-    <p class="block-title"><a href="http://astone.tv/events/shikoku1908/" target="_blank">灼熱の四国を行く<br>四国宣教の旅<br>(聖会日程：2019年8月5日～6日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/yobi1908/" target="_blank"><img src="/2016/images/top/1908cambodiahoukoku.jpg"></a>
-    <p class="block-date">日程：2019年8月6日</p>
-    <p class="block-title"><a href="http://astone.tv/events/yobi1908/" target="_blank">カンボジア孤児院　現地報告会＆チャリティーコンサート<br>Gifts、Follow Godも歌う</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/gracejewel2017/190806/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
-    <p class="block-date">日程：2019年8月6日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190806/" target="_blank">GRACEと宝石<br>中野のデイサービス せらび新宿でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/1908tocari/" target="_blank"><img src="/2016/images/top/1805chari.jpg"></a>
-    <p class="block-date">日程：2019年8月3日～4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1908tocari/" target="_blank">真夏の東京カリスマ聖会<br>スタッフ大忙し<br>(聖会日程：2019年8月4日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/eternal1907/" target="_blank"><img src="/2016/images/top/1907olympic_antioch.jpg"></a>
-    <p class="block-date">日程：2019年7月28日～8月4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/eternal1907/" target="_blank">東京2020オリンピック開催まであと一年！<br>東京アンテオケ教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/cambodia1907/" target="_blank"><img src="/2016/images/top/1809cambodiateam.jpg"></a>
-    <p class="block-date">日程：2019年7月31日～</p>
-    <p class="block-title"><a href="http://astone.tv/events/cambodia1907/" target="_blank">今井さん<br>カンボジアに行く4日間 </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/yorokobi1907/" target="_blank"><img src="/2016/images/top/1907contestyorokobi.jpg"></a>
-    <p class="block-date">日程：2019年7月26日～８月4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1907/" target="_blank">J.GOSPELコンテスト ファイナル in 白馬<br>喜び悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/u21kids1907/" target="_blank"><img src="/2016/images/top/1907contestu21kidsyorokobi.jpg"></a>
-    <p class="block-date">日程：2019年7月26日～８月4日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/u21kids1907/" target="_blank">J.GOSPELコンテストU21・KIDS ファイナル in 白馬<br>喜び悲しみの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/eternal1907z/" target="_blank"><img src="/2016/images/top/1907olympic_zenkoku.jpg"></a>
-    <p class="block-date">日程：2019年7月28日～8月4日</p>
-    <p class="block-title"><a href="http://astone.tv/events/eternal1907z/" target="_blank">東京2020オリンピック開催まであと一年！<br>TLEA全国各教会メンバーの一週間</a></p>
-</div>
-
 <!--ここから固定-->
 
 <div class="column-inner">
