@@ -57,7 +57,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/summer1908z/" target="_blank"><img src="/2016/images/top/1806chichinohizenkoku.jpg"></a>
     <p class="block-date">日程：2019年8月12日～18日</p>
-    <p class="block-title"><a href="http://astone.tv/events/summer1908z/" target="_blank">夏休み本番<br>TLEA全国各教会メンバーの一週間</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/summer1908z/" target="_blank">夏休み本番<br>TLEA全国各教会メンバーの一週間　</a></p>
 </div>
 
 <div class="column-inner">
