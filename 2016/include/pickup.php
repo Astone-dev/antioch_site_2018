@@ -47,6 +47,22 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/revival2017/190817/" target="_blank"><img src="/2016/images/top/1609revivalnight.jpg"></a>
+    <p class="block-date">日程：2019年8月17日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190817/" target="_blank">8月のリバイバルナイトの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('リバイバルナイト生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年8月17日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('リバイバルナイト生中継');">リバイバルナイト生中継<br>(日程：2019年8月17日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/info/hibiki1908/" target="_blank"><img src="/2016/images/top/1805kasyuoubostert.jpg"></a>
     <p class="block-date">日程：2019年8月12日～18日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/hibiki1908/" target="_blank">締め切り迫る！最後の追い込み！<br>風のひびき7集作詞・作曲者の一週間</a></p>
