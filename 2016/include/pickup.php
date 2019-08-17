@@ -47,25 +47,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/giftstruevine1908/" target="_blank"><img src="/2016/images/top/1805shokazenkoku.jpg"></a>
-    <p class="block-date">日程：2019年8月17日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/giftstruevine1908/" target="_blank">TrueVine、Gifts<br>甲府でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/revival2017/190817/" target="_blank"><img src="/2016/images/top/1609revivalnight.jpg"></a>
-    <p class="block-date">日程：2019年8月17日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190817/" target="_blank">8月のリバイバルナイトの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('リバイバルナイト生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年8月17日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('リバイバルナイト生中継');">リバイバルナイト生中継<br>(日程：2019年8月17日 18:30スタート)</a></p>
+    <a href="http://antiochblog.jp/praise/2018women/190818/" target="_blank"><img src="/2016/images/top/1701fujinkai.jpg"></a>
+    <p class="block-date">日程：2019年8月18日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190818/" target="_blank">8月の婦人会の一日</a></p>
 </div>
 
 <div class="column-inner">
@@ -226,6 +210,20 @@
     <span class="label-2">動画</span>
     <a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank" onclick="javascript:pageTracker._trackPageview('【セミナー】悪霊はいるのか'); "><img src="/2016/images/top/1908seminar190804.jpg"></a>
     <p class="block-title"><a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank" onclick="javascript:pageTracker._trackPageview('【セミナー】悪霊はいるのか');">【セミナー】<br>悪霊はいるのか<br>講師：パウロ秋元牧師</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/giftstruevine1908/" target="_blank"><img src="/2016/images/top/1805shokazenkoku.jpg"></a>
+    <p class="block-date">日程：2019年8月17日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/giftstruevine1908/" target="_blank">TrueVine、Gifts<br>甲府でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/revival2017/190817/" target="_blank"><img src="/2016/images/top/1609revivalnight.jpg"></a>
+    <p class="block-date">日程：2019年8月17日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190817/" target="_blank">8月のリバイバルナイトの一日</a></p>
 </div>
 
 <div class="column-inner">
