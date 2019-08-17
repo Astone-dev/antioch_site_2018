@@ -47,6 +47,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/giftstruevine1908/" target="_blank"><img src="/2016/images/top/1805shokazenkoku.jpg"></a>
+    <p class="block-date">日程：2019年8月17日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/giftstruevine1908/" target="_blank">TrueVine、Gifts<br>甲府でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/info/revival2017/190817/" target="_blank"><img src="/2016/images/top/1609revivalnight.jpg"></a>
     <p class="block-date">日程：2019年8月17日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190817/" target="_blank">8月のリバイバルナイトの一日</a></p>
