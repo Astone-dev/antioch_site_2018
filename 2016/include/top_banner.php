@@ -18,8 +18,8 @@
   <p class="block-title"><span><a href="/hakuba/">白馬キャンプ（夏）</a><br><a href="/hakuba-synerugoi/">白馬スネルゴイキャンプ（冬）</a></span></p>
 </div>
 
-<div class="column-inner"> <a href="http://gospelconcert.jp/" target="_blank"><img src="/2016/images/top/bt_kokoro.jpg"></a>
-  <p class="block-title"><span><a href="http://gospelconcert.jp/" target="_blank">こころごすぺる<br>ゴスペルコンサート</a></span></p>
+<div class="column-inner"> <a href="https://gospelconcert.jp/" target="_blank"><img src="/2016/images/top/bt_kokoro.jpg"></a>
+  <p class="block-title"><span><a href="https://gospelconcert.jp/" target="_blank">こころごすぺる<br>ゴスペルコンサート</a></span></p>
 </div>
 
 <div class="column-inner"> <a href="http://gltv.jp/" target="_blank"><img src="/2016/images/top/bt_gltv.jpg"></a>

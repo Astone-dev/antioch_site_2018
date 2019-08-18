@@ -67,7 +67,7 @@
               <li><a href="http://www.astone.co.jp/">アストン株式会社</a></li>
               <li><a href="http://astone.tv/film-mission/">映画ミッション</a></li>
               <li><a href="http://tlccc.net/prayer/">祈りのミッション</a></li>
-              <li><a href="http://thevision.co.jp/">The Vision</a></li>
+              <li><a href="https://thevision.co.jp/">The Vision</a></li>
             </ul>
           </div>
         </li>
