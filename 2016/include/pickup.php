@@ -56,8 +56,8 @@
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/hibiki1908/" target="_blank"><img src="/2016/images/top/1805kasyuoubostert.jpg"></a>
-    <p class="block-date">日程：2019年8月12日～18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/hibiki1908/" target="_blank">締め切り迫る！最後の追い込み！<br>風のひびき7集作詞・作曲者の一週間</a></p>
+    <p class="block-date">日程：2019年8月12日～25日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/hibiki1908/" target="_blank">いよいよこれが本当に締め切り<br>作詞作曲者の猛烈な追い込み</a></p>
 </div>
 
 <div class="column-inner">
