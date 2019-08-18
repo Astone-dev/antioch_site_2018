@@ -63,6 +63,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://astone.tv/events/2017byhisspirit/190818/" target="_blank"><img src="/2016/images/top/1607byhissetagaya.jpg"></a>
+    <p class="block-date">日程：2019年8月18日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190818/" target="_blank">By His spirit<br>高円寺の行列のできるフレンチレストランでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/summer1908z/" target="_blank"><img src="/2016/images/top/1806chichinohizenkoku.jpg"></a>
     <p class="block-date">日程：2019年8月12日～18日</p>
     <p class="block-title"><a href="http://astone.tv/events/summer1908z/" target="_blank">夏休み本番<br>TLEA全国各教会メンバーの一週間　</a></p>
