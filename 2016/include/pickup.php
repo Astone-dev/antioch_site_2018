@@ -93,22 +93,6 @@
 <div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
-    <a href="http://tv.antioch.jp/digest/201908-kokogos-cm/" target="_blank"><img src="/2016/images/top/1907kokoro_cm_m.jpg"></a>
-    <p class="block-date">日程：2019年8月15日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201908-kokogos-cm/" target="_blank">いやしのコンサート<br>こころに深く<br>こころごすぺる紹介動画</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="https://gospelconcert.jp" target="_blank"><img src="/2016/images/top/1907kokoro_info.jpg"></a>
-    <p class="block-date">日程：2019年8月15日</p>
-    <p class="block-title"><a href="https://gospelconcert.jp" target="_blank">いやしのコンサート<br>こころに深く<br>こころごすぺるのご案内<br>(日程 2019年8月15日)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/category/martyrdom/" target="_blank"><img src="/2016/images/top/1907jyunkyou_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/category/martyrdom/" target="_blank">動画で見る<br>日本二十六聖人の殉教と殉教の歴史<br>アニメからドキュメンタリーまで10本の感動的な動画を集めました！</a></p>
 </div>
