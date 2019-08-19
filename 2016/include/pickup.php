@@ -70,55 +70,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190819/" target="_blank"><img src="/2016/images/top/1608jerumisatocafe.jpg"></a>
-    <p class="block-date">日程：2019年8月19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190819/" target="_blank">エルサレム<br>三郷市のグルーブホームでゴスペル教室</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://astone.tv/events/agape1908z/" target="_blank"><img src="/2016/images/top/1608mouretsuzenkoku.jpg"></a>
     <p class="block-date">日程：2019年8月19日～25日</p>
     <p class="block-title"><a href="http://astone.tv/events/agape1908z/" target="_blank">まだまだ続く<br>TLEA全国各教会の夏休み</a></p>
-</div>
-
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/summer1908/" target="_blank"><img src="/2016/images/top/1806chichinohiantioch.jpg"></a>
-    <p class="block-date">日程：2019年8月12日～18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/summer1908/" target="_blank">夏休み本番 <br>東京アンテオケ教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/2018women/190818/" target="_blank"><img src="/2016/images/top/1701fujinkai.jpg"></a>
-    <p class="block-date">日程：2019年8月18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190818/" target="_blank">8月の婦人会の一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/hibiki1908/" target="_blank"><img src="/2016/images/top/1805kasyuoubostert.jpg"></a>
-    <p class="block-date">日程：2019年8月12日～25日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/hibiki1908/" target="_blank">いよいよこれが本当に締め切り<br>作詞、作曲者の猛烈な追い込み</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017byhisspirit/190818/" target="_blank"><img src="/2016/images/top/1607byhissetagaya.jpg"></a>
-    <p class="block-date">日程：2019年8月18日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190818/" target="_blank">By His spirit<br>高円寺の行列のできるフレンチレストランでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/summer1908z/" target="_blank"><img src="/2016/images/top/1806chichinohizenkoku.jpg"></a>
-    <p class="block-date">日程：2019年8月12日～18日</p>
-    <p class="block-title"><a href="http://astone.tv/events/summer1908z/" target="_blank">夏休み本番<br>TLEA全国各教会メンバーの一週間　</a></p>
 </div>
 
 <div class="column-inner">
@@ -248,6 +202,43 @@
     <a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank" onclick="javascript:pageTracker._trackPageview('【セミナー】悪霊はいるのか'); "><img src="/2016/images/top/1908seminar190804.jpg"></a>
     <p class="block-title"><a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank" onclick="javascript:pageTracker._trackPageview('【セミナー】悪霊はいるのか');">【セミナー】<br>悪霊はいるのか<br>講師：パウロ秋元牧師</a></p>
 </div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190819/" target="_blank"><img src="/2016/images/top/1608jerumisatocafe.jpg"></a>
+    <p class="block-date">日程：2019年8月19日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190819/" target="_blank">エルサレム<br>三郷市のグルーブホームでゴスペル教室</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/summer1908/" target="_blank"><img src="/2016/images/top/1806chichinohiantioch.jpg"></a>
+    <p class="block-date">日程：2019年8月12日～18日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/summer1908/" target="_blank">夏休み本番 <br>東京アンテオケ教会メンバーの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/2018women/190818/" target="_blank"><img src="/2016/images/top/1701fujinkai.jpg"></a>
+    <p class="block-date">日程：2019年8月18日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190818/" target="_blank">8月の婦人会の一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/2017byhisspirit/190818/" target="_blank"><img src="/2016/images/top/1607byhissetagaya.jpg"></a>
+    <p class="block-date">日程：2019年8月18日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190818/" target="_blank">By His spirit<br>高円寺の行列のできるフレンチレストランでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/summer1908z/" target="_blank"><img src="/2016/images/top/1806chichinohizenkoku.jpg"></a>
+    <p class="block-date">日程：2019年8月12日～18日</p>
+    <p class="block-title"><a href="http://astone.tv/events/summer1908z/" target="_blank">夏休み本番<br>TLEA全国各教会メンバーの一週間　</a></p>
+</div>
+
+
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
