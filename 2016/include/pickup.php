@@ -36,7 +36,7 @@
     <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>(毎日AM5:00UP!)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/agape1908/" target="_blank"><img src="/2016/images/top/1608mouretsuantioch.jpg"></a>
@@ -52,13 +52,13 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/hibiki1908/" target="_blank">いよいよこれが本当に締め切り締め切り迫る！最後の追い込み！<br>風のひびき7集作詞・作曲者の一週間</a></p>
 </div>
 
-<div class="column-inner">
+<!--div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/familycamp1908/" target="_blank"><img src="/2016/images/top/1708familyday.jpg"></a>
     <p class="block-date">日程：2019年8月19日～22日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/familycamp1908/" target="_blank">秋川渓谷で大暴れ！ <br>ファミリーデイキャンプ</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
