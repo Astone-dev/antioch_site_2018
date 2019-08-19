@@ -74,7 +74,7 @@
     <a href="http://astone.tv/events/agape1908z/" target="_blank"><img src="/2016/images/top/1608mouretsuzenkoku.jpg"></a>
     <p class="block-date">日程：2019年8月19日～25日</p>
     <p class="block-title"><a href="http://astone.tv/events/agape1908z/" target="_blank">まだまだ続く <br> TLEA全国各教会の夏休み</a></p>
-</div>-->
+</div>
 
 
 <div class="column-inner">
