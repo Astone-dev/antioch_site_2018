@@ -52,13 +52,21 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/hibiki1908/" target="_blank">いよいよこれが本当に締め切り締め切り迫る！最後の追い込み！<br>風のひびき7集作詞・作曲者の一週間</a></p>
 </div>
 
-<!--div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/familycamp1908/" target="_blank"><img src="/2016/images/top/1708familyday.jpg"></a>
-    <p class="block-date">日程：2019年8月19日～22日</p>
+    <p class="block-date">日程：2019年8月22日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/familycamp1908/" target="_blank">秋川渓谷で大暴れ！ <br>ファミリーデイキャンプ</a></p>
-</div>-->
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/patolis/190822/" target="_blank"><img src="/2016/images/top/1709patolisnerima.jpg"></a>
+    <p class="block-date">日程：2019年8月22日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190822/" target="_blank">PATOLIS <br>練馬区デイサービス施設でコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-2">動画</span>
