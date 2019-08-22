@@ -62,9 +62,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="https://blog.antioch.jp/gateofpraise/category/190809/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+    <a href="https://blog.antioch.jp/gateofpraise/category/190823/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
     <p class="block-date">日程：2019年8月23日</p>
-    <p class="block-title"><a href="https://blog.antioch.jp/gateofpraise/category/190809/" target="_blank">The Gate of Praise <br>杉並区の施設でコンサート</a></p>
+    <p class="block-title"><a href="https://blog.antioch.jp/gateofpraise/category/190823/" target="_blank">The Gate of Praise <br>杉並区の施設でコンサート</a></p>
 </div>
 
 <div class="column-inner">
