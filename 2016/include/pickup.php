@@ -53,6 +53,38 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/1908ebisu/" target="_blank"><img src="/2016/images/top/1708giftsjoyebisu.jpg"></a>
+    <p class="block-date">日程：2019年8月24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/1908ebisu/" target="_blank">Gifts、JOY<br>恵比寿ガーデンプレイスでゴスペルを歌う</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/2017labeille/190824/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
+    <p class="block-date">日程：2019年8月24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190824/" target="_blank">ラベイユ <br>荒川区の福祉施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gospel2017/190824/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
+    <p class="block-date">日程：2019年8月24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190824/" target="_blank">8月のゴスペルの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年8月24日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継');">ゴスペルの集い生中継<br>(日程：2019年8月24日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/20190815-kokogos-dst/" target="_blank"><img src="/2016/images/top/1908kokoro_digest_m.jpg"></a>
     <p class="block-date">日程：2019年8月15日</p>
@@ -62,9 +94,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="https://blog.antioch.jp/gateofpraise/category/190823/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
-    <p class="block-date">日程：2019年8月23日</p>
-    <p class="block-title"><a href="https://blog.antioch.jp/gateofpraise/category/190823/" target="_blank">The Gate of Praise <br>杉並区の施設でコンサート</a></p>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190824/" target="_blank"><img src="/2016/images/top/1608jerumisatocafe.jpg"></a>
+    <p class="block-date">日程：2019年8月24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190824/" target="_blank">エルサレム<br>三郷市のグルーブホームでゴスペル教室</a></p>
 </div>
 
 <div class="column-inner">
@@ -205,6 +237,13 @@
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
+    <a href="https://blog.antioch.jp/gateofpraise/category/190823/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
+    <p class="block-date">日程：2019年8月23日</p>
+    <p class="block-title"><a href="https://blog.antioch.jp/gateofpraise/category/190823/" target="_blank">The Gate of Praise <br>杉並区の施設でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/familycamp1908/" target="_blank"><img src="/2016/images/top/1708familyday.jpg"></a>
     <p class="block-date">日程：2019年8月22日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/familycamp1908/" target="_blank">秋川渓谷で大暴れ！ <br>ファミリーデイキャンプ</a></p>
@@ -217,12 +256,12 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190822/" target="_blank">PATOLIS <br>練馬区デイサービス施設でコンサート</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190819/" target="_blank"><img src="/2016/images/top/1608jerumisatocafe.jpg"></a>
     <p class="block-date">日程：2019年8月19日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190819/" target="_blank">エルサレム<br>三郷市のグルーブホームでゴスペル教室</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -265,90 +304,6 @@
     <p class="block-date">日程：2019年8月17日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190817/" target="_blank">8月のリバイバルナイトの一日</a></p>
 </div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/kokorogospel1908/" target="_blank"><img src="/2016/images/top/1708kokorogospelnimukatte.jpg"></a>
-    <p class="block-date">日程：2019年8月5日～15日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/kokorogospel1908/" target="_blank">いよいよ今日本番！<br>こころごすぺる<br>出演グループとスタッフ大忙し<br>19:00開演</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190813/" target="_blank"><img src="/2016/images/top/1608jerumisatocafe.jpg"></a>
-    <p class="block-date">日程：2019年8月13日 </p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190813/" target="_blank">エルサレム <br>三郷のアカシアの家オレンジカフェでコンサート</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/light1908/" target="_blank"><img src="/2016/images/top/1903truemarv.jpg"></a>
-    <p class="block-date">日程：2019年8月12日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/light1908/" target="_blank">TrueVine、マーベラスライト<br>東久留米の施設でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/euqaristias/20190812gospel/ " target="_blank"><img src="/2016/images/top/1708euq.jpg"></a>
-    <p class="block-date">日程：2019年8月12日</p>
-    <p class="block-title"><a href="http://astone.tv/events/euqaristias/20190812gospel/ " target="_blank">エウカリスティアス<br>新宿のデイサービスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/1908fes/" target="_blank"><img src="/2016/images/top/1905truthyokosuka.jpg"></a>
-    <p class="block-date">日程：2019年8月12日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/1908fes/" target="_blank">Truth　横須賀で歌う</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/gracious/190812/" target="_blank"><img src="/2016/images/top/1701gracioustonai.jpg"></a>
-    <p class="block-date">日程：2019年8月12日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190812/" target="_blank">GRACIOUS DOORS<br>都内のデイサービスで、ボランティア・コンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/faith1908/" target="_blank"><img src="/2016/images/top/1708summerantioch.jpg"></a>
-    <p class="block-date">日程：2019年8月5日～11日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/faith1908/" target="_blank">夏真っ盛り <br>東京アンテオケ教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/faith1908z/" target="_blank"><img src="/2016/images/top/1708summerzenkoku.jpg"></a>
-    <p class="block-date">日程：2019年8月5日～11日</p>
-    <p class="block-title"><a href="http://astone.tv/events/faith1908z/" target="_blank">夏真っ盛り<br>TLEA全国各教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017healing/190810/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-    <p class="block-date">日程：2019年8月10日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/190810/" target="_blank">8月のいやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/dokidoki1907/" target="_blank"><img src="/2016/images/top/1907cambodiataizai.jpg"></a>
-    <p class="block-date">日程：2019年7月20日～</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/dokidoki1907/" target="_blank">カンボジア孤児院から前田さんと子どもたち来日！<br>日本滞在記</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190810/" target="_blank"><img src="/2016/images/top/1608jerumisatocafe.jpg"></a>
-    <p class="block-date">日程：2019年8月10日 </p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190810/" target="_blank">エルサレム <br>埼玉県岩槻西グループホームでゴスペルコンサート</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="https://blog.antioch.jp/gateofpraise/category/190809/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
-    <p class="block-date">日程：2019年8月9日～</p>
-    <p class="block-title"><a href="https://blog.antioch.jp/gateofpraise/category/190809/" target="_blank">The Gate of Praise <br>練馬区の老健でコンサート</a></p>
-</div>-->
 
 <!--ここから固定-->
 
