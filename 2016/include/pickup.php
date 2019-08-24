@@ -93,18 +93,18 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/20190815-kokogos-dst/" target="_blank"><img src="/2016/images/top/1908kokoro_digest_m.jpg"></a>
-    <p class="block-date">日程：2019年8月15日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/20190815-kokogos-dst/" target="_blank">いやしのコンサート こころに深く―こころごすぺる<br>ダイジェスト映像</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190824/" target="_blank"><img src="/2016/images/top/1608jerumisatocafe.jpg"></a>
     <p class="block-date">日程：2019年8月24日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190824/" target="_blank">エルサレム<br>三郷市のグルーブホームでゴスペル教室</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://tv.antioch.jp/digest/20190815-kokogos-dst/" target="_blank"><img src="/2016/images/top/1908kokoro_digest_m.jpg"></a>
+    <p class="block-date">日程：2019年8月15日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/20190815-kokogos-dst/" target="_blank">いやしのコンサート こころに深く―こころごすぺる<br>ダイジェスト映像</a></p>
 </div>
 
 <div class="column-inner">
