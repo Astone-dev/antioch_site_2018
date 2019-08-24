@@ -79,6 +79,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190824/" target="_blank"><img src="/2016/images/top/1608jerumisatocafe.jpg"></a>
+    <p class="block-date">日程：2019年8月24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190824/" target="_blank">エルサレム<br>三郷市のグルーブホームでゴスペル教室</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/gospel2017/190824/" target="_blank"><img src="/2016/images/top/1709gospeltudoi.jpg"></a>
     <p class="block-date">日程：2019年8月24日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/gospel2017/190824/" target="_blank">8月のゴスペルの集いの一日</a></p>
@@ -90,14 +98,6 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2019年8月24日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('ゴスペルの集い生中継');">ゴスペルの集い生中継<br>(日程：2019年8月24日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190824/" target="_blank"><img src="/2016/images/top/1608jerumisatocafe.jpg"></a>
-    <p class="block-date">日程：2019年8月24日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190824/" target="_blank">エルサレム<br>三郷市のグルーブホームでゴスペル教室</a></p>
 </div>
 
 <div class="column-inner">
