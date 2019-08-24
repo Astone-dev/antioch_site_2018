@@ -75,14 +75,14 @@
     <p class="block-date">日程：2019年8月24日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190824/" target="_blank">ラベイユ <br>荒川区の福祉施設でゴスペルコンサート</a></p>
 </div>
-
+<!--
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190824/" target="_blank"><img src="/2016/images/top/1608jerumisatocafe.jpg"></a>
     <p class="block-date">日程：2019年8月24日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190824/" target="_blank">エルサレム<br>三郷市のグルーブホームでゴスペル教室</a></p>
-</div>
+</div> -->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
