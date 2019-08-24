@@ -63,6 +63,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/truevine/" target="_blank"><img src="/2016/images/top/1803truevinehikoshi.jpg"></a>
+    <p class="block-date">日程：2019年8月24日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/truevine/" target="_blank">TrueVine、NOAH<br>吉祥寺の福祉施設でゴスペルを歌う</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/2017labeille/190824/" target="_blank"><img src="/2016/images/top/1706labeiyuarakawa.jpg"></a>
     <p class="block-date">日程：2019年8月24日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/2017labeille/190824/" target="_blank">ラベイユ <br>荒川区の福祉施設でゴスペルコンサート</a></p>
