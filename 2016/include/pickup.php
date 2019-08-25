@@ -69,6 +69,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/2017students/190825/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
+    <p class="block-date">日程：2019年8月25日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/190825/" target="_blank">8月の学生会</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/20190815-kokogos-dst/" target="_blank"><img src="/2016/images/top/1908kokoro_digest_m.jpg"></a>
     <p class="block-date">日程：2019年8月15日</p>
