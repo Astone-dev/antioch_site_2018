@@ -84,13 +84,13 @@
     <p class="block-title"><a href="http://astone.tv/events/ekoda1908/" target="_blank">婦人会とオーケストラ <br>江古田の施設でコンサート</a></p>
 </div>
 
-<!-- <div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/2017students/190825/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
     <p class="block-date">日程：2019年8月25日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/190825/" target="_blank">8月の学生会</a></p>
-</div> -->
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/190825/" target="_blank">8月の学生会 </a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-2">動画</span>
