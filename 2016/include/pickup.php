@@ -49,7 +49,7 @@
     <span>NEW</span>
     <a href="https://blog.antioch.jp/selection1908/" target="_blank"><img src="/2016/images/top/1609silverweekantioch.jpg"></a>
     <p class="block-date">日程：2019年8月26日～9月1日</p>
-    <p class="block-title"><a href="https://blog.antioch.jp/selection1908/" target="_blank">風のひびき7集 <br>審査員激闘の一週間</a></p>
+    <p class="block-title"><a href="https://blog.antioch.jp/selection1908/" target="_blank">風のひびき7集<br>応募曲309曲<br>審査員激闘の一週間</a></p>
 </div>
 
 <div class="column-inner">
