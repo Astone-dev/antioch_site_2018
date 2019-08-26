@@ -36,7 +36,7 @@
     <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>(毎日AM5:00UP!)</a></p>
 </div>
 
-<!--<div class="column-inner">
+<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/eternal1908/" target="_blank"><img src="/2016/images/top/1709akimikakuantioch.jpg"></a>
@@ -58,75 +58,6 @@
     <a href="http://astone.tv/events/eternal1908z/" target="_blank"><img src="/2016/images/top/1709nation.jpg"></a>
     <p class="block-date">日程：2019年8月26日～9月1日</p>
     <p class="block-title"><a href="http://astone.tv/events/eternal1908z/" target="_blank">秋の訪れを感じつつ <br>TLEA全国各教会の一週間</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/agape1908/" target="_blank"><img src="/2016/images/top/1608mouretsuantioch.jpg"></a>
-    <p class="block-date">日程：2019年8月19日～25日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/agape1908/" target="_blank">まだまだ続く <br>東京アンテオケ教会の夏休み</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/hibiki1908/" target="_blank"><img src="/2016/images/top/1608sakushihontono.jpg"></a>
-    <p class="block-date">日程：2019年8月19日～25日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/hibiki1908/" target="_blank">いよいよこれが本当に締め切り締め切り迫る！最後の追い込み！<br>風のひびき7集作詞・作曲者の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/ebisu1904/" target="_blank"><img src="/2016/images/top/1701syougatuzenkoku.jpg"></a>
-    <p class="block-date">日程：2019年8月25日</p>
-    <p class="block-title"><a href="http://astone.tv/events/ebisu1904/" target="_blank">プレジール、NOAH<br>恵比寿ガーデンプレイスでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/ekoda1908/" target="_blank"><img src="/2016/images/top/1804okechoir.jpg"></a>
-    <p class="block-date">日程：2019年8月25日</p>
-    <p class="block-title"><a href="http://astone.tv/events/ekoda1908/" target="_blank">婦人会とオーケストラ <br>江古田の施設でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/2017students/190825/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
-    <p class="block-date">日程：2019年8月25日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/190825/" target="_blank">8月の学生会 </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/20190815-kokogos-dst/" target="_blank"><img src="/2016/images/top/1908kokoro_digest_m.jpg"></a>
-    <p class="block-date">日程：2019年8月15日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/20190815-kokogos-dst/" target="_blank">いやしのコンサート こころに深く―こころごすぺる<br>ダイジェスト映像</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/agape1908z/" target="_blank"><img src="/2016/images/top/1608mouretsuzenkoku.jpg"></a>
-    <p class="block-date">日程：2019年8月19日～25日</p>
-    <p class="block-title"><a href="http://astone.tv/events/agape1908z/" target="_blank">まだまだ続く<br>TLEA全国各教会の夏休み</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/201907-hakuba-contest-ver/" target="_blank"><img src="/2016/images/top/1908gospelcontest_m.jpg"></a>
-    <p class="block-date">キャンプ：2019年7月23日〜26日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201907-hakuba-contest-ver/" target="_blank">白馬キャンプ 2019<br>ダイジェスト映像<br>J.GOSPELコンテスト2019 Ver.</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/201907hakuba-digest/" target="_blank"><img src="/2016/images/top/1907hakub_digest1_m.jpg"></a>
-    <p class="block-date">キャンプ：2019年7月23日〜26日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201907hakuba-digest/" target="_blank">白馬キャンプ 2019<br>ダイジェスト映像</a></p>
 </div>
 
 <div class="column-inner">
@@ -241,6 +172,69 @@
     <span class="label-2">動画</span>
     <a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank" onclick="javascript:pageTracker._trackPageview('【セミナー】悪霊はいるのか'); "><img src="/2016/images/top/1908seminar190804.jpg"></a>
     <p class="block-title"><a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank" onclick="javascript:pageTracker._trackPageview('【セミナー】悪霊はいるのか');">【セミナー】<br>悪霊はいるのか<br>講師：パウロ秋元牧師</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/agape1908/" target="_blank"><img src="/2016/images/top/1608mouretsuantioch.jpg"></a>
+    <p class="block-date">日程：2019年8月19日～25日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/agape1908/" target="_blank">まだまだ続く <br>東京アンテオケ教会の夏休み</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/hibiki1908/" target="_blank"><img src="/2016/images/top/1608sakushihontono.jpg"></a>
+    <p class="block-date">日程：2019年8月19日～25日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/hibiki1908/" target="_blank">いよいよこれが本当に締め切り締め切り迫る！最後の追い込み！<br>風のひびき7集作詞・作曲者の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/ebisu1904/" target="_blank"><img src="/2016/images/top/1701syougatuzenkoku.jpg"></a>
+    <p class="block-date">日程：2019年8月25日</p>
+    <p class="block-title"><a href="http://astone.tv/events/ebisu1904/" target="_blank">プレジール、NOAH<br>恵比寿ガーデンプレイスでゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/ekoda1908/" target="_blank"><img src="/2016/images/top/1804okechoir.jpg"></a>
+    <p class="block-date">日程：2019年8月25日</p>
+    <p class="block-title"><a href="http://astone.tv/events/ekoda1908/" target="_blank">婦人会とオーケストラ <br>江古田の施設でコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/2017students/190825/" target="_blank"><img src="/2016/images/top/1806gakuseikai.jpg"></a>
+    <p class="block-date">日程：2019年8月25日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2017students/190825/" target="_blank">8月の学生会 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://tv.antioch.jp/digest/20190815-kokogos-dst/" target="_blank"><img src="/2016/images/top/1908kokoro_digest_m.jpg"></a>
+    <p class="block-date">日程：2019年8月15日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/20190815-kokogos-dst/" target="_blank">いやしのコンサート こころに深く―こころごすぺる<br>ダイジェスト映像</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/agape1908z/" target="_blank"><img src="/2016/images/top/1608mouretsuzenkoku.jpg"></a>
+    <p class="block-date">日程：2019年8月19日～25日</p>
+    <p class="block-title"><a href="http://astone.tv/events/agape1908z/" target="_blank">まだまだ続く<br>TLEA全国各教会の夏休み</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://tv.antioch.jp/digest/201907-hakuba-contest-ver/" target="_blank"><img src="/2016/images/top/1908gospelcontest_m.jpg"></a>
+    <p class="block-date">キャンプ：2019年7月23日〜26日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201907-hakuba-contest-ver/" target="_blank">白馬キャンプ 2019<br>ダイジェスト映像<br>J.GOSPELコンテスト2019 Ver.</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="http://tv.antioch.jp/digest/201907hakuba-digest/" target="_blank"><img src="/2016/images/top/1907hakub_digest1_m.jpg"></a>
+    <p class="block-date">キャンプ：2019年7月23日〜26日</p>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/201907hakuba-digest/" target="_blank">白馬キャンプ 2019<br>ダイジェスト映像</a></p>
 </div>
 
 <div class="column-inner">
