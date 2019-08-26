@@ -47,7 +47,7 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/selection1908/" target="_blank"><img src="/2016/images/top/1708shinsainweek.jpg"></a>
+    <a href="http://antiochblog.jp/info/selection1908/" target="_blank"><img src="/2016/images/top/1609silverweekantioch.jpg"></a>
     <p class="block-date">日程：2019年8月26日～9月1日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/selection1908/" target="_blank">風のひびき7集 <br>審査員激闘の一週間</a></p>
 </div>
