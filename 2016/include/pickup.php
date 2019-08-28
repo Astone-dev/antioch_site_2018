@@ -55,6 +55,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://astone.tv/events/1908nagasaki/" target="_blank"><img src="/2016/images/top/1704gospel.jpg"></a>
+    <p class="block-date">日程：2019年8月29日～</p>
+    <p class="block-title"><a href="http://astone.tv/events/1908nagasaki/" target="_blank">長崎チーム</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/eternal1908z/" target="_blank"><img src="/2016/images/top/1709nation.jpg"></a>
     <p class="block-date">日程：2019年8月26日～9月1日</p>
     <p class="block-title"><a href="http://astone.tv/events/eternal1908z/" target="_blank">秋の訪れを感じつつ <br>TLEA全国各教会の一週間</a></p>
