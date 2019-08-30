@@ -77,6 +77,12 @@
 
 <div class="column-inner">
     <span>NEW</span>
+    <a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
+    <p class="block-title"><a href="/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>ご案内<br>(日程：2019年10月6日 18:00〜)</a></p>
+</div>
+
+<div class="column-inner">
+    <span>NEW</span>
     <a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki'); "><img src="/2016/images/top/1806miki171717.jpg"></a>
     <p class="block-title"><a href="https://www.instagram.com/miki171717/" target="_blank" onclick="javascript:pageTracker._trackPageview('Instagram-miki');">miki<br>(Instagram)</a></p>
 </div>
@@ -419,10 +425,4 @@
 <a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
 <p class="block-date">2018年12月8日</p>
 <p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継');">いやしの集い生中継<br>(日程：2018年12月8日 18:30スタート)</a></p>
-</div>-->
-
-<!--<div class="column-inner">
-    <span>NEW</span>
-    <a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
-    <p class="block-title"><a href="/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>ご案内<br>(日程：2018年10月7日)</a></p>
 </div>-->
