@@ -55,9 +55,25 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/meeting1908/" target="_blank"><img src="/2016/images/top/1807tokyocharisma.jpg"></a>
+    <p class="block-date">日程：2019年8月31日～9月1日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/meeting1908/" target="_blank">９月 カリスマ聖会の一日</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/1908nagasaki/" target="_blank"><img src="/2016/images/top/1908nagasaki.jpg"></a>
     <p class="block-date">日程：2019年8月30日～</p>
     <p class="block-title"><a href="http://astone.tv/events/1908nagasaki/" target="_blank">長崎チームまで一週間<br>カウントダウンブログ</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/gracejewel2017/190831/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
+    <p class="block-date">日程：2019年8月31日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190831/" target="_blank">GRACEと宝石 <br>府中市特養老人ホームでコンサート</a></p>
 </div>
 
 <div class="column-inner">
@@ -238,20 +254,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/201907-hakuba-contest-ver/" target="_blank"><img src="/2016/images/top/1908gospelcontest_m.jpg"></a>
-    <p class="block-date">キャンプ：2019年7月23日〜26日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201907-hakuba-contest-ver/" target="_blank">白馬キャンプ 2019<br>ダイジェスト映像<br>J.GOSPELコンテスト2019 Ver.</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="http://tv.antioch.jp/digest/201907hakuba-digest/" target="_blank"><img src="/2016/images/top/1907hakub_digest1_m.jpg"></a>
-    <p class="block-date">キャンプ：2019年7月23日〜26日</p>
-    <p class="block-title"><a href="http://tv.antioch.jp/digest/201907hakuba-digest/" target="_blank">白馬キャンプ 2019<br>ダイジェスト映像</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/1908ebisu/" target="_blank"><img src="/2016/images/top/1708giftsjoyebisu.jpg"></a>
     <p class="block-date">日程：2019年8月24日</p>
@@ -292,69 +294,6 @@
     <a href="https://blog.antioch.jp/gateofpraise/category/190823/" target="_blank"><img src="/2016/images/top/1704gateofhigashikurume.jpg"></a>
     <p class="block-date">日程：2019年8月23日</p>
     <p class="block-title"><a href="https://blog.antioch.jp/gateofpraise/category/190823/" target="_blank">The Gate of Praise <br>杉並区の施設でコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/familycamp1908/" target="_blank"><img src="/2016/images/top/1708familyday.jpg"></a>
-    <p class="block-date">日程：2019年8月22日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/familycamp1908/" target="_blank">秋川渓谷で大暴れ！ <br>ファミリーデイキャンプ</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/patolis/190822/" target="_blank"><img src="/2016/images/top/1709patolisnerima.jpg"></a>
-    <p class="block-date">日程：2019年8月22日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/patolis/190822/" target="_blank">PATOLIS <br>練馬区デイサービス施設でコンサート</a></p>
-</div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190819/" target="_blank"><img src="/2016/images/top/1608jerumisatocafe.jpg"></a>
-    <p class="block-date">日程：2019年8月19日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190819/" target="_blank">エルサレム<br>三郷市のグルーブホームでゴスペル教室</a></p>
-</div>-->
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/summer1908/" target="_blank"><img src="/2016/images/top/1806chichinohiantioch.jpg"></a>
-    <p class="block-date">日程：2019年8月12日～18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/summer1908/" target="_blank">夏休み本番 <br>東京アンテオケ教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/2018women/190818/" target="_blank"><img src="/2016/images/top/1701fujinkai.jpg"></a>
-    <p class="block-date">日程：2019年8月18日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190818/" target="_blank">8月の婦人会の一日</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/2017byhisspirit/190818/" target="_blank"><img src="/2016/images/top/1607byhissetagaya.jpg"></a>
-    <p class="block-date">日程：2019年8月18日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017byhisspirit/190818/" target="_blank">By His spirit<br>高円寺の行列のできるフレンチレストランでゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://astone.tv/events/summer1908z/" target="_blank"><img src="/2016/images/top/1806chichinohizenkoku.jpg"></a>
-    <p class="block-date">日程：2019年8月12日～18日</p>
-    <p class="block-title"><a href="http://astone.tv/events/summer1908z/" target="_blank">夏休み本番<br>TLEA全国各教会メンバーの一週間　</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/praise/giftstruevine1908/" target="_blank"><img src="/2016/images/top/1805shokazenkoku.jpg"></a>
-    <p class="block-date">日程：2019年8月17日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/giftstruevine1908/" target="_blank">TrueVine、Gifts<br>甲府でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <a href="http://antiochblog.jp/info/revival2017/190817/" target="_blank"><img src="/2016/images/top/1609revivalnight.jpg"></a>
-    <p class="block-date">日程：2019年8月17日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/revival2017/190817/" target="_blank">8月のリバイバルナイトの一日</a></p>
 </div>
 
 <!--ここから固定-->
