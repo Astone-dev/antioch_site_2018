@@ -57,7 +57,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/meeting1908/" target="_blank"><img src="/2016/images/top/1807tokyocharisma.jpg"></a>
     <p class="block-date">日程：2019年8月31日～9月1日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/meeting1908/" target="_blank">９月 カリスマ聖会の一日</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/meeting1908/" target="_blank">大忙し！ 東京カリスマ聖会の表と舞台裏</a></p>
 </div>
 
 <div class="column-inner">
