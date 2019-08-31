@@ -63,17 +63,17 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/1908nagasaki/" target="_blank"><img src="/2016/images/top/1908nagasaki.jpg"></a>
-    <p class="block-date">日程：2019年8月30日～</p>
-    <p class="block-title"><a href="http://astone.tv/events/1908nagasaki/" target="_blank">長崎チームまで一週間<br>カウントダウンブログ</a></p>
+    <a href="http://antiochblog.jp/info/gifts1909/" target="_blank"><img src="/2016/images/top/1905gifts.jpg"></a>
+    <p class="block-date">日程：2019年9月1日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts1909/" target="_blank">Gifts <br>長野の医療フォーラムでゴスペルを歌う</a></p>
 </div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/gracejewel2017/190831/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
-    <p class="block-date">日程：2019年8月31日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190831/" target="_blank">GRACEと宝石 <br>府中市特養老人ホームでコンサート</a></p>
+    <a href="http://astone.tv/events/1908nagasaki/" target="_blank"><img src="/2016/images/top/1908nagasaki.jpg"></a>
+    <p class="block-date">日程：2019年8月30日～</p>
+    <p class="block-title"><a href="http://astone.tv/events/1908nagasaki/" target="_blank">長崎チームまで一週間<br>カウントダウンブログ</a></p>
 </div>
 
 <div class="column-inner">
@@ -202,6 +202,13 @@
     <span class="label-2">動画</span>
     <a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank" onclick="javascript:pageTracker._trackPageview('【セミナー】悪霊はいるのか'); "><img src="/2016/images/top/1908seminar190804.jpg"></a>
     <p class="block-title"><a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank" onclick="javascript:pageTracker._trackPageview('【セミナー】悪霊はいるのか');">【セミナー】<br>悪霊はいるのか<br>講師：パウロ秋元牧師</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/praise/gracejewel2017/190831/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
+    <p class="block-date">日程：2019年8月31日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190831/" target="_blank">GRACEと宝石 <br>府中市特養老人ホームでコンサート</a></p>
 </div>
 
 <div class="column-inner">
