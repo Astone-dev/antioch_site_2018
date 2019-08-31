@@ -39,22 +39,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/eternal1908/" target="_blank"><img src="/2016/images/top/1709akimikakuantioch.jpg"></a>
-    <p class="block-date">日程：2019年8月26日～9月1日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/eternal1908/" target="_blank">秋の訪れを感じつつ <br>東京アンテオケ教会の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="https://blog.antioch.jp/selection1908/" target="_blank"><img src="/2016/images/top/1609silverweekantioch.jpg"></a>
-    <p class="block-date">日程：2019年8月26日～9月1日</p>
-    <p class="block-title"><a href="https://blog.antioch.jp/selection1908/" target="_blank">風のひびき7集<br>応募曲312曲<br>審査員激闘の一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/praise/meeting1908/" target="_blank"><img src="/2016/images/top/1807tokyocharisma.jpg"></a>
     <p class="block-date">日程：2019年8月31日～9月1日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/meeting1908/" target="_blank">大忙し！ 東京カリスマ聖会の表と舞台裏</a></p>
@@ -63,9 +47,25 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/eternal1908/" target="_blank"><img src="/2016/images/top/1909tokyocharisma.jpg"></a>
+    <p class="block-date">日程：2019年8月26日～9月1日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/eternal1908/" target="_blank">秋の訪れを感じつつ <br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/info/gifts1909/" target="_blank"><img src="/2016/images/top/1905gifts.jpg"></a>
     <p class="block-date">日程：2019年9月1日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/gifts1909/" target="_blank">Gifts <br>長野の医療フォーラムでゴスペルを歌う</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="https://blog.antioch.jp/selection1908/" target="_blank"><img src="/2016/images/top/1609silverweekantioch.jpg"></a>
+    <p class="block-date">日程：2019年8月26日～9月1日</p>
+    <p class="block-title"><a href="https://blog.antioch.jp/selection1908/" target="_blank">風のひびき7集<br>応募曲312曲<br>審査員激闘の一週間</a></p>
 </div>
 
 <div class="column-inner">
