@@ -36,6 +36,22 @@
     <p class="block-title"><a href="http://atv.antioch.jp/jgospel/" target="_blank">Today's J.GOSPEL<br>毎日一曲、ゴスペルの歌集「やすらぎの歌」「風のひびき」からJ.GOSPELを配信中！<br>(毎日AM5:00UP!)</a></p>
 </div>
 
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/start1909/" target="_blank"><img src="/2016/images/top/1709shingakkiantioch.jpg"></a>
+    <p class="block-date">日程：2019年9月2日～8日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/start1909/" target="_blank">始まった新学期 <br>東京アンテオケ教会の一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/start1909z/" target="_blank"><img src="/2016/images/top/1709shingakkizenkoku.jpg"></a>
+    <p class="block-date">日程：2019年9月2日～8日</p>
+    <p class="block-title"><a href="http://astone.tv/events/start1909z/" target="_blank">始まった新学期 <br>TLEA全国各教会の一週間</a></p>
+</div>-->
+
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
