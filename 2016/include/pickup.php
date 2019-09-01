@@ -47,9 +47,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/start1909/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
+    <a href="https://blog.antioch.jp/beracha1909/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
     <p class="block-date">日程：2019年9月2日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/start1909/" target="_blank">Beracha <br>ロサンゼルスの老人ホーム施設でコンサート</a></p>
+    <p class="block-title"><a href="https://blog.antioch.jp/beracha1909/" target="_blank">Beracha<br>ロサンゼルスの老人ホーム施設でコンサート</a></p>
 </div>
 
 <div class="column-inner">
