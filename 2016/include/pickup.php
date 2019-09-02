@@ -61,15 +61,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="https://blog.antioch.jp/beracha1909/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
-    <p class="block-date">日程：2019年9月2日</p>
-    <p class="block-title"><a href="https://blog.antioch.jp/beracha1909/" target="_blank">Beracha<br>ロサンゼルスの老人ホーム施設でコンサート</a></p>
-</div>
-
-
-<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/category/martyrdom/" target="_blank"><img src="/2016/images/top/1907jyunkyou_m.jpg"></a>
@@ -182,6 +173,13 @@
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="https://blog.antioch.jp/beracha1909/" target="_blank"><img src="/2016/images/top/1710immberacro.jpg"></a>
+    <p class="block-date">日程：2019年9月2日</p>
+    <p class="block-title"><a href="https://blog.antioch.jp/beracha1909/" target="_blank">Beracha<br>ロサンゼルスの老人ホーム施設でコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
