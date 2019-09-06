@@ -53,13 +53,13 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/nagasaki1909b/" target="_blank">第2チーム出発まで一週間<br>第2長崎チーム<br>直前ブログ</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://astone.tv/events/2017healing/20190907/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
     <p class="block-date">日程：2019年9月7日</p>
     <p class="block-title"><a href="http://astone.tv/events/2017healing/20190907/" target="_blank">9月のいやしの集いの一日</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
