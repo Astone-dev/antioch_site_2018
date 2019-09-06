@@ -23,13 +23,6 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
-    <span>NEW</span>
-    <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1904kiseki_noe.jpg"></a>
-    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年7月6日UP!)</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-2">音楽</span>
     <span>NEW</span>	
     <a href="http://atv.antioch.jp/jgospel/" target="_blank"><img src="/2016/images/top/1809todaysjgospel.jpg"></a>
@@ -79,6 +72,13 @@
     <span>NEW</span>
     <a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
     <p class="block-title"><a href="/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>ご案内<br>(日程：2019年10月6日 18:00〜)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+    <a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank"><img src="/2016/images/top/1904kiseki_noe.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/testimony/category/miracle/" target="_blank">今日のキセキ<br>日常におこった小さなキセキ<br>(2019年7月6日UP!)</a></p>
 </div>
 
 <div class="column-inner">
