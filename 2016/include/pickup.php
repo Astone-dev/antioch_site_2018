@@ -64,6 +64,14 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190910/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
+    <p class="block-date">日程：2019年9月10日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190910/" target="_blank">エルサレム<br>埼玉県三郷市アカシアの家オレンジカフェでコンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/autumn1909z/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
     <p class="block-date">日程：2019年9月9月9日～15日</p>
     <p class="block-title"><a href="http://astone.tv/events/autumn1909z/" target="_blank">秋近づく<br>TLEA全国各教会メンバーの一週間</a></p>
@@ -227,12 +235,12 @@
     <p class="block-title"><a href="http://astone.tv/events/start1909z/" target="_blank">始まった新学期 <br>TLEA全国各教会の一週間</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190907/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
     <p class="block-date">日程：2019年9月7日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190907/" target="_blank">エルサレム<br>埼玉県岩槻西グループホームでゴスペルコンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
