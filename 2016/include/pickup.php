@@ -66,7 +66,7 @@
     <span>NEW</span>
     <a href="http://astone.tv/events/autumn1909z/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
     <p class="block-date">日程：2019年9月9月9日～15日</p>
-    <p class="block-title"><a href="http://astone.tv/events/autumn1909z/" target="_blank">秋近づく <br>TLEA全国各教会メンバーの一週間</a></p>
+    <p class="block-title"><a href="http://astone.tv/events/autumn1909z/" target="_blank">秋近づく<br>TLEA全国各教会メンバーの一週間</a></p>
 </div>
 
 <!--<div class="column-inner">
@@ -87,7 +87,13 @@
 <div class="column-inner">
     <span>NEW</span>
     <a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
-    <p class="block-title"><a href="/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>ご案内<br>(日程：2019年10月6日 18:00〜)</a></p>
+    <p class="block-title"><a href="/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>集会のご案内<br>(日程：2019年10月6日 18:00〜)</a></p>
+</div>
+
+<div class="column-inner">
+    <span>NEW</span>
+    <a href="http://tv.antioch.jp/digest/20191006-jerusalem-cm/" target="_blank"><img src="/2016/images/top/1809jerusalemtudoi_m.jpg"></a>
+    <p class="block-title"><a href="http://tv.antioch.jp/digest/20191006-jerusalem-cm/" target="_blank">エルサレムの平和を祈る集い<br>集会の紹介映像</a></p>
 </div>
 
 <div class="column-inner">
@@ -322,13 +328,6 @@
 </div>
 
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/2016/include/pyrayer_time_banner.php') ?>
-
-<!--<div class="column-inner">
-<span>NEW</span>
-<a href="/pray4jerusalem/" target="_blank"><img src="/2016/images/top/1709peaceforJerusalem.jpg"></a>
-<p class="block-date">日程：2017年10月1日</p>
-<p class="block-title"><a href="/pray4jerusalem/" target="_blank">エルサレムの平和を祈る集い<br>集会のご案内</a></p>
-</div>-->
 
 <!--<div class="column-inner">
 <span>NEW</span>
