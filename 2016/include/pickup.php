@@ -91,6 +91,7 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-2">動画</span>
     <span>NEW</span>
     <a href="http://tv.antioch.jp/digest/20191006-jerusalem-cm/" target="_blank"><img src="/2016/images/top/1809jerusalemtudoi_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/20191006-jerusalem-cm/" target="_blank">エルサレムの平和を祈る集い<br>集会の紹介映像</a></p>
