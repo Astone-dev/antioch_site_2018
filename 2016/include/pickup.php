@@ -45,20 +45,20 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/autumn1909/" target="_blank">秋近づく <br>東京アンテオケ教会メンバーの一週間/a></p>
 </div>
 
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/yorokobi1909/" target="_blank"><img src="/2016/images/top/1709sakushiyorokobi.jpg"></a>
-    <p class="block-date">日程：2019年9月9月9日～15日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1909/" target="_blank">風のひびき7集 <br>作詞・作曲 採用者喜びの一週間</a></p>
-</div>-->
-
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/nagasaki1909b/" target="_blank"><img src="/2016/images/top/1907olympic_antioch.jpg"></a>
     <p class="block-date">日程：2019年8月30日～</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/nagasaki1909b/" target="_blank">第2チーム出発まで一週間<br>第2長崎チーム<br>直前ブログ</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/yorokobi1909/" target="_blank"><img src="/2016/images/top/1709sakushiyorokobi.jpg"></a>
+    <p class="block-date">日程：2019年9月9月9日～15日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1909/" target="_blank">風のひびき7集<br>作詞・作曲 採用者喜びの一週間</a></p>
 </div>
 
 <div class="column-inner">
