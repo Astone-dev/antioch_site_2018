@@ -42,7 +42,7 @@
     <span>NEW</span>
     <a href="http://antiochblog.jp/praise/autumn1909/" target="_blank"><img src="/2016/images/top/1710akihonbanantioch.jpg"></a>
     <p class="block-date">日程：2019年9月9日～15日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/autumn1909/" target="_blank">秋近づく <br>東京アンテオケ教会メンバーの一週間/a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/autumn1909/" target="_blank">秋近づく <br>東京アンテオケ教会メンバーの一週間</a></p>
 </div>
 
 <div class="column-inner">
