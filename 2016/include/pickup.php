@@ -32,9 +32,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/1908nagasaki/" target="_blank"><img src="/2016/images/top/1908nagasaki.jpg"></a>
+    <a href="http://antiochblog.jp/praise/nagasaki1909b/" target="_blank"><img src="/2016/images/top/1907olympic_antioch.jpg"></a>
     <p class="block-date">日程：2019年8月30日～</p>
-    <p class="block-title"><a href="http://astone.tv/events/1908nagasaki/" target="_blank">いよいよ第1チーム出発<br>第1長崎チーム<br>最新情報ブログ</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/nagasaki1909b/" target="_blank">いよいよ今週出発<br>第2長崎チーム<br>直前ブログ</a></p>
 </div>
 
 <div class="column-inner">
@@ -43,14 +43,6 @@
     <a href="http://antiochblog.jp/praise/autumn1909/" target="_blank"><img src="/2016/images/top/1710akihonbanantioch.jpg"></a>
     <p class="block-date">日程：2019年9月9日～15日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/autumn1909/" target="_blank">秋近づく <br>東京アンテオケ教会メンバーの一週間</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/nagasaki1909b/" target="_blank"><img src="/2016/images/top/1907olympic_antioch.jpg"></a>
-    <p class="block-date">日程：2019年8月30日～</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/nagasaki1909b/" target="_blank">第2チーム出発まで一週間<br>第2長崎チーム<br>直前ブログ</a></p>
 </div>
 
 <div class="column-inner">
@@ -212,6 +204,13 @@
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://astone.tv/events/1908nagasaki/" target="_blank"><img src="/2016/images/top/1908nagasaki.jpg"></a>
+    <p class="block-date">日程：2019年8月30日～</p>
+    <p class="block-title"><a href="http://astone.tv/events/1908nagasaki/" target="_blank">いよいよ第1チーム出発<br>第1長崎チーム<br>最新情報ブログ</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
