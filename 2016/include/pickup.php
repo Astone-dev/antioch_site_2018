@@ -56,14 +56,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190910/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
-    <p class="block-date">日程：2019年9月10日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190910/" target="_blank">エルサレム<br>埼玉県三郷市アカシアの家オレンジカフェでコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://astone.tv/events/autumn1909z/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
     <p class="block-date">日程：2019年9月9月9日～15日</p>
     <p class="block-title"><a href="http://astone.tv/events/autumn1909z/" target="_blank">秋近づく<br>TLEA全国各教会メンバーの一週間</a></p>
@@ -204,6 +196,13 @@
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
 </div>-->
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190910/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
+    <p class="block-date">日程：2019年9月10日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190910/" target="_blank">エルサレム<br>埼玉県三郷市アカシアの家オレンジカフェでコンサート</a></p>
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
