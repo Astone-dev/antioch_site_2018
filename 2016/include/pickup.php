@@ -191,13 +191,19 @@
     <p class="block-title"><a href="http://atv.antioch.jp/kazenohibiki" target="_blank">インターネットラジオ<br>ゴスペル風のひびき<br>心に触れるゴスペルと楽しいおしゃべり 取っ替え引っ替え15組のパーソナリティー</a></p>
 </div>
 
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank" onclick="javascript:pageTracker._trackPageview('【セミナー】悪霊はいるのか'); "><img src="/2016/images/top/1908seminar190804.jpg"></a>
+    <p class="block-title"><a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank" onclick="javascript:pageTracker._trackPageview('【セミナー】悪霊はいるのか');">【セミナー】<br>悪霊はいるのか<br>講師：パウロ秋元牧師</a></p>
+</div>
+
 <!--<div class="column-inner">
     <span class="label-2">動画</span>
     <a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank"><img src="/2016/images/top/1905hanna_m.jpg"></a>
     <p class="block-title"><a href="http://tv.antioch.jp/digest/201905-kobayashi/" target="_blank">小林ハンナさん<br>人気TV番組に出演映像<br>※著作権の関係により、出演シーンのみの配信となります</a></p>
 </div>-->
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/info/jerusalem2017/190910/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
     <p class="block-date">日程：2019年9月10日</p>
@@ -238,7 +244,7 @@
     <a href="http://antiochblog.jp/info/jerusalem2017/190907/" target="_blank"><img src="/2016/images/top/1704jerusaitama.jpg"></a>
     <p class="block-date">日程：2019年9月7日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190907/" target="_blank">エルサレム<br>埼玉県岩槻西グループホームでゴスペルコンサート</a></p>
-</div>-->
+</div>
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
@@ -284,17 +290,11 @@
 </div>
 
 <div class="column-inner">
-    <span class="label-2">動画</span>
-    <a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank" onclick="javascript:pageTracker._trackPageview('【セミナー】悪霊はいるのか'); "><img src="/2016/images/top/1908seminar190804.jpg"></a>
-    <p class="block-title"><a href="https://www.youtube.com/watch?v=_LiPoa6YaqQ" target="_blank" onclick="javascript:pageTracker._trackPageview('【セミナー】悪霊はいるのか');">【セミナー】<br>悪霊はいるのか<br>講師：パウロ秋元牧師</a></p>
-</div>
-
-<div class="column-inner">
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/gracejewel2017/190831/" target="_blank"><img src="/2016/images/top/1901gracehosekikoenji.jpg"></a>
     <p class="block-date">日程：2019年8月31日</p>
     <p class="block-title"><a href="http://antiochblog.jp/praise/gracejewel2017/190831/" target="_blank">GRACEと宝石 <br>府中市特養老人ホームでコンサート</a></p>
-</div>
+</div>-->
 
 <!--ここから固定-->
 
