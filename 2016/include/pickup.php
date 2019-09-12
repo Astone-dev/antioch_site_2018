@@ -32,9 +32,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/nagasaki1909b/" target="_blank"><img src="/2016/images/top/1908nagasaki.jpg"></a>
+    <a href="http://antiochblog.jp/praise/nagasaki1909b/" target="_blank"><img src="/2016/images/top/1909nagasakiteams2.jpg"></a>
     <p class="block-date">ブログ：2019年9月6日～</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/nagasaki1909b/" target="_blank">いよいよ今週出発<br>第2長崎チーム<br>直前ブログ</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/nagasaki1909b/" target="_blank">いよいよ今日出発<br>第2長崎チーム<br>最新情報写真集ブログ</a></p>
 </div>
 
 <div class="column-inner">
@@ -51,6 +51,14 @@
     <a href="http://antiochblog.jp/info/yorokobi1909/" target="_blank"><img src="/2016/images/top/1709sakushiyorokobi.jpg"></a>
     <p class="block-date">日程：2019年9月9月9日～15日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1909/" target="_blank">風のひびき7集<br>作詞・作曲 採用者喜びの一週間</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/nagasaki1909/" target="_blank"><img src="/2016/images/top/1908nagasaki.jpg"></a>
+    <p class="block-date">ブログ：2019年9月13日～</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/nagasaki1909/" target="_blank">いよいよ来週<br>第3長崎チーム<br>直前一週間ブログ</a></p>
 </div>
 
 <div class="column-inner">
