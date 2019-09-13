@@ -72,18 +72,34 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://astone.tv/events/2017healing/20190907/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
+    <p class="block-date">日程：2019年9月14日</p>
+    <p class="block-title"><a href="http://astone.tv/events/2017healing/20190907/" target="_blank">9月のいやしの集いの一日</a></p>
+</div>
+
+<div class="column-inner">
+<span class="label-2">映像</span>
+<span>NEW</span>
+<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
+<p class="block-date">2019年9月14日</p>
+<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継');">いやしの集い生中継<br>(日程：2019年9月14日 18:30スタート)</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/jerusalem2017/190914/" target="_blank"><img src="/2016/images/top/1610jeruhakone.jpg"></a>
+    <p class="block-date">日程：2019年9月14日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190914/" target="_blank">エルサレム<br>福島県相馬市  報徳庵レストラン コンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://astone.tv/events/autumn1909z/" target="_blank"><img src="/2016/images/top/1710akihonbanzenkoku.jpg"></a>
     <p class="block-date">日程：2019年9月9月9日～15日</p>
     <p class="block-title"><a href="http://astone.tv/events/autumn1909z/" target="_blank">秋近づく<br>TLEA全国各教会メンバーの一週間</a></p>
 </div>
-
-<!--<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://astone.tv/events/2017healing/20190907/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-    <p class="block-date">日程：2019年9月7日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/20190907/" target="_blank">9月のいやしの集いの一日</a></p>
-</div>-->
 
 <div class="column-inner">
     <span class="label-2">動画</span>
