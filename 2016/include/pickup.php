@@ -48,14 +48,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/info/gifts/190913/" target="_blank"><img src="/2016/images/top/1905gifts.jpg"></a>
-    <p class="block-date">日程：2019年9月9月13日～14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190913/" target="_blank">Gifts長野を行く<br>グリーンプラザ白馬でゴスペルコンサート</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/info/yorokobi1909/" target="_blank"><img src="/2016/images/top/1709sakushiyorokobi.jpg"></a>
     <p class="block-date">日程：2019年9月9月9日～15日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/yorokobi1909/" target="_blank">風のひびき7集<br>作詞・作曲 採用者喜びの一週間</a></p>
@@ -72,25 +64,9 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://astone.tv/events/2017healing/20190907/" target="_blank"><img src="/2016/images/top/1706healing.jpg"></a>
-    <p class="block-date">日程：2019年9月14日</p>
-    <p class="block-title"><a href="http://astone.tv/events/2017healing/20190907/" target="_blank">9月のいやしの集いの一日</a></p>
-</div>
-
-<div class="column-inner">
-<span class="label-2">映像</span>
-<span>NEW</span>
-<a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継'); "><img src="/2016/images/top/1610revivalnightlive.png"></a>
-<p class="block-date">2019年9月14日</p>
-<p class="block-title"><a href="https://www.youtube.com/channel/UCOV9zn7vX4O98uRzWlODMew/live" target="_blank" onclick="javascript:pageTracker._trackPageview('いやしの集い生中継');">いやしの集い生中継<br>(日程：2019年9月14日 18:30スタート)</a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
-    <a href="http://antiochblog.jp/info/jerusalem2017/190914/" target="_blank"><img src="/2016/images/top/1610jeruhakone.jpg"></a>
-    <p class="block-date">日程：2019年9月14日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/info/jerusalem2017/190914/" target="_blank">エルサレム<br>福島県相馬市  報徳庵レストラン コンサート</a></p>
+    <a href="http://antiochblog.jp/praise/2018women/190915/" target="_blank"><img src="/2016/images/top/1703women.jpg"></a>
+    <p class="block-date">ブログ：2019年9月13日～</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/2018women/190915/" target="_blank">婦人会<br>きのこと山菜の炊き込みご飯を食べる</a></p>
 </div>
 
 <div class="column-inner">
