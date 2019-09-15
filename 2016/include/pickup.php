@@ -37,6 +37,30 @@
     <p class="block-title"><a href="http://antiochblog.jp/praise/nagasaki1909b/" target="_blank">いよいよ今日出発<br>第2長崎チーム<br>最新情報写真集ブログ</a></p>
 </div>
 
+<!--<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/foods1909/" target="_blank"><img src="/2016/images/top/1709akimikakuantioch.jpg"></a>
+    <p class="block-date">日程：2019年9月16日～22日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/foods1909/" target="_blank">いよいよ来た来たこの季節 <br>東京アンテオケ教会メンバー 食欲の秋の一週間 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/gracious/190916/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
+    <p class="block-date">日程：2019年9月16日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190916/" target="_blank"> GRACIOUS DOORS  <br>都内のデイサービスで、ボランティア・コンサート</a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://astone.tv/events/foods1909z/" target="_blank"><img src="/2016/images/top/1709akimikakuzenkoku.jpg"></a>
+    <p class="block-date">日程：2019年9月16日～22日</p>
+    <p class="block-title"><a href="http://astone.tv/events/foods1909z/" target="_blank">いよいよ来た来たこの季節 <br>TLEA全国各教会メンバー 食欲の秋の一週間</a></p>
+</div>-->
+
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
