@@ -53,6 +53,14 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/nagasaki1909/" target="_blank">いよいよ来週<br>第3長崎チーム<br>直前一週間ブログ</a></p>
 </div>
 
+<div class="column-inner">
+    <span class="label-2">動画</span>
+    <span>NEW</span>
+	<a href="http://tv.antioch.jp/digest/201909-1st-nagasaki/" target="_blank"><img src="/2016/images/top/1909nagasakiteams_d_m.jpg"></a>
+    <p class="block-date">ブログ：2019年9月6日～8日</p>
+	<p class="block-title"><a href="http://tv.antioch.jp/digest/201909-1st-nagasaki/" target="_blank">第1長崎チーム<br>ダイジェスト映像</a></p>
+</div>
+
 <!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
