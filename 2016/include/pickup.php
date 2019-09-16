@@ -54,6 +54,14 @@
 </div>
 
 <div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
+    <a href="http://antiochblog.jp/info/gifts/190917/" target="_blank"><img src="/2016/images/top/1905gifts.jpg"></a>
+    <p class="block-date">ブログ：2019年9月17</p>
+    <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190917/" target="_blank">Gifts <br>千葉の施設でゴスペルコンサート</a></p>
+</div>
+
+<div class="column-inner">
     <span class="label-2">動画</span>
     <span>NEW</span>
 	<a href="http://tv.antioch.jp/digest/201909-1st-nagasaki/" target="_blank"><img src="/2016/images/top/1909nagasakiteams_d_m.jpg"></a>
