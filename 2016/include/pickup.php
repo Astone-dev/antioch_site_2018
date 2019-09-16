@@ -53,13 +53,13 @@
     <p class="block-title"><a href="http://antiochblog.jp/info/nagasaki1909/" target="_blank">いよいよ来週<br>第3長崎チーム<br>直前一週間ブログ</a></p>
 </div>
 
-<div class="column-inner">
+<!--<div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
     <a href="http://antiochblog.jp/info/gracious/190916/" target="_blank"><img src="/2016/images/top/1705gracioustonai.jpg"></a>
     <p class="block-date">日程：2019年9月16日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/gracious/190916/" target="_blank">GRACIOUS DOORS<br>都内のデイサービスで、ボランティア・コンサート</a></p>
-</div>
+</div>-->
 
 <div class="column-inner">
     <span class="label-1">ブログ</span>
