@@ -32,14 +32,6 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
-    <a href="http://antiochblog.jp/praise/foods1909/" target="_blank"><img src="/2016/images/top/1709akimikakuantioch.jpg"></a>
-    <p class="block-date">日程：2019年9月16日～22日</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/foods1909/" target="_blank">いよいよ来た来たこの季節 <br>東京アンテオケ教会メンバー 食欲の秋の一週間 </a></p>
-</div>
-
-<div class="column-inner">
-    <span class="label-1">ブログ</span>
-    <span>NEW</span>
     <a href="http://antiochblog.jp/info/nagasaki1909/" target="_blank"><img src="/2016/images/top/1908nagasaki.jpg"></a>
     <p class="block-date">ブログ：2019年9月13日～</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/nagasaki1909/" target="_blank">いよいよ来週<br>第3長崎チーム<br>直前一週間ブログ</a></p>
@@ -48,8 +40,16 @@
 <div class="column-inner">
     <span class="label-1">ブログ</span>
     <span>NEW</span>
+    <a href="http://antiochblog.jp/praise/foods1909/" target="_blank"><img src="/2016/images/top/1709akimikakuantioch.jpg"></a>
+    <p class="block-date">日程：2019年9月16日～22日</p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/foods1909/" target="_blank">いよいよ来た来たこの季節 <br>東京アンテオケ教会メンバー 食欲の秋の一週間 </a></p>
+</div>
+
+<div class="column-inner">
+    <span class="label-1">ブログ</span>
+    <span>NEW</span>
     <a href="http://antiochblog.jp/info/gifts/190917/" target="_blank"><img src="/2016/images/top/1905gifts.jpg"></a>
-    <p class="block-date">ブログ：2019年9月17</p>
+    <p class="block-date">ブログ：2019年9月17日</p>
     <p class="block-title"><a href="http://antiochblog.jp/info/gifts/190917/" target="_blank">Gifts <br>千葉の施設でゴスペルコンサート</a></p>
 </div>
 
@@ -209,7 +209,7 @@
     <span class="label-1">ブログ</span>
     <a href="http://antiochblog.jp/praise/nagasaki1909b/" target="_blank"><img src="/2016/images/top/1909nagasakiteams2.jpg"></a>
     <p class="block-date">ブログ：2019年9月6日～</p>
-    <p class="block-title"><a href="http://antiochblog.jp/praise/nagasaki1909b/" target="_blank">いよいよ今日出発<br>第2長崎チーム<br>最新情報写真集ブログ</a></p>
+    <p class="block-title"><a href="http://antiochblog.jp/praise/nagasaki1909b/" target="_blank">第2長崎チーム<br>ブログ</a></p>
 </div>
 
 <div class="column-inner">
